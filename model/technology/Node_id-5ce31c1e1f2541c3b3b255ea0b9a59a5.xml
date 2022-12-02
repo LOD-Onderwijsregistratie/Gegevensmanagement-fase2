@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] ELK"
+    id="id-5ce31c1e1f2541c3b3b255ea0b9a59a5"
+    documentation="ELK = Elasticsearch Logstash Kibana&#xA;&#xA;Praktisch elke applicatie en/of machine maakt gebruik van een of meer logbestanden. ELK leest deze bestanden en verzamelt de desbetreffende data op een centrale plek, in de vorm van een database. &#xA;&#xA;Elasticsearch, Logstash en Kibana zijn de opensource producten die hier worden gebruikt.&#xA;Elasticsearch is een flexibele, krachtige, schaalbare, real-time, open source zoek en analytische machine. Ontwikkeld met het oog op schaalbaarheid en betrouwbaarheid bied het product de mogelijkheid om veel meer dan tekst zoek functionaliteit te bieden. Het beschikt over een set API’s,  DSL query en clients voor de meest populaire programmeertalen.&#xA;Logstash biedt functionaliteit om log en andere tijd gebaseerde, gebeurtenis data te verzamelen op 1 systeem om het des gewenst nog verder te verwerken en transformeren. Logstash schoont de logfiles en vertaaldt het naar json formaat.&#xA;Kibana is de visualizatie machine van elasticsearch en het zorgt ervoor dat je met behulp van een dashboard kunt interacteren met de data uit elasticsearch. Informatie over applicaties zoals fouten en performance (uit applicatielogs).">
+  <properties
+      key="ORIG"
+      value="id-8699b2bce0c64817b891c85a4ccab9f0"/>
+</archimate:Node>

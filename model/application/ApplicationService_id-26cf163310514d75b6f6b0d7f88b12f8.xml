@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Kwaliteit management"
+    id="id-26cf163310514d75b6f6b0d7f88b12f8"
+    documentation="Ondersteunen bij het meten en analyseren van de kwantiteit en kwaliteit van diensten ten opzichte van gedefinieerde servicelevels.">
+  <properties
+      key="ORIG"
+      value="id-a98cb19123354551a96e924a546bbbde"/>
+</archimate:ApplicationService>

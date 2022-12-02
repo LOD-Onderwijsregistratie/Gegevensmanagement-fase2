@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enkelvoudige import"
+    id="id-c8d2ed14444845c69977de752782ccbe"
+    documentation="kafka / cdc ?">
+  <properties
+      key="ORIG"
+      value="id-32b9d592ff8e45cfba2f0e19402f88d4"/>
+</archimate:TechnologyService>

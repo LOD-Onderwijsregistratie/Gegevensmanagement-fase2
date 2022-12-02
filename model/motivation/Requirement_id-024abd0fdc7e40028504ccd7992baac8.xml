@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[IP] Tool bevordert code stijl"
+    id="id-024abd0fdc7e40028504ccd7992baac8"
+    documentation="De tool bevordert een uniformering van de stijl van coderen.">
+  <properties
+      key="ORIG"
+      value="id-38975bfc4c954544bd8f1d810b231c95"/>
+</archimate:Requirement>

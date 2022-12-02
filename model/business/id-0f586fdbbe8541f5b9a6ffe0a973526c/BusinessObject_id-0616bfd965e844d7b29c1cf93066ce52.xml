@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensproduct"
+    id="id-0616bfd965e844d7b29c1cf93066ce52"
+    documentation="TODO: check centrale model&#xD;&#xA;uitgangspunt: een gegevensproduct vormt het concrete product wat wordt geleverd en is gemodelleerd en geadministreerd volgens het 6-vlaks model.">
+  <properties
+      key="ORIG"
+      value="id-deea4aa26b614ec98dace158e1823101"/>
+</archimate:BusinessObject>

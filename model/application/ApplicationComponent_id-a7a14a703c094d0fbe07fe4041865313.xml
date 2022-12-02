@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="E-Depot"
+    id="id-a7a14a703c094d0fbe07fe4041865313"
+    documentation="Een systeem dat het langdurig preserveren van gegevens ondersteunt.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-ce33d1e6-eb1b-cda4-4aa8-01e378253b35">
+  <properties
+      key="ORIG"
+      value="id-0e974b5ae9034d10be0cdcd3f33307ea"/>
+</archimate:ApplicationComponent>

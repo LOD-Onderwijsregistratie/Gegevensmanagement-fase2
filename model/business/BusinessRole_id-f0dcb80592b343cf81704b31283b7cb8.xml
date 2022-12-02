@@ -1,0 +1,9 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Distributeur"
+    id="id-f0dcb80592b343cf81704b31283b7cb8"
+    documentation="De distributeur ontvangt gegevens van bronhouders en stuurt deze, direct of via generieke voorzieningen zoals gegevensknooppunten, door naar afnemers. De distributeur is verantwoordelijk voor de vastlegging van de feitelijke distributie van een gegeven, bijvoorbeeld ten behoeve van het werk van de auditor. ">
+  <properties
+      key="ORIG"
+      value="id-4682a814c5294bdf97c99e4ff2d95cd8"/>
+</archimate:BusinessRole>

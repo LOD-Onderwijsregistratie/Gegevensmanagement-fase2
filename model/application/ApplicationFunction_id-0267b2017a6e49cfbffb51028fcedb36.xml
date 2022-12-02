@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datadiscoveryfunctie"
+    id="id-0267b2017a6e49cfbffb51028fcedb36"
+    documentation="Het ondersteunen van het ontdekken van gegevens in een dataset.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="ORIG"
+      value="id-19686790acf543ea92a75ae89aefaf26"/>
+</archimate:ApplicationFunction>

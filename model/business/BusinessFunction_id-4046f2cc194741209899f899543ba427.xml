@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Scheiden gegevens"
+    id="id-4046f2cc194741209899f899543ba427"
+    documentation="Gegevens kunnen van elkaar gescheiden worden om rechtmatige verwerking te kunnen garanderen en toezicht te vereenvoudigen. Scheiding kan plaatsvinden op basis van verschillende kenmerken: &#xD;&#xA;- Verantwoordelijk ministerie (OCW, SZW, etc)&#xD;&#xA;- Grondslag &amp; doelbinding&#xD;&#xA;- Categorie persoonsgegevens&#xD;&#xA;- BIV Classificatie&#xD;&#xA;- Geheimhouding&#xD;&#xA;- etc.">
+  <properties
+      key="ORIG"
+      value="id-f867812f5eeb4bcaa3603a9d0a995182"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verrijk"
+    id="id-6f581d27acd94819aea503f47db44bbd">
+  <properties
+      key="ORIG"
+      value="id-2affc9fde7ac4ef3b93ac50ffc7d1872"/>
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-252a14ab3d16478c9bbb8dea5e547686.xml#id-252a14ab3d16478c9bbb8dea5e547686"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c34e641607174d0f9ee17020c225bdd0.xml#id-c34e641607174d0f9ee17020c225bdd0"/>
+</archimate:AccessRelationship>

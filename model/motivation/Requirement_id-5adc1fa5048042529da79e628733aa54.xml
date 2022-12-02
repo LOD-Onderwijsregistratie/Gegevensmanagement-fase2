@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[IP] Toolcode is beknopt en intuitief"
+    id="id-5adc1fa5048042529da79e628733aa54"
+    documentation="De code is redelijk eenvoudig te intrepreteren door niet-gebruikers.">
+  <properties
+      key="ORIG"
+      value="id-38dc6b4b16534806b42adf1803c24f38"/>
+</archimate:Requirement>

@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rapporteren Datakwaliteit"
+    id="id-a5e9171a0cd044cdaf348a3e563b1530"
+    documentation="De actor heeft het vermogen om een uitpraak te doen over de kwaliteit van gegevens(bronnen) en informatie(verzamlingen) zodat de waarde van het gegeven, de gegevensverzameling en informatie(bron) op correcte manier bepaald kan worden, waardoor de actor de gegevens(bronnen) en informatie(verzamlingen) met verhoogde kwalteit kan later verwerken.">
+  <properties
+      key="ORIG"
+      value="id-1933f24d2a53433aa86c57e314ab9e96"/>
+</archimate:Capability>

@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics-to-the-datafunctie"
+    id="id-1076448c799d42f8a2d2a7634c482d9f"
+    documentation="Het uitvoeren van een analyse op de locatie van de data. Het analyseresultaat wordt teruggezonden zonder dat directe toegang tot de geanalyseerde data nodig is.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="ORIG"
+      value="id-bebff29b599246e99a05751c67728264"/>
+</archimate:ApplicationFunction>

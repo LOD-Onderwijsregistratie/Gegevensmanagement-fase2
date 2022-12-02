@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Research Data Platform"
+    id="id-7bccc805cdd2457ab2bc0728c1f56074"
+    documentation="Een platform dat centraal onderzoeksgegevens uit verschillende bronnen binnenhaalt en datatoegang biedt tot datawetenschappers / onderzoekers via een portal.">
+  <properties
+      key="Externe informatie"
+      value="https://www.edugroepen.nl/sites/RDM_platform/RDM%20Glossary/RT/Research%20Data%20Platform%20(RDP).aspx"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+  <properties
+      key="ORIG"
+      value="id-fb8826be62884be7b165fad5691ca0f1"/>
+</archimate:ApplicationComponent>

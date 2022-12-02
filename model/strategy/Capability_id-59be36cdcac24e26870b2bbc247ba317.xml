@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consumeren"
+    id="id-59be36cdcac24e26870b2bbc247ba317"
+    documentation="De actor heeft het vermogen de geselecteerde gegevens(sets) en/of informatie(bronnen) te verwerken ten einde het onderzoek uit te voeren.">
+  <properties
+      key="ORIG"
+      value="id-078a25844b67447ab9bb56b5553eea83"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksuitvoering"
+    id="id-422d47203ce04ec981c1d74c669af65e"
+    documentation="Het uitvoeren van een zorgvuldige, verifieerbare en systematische studie van een bepaalde kwestie ter beantwoording van onderzoeksvragen">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Hoofdbedrijfsfunctie"/>
+  <properties
+      key="ORIG"
+      value="id-662d699c59e045458474ddbf17387609"/>
+</archimate:BusinessFunction>

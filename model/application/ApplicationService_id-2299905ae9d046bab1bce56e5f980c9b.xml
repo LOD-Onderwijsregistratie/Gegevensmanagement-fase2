@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Data Access Management"
+    id="id-2299905ae9d046bab1bce56e5f980c9b"
+    documentation="Het toegankelijk maken van data, waaronder archivering">
+  <properties
+      key="ORIG"
+      value="id-771243d600fc40be953d613edfe9d291"/>
+</archimate:ApplicationService>

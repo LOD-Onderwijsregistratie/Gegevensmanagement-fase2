@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integreren gegevens"
+    id="id-98576bc0ffdc40bb81b4354ab9c043e1"
+    documentation="Integreren gegevens vanuit meerdere bronnen van binnen (of buiten) DUO">
+  <properties
+      key="ORIG"
+      value="id-0bb50e39416b47c1b5d46751e494793c"/>
+</archimate:BusinessFunction>

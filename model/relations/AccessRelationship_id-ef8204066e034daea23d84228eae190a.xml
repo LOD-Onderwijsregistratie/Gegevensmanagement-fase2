@@ -1,0 +1,15 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beveiligen"
+    id="id-ef8204066e034daea23d84228eae190a">
+  <properties
+      key="ORIG"
+      value="id-a706708987994f88b71bd129af960451"/>
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_id-4a05507f4df149cc9f2bb6cfb578379d.xml#id-4a05507f4df149cc9f2bb6cfb578379d"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c34e641607174d0f9ee17020c225bdd0.xml#id-c34e641607174d0f9ee17020c225bdd0"/>
+</archimate:AccessRelationship>

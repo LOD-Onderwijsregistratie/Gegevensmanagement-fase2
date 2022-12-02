@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Uitvoeren onderzoek"
+    id="id-7fde7b8e0ed7417eb40d2130bf8ab469"
+    documentation="De actor heeft het vermogen om op een zorgvuldige, verifieerbare en systematische manier een bepaalde kwestie te bestuderen ter beantwoording van onderzoeksvragen.&#xD;&#xA;">
+  <properties
+      key="ORIG"
+      value="id-79ae2dee1ced41e7bed2c91472a7af83"/>
+</archimate:Capability>

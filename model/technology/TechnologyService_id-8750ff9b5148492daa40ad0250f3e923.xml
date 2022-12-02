@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Database management"
+    id="id-8750ff9b5148492daa40ad0250f3e923"
+    documentation="Het beheer van database management systemen, inclusief de performance, beschikbaarheid en integriteit van deze dbms systemen.">
+  <properties
+      key="ORIG"
+      value="id-c86056b0aac044b484f5461d0e00ccdb"/>
+</archimate:TechnologyService>

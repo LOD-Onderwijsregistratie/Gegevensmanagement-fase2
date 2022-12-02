@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[IP] Toolcode is eenvoudig te delen buiten DUO"
+    id="id-dbd50b3dac294e4591190af26480e8c3"
+    documentation="De code is redelijk eenvoudig te intrepreteren door niet-gebruikers.">
+  <properties
+      key="ORIG"
+      value="id-9783efe6c3d44ed588e0e726b974dff8"/>
+</archimate:Requirement>

@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensvisualisatiesysteem"
+    id="id-6c7bb176f43e454ea3a3e16d37ea69ff"
+    documentation="Een systeem dat de visualisatie van gegevens ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+  <properties
+      key="ORIG"
+      value="id-5cf891994ce4418a9cb1d0b679649652"/>
+</archimate:ApplicationComponent>

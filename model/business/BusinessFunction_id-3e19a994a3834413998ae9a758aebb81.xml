@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synthetiseren gegevens"
+    id="id-3e19a994a3834413998ae9a758aebb81"
+    documentation="Persoonsgegevens uit aangesloten bronnen van DUO worden gegenereerd ten behoeve van analyse en onderzoek, waarbij de eigenschappen van de geleverde set overeenkomen met de bron.">
+  <properties
+      key="ORIG"
+      value="id-eb9ba85c531f41f1b604fa7cda875a0f"/>
+</archimate:BusinessFunction>

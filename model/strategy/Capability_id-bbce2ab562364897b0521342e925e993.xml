@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Taak uitvoering"
+    id="id-bbce2ab562364897b0521342e925e993"
+    documentation="Het vermogen om gegevens te verwerken ten behoeve van het de primaire (wettelijke) taak die aan DUO is opgedragen. Dit deel van de gegevensverwerking is belegd bij de waardeketens (binnen verschillende directies) van DUO. ">
+  <properties
+      key="ORIG"
+      value="id-537ff988e4644188b7e04d66657a6709"/>
+</archimate:Capability>

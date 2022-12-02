@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[IP] Tool wordt door DUO ICT ondersteund"
+    id="id-bb2f8488e596457ca187b6b8a2d529d3"
+    documentation="De tool wordt door de ICT afdeling van DUO beheerd en ondersteund">
+  <properties
+      key="ORIG"
+      value="id-9ec9a3322b11414aa30da83e30a1ffda"/>
+</archimate:Requirement>

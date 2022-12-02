@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zoeken"
+    id="id-f056c25feaaf476ba2833e306024bee0"
+    documentation="De actor heeft het vermogen om, gebruik te makend van kennisbanken, te proberen de gewenste informatie, omtrendt gegevens(verzamelingen) en informatie(bronnen), te vinden ten einde deze informatie te gebruiken bij het uitvoeren van het onderzoek van de actor.">
+  <properties
+      key="ORIG"
+      value="id-5c06f856d9324660802db9f99fa97950"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Connectie service"
+    id="id-7f324fe445824e24ac6de84c75a89988"
+    documentation="Voor het koppelen van diensten en het beschikbaar stellen van onderzoeksdata is een koppelcomponent beschikbaar, waarmee koppelingen eenvoudig en gestandaardiseerd kunnen worden gelegd. Instellingen kunnen hiermee eigen voorzieningen als dienst aanbieden op het platform. Deze functionaliteit bevordert onder andere de samenwerking, het hergebruik en de differentiatie van diensten.">
+  <properties
+      key="ORIG"
+      value="id-fa29056ed3984c74a7d9ef50680fa209"/>
+</archimate:BusinessService>

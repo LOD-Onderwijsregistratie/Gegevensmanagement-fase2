@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autoriseren"
+    id="id-45fc0c6d8b4045d89639231d59404de7"
+    documentation="De actor heeft het vermogen toegang tot een dienst of product te beheren zodat personen en/of apparaten toestemming krijgen een dienst te gebruiken of product te ontvangen, zodat de actor de afnemer van de dienst of product gerechtigd is het af te nemen.">
+  <properties
+      key="ORIG"
+      value="id-c66a07a9386f49848c0c182697c1150e"/>
+</archimate:Capability>

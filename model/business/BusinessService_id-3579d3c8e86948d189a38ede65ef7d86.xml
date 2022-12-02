@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evaluatie service"
+    id="id-3579d3c8e86948d189a38ede65ef7d86"
+    documentation="Gebruikers kunnen diensten en data beoordelen mbv evaluatiefaciliteiten">
+  <properties
+      key="ORIG"
+      value="id-320d404921ba4786ae449ad32cd7909b"/>
+</archimate:BusinessService>

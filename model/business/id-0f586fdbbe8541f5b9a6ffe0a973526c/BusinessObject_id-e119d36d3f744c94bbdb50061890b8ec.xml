@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BIO"
+    id="id-e119d36d3f744c94bbdb50061890b8ec"
+    documentation="Baseline Informatiebeveiliging Overheid (BIO) Versie 1.04zv 17-06-2020">
+  <properties
+      key="ORIG"
+      value="id-896bbabc7749466bbb0b0864e779a44a"/>
+</archimate:BusinessObject>

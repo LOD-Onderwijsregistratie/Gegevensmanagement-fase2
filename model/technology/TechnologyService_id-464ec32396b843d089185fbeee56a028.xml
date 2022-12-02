@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Shared storage"
+    id="id-464ec32396b843d089185fbeee56a028"
+    documentation="Opslag die op een centrale lokatie plaats vindt">
+  <properties
+      key="ORIG"
+      value="id-aa7c3f476ff94df481b2e37d2faee23f"/>
+</archimate:TechnologyService>

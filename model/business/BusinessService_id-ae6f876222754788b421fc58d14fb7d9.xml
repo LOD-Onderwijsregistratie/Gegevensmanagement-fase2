@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Supply Connection Services"
+    id="id-ae6f876222754788b421fc58d14fb7d9"
+    documentation="Voor het koppelen van diensten en het beschikbaar stellen van onderzoeksdata is een koppelcomponent beschikbaar, waarmee koppelingen eenvoudig en gestandaardiseerd kunnen worden gelegd. Instellingen kunnen hiermee eigen voorzieningen als dienst aanbieden op het platform. Deze functionaliteit bevordert onder andere de samenwerking, het hergebruik en de differentiatie van diensten. (bron: HOSA research data management 1.0)">
+  <properties
+      key="ORIG"
+      value="id-a31aca15c219412094923e648bee43e0"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Schonen"
+    id="id-9e507c582aa94ed982d7fd584978bc96"
+    documentation="De actor heeft het vermogen om in een gegevensset of informatiebron vervuiling te identificeren en te verwijderen, zodat de actor de gegevensset of informatiebron met verhoogde kwaliteit kan (laten) verwerken.">
+  <properties
+      key="ORIG"
+      value="id-9b7005bdb08a4e4383f467174562d26d"/>
+</archimate:Capability>

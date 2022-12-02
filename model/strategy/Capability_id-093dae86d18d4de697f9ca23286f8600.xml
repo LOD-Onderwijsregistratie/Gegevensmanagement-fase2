@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Synthetiseren"
+    id="id-093dae86d18d4de697f9ca23286f8600"
+    documentation="De actor heeft het vermogen een model te ontwikkelen van een bestaande gegevensverzameling of informatiebron zodat de actor met het ontwikkelde model een synthetische gegevensverzameling of informatiebron kan genereren met gelijke statistische karakteristieken als het origineel, maar dat niet terug te leiden is naar het origineel. De gesynthetiseerde gegevensbron of informatieverzameling heeft een lage vertrouwelijkheid zodat de actor deze bron zonder restricties kan (laten) verwerken.">
+  <properties
+      key="ORIG"
+      value="id-12e6032769d24a589d0de554377aab32"/>
+</archimate:Capability>

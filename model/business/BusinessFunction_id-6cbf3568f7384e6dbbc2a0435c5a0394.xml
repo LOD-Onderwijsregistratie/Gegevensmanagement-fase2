@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Anonymiseren gegevens"
+    id="id-6cbf3568f7384e6dbbc2a0435c5a0394"
+    documentation="Persoonsgegevens uit aangesloten bronnen van DUO worden geanonimiseerd voordat ze beschikbaar gesteld worden ten behoeve van analyse en onderzoek. Het is niet mogelijkheid om de oorspronkelijke gegevens weer terug te halen.">
+  <properties
+      key="ORIG"
+      value="id-f9e29e5957b54b4f852f727bc6089f65"/>
+</archimate:BusinessFunction>

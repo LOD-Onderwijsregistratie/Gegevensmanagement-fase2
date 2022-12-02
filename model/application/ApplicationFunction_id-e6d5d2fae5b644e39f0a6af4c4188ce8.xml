@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevensbeheerfunctie"
+    id="id-e6d5d2fae5b644e39f0a6af4c4188ce8"
+    documentation="Het beheren van onderzoeksgegevens tijdens de uitvoering van het onderzoek.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-0814ea97-a807-41d9-681e-36439cb13e92">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="ORIG"
+      value="id-907a2d0251624f9d85139160c7f4c1e0"/>
+</archimate:ApplicationFunction>

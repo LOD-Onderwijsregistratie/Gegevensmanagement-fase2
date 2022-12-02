@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoekgegevensversioneringfunctie"
+    id="id-138c5e72097d420f92cc7d8d90bb3a11"
+    documentation="Het bewaren van versies van (delen van) onderzoeksgegevenssets en bijbehorende metadata.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="ORIG"
+      value="id-7dd9c50da8b840d89d68c3a837746a77"/>
+</archimate:ApplicationFunction>

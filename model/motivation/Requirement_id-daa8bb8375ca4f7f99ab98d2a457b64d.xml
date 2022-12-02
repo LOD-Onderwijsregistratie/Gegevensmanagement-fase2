@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[IP] Toolopleiding is beschikbaar"
+    id="id-daa8bb8375ca4f7f99ab98d2a457b64d"
+    documentation="Er zijn afdoende opleidingsmogelijkheden voor het gebruik van de tool">
+  <properties
+      key="ORIG"
+      value="id-390431282500448f8d2cd4430a4cca14"/>
+</archimate:Requirement>

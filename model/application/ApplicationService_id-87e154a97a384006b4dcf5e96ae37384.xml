@@ -1,0 +1,9 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Rapportage"
+    id="id-87e154a97a384006b4dcf5e96ae37384"
+    documentation=" ">
+  <properties
+      key="ORIG"
+      value="id-0cc7591b1b464ce094c9bf6834e36e27"/>
+</archimate:ApplicationService>

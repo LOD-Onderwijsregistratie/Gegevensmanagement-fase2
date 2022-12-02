@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transformeren gegevens"
+    id="id-bf90a19255e74753849f981778969c98"
+    documentation="Transformeren gegevens vanuit een bron binnen (of buiten) DUO. &#xD;&#xA;- Specifieke transformaties: pseudonymisering, anonymisering en synthetisering van gegevens&#xD;&#xA;&#xD;&#xA;Het betreft hier alleen transformaties die DUO breed van toepassing zijn, transformaties ten behoeve van het beantwoorden van een specifieke vraag (binnen een bepaalde context) vinden niet in de DataHub plaats.">
+  <properties
+      key="ORIG"
+      value="id-313e6f9b60a84b82a6b89721dfdfa875"/>
+</archimate:BusinessFunction>

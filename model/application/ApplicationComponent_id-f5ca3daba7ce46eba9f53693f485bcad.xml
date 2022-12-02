@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compute solution"
+    id="id-f5ca3daba7ce46eba9f53693f485bcad"
+    documentation="Voorziening gericht op het uitvoeren van (grootschalige, high-performance) rekenkundige operaties op grote datasets.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+  <properties
+      key="ORIG"
+      value="id-8c06d722625e46869058836d83b6a7e9"/>
+</archimate:ApplicationComponent>

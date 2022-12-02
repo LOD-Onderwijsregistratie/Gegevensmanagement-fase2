@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Scheduling"
+    id="id-5aa9b054420045bbac8335cc469a6090"
+    documentation="Het geautomatiseerd uitvoeren van periodieke taken.">
+  <properties
+      key="ORIG"
+      value="id-79c961ed649045d0bc895438bd3bbb3f"/>
+</archimate:TechnologyService>

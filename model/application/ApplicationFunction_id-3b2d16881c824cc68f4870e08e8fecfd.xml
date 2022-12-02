@@ -1,0 +1,15 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vault"
+    id="id-3b2d16881c824cc68f4870e08e8fecfd"
+    documentation="Biedt de mogelijkheid om versies van gegevensworkflows, algoritmen en indien nodig (subsets van) gegevens op te slaan.">
+  <properties
+      key="Type"
+      value="Gebundelde applicatiefunctie"/>
+  <properties
+      key="Externe informatie"
+      value="https://docs.google.com/document/d/1a2NmMlURQDIXDgP6JAIrOa_IbExX_Wqtgir2twuXnXs/edit#heading=h.jo75bn26js60"/>
+  <properties
+      key="ORIG"
+      value="id-13636ca195eb481ea814a25ba0b45b8e"/>
+</archimate:ApplicationFunction>

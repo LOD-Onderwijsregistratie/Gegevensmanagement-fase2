@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Persoon"
+    id="id-f7e7211aeeeb42b28209b1c4205169fd"
+    documentation="Basisadministratie Persoon">
+  <properties
+      key="ORIG"
+      value="id-423e77fdebca4f5da7776fe6c919f035"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] File exchange"
+    id="id-62bd163d73d84dee9dcbb951e306196c"
+    documentation="Het uitwisselen van bestanden.">
+  <properties
+      key="ORIG"
+      value="id-3c82605458754c44a5e4631e198cff8a"/>
+</archimate:TechnologyService>

@@ -1,0 +1,25 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksgegevensbeheersysteem"
+    id="id-34bb706ed5be44baa6e619b796026fa3"
+    documentation="Een systeem dat het beheer van onderzoeksgegevens tijdens de uitvoering van het onderzoek ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"
+      value="IQSS Dataverse Network (http://thedata.org), 3TU.Datacentrum Data lab (http://datacentrum.3tu.nl/en/what-we-offer/data-lab/), EUDAT Simple Store (http://www.eudat.eu/simple-store), OpenClinica (https://community.openclinica.com)"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+  <properties
+      key="ORIG"
+      value="id-c39384081bc640458f716fcdc0e9bcbf"/>
+</archimate:ApplicationComponent>

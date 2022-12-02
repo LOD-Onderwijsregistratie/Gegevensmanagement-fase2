@@ -1,0 +1,9 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verrijken dataset"
+    id="id-71dfc838e65448d4afedf97e30e6bdc4"
+    documentation="o.a. metadata / samenvoegen / verrijken met referentiedata / aggregeren / etc.">
+  <properties
+      key="ORIG"
+      value="id-852d68dfd44945e0ad26fa45c1489efa"/>
+</archimate:TechnologyFunction>

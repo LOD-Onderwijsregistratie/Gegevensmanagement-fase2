@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksresultaatborging"
+    id="id-7806d7fbbd7f46dbbf901fa4bba3f425"
+    documentation="Het collectioneren van onderzoeksgegevens die bewaard moeten blijven na het onderzoek en het registreren van de onderzoeksresultaten in de relevante interne en externe administraties.">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+  <properties
+      key="ORIG"
+      value="id-f1c6666db5844244b42246884ad3e8d9"/>
+</archimate:BusinessFunction>

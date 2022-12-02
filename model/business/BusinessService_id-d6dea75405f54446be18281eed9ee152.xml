@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens publicatie service"
+    id="id-d6dea75405f54446be18281eed9ee152"
+    documentation="DataHub stelt zelf geen onderzoeksresultaten beschikbaar, dat gebeurt vanuit het Open Research Tools-platform. Wel worden gegevens beschikbaar gesteld als dat nodig is voor onderbouwing, audit of replicatie analyse (op basis van grondslag en doelbinding).&#xD;&#xA;Gegevens worden gearchiveerd en vernietigd conform gemaakte afspraken tussen distributeur en afnemer binnen de kaders van de (termijnen in de) archiefwet.">
+  <properties
+      key="ORIG"
+      value="id-b6c8d9c9404549c2b601096ae0eb1607"/>
+</archimate:BusinessService>

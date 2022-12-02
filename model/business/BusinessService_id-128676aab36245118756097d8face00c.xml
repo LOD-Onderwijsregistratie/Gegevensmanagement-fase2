@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Processing Services"
+    id="id-128676aab36245118756097d8face00c"
+    documentation="Op het platform worden zowel gestructureerde als ongestructureerde data aangeboden. Daarvoor biedt het platform voorzieningen aan die de aanbieder en de medewerker ondersteunen bij het verwerken van deze data (Data Processing Services) tot bruikbare data. (bron: HOSA research data management 1.0)">
+  <properties
+      key="ORIG"
+      value="id-edb1815a795b4675b5d16d0feb4e8f5e"/>
+</archimate:BusinessService>

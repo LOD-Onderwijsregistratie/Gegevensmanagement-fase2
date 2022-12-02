@@ -1,0 +1,9 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[IP] Tool gebruikt open standaarden"
+    id="id-f183dc19004a4f75843eadfe1af7f3f4"
+    documentation="De tool ondersteunt het gebruiken van de open standaarden zoals beschreven in forum standaardisatie.">
+  <properties
+      key="ORIG"
+      value="id-22b4e5996dea437f9a0bc9de7dfd8c39"/>
+</archimate:Requirement>

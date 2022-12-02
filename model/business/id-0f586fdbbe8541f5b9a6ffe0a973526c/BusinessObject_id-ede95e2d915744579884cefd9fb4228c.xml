@@ -1,0 +1,9 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeks gegevens"
+    id="id-ede95e2d915744579884cefd9fb4228c"
+    documentation="Het vastgelegde feitelijke materiaal dat algemeen wordt aanvaard in de wetenschappelijke gemeenschap als noodzakelijk om onderzoeksbevindingen te valideren.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-dafdab74-1e70-3824-8cbd-172164bb9340">
+  <properties
+      key="ORIG"
+      value="id-3d11bafb083f4a4192424f60aa9bb4c9"/>
+</archimate:BusinessObject>

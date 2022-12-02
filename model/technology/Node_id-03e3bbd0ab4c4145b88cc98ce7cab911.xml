@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Active Directory Federation Service"
+    id="id-03e3bbd0ab4c4145b88cc98ce7cab911"
+    documentation="De authenticatie wordt uitgevoerd door een derde partij.&#xA;&#xA;Voor de installatie zijn per omgeving 2 servers nodig, op deze servers dient Windows Server 2012 R2 te draaien. &#xA;&#xA;Redundant uitgevoerd via netwerk loadbalancing, zie usage view.">
+  <properties
+      key="ORIG"
+      value="id-89dc571e355e48019342acc7a6e86872"/>
+</archimate:Node>

@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens kwaliteit service"
+    id="id-343bd812d247418b96255c2449af7245"
+    documentation="Om te kunnen bepalen of de kwaliteitskenmerken van gegevens uit de bronnen voldoen aan de eisen die gesteld worden vanuit een bepaalde analyse vraag, moeten kwaliteitskenmerken van de brongegevens of de in de DataHub verwerkte gegevens inzichtelijk zijn. ">
+  <properties
+      key="ORIG"
+      value="id-e85bf71b23884a82a6bd0de34258706f"/>
+</archimate:BusinessService>

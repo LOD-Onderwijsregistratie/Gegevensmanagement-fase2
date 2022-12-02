@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Contract administratie service"
+    id="id-05bc5a3ed32b4bc995efd99f07fc2a16"
+    documentation="Naast het beschikbaar stellen van gegevens ondersteunt de DataHub ook de administratie van de contracten tussen distributeur en afnemer: welke gegevens zijn voor welke tijdsduur beschikbaar, welke afspraken zijn gemaakt tav (doelmatig) gebruik en controle daarop? Deze contractadminstratie geeft enerzijds de bronhouders, toezichthouders en auditors inzicht is binnen welke doelbinding de beschikbaar gestelde gegevens gebruikt worden. Anderzijds geeft dit inzicht in welke (soort) gegevens geschikt zijn voor welke doelbinding.">
+  <properties
+      key="ORIG"
+      value="id-0067ae40d4c44518a46372b01d10e43f"/>
+</archimate:BusinessService>

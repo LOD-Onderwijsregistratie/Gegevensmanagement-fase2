@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Minimaliseren gegevens service"
+    id="id-8c0009722e2d4fb792ffc16df4ade936"
+    documentation="DataHub stelt alleen die gegevens beschikbaar die nodig zijn voor het beantwoorden van de analyse vraag met bijbehorende grondslag en doelbinding. De gegevens uit de brondata die niet nodig zijn voor het beantwoorden van de analysevraag worden niet of in een andere vorm aangeboden (gegevensminimalisatie). Specifieke maatregelen tbv het afschermen van persoonsgegevens zijn pseudonymisering, anonymisering, synthetisering en aggregatie van gegevens.">
+  <properties
+      key="ORIG"
+      value="id-2758395ec35941a99e0c9f12fb2899d5"/>
+</archimate:BusinessService>

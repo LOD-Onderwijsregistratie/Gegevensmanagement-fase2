@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata logger"
+    id="id-f33e1e5387cf410ebc0057b3aed6d311"
+    documentation="Log metadata">
+  <properties
+      key="ORIG"
+      value="id-bce8ade2e8e347758ccfacc5ba6b6d91"/>
+</archimate:ApplicationComponent>

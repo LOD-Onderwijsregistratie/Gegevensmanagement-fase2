@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Identificeren"
+    id="id-dfca9230cb01469ea070ce725a6b8a33"
+    documentation="De actor heeft het vermogen om (technische) identicatie(code) te relateren aan een natuurlijk persoon of aparaat, zodat de actor weet wie de afnemer van de dienst of het product is.">
+  <properties
+      key="ORIG"
+      value="id-1de42f7181744e16844613e39c510760"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Performancemanagement"
+    id="id-893a345a84e9484bac0cda072b36ff70"
+    documentation="Het ervoor zorgdragen dat het functioneren van de organisatie in lijn is met de eerder gestelde doelstellingen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+  <properties
+      key="ORIG"
+      value="id-68f7b8fb4db547d5a3ac9883fa5d8e2c"/>
+</archimate:BusinessFunction>

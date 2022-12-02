@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service request management service"
+    id="id-c1b29122bb6842279559235d9dd02dc7"
+    documentation="Service Request Management Services: ondersteunen van gebruikers bij het gebruik van diensten en data ">
+  <properties
+      key="ORIG"
+      value="id-90f72b36b47d4a23b6e4eeaf624ce78a"/>
+</archimate:BusinessService>

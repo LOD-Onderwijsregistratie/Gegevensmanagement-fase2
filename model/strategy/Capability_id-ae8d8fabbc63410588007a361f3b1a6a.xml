@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadateren"
+    id="id-ae8d8fabbc63410588007a361f3b1a6a"
+    documentation="De actor heeft het vermogen om gegevens(verzamelingen) en informatie(bronnen) te beoordelen en te annoteren zodat waardoor het gegeven, de gegevensverzameling of informatie(bron) eenduidig interpretabel is, zodat de actor het met een verhoogde kwaliteit kan laten verwerken.">
+  <properties
+      key="ORIG"
+      value="id-d5dea79334bc40a59698a2338e5eaf22"/>
+</archimate:Capability>

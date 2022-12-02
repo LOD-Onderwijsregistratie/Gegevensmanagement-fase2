@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Purchase &amp; License Services"
+    id="id-4ce5f0701f104bdf80abc56e6d6c359f"
+    documentation="Aanbieders en afnemers worden ondersteund bij de aanschaf en de licentietechnische afhandeling die bij het afnemen en gebruik van de data en diensten van toepassing is. (bron: HOSA research data management 1.0)">
+  <properties
+      key="ORIG"
+      value="id-50758957bec64ecaacea5378a295eba3"/>
+</archimate:BusinessService>

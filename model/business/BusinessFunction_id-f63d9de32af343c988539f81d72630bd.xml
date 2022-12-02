@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toezicht Archiefwet"
+    id="id-f63d9de32af343c988539f81d72630bd"
+    documentation="Toezicht Archiefwet borgt de rechtmatige archivering en schoning van gegevens.">
+  <properties
+      key="ORIG"
+      value="id-e63ab4b367334350a531c38ce64e5212"/>
+</archimate:BusinessFunction>

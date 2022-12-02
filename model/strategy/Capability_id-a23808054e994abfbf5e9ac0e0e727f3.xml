@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opzetten onderzoek"
+    id="id-a23808054e994abfbf5e9ac0e0e727f3"
+    documentation="De actor heeft het vermogen verscheidende voorbereidende handelingen uit te voeren gericht op het uitvoeren van een onderzoek zodat de actor het onderzoek succesvol kan uitvoeren.">
+  <properties
+      key="ORIG"
+      value="id-1cdcd54727df4a65a7a2a30ef3e16fb2"/>
+</archimate:Capability>

@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[SBB] Kibana"
+    id="id-b195ced16f45445f9eed2c0beddb1534"
+    documentation="Tonen log views en performance dashboards&#xA;&#xA;Kibana is an open source data visualization plugin for Elasticsearch. It provides visualization capabilities on top of the content indexed on an Elasticsearch cluster. Users can create bar, line and scatter plots, or pie charts and maps on top of large volumes of data.">
+  <properties
+      key="ORIG"
+      value="id-7b49b897219847d8a985241f02b7991f"/>
+</archimate:Node>

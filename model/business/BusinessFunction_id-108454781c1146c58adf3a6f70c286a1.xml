@@ -1,0 +1,15 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensverwerking en -analyse"
+    id="id-108454781c1146c58adf3a6f70c286a1"
+    documentation="Het verwerken (extraheren, converteren, opschonen, ordenen e.d.), analyseren en interpreteren van de verzamelde onderzoeksgegevens.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-f20afb3e-d365-2996-a202-5b8755fd1371">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+  <properties
+      key="ORIG"
+      value="id-2ef75403446048cda4e9e32e2dc94ff0"/>
+</archimate:BusinessFunction>

@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Glossary thesaurus"
+    id="id-debeb1c07f784a498e46ed8f2beeab7a"
+    documentation="Definieer begrippen en beleid in de hele organisatie en wijs relevante begrippen toe aan de metadata">
+  <properties
+      key="ORIG"
+      value="id-d3935fab84104b0d9af4184730de8a46"/>
+</archimate:ApplicationComponent>

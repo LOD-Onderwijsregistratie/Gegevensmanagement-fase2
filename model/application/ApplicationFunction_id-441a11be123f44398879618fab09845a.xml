@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Loggingfunctie"
+    id="id-441a11be123f44398879618fab09845a"
+    documentation="Het vastleggen wie welke handelingen met welke gegevens uitvoert.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="ORIG"
+      value="id-2ca8855e81964816a16f1e32e83cfd9d"/>
+</archimate:ApplicationFunction>

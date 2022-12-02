@@ -1,0 +1,9 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orchestratie service"
+    id="id-baaff065899c4540b71394c6415defa0"
+    documentation="Een orkestratiefunctie draagt zorg voor de verbinding van individuele componenten van het platform. Door deze functie wordt het verkeer op het platform goed geregeld">
+  <properties
+      key="ORIG"
+      value="id-a9b4e6cc76bc4820baeea9c2ab69cac0"/>
+</archimate:BusinessService>

@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inwinnen gegevens"
+    id="id-9d22c02577664172acd27c36f8c0c1ac"
+    documentation="Inwinnen gegevens vanuit een bron binnen (of buiten) DUO">
+  <properties
+      key="ORIG"
+      value="id-4ed452bd09994fd68d3142ff4f282018"/>
+</archimate:BusinessFunction>

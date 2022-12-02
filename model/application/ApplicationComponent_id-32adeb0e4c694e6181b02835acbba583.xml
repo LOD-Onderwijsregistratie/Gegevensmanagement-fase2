@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Artificial Intelligence"
+    id="id-32adeb0e4c694e6181b02835acbba583"
+    documentation="Hiermee kan automatisch classificeren plaatsvinden&#xD;&#xA;">
+  <properties
+      key="ORIG"
+      value="id-d530b0a2965a4e4e8467165ed1ac57f3"/>
+</archimate:ApplicationComponent>

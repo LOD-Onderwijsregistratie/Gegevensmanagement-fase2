@@ -1,0 +1,24 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data cleansing tool"
+    id="id-6f8f79b9e1f745fe81a6ec2fbb346b60"
+    documentation="Een systeem dat het detecteren en corrigeren of verwijderen van invalide gegevens ondersteunt.">
+  <properties
+      key="Externe informatie"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Bouwsteen"
+      value="Nee"/>
+  <properties
+      key="Beheerder"/>
+  <properties
+      key="Voorbeelden"/>
+  <properties
+      key="Type"
+      value="Referentieapplicatie"/>
+  <properties
+      key="ORIG"
+      value="id-1da59f51d29f420ab7196c886bcd851d"/>
+</archimate:ApplicationComponent>

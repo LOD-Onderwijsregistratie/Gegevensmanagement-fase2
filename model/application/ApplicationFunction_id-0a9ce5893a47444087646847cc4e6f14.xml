@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Indexatiefunctie"
+    id="id-0a9ce5893a47444087646847cc4e6f14"
+    documentation="Het indexeren van interne en externe wetenschappelijke content ten behoeve van doorzoekbaarheid.">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+  <properties
+      key="ORIG"
+      value="id-72ef0d3c672e4d96a0229fce897d0d5c"/>
+</archimate:ApplicationFunction>

@@ -1,0 +1,10 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MIM"
+    id="id-e9a66d1fdfec46ff9c117c53b02116bd"
+    documentation="MIM (Metamodel voor Informatiemodellering) dient als gemeenschappelijk vertrekpunt voor het opstellen van informatiemodellen, zodat informatiemodellen en de daarop gebaseerde standaarden voor gegevensuitwisseling meer compatibel worden. MIM voorziet enerzijds in duidelijke afspraken over het vastleggen van gegevensspecificaties en biedt anderzijds ruimte aan de verschillende niveaus van modellering.&#xD;&#xA;&#xD;&#xA;https://www.forumstandaardisatie.nl/open-standaarden/mim">
+  <properties/>
+  <properties
+      key="ORIG"
+      value="id-f546eac8e79a45499d4f10f998a8eeb0"/>
+</archimate:Constraint>

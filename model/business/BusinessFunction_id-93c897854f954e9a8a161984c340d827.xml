@@ -1,0 +1,9 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beschikbaar stellen gegevens"
+    id="id-93c897854f954e9a8a161984c340d827"
+    documentation="Gegevens uit aangesloten bronnen van DUO worden beschikbaar gesteld ten behoeve van analyse en onderzoek. &#xD;&#xA;&#xD;&#xA;Beschikbaar stellen kent verschillende vormen:&#xD;&#xA;1. Ten behoeve van het verkennen van de beschikbare gegevens (tijdens het voorbereiden van het onderzoek). Gegevens worden geleverd in de vorm van metagegevens en gepeudonymiseeerde gegevens&#xD;&#xA;2. Ten behoeve van de analyse zelf. Op basis van wat gevraagd (onderzoeksvraag), beschikbaar is (ontsloten bronnen) en wat geleverd mag worden (op basis van grondslag en doelbinding) worden gegevens voor een bepaalde tijd beschikbaar gesteld &#xD;&#xA;3. Ten behoeve van archivering. Gegevens behorende bij een bepaald onderzoek worden voor een bepaalde termijn (gebaseerd op afgesproken dienstverlening binnen de kaders van de archiefwet) opgeslagen t.b.v. audit of replicatie doeleinden.">
+  <properties
+      key="ORIG"
+      value="id-df421ec56cdc4eb89dae83cfecbff88e"/>
+</archimate:BusinessFunction>
