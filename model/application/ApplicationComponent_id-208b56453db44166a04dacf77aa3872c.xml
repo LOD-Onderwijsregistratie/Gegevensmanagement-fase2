@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata Semantische Wiki"
     id="id-208b56453db44166a04dacf77aa3872c"
-    documentation="Hiermee kunnen gebruikers de beste en meest relevante metadata zoeken, bladeren en filteren">
-  <properties
-      key="ORIG"
-      value="id-2d4df7f177334db7bd26d48ea920bd0b"/>
-</archimate:ApplicationComponent>
+    documentation="Hiermee kunnen gebruikers de beste en meest relevante metadata zoeken, bladeren en filteren"/>

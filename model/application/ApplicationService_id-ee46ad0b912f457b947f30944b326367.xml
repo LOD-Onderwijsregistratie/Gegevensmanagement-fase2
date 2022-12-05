@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Service management"
     id="id-ee46ad0b912f457b947f30944b326367"
-    documentation="Ondersteunen van het beheersen van de (IT) dienstverlening.">
-  <properties
-      key="ORIG"
-      value="id-3eda0d950830426e8fea7c6f22262de0"/>
-</archimate:ApplicationService>
+    documentation="Ondersteunen van het beheersen van de (IT) dienstverlening."/>

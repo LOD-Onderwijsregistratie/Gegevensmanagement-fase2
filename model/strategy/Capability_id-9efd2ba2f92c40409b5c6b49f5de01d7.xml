@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens distributie"
     id="id-9efd2ba2f92c40409b5c6b49f5de01d7"
-    documentation="Het vermogen om gegevens, afkomstig uit meerdere waardeketens, te distribueren ten behoeve van informatie verstrekking aan meerdere afnemers. Dit vraagt om specialistische kennis, dienstverlening en technologie en is daarom centraal belegd bij de afdeling Gegevensmanagment.">
-  <properties
-      key="ORIG"
-      value="id-d3dadca06c2a451d922a242ae6fe3e25"/>
-</archimate:Capability>
+    documentation="Het vermogen om gegevens, afkomstig uit meerdere waardeketens, te distribueren ten behoeve van informatie verstrekking aan meerdere afnemers. Dit vraagt om specialistische kennis, dienstverlening en technologie en is daarom centraal belegd bij de afdeling Gegevensmanagment."/>

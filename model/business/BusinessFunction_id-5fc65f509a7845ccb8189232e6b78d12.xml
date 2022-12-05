@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administreren contract"
-    id="id-5fc65f509a7845ccb8189232e6b78d12">
-  <properties
-      key="ORIG"
-      value="id-3bf2bf1e92ac4b6d8341b8e168a1e252"/>
-</archimate:BusinessFunction>
+    id="id-5fc65f509a7845ccb8189232e6b78d12"/>

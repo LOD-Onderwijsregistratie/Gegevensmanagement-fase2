@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inventariseren gegevens"
-    id="id-18f7f706ff8f424f82f53c646945986c">
-  <properties
-      key="ORIG"
-      value="id-cd777c8b038843b59972f000463b5dd2"/>
-</archimate:BusinessFunction>
+    id="id-18f7f706ff8f424f82f53c646945986c"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Data synchronisation"
     id="id-b75bba9739154f958ebfec4c24710077"
-    documentation="Het vergelijken, samenvoegen, verbeteren en synchroniseren van gegevens tussen meerdere gegevensverzamelingen.">
-  <properties
-      key="ORIG"
-      value="id-4adc0e38058944e19ac7dc92f4d1e39b"/>
-</archimate:TechnologyService>
+    documentation="Het vergelijken, samenvoegen, verbeteren en synchroniseren van gegevens tussen meerdere gegevensverzamelingen."/>

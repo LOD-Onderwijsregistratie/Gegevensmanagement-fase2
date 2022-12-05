@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data reporting"
-    id="id-e2c596b3b70b469d8728bd0f93d35f94">
-  <properties
-      key="ORIG"
-      value="id-a7cf9a76760745e3867c26e65cd49e10"/>
-</archimate:BusinessFunction>
+    id="id-e2c596b3b70b469d8728bd0f93d35f94"/>

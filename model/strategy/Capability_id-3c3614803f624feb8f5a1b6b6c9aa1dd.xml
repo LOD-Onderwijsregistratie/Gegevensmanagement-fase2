@@ -1,8 +1,4 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Analytics"
-    id="id-3c3614803f624feb8f5a1b6b6c9aa1dd">
-  <properties
-      key="ORIG"
-      value="id-b8a591c5ec7e4a8e847306782b5f8b3e"/>
-</archimate:Capability>
+    id="id-3c3614803f624feb8f5a1b6b6c9aa1dd"/>

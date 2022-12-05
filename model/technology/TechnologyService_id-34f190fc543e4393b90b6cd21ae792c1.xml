@@ -1,8 +1,4 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Database connectie service (OLAP)"
-    id="id-34f190fc543e4393b90b6cd21ae792c1">
-  <properties
-      key="ORIG"
-      value="id-1d0d90b085684963924b19c65bfb2c99"/>
-</archimate:TechnologyService>
+    id="id-34f190fc543e4393b90b6cd21ae792c1"/>

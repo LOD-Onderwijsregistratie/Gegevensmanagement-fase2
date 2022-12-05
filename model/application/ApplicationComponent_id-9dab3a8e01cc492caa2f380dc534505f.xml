@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virtual BI Environment (VBIE)"
-    id="id-9dab3a8e01cc492caa2f380dc534505f">
-  <properties
-      key="ORIG"
-      value="id-b5590f8c363341718c45f647a732af57"/>
-</archimate:ApplicationComponent>
+    id="id-9dab3a8e01cc492caa2f380dc534505f"/>

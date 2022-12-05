@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Signaleren wijzigingen"
     id="id-e7eb196e690c4ed2a3815ceb39373519"
-    documentation="CDC tooling">
-  <properties
-      key="ORIG"
-      value="id-657c095d02504b818d358a7a84aaa3ba"/>
-</archimate:ApplicationService>
+    documentation="CDC tooling"/>

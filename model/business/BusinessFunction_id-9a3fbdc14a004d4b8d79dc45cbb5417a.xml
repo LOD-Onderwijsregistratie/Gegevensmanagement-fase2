@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelleren"
-    id="id-9a3fbdc14a004d4b8d79dc45cbb5417a">
-  <properties
-      key="ORIG"
-      value="id-f9a42cf0c0404ca1987c449877fb07a8"/>
-</archimate:BusinessFunction>
+    id="id-9a3fbdc14a004d4b8d79dc45cbb5417a"/>

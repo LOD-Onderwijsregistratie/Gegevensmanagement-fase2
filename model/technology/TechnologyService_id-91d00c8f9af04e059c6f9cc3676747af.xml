@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Logging, Monitoring &amp; Reporting management"
     id="id-91d00c8f9af04e059c6f9cc3676747af"
-    documentation="Het aanbieden van één of meerdere centrale voorzieningen welke het bewaken van de diverse infra en applicatie componenten ondersteunen.">
-  <properties
-      key="ORIG"
-      value="id-5e5100c7ac8646fbb592114818155104"/>
-</archimate:TechnologyService>
+    documentation="Het aanbieden van één of meerdere centrale voorzieningen welke het bewaken van de diverse infra en applicatie componenten ondersteunen."/>

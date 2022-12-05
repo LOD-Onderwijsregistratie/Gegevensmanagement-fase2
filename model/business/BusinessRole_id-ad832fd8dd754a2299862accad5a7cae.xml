@@ -1,9 +1,0 @@
-<archimate:BusinessRole
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beveiligings ambtenaar"
-    id="id-ad832fd8dd754a2299862accad5a7cae"
-    documentation="De beveiligings ambtenaar waakt over de informatie van de organisatie. Hij zorgt voor technische en organisatorische maatregelen om de vertrouwelijkheid, integriteit en beschikbaarheid van de informatie te garanderen conform het 'pas-toe-of-leg-uit' principe zoals vastgelegd in de Baseline Informatiebeveiliging Overheid (BIO).">
-  <properties
-      key="ORIG"
-      value="id-69e9df279cda4a68806c0811357765f9"/>
-</archimate:BusinessRole>

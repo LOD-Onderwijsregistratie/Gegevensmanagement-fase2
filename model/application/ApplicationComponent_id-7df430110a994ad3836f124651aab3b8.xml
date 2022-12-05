@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enterprise Data Hub"
-    id="id-7df430110a994ad3836f124651aab3b8">
-  <properties
-      key="ORIG"
-      value="id-8a10630e9a1e4f4898a83546527355ab"/>
-</archimate:ApplicationComponent>
+    id="id-7df430110a994ad3836f124651aab3b8"/>

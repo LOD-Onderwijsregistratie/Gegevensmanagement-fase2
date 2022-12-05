@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Anonimiseren"
     id="id-b0bfe9950a9345088e6e25afe23f48d9"
-    documentation="De actor heeft het vermogen een gevensverzameling of informatiebron met persoonsgegevens zodanig te transformeren dat de gegevens niet meer terug te leiden naar een persoon, waardoor de vertrouwelijkheid van de geanonimiseerde gegevensverzameling of informatiebron verlaagd wordt zodat de actor deze bronnen met minder restricties kan (laten) verwerken. Het anoniem is niet te gebruiken voor re-identificatie.">
-  <properties
-      key="ORIG"
-      value="id-e4677f2afa51472fbf0f82af68fb1ca1"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen een gevensverzameling of informatiebron met persoonsgegevens zodanig te transformeren dat de gegevens niet meer terug te leiden naar een persoon, waardoor de vertrouwelijkheid van de geanonimiseerde gegevensverzameling of informatiebron verlaagd wordt zodat de actor deze bronnen met minder restricties kan (laten) verwerken. Het anoniem is niet te gebruiken voor re-identificatie."/>

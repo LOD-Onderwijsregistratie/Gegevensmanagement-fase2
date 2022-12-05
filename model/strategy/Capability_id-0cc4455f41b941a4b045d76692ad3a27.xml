@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren onderzoeksgegevens"
     id="id-0cc4455f41b941a4b045d76692ad3a27"
-    documentation="De actor heeft het vermogen om gegevensverzamelingen en informatiebronnen te ondersteuning van onderzoek te beheren zodat de actor onderzoekers in staat kan stellen gegevens en informatie te laten gebruiken.">
-  <properties
-      key="ORIG"
-      value="id-6a909c87b4b544aabddc73450973e474"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om gegevensverzamelingen en informatiebronnen te ondersteuning van onderzoek te beheren zodat de actor onderzoekers in staat kan stellen gegevens en informatie te laten gebruiken."/>

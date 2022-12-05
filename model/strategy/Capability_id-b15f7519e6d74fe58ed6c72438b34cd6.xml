@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadateren onderzoek"
     id="id-b15f7519e6d74fe58ed6c72438b34cd6"
-    documentation="De actor heeft het vermogen om gegevensverzamelingen en informatiebronnen ondersteunend aan het onderzoeksresultaat te duiden en zodat de actor deze gegevens en informatie geschikt maakt voor hergebruik">
-  <properties
-      key="ORIG"
-      value="id-ed682f352da44b8f840035073a0bff67"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om gegevensverzamelingen en informatiebronnen ondersteunend aan het onderzoeksresultaat te duiden en zodat de actor deze gegevens en informatie geschikt maakt voor hergebruik"/>

@@ -1,8 +1,4 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Software Asset Management (SAM)"
-    id="id-3f711ee1d08c4007a43dd26a336d740a">
-  <properties
-      key="ORIG"
-      value="id-1c2ad66929a2424ab91ca497ee099b12"/>
-</archimate:Capability>
+    id="id-3f711ee1d08c4007a43dd26a336d740a"/>

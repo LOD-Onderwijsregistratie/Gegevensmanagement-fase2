@@ -5,7 +5,7 @@
     strength="+">
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-9d22c02577664172acd27c36f8c0c1ac.xml#id-9d22c02577664172acd27c36f8c0c1ac"/>
+      href="BusinessFunction_id-4bbaff200c6e4904a1fb80e338e0d42d.xml#id-4bbaff200c6e4904a1fb80e338e0d42d"/>
   <target
       xsi:type="archimate:Requirement"
       href="Requirement_id-0068cc2c46094f138124cf6c45375b72.xml#id-0068cc2c46094f138124cf6c45375b72"/>

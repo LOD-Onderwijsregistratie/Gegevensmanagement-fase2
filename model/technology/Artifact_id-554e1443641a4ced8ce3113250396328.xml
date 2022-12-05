@@ -1,8 +1,4 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Databases OI (SQL server)"
-    id="id-554e1443641a4ced8ce3113250396328">
-  <properties
-      key="ORIG"
-      value="id-4d9fe3b5a5bb4a5d8bd62d68dc7d9342"/>
-</archimate:Artifact>
+    id="id-554e1443641a4ced8ce3113250396328"/>

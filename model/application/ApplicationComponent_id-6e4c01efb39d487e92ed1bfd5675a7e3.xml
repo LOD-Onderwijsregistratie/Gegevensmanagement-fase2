@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datamarts (Stermodellen dimensioneel gemodeleerd)"
-    id="id-6e4c01efb39d487e92ed1bfd5675a7e3">
-  <properties
-      key="ORIG"
-      value="id-fab0ba8cc77649e4b3d998dbfb88e52e"/>
-</archimate:ApplicationComponent>
+    id="id-6e4c01efb39d487e92ed1bfd5675a7e3"/>

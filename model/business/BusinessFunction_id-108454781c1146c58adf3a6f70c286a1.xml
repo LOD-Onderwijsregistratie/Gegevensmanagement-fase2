@@ -9,7 +9,4 @@
   <properties
       key="Type"
       value="Deelbedrijfsfunctie"/>
-  <properties
-      key="ORIG"
-      value="id-2ef75403446048cda4e9e32e2dc94ff0"/>
 </archimate:BusinessFunction>

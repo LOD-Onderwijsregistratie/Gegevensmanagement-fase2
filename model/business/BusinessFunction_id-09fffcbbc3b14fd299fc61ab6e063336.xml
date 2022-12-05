@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data intelligentie"
     id="id-09fffcbbc3b14fd299fc61ab6e063336"
-    documentation="Businessrules om events te managen.">
-  <properties
-      key="ORIG"
-      value="id-0a9703847b24480ca18be2483d14e770"/>
-</archimate:BusinessFunction>
+    documentation="Businessrules om events te managen."/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[IP] Toolgebruik heeft lage instap"
     id="id-333f513f30b2441186f99ea3e2e11cb1"
-    documentation="De leercurve van het gebruik van de tool is niet erg stijl zodat de instap in het gebruik van de tool niet moeilijk is.">
-  <properties
-      key="ORIG"
-      value="id-81cb9e865d8d4998916cefbe85d85aab"/>
-</archimate:Requirement>
+    documentation="De leercurve van het gebruik van de tool is niet erg stijl zodat de instap in het gebruik van de tool niet moeilijk is."/>

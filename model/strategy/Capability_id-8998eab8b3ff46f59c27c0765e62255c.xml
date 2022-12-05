@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analyseren gegevens"
     id="id-8998eab8b3ff46f59c27c0765e62255c"
-    documentation="De actor heeft het gemogen om gegevensverzamelingen en informatiebronnen te onderzoeken waardoor de actor conclusies kan trekken in relatie tot de gestelde onderzoeksvragen.">
-  <properties
-      key="ORIG"
-      value="id-36689bc1443243a9807c1ad548b3f9f5"/>
-</archimate:Capability>
+    documentation="De actor heeft het gemogen om gegevensverzamelingen en informatiebronnen te onderzoeken waardoor de actor conclusies kan trekken in relatie tot de gestelde onderzoeksvragen."/>

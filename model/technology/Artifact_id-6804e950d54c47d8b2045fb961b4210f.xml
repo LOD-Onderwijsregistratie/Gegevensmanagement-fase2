@@ -1,8 +1,4 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bron databases (DB2)"
-    id="id-6804e950d54c47d8b2045fb961b4210f">
-  <properties
-      key="ORIG"
-      value="id-df246c47848e469084de0bd0014841dd"/>
-</archimate:Artifact>
+    id="id-6804e950d54c47d8b2045fb961b4210f"/>

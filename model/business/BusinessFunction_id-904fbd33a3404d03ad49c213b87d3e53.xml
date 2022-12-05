@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Privacy"
-    id="id-904fbd33a3404d03ad49c213b87d3e53">
-  <properties
-      key="ORIG"
-      value="id-a88ea91a4a1c47dc9a6410f8aec01033"/>
-</archimate:BusinessFunction>
+    id="id-904fbd33a3404d03ad49c213b87d3e53"/>

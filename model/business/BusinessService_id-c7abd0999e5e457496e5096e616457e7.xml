@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegeven verwerking service"
     id="id-c7abd0999e5e457496e5096e616457e7"
-    documentation="Op het platform worden zowel gestructureerde als ongestructureerde data aangeboden. Daarvoor biedt het platform voorzieningen aan die de aanbieder en de medewerker ondersteunen bij het verwerken van deze data tot bruikbare data.">
-  <properties
-      key="ORIG"
-      value="id-dc8e88a1d7b5428d809a1978ab512720"/>
-</archimate:BusinessService>
+    documentation="Op het platform worden zowel gestructureerde als ongestructureerde data aangeboden. Daarvoor biedt het platform voorzieningen aan die de aanbieder en de medewerker ondersteunen bij het verwerken van deze data tot bruikbare data."/>

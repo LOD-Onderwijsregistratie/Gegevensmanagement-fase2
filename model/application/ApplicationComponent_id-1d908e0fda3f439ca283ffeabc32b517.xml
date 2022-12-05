@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata harvester"
     id="id-1d908e0fda3f439ca283ffeabc32b517"
-    documentation="Scan naar en extraheer metadata uit de meest populaire databronnen, zoals enterprise datawarehouses, data lakes, operationele databases, bedrijfsapplicaties, clouddatastores en niet-relationele datastores">
-  <properties
-      key="ORIG"
-      value="id-0f96b6d8149c4fbca88d6c77d2666442"/>
-</archimate:ApplicationComponent>
+    documentation="Scan naar en extraheer metadata uit de meest populaire databronnen, zoals enterprise datawarehouses, data lakes, operationele databases, bedrijfsapplicaties, clouddatastores en niet-relationele datastores"/>

@@ -1,8 +1,4 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="VRE"
-    id="id-fdafa49cd3cc44aeb7636357d1e40497">
-  <properties
-      key="ORIG"
-      value="id-a626dbe033394477807ed8e67925beba"/>
-</archimate:Node>
+    id="id-fdafa49cd3cc44aeb7636357d1e40497"/>

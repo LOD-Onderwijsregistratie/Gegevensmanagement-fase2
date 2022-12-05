@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CDC tooling"
-    id="id-444e5f28b91e4fdd9bc8e129c103b6dc">
-  <properties
-      key="ORIG"
-      value="id-ae2791aa45ad48d2b25fc6719035ade7"/>
-</archimate:ApplicationComponent>
+    id="id-444e5f28b91e4fdd9bc8e129c103b6dc"/>

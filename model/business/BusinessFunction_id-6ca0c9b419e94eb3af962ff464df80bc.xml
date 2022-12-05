@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toetsing AVG"
-    id="id-6ca0c9b419e94eb3af962ff464df80bc">
-  <properties
-      key="ORIG"
-      value="id-9d0a8c29dbbc49b48e643244e60e1a27"/>
-</archimate:BusinessFunction>
+    id="id-6ca0c9b419e94eb3af962ff464df80bc"/>

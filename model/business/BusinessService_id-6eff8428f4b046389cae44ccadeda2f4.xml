@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens beschikbaar stellen service"
     id="id-6eff8428f4b046389cae44ccadeda2f4"
-    documentation="DataHub stelt gegevens beschikbaar uit aangesloten bronnen van DUO ten behoeve van analyse die op basis van grondslag en doelbinding gebruikt mogen worden. Daarnaast worden publiek beschikbare gegevens aangeboden. Beschikbaar stellen kent verschillende vormen:&#xD;&#xA;1. Ten behoeve van het verkennen van de beschikbare gegevens (tijdens het voorbereiden van het onderzoek) in de vorm van catalogus/metadata en proefsets&#xD;&#xA;2. Ten behoeve van de analyse zelf&#xD;&#xA;3. Ten behoeve van audit doeleinden of replicatie onderzoek">
-  <properties
-      key="ORIG"
-      value="id-18ad00182823491987fe641ef89cb7cd"/>
-</archimate:BusinessService>
+    documentation="DataHub stelt gegevens beschikbaar uit aangesloten bronnen van DUO ten behoeve van analyse die op basis van grondslag en doelbinding gebruikt mogen worden. Daarnaast worden publiek beschikbare gegevens aangeboden. Beschikbaar stellen kent verschillende vormen:&#xD;&#xA;1. Ten behoeve van het verkennen van de beschikbare gegevens (tijdens het voorbereiden van het onderzoek) in de vorm van catalogus/metadata en proefsets&#xD;&#xA;2. Ten behoeve van de analyse zelf&#xD;&#xA;3. Ten behoeve van audit doeleinden of replicatie onderzoek"/>

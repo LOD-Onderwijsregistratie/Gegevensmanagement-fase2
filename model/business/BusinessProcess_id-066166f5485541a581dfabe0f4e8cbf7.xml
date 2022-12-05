@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren onderzoek"
     id="id-066166f5485541a581dfabe0f4e8cbf7"
-    documentation="Dit hoofdproces richt zich op het deel waarin het daadwerkelijke onderzoek uitgevoerd wordt.&#xD;&#xA;&#xD;&#xA;https://www.surf.nl/files/2022-02/hosa-domeinarchitectuur-research-data-management-v1.0.pdf&#xD;&#xA;">
-  <properties
-      key="ORIG"
-      value="id-c3c5c1bf1cf643dfb876e783c9a39b03"/>
-</archimate:BusinessProcess>
+    documentation="Dit hoofdproces richt zich op het deel waarin het daadwerkelijke onderzoek uitgevoerd wordt.&#xD;&#xA;&#xD;&#xA;https://www.surf.nl/files/2022-02/hosa-domeinarchitectuur-research-data-management-v1.0.pdf&#xD;&#xA;"/>

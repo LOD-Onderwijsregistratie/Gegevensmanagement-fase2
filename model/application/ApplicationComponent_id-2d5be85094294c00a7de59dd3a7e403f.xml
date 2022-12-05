@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeks disseminatie repository"
     id="id-2d5be85094294c00a7de59dd3a7e403f"
-    documentation="Een systeem dat het beheren en publiceren van disseminaties uit een onderzoek ondersteunt.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-3a721708-7550-12b2-a4e9-318e168dca75">
-  <properties
-      key="ORIG"
-      value="id-d4615ace9db14755b85bb4dff411e5ce"/>
-</archimate:ApplicationComponent>
+    documentation="Een systeem dat het beheren en publiceren van disseminaties uit een onderzoek ondersteunt.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-3a721708-7550-12b2-a4e9-318e168dca75"/>

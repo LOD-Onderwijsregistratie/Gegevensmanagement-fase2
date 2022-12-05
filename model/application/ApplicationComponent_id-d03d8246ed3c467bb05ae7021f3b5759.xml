@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bron gegevens platformen"
-    id="id-d03d8246ed3c467bb05ae7021f3b5759">
-  <properties
-      key="ORIG"
-      value="id-b4e9cadfd5c548e6ae0eb79617a9b329"/>
-</archimate:ApplicationComponent>
+    id="id-d03d8246ed3c467bb05ae7021f3b5759"/>

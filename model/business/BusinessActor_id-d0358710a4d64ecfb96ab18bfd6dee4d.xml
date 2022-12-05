@@ -1,8 +1,4 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Scientist"
-    id="id-d0358710a4d64ecfb96ab18bfd6dee4d">
-  <properties
-      key="ORIG"
-      value="id-9f0415098ef641e1baeed4138506e156"/>
-</archimate:BusinessActor>
+    id="id-d0358710a4d64ecfb96ab18bfd6dee4d"/>

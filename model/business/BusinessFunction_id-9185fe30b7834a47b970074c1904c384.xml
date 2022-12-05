@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata bewerking"
-    id="id-9185fe30b7834a47b970074c1904c384">
-  <properties
-      key="ORIG"
-      value="id-6aca264f16994208af58e6ec45c1cc67"/>
-</archimate:BusinessFunction>
+    id="id-9185fe30b7834a47b970074c1904c384"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeks dienst verlening"
     id="id-f7232b2f45e542fd9a80170f68bbfdb2"
-    documentation="Het administratief en inhoudelijk ondersteunen van onderzoeken.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-8c09b061-715e-69c2-446b-984006180dba">
-  <properties
-      key="ORIG"
-      value="id-490d0889a4844f158db4aeacce36fdd7"/>
-</archimate:BusinessFunction>
+    documentation="Het administratief en inhoudelijk ondersteunen van onderzoeken.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-8c09b061-715e-69c2-446b-984006180dba"/>

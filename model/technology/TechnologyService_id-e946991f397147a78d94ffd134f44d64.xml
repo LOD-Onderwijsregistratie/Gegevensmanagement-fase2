@@ -1,8 +1,4 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="File service"
-    id="id-e946991f397147a78d94ffd134f44d64">
-  <properties
-      key="ORIG"
-      value="id-643cdc3b944f43b2826bd71c45684709"/>
-</archimate:TechnologyService>
+    id="id-e946991f397147a78d94ffd134f44d64"/>

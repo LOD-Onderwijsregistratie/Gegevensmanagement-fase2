@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="verrijk"
     id="id-6f581d27acd94819aea503f47db44bbd">
-  <properties
-      key="ORIG"
-      value="id-2affc9fde7ac4ef3b93ac50ffc7d1872"/>
   <source
       xsi:type="archimate:TechnologyFunction"
       href="TechnologyFunction_id-252a14ab3d16478c9bbb8dea5e547686.xml#id-252a14ab3d16478c9bbb8dea5e547686"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Platform Management Services"
     id="id-6084afe78c2346f0ab6d7923bbf8ddbe"
-    documentation="Het Smart Research Data-platform biedt mogelijkheden voor het borgen en nakomen van afspraken, bijvoorbeeld over de kwaliteit van aangeboden voorzieningen en gegevenssets. Zaken als ongewenste content of niet-presterende partners moeten gesignaleerd kunnen worden. Hiervoor zijn overkoepelende afspraken nodig. Ook dienen afspraken gemaakt te worden over welke rol het platform en data van het platform spelen bij een instellingsaccreditatie (ook commerciële partijen). Het platformmanagement (Platform Management Services) draagt hiervoor zorg, evenals voor de inrichting, (door)ontwikkeling en implementatie van het platform in samenwerking met de belangrijkste stakeholders. (bron: HOSA research data management 1.0)">
-  <properties
-      key="ORIG"
-      value="id-8bd5bbb92f3a4939801ed71375306942"/>
-</archimate:BusinessService>
+    documentation="Het Smart Research Data-platform biedt mogelijkheden voor het borgen en nakomen van afspraken, bijvoorbeeld over de kwaliteit van aangeboden voorzieningen en gegevenssets. Zaken als ongewenste content of niet-presterende partners moeten gesignaleerd kunnen worden. Hiervoor zijn overkoepelende afspraken nodig. Ook dienen afspraken gemaakt te worden over welke rol het platform en data van het platform spelen bij een instellingsaccreditatie (ook commerciële partijen). Het platformmanagement (Platform Management Services) draagt hiervoor zorg, evenals voor de inrichting, (door)ontwikkeling en implementatie van het platform in samenwerking met de belangrijkste stakeholders. (bron: HOSA research data management 1.0)"/>

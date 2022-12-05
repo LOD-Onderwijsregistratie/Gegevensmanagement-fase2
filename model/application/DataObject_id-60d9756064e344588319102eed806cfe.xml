@@ -1,8 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datamart data"
-    id="id-60d9756064e344588319102eed806cfe">
-  <properties
-      key="ORIG"
-      value="id-4655b1d442d34d4e853bf94dc3fdb983"/>
-</archimate:DataObject>
+    id="id-60d9756064e344588319102eed806cfe"/>

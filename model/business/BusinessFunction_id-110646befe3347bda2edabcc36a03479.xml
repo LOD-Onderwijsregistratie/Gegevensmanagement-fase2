@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referentie en Master Data Management"
     id="id-110646befe3347bda2edabcc36a03479"
-    documentation="D">
-  <properties
-      key="ORIG"
-      value="id-7fcd7f89930447aaa89fca2d9ba39b15"/>
-</archimate:BusinessFunction>
+    documentation="D"/>

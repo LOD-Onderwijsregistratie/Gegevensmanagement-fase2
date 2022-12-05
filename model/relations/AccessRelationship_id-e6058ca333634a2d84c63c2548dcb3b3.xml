@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-e6058ca333634a2d84c63c2548dcb3b3"
     accessType="1">
-  <properties
-      key="ORIG"
-      value="id-932070d9b81f40138f0ea5ebd965b2e9"/>
   <source
       xsi:type="archimate:TechnologyFunction"
       href="TechnologyFunction_id-71dfc838e65448d4afedf97e30e6bdc4.xml#id-71dfc838e65448d4afedf97e30e6bdc4"/>

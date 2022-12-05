@@ -1,9 +1,0 @@
-<archimate:BusinessRole
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Auditor"
-    id="id-9ed9c6ac9ffa48fe8670dfeb848a73ce"
-    documentation="Omschrijving &#xA;De controleur controleert de naleving van procedures, regels en richtlijnen. De rol van auditor kan worden verdeeld in een domein specifieke rol en een DUO brede rol. &#xA;Een domein specifieke controleur is verantwoordelijk voor het (laten) uitvoeren van onderzoeken die specifiek voor een domein zijn.&#xA;Een DUO brede controleur is verantwoordelijk voor het (laten) uitvoeren van controles die over de verschillende domeinen heen lopen.  &#xA;&#xA;Verantwoordelijk voor de inhoudelijke kwaliteit van de registers en de data stores (warehouse, lake).&#xA;&#xA;Doel &#xA;&#xA;Het vaststellen van de mate waarin het geheel van eigenschappen en kenmerken van de gegevens voldoet aan het doel van het gebruik en de verwachting van de afnemer.  &#xA;&#xA;Hoofdtaken &#xA;&#xA;&#xA;Contact met&#xA;&#xA;&#x9;- Portefeuillehouder gegevensmanagement &#xA;&#x9;- Bronhouder&#xA;&#x9;- Distributeur&#xA;&#x9;- Ketenpartner &#xA;&#xA;Resultaten&#xA;&#xA;Data moet inhoudelijk voldoen aan actualiteit, compleetheid, correctheid en uniciteit&#xA;Data moet systeemtechnisch voldoen aan toegankelijkheid, integriteit en performance&#xA;Data moet generiek voldoen aan betrouwbaarheid, tijdigheid, onderhoudbaarheid, begrijpbaarheid, bruikbaarheid, controleerbaarheid, relevantie en vertrouwelijkheid. &#xA;&#xA;&#xA;&#xA;Kwaliteitsrapport &#xA;&#xA;Competenties">
-  <properties
-      key="ORIG"
-      value="id-3eca5d6ade55462c8405610932466d72"/>
-</archimate:BusinessRole>

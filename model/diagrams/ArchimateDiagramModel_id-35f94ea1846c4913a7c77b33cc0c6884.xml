@@ -50,7 +50,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
-        href="BusinessService_id-baaff065899c4540b71394c6415defa0.xml#id-baaff065899c4540b71394c6415defa0"/>
+        href="BusinessService_id-4654682c857c4693b7c407259fa3d1af.xml#id-4654682c857c4693b7c407259fa3d1af"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -74,7 +74,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
-        href="BusinessService_id-3579d3c8e86948d189a38ede65ef7d86.xml#id-3579d3c8e86948d189a38ede65ef7d86"/>
+        href="BusinessService_id-fcf13972acb944819c85c9c394976c65.xml#id-fcf13972acb944819c85c9c394976c65"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

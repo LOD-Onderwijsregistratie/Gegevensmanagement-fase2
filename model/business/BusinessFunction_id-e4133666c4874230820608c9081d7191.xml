@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datawarehousing en Big Data Management"
-    id="id-e4133666c4874230820608c9081d7191">
-  <properties
-      key="ORIG"
-      value="id-f8365906082a4582bd60d12764b8d2ff"/>
-</archimate:BusinessFunction>
+    id="id-e4133666c4874230820608c9081d7191"/>

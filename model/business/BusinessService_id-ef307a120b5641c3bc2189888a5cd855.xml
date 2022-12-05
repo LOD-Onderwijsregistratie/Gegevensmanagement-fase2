@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inwinnen"
     id="id-ef307a120b5641c3bc2189888a5cd855"
-    documentation="TODO: processen BRON opnemen naar OCW EA">
-  <properties
-      key="ORIG"
-      value="id-7c4eefc264364e359751d2ecec797f51"/>
-</archimate:BusinessService>
+    documentation="TODO: processen BRON opnemen naar OCW EA"/>

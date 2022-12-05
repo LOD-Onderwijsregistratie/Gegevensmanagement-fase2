@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overige teams"
     id="id-b0ac03f4a2384f76acfed47fb57baed0"
-    documentation="- IP (DIP)&#xD;&#xA;- ICT (monitoring &amp; tuning, CMDB)&#xD;&#xA;- Functioneel beheer &#xD;&#xA;- e.a.">
-  <properties
-      key="ORIG"
-      value="id-e3b5def19c6f4153a0aa746cda98a566"/>
-</archimate:BusinessActor>
+    documentation="- IP (DIP)&#xD;&#xA;- ICT (monitoring &amp; tuning, CMDB)&#xD;&#xA;- Functioneel beheer &#xD;&#xA;- e.a."/>

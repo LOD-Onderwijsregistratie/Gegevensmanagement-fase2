@@ -34,7 +34,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-5b1e5358ebf84db7934b3fe0f75b2aef.xml#id-5b1e5358ebf84db7934b3fe0f75b2aef"/>
+        href="BusinessFunction_id-69cc4f4d04d447008c73591480cfe742.xml#id-69cc4f4d04d447008c73591480cfe742"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -85,7 +85,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-a126628a1cf14df7ac63861f2cc62c77.xml#id-a126628a1cf14df7ac63861f2cc62c77"/>
+        href="BusinessFunction_id-e3b9271790ac47559301504dbd005bdc.xml#id-e3b9271790ac47559301504dbd005bdc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -158,7 +158,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-9ed9c6ac9ffa48fe8670dfeb848a73ce.xml#id-9ed9c6ac9ffa48fe8670dfeb848a73ce"/>
+        href="BusinessRole_id-389202423ea74e1182b5500b86079af2.xml#id-389202423ea74e1182b5500b86079af2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -180,7 +180,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-98576bc0ffdc40bb81b4354ab9c043e1.xml#id-98576bc0ffdc40bb81b4354ab9c043e1"/>
+        href="BusinessFunction_id-7071e2af3f404e9093988b962e9a8db5.xml#id-7071e2af3f404e9093988b962e9a8db5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -224,7 +224,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-b824f848b46f45458a5f03af17633ec6.xml#id-b824f848b46f45458a5f03af17633ec6"/>
+        href="BusinessFunction_id-f63d9de32af343c988539f81d72630bd.xml#id-f63d9de32af343c988539f81d72630bd"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -246,7 +246,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-29777b6eeb3e42c884b3d2a4d70c6b3a.xml#id-29777b6eeb3e42c884b3d2a4d70c6b3a"/>
+        href="BusinessFunction_id-e0246cbc2e7b46d8913827cbedec70e2.xml#id-e0246cbc2e7b46d8913827cbedec70e2"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -268,7 +268,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-a5c78727b8aa4b72930bf59ede1da266.xml#id-a5c78727b8aa4b72930bf59ede1da266"/>
+        href="BusinessFunction_id-1b72480ce39e4f3392137400b61422ff.xml#id-1b72480ce39e4f3392137400b61422ff"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -281,7 +281,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-fa68ae9ade6e4f069c1608f2fd71b8e1.xml#id-fa68ae9ade6e4f069c1608f2fd71b8e1"/>
+        href="BusinessRole_id-042bfd90a6c245408eede8887f585d4e.xml#id-042bfd90a6c245408eede8887f585d4e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -347,7 +347,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
-        href="BusinessCollaboration_id-3aa5ee8d2fcc4899a1e0f412b0eae516.xml#id-3aa5ee8d2fcc4899a1e0f412b0eae516"/>
+        href="BusinessCollaboration_id-506ac2c333474d0ab0847d395eb5b77f.xml#id-506ac2c333474d0ab0847d395eb5b77f"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -391,7 +391,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-ccd87dd2207d4ca1b6e1916c88840f36.xml#id-ccd87dd2207d4ca1b6e1916c88840f36"/>
+        href="BusinessRole_id-3539edf2f54c4e92b5effba64c66a90c.xml#id-3539edf2f54c4e92b5effba64c66a90c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -413,7 +413,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-cd701cf1ac354de592ebd5373153034d.xml#id-cd701cf1ac354de592ebd5373153034d"/>
+        href="BusinessRole_id-3e48550d45214a1a8236be6d28ad7792.xml#id-3e48550d45214a1a8236be6d28ad7792"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -453,7 +453,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-93c897854f954e9a8a161984c340d827.xml#id-93c897854f954e9a8a161984c340d827"/>
+        href="BusinessFunction_id-01d9b4a3650e46c8ac823b2c4ee58989.xml#id-01d9b4a3650e46c8ac823b2c4ee58989"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -466,7 +466,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:Contract"
-        href="Contract_id-9cbce18141a6411f8b21912cf69740e4.xml#id-9cbce18141a6411f8b21912cf69740e4"/>
+        href="Contract_id-94665f062f524d8385c318c22c543c48.xml#id-94665f062f524d8385c318c22c543c48"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -500,7 +500,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-68878966f24f4bd588f998d92e00272b.xml#id-68878966f24f4bd588f998d92e00272b"/>
+        href="BusinessFunction_id-db52360c96f0418ab8e449edc59fb903.xml#id-db52360c96f0418ab8e449edc59fb903"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -513,6 +513,6 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessFunction"
-        href="BusinessFunction_id-bf90a19255e74753849f981778969c98.xml#id-bf90a19255e74753849f981778969c98"/>
+        href="BusinessFunction_id-8c937c3c4a1643dba7108eeef2145fc5.xml#id-8c937c3c4a1643dba7108eeef2145fc5"/>
   </children>
 </archimate:ArchimateDiagramModel>

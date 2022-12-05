@@ -3,12 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-2ba9cdc91107433187e4850703784aa1"
     accessType="1">
-  <properties
-      key="ORIG"
-      value="id-64736de773e949b7a67a62c8172c9868"/>
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-5b1e5358ebf84db7934b3fe0f75b2aef.xml#id-5b1e5358ebf84db7934b3fe0f75b2aef"/>
+      href="BusinessFunction_id-69cc4f4d04d447008c73591480cfe742.xml#id-69cc4f4d04d447008c73591480cfe742"/>
   <target
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-b7f7a68bdd034fb686371fe4d2c90b8f.xml#id-b7f7a68bdd034fb686371fe4d2c90b8f"/>

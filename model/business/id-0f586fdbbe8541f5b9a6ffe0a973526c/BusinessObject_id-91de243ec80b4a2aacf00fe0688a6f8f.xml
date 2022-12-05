@@ -1,8 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeks plan"
-    id="id-91de243ec80b4a2aacf00fe0688a6f8f">
-  <properties
-      key="ORIG"
-      value="id-6602ad97534541bdbf10383541051d24"/>
-</archimate:BusinessObject>
+    id="id-91de243ec80b4a2aacf00fe0688a6f8f"/>

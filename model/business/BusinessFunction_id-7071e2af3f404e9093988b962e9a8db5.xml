@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integreren gegevens"
     id="id-7071e2af3f404e9093988b962e9a8db5"
-    documentation="Integreren gegevens vanuit meerdere bronnen van binnen (of buiten) DUO">
-  <properties
-      key="ORIG"
-      value="id-90fbd2ebe97e4f938987e82ade345c1d"/>
-</archimate:BusinessFunction>
+    documentation="Integreren gegevens vanuit meerdere bronnen van binnen (of buiten) DUO&#xA;"/>

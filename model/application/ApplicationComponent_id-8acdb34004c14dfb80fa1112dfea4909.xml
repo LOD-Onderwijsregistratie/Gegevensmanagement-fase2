@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virtual Research Environment (VRE)"
-    id="id-8acdb34004c14dfb80fa1112dfea4909">
-  <properties
-      key="ORIG"
-      value="id-8d0d7cde4935467fb283caa04ccfc92c"/>
-</archimate:ApplicationComponent>
+    id="id-8acdb34004c14dfb80fa1112dfea4909"/>

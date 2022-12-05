@@ -1,8 +1,4 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SAP"
-    id="id-70f632ddb110437a8620a47bf8ff3177">
-  <properties
-      key="ORIG"
-      value="id-89ec9b33654f4194a29a95cb842bf067"/>
-</archimate:SystemSoftware>
+    id="id-70f632ddb110437a8620a47bf8ff3177"/>

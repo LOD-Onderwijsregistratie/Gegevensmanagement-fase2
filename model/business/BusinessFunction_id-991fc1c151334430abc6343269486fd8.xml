@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatiebeveiliging"
-    id="id-991fc1c151334430abc6343269486fd8">
-  <properties
-      key="ORIG"
-      value="id-14bd71c1f9b44966910eb135efdb271d"/>
-</archimate:BusinessFunction>
+    id="id-991fc1c151334430abc6343269486fd8"/>

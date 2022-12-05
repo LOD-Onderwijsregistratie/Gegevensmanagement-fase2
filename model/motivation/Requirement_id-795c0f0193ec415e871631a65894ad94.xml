@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorkom ongeoorloofde wijziging"
     id="id-795c0f0193ec415e871631a65894ad94"
-    documentation="Door medewerker, beheerder of hacker">
-  <properties
-      key="ORIG"
-      value="id-5f8cbcf281784cc1b50d6567059601b3"/>
-</archimate:Requirement>
+    documentation="Door medewerker, beheerder of hacker"/>

@@ -1,8 +1,4 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Document Store(NoSQL)"
-    id="id-5964a0cd003f4c60b5b1ea62f1182116">
-  <properties
-      key="ORIG"
-      value="id-9fddefea0b3a4bab9720fa6a131c4f4a"/>
-</archimate:Artifact>
+    id="id-5964a0cd003f4c60b5b1ea62f1182116"/>

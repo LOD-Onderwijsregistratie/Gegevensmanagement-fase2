@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruiken onderzoeksgegevens"
     id="id-6386f524ab2d4139a9352dae20ebfc71"
-    documentation="De actor heeft het vermogen om gegevens en informatiebronnen te gebruiken voor het onderzoek.">
-  <properties
-      key="ORIG"
-      value="id-190b7684c9044db5a65152983e3181ab"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om gegevens en informatiebronnen te gebruiken voor het onderzoek."/>

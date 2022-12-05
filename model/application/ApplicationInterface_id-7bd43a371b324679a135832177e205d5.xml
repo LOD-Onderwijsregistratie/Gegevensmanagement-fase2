@@ -1,8 +1,4 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API gateway"
-    id="id-7bd43a371b324679a135832177e205d5">
-  <properties
-      key="ORIG"
-      value="id-f5064b5b3bde4d0bb71548b7f0a0e5e0"/>
-</archimate:ApplicationInterface>
+    id="id-7bd43a371b324679a135832177e205d5"/>

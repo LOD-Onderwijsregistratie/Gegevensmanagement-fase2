@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Creeren (brongegevens)"
-    id="id-423facfa06234ef58aeda8b34bd2a484">
-  <properties
-      key="ORIG"
-      value="id-94973e9895724a07aeaa78807d959b74"/>
-</archimate:BusinessFunction>
+    id="id-423facfa06234ef58aeda8b34bd2a484"/>

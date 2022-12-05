@@ -1,8 +1,4 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PostgreSQL"
-    id="id-2c32cfd8efa74acabee028247ee284da">
-  <properties
-      key="ORIG"
-      value="id-4830e4e1d4b44827b468023d3a8a2f5d"/>
-</archimate:SystemSoftware>
+    id="id-2c32cfd8efa74acabee028247ee284da"/>
