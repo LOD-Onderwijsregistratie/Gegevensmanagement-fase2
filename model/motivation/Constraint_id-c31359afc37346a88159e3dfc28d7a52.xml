@@ -1,7 +1,8 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BIO compliant"
-    id="id-c31359afc37346a88159e3dfc28d7a52">
+    id="id-c31359afc37346a88159e3dfc28d7a52"
+    documentation="DUO voldoet aan de Baseline Informatiebeveiliging Overheid (BIO)">
   <properties
       key="ORIG"
       value="id-46a97c42d7a444baa9cbb4c781304d25"/>

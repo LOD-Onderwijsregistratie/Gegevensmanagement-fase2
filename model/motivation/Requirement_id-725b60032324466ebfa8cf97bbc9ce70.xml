@@ -1,7 +1,8 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waarborg Plichten Gegevenwerker"
-    id="id-725b60032324466ebfa8cf97bbc9ce70">
+    id="id-725b60032324466ebfa8cf97bbc9ce70"
+    documentation="HOOFDSTUK IV Verwerkingsverantwoordelijke en verwerker Afdeling 1 Algemene verplichtingen ">
   <properties
       key="ORIG"
       value="id-7dfdd944646540de9490c66d3f260d86"/>
