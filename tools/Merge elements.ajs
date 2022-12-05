@@ -1,5 +1,5 @@
 /*
- * Merge elememt
+ * Merge elements
  * 
  * Select two elements and merge them 
  *
@@ -15,11 +15,6 @@
  *  - You can't use this script for commercial purposes 
  */ 
 
-
-/*
-Author: Thomas Klok Rohde
-Description: Proof-of-concept of how to use a Browser to collect form data.
-*/
 
 console.show();
 console.clear();
