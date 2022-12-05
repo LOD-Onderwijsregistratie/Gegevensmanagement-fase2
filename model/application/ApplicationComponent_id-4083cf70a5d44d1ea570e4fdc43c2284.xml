@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadata harvester (copy)"
-    id="id-4083cf70a5d44d1ea570e4fdc43c2284"
-    documentation="Scan naar en extraheer metadata uit de meest populaire databronnen, zoals enterprise datawarehouses, data lakes, operationele databases, bedrijfsapplicaties, clouddatastores en niet-relationele datastores"/>

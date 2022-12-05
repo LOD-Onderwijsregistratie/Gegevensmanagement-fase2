@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Loggingfunctie"
     id="id-441a11be123f44398879618fab09845a"
-    documentation="Het vastleggen wie welke handelingen met welke gegevens uitvoert.">
+    documentation="Het vastleggen wie welke handelingen met welke gegevens uitvoert.&#xA;">
   <properties
       key="Type"
       value="Applicatiefunctie"/>

@@ -965,7 +965,7 @@
             height="25"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
-            href="ApplicationFunction_id-5053d558e37e461596dd90addb5de166.xml#id-5053d558e37e461596dd90addb5de166"/>
+            href="ApplicationFunction_id-441a11be123f44398879618fab09845a.xml#id-441a11be123f44398879618fab09845a"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -978,7 +978,7 @@
             height="42"/>
         <archimateElement
             xsi:type="archimate:ApplicationFunction"
-            href="ApplicationFunction_id-bb11aba1e0f14ad5be9a888a5d01893e.xml#id-bb11aba1e0f14ad5be9a888a5d01893e"/>
+            href="ApplicationFunction_id-9496f150fa6e43cdb9811bf59978a9cf.xml#id-9496f150fa6e43cdb9811bf59978a9cf"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"

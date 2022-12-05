@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeksdatagovernancefunctie"
     id="id-9496f150fa6e43cdb9811bf59978a9cf"
-    documentation="Het beheren en afdwingen van licentievoorwaarden van onderzoeksgegevens.">
+    documentation="Het beheren en afdwingen van licentievoorwaarden van onderzoeksgegevens.&#xA;">
   <properties
       key="Type"
       value="Applicatiefunctie"/>
