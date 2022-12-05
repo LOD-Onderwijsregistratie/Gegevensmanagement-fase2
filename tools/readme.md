@@ -1,4 +1,4 @@
-# Tools om te werken in de deze repository
+# Tools om te werken in deze repository
 
 Hier verzamelen we tools om het werken in de archimate-repository te vergemakkelijken. 
 
