@@ -1,8 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data analyse"
-    id="id-5c3348f34a3048fe883989d13f571686">
-  <properties
-      key="ORIG"
-      value="id-0b51d8b73d064840830e50b668f20b87"/>
-</archimate:BusinessFunction>
+    id="id-5c3348f34a3048fe883989d13f571686"
+    documentation="&#xA;"/>

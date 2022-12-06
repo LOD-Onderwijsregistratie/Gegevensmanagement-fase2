@@ -2,12 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-9475b10212b4485fbb655e4fe2f8577e">
-  <properties
-      key="ORIG"
-      value="id-a96711793283475e965535dcc7ba9aa2"/>
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-68878966f24f4bd588f998d92e00272b.xml#id-68878966f24f4bd588f998d92e00272b"/>
+      href="BusinessFunction_id-db52360c96f0418ab8e449edc59fb903.xml#id-db52360c96f0418ab8e449edc59fb903"/>
   <target
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_id-3c678a6fd62549d985148eb7a1e931ea.xml#id-3c678a6fd62549d985148eb7a1e931ea"/>

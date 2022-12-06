@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verstrekken"
     id="id-b8a596992a1441b4b932a9c5a00bc257"
-    documentation="todo: naar TOBE functie toevoegen voor ' ter beschikking stellen' ">
-  <properties
-      key="ORIG"
-      value="id-42ab444de8484f489a40ca317acb7021"/>
-</archimate:BusinessService>
+    documentation="todo: naar TOBE functie toevoegen voor ' ter beschikking stellen' "/>

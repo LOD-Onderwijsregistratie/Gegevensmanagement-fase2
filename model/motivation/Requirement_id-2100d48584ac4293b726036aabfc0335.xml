@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voldoen aan 'Recht op gegevenswissing'"
     id="id-2100d48584ac4293b726036aabfc0335"
-    documentation="Artikel 17 Recht op gegevenswissing („recht op vergetelheid”)">
-  <properties
-      key="ORIG"
-      value="id-c84d76dfc06643b1a8ff6e52c78dfcfd"/>
-</archimate:Requirement>
+    documentation="Artikel 17 Recht op gegevenswissing („recht op vergetelheid”)"/>

@@ -1,8 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Drilldown"
-    id="id-dac77cf991b44eb9910abacf050af34d">
-  <properties
-      key="ORIG"
-      value="id-4f8f7e15f35a4c5bae3ff8d3d730cd4b"/>
-</archimate:ApplicationService>
+    id="id-dac77cf991b44eb9910abacf050af34d"/>

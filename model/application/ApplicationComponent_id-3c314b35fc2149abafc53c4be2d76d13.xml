@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rapportage specificatie"
-    id="id-3c314b35fc2149abafc53c4be2d76d13">
-  <properties
-      key="ORIG"
-      value="id-f28d29c857aa4dd2b498a02019173fb7"/>
-</archimate:ApplicationComponent>
+    id="id-3c314b35fc2149abafc53c4be2d76d13"/>

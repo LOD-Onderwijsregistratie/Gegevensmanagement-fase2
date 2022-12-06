@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Creeren (gegevensproduct)"
     id="id-f6fc5565f2f446afaf18c027d154f1b5"
-    documentation="creeren bestaat uit persisteren of virtualiseren">
-  <properties
-      key="ORIG"
-      value="id-6656d790f8244498ba7a638d425dcec0"/>
-</archimate:BusinessFunction>
+    documentation="creeren bestaat uit persisteren of virtualiseren"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensmodel"
     id="id-ead1a690c5e64a148a957243f48c8933"
-    documentation="betreft de realisatie van de gegevensmodellencyclus: Conceptueel, Logisch en Technisch model">
-  <properties
-      key="ORIG"
-      value="id-53ab3aef399f4c10b770f3e7b6084dac"/>
-</archimate:BusinessObject>
+    documentation="betreft de realisatie van de gegevensmodellencyclus: Conceptueel, Logisch en Technisch model"/>

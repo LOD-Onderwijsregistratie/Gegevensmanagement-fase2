@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Portaal Management"
     id="id-09ee8254df7949df81eb0ae407f95e99"
-    documentation="Het online aanbieden van diensten.">
-  <properties
-      key="ORIG"
-      value="id-5e9f2c7ece61499eb9bf78f33e93f52d"/>
-</archimate:ApplicationService>
+    documentation="Het online aanbieden van diensten."/>

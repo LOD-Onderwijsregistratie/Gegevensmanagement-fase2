@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Formuleren onderzoeksprobleem"
     id="id-6f4c9f39f1cd4e0a961e7ecacb3604b5"
-    documentation="De actor heeft het vermogen om het op te lossen vraagstuk te duiden en te beschrijven waarmee de actor onderzoeksdoelstellingen en onderzoeksvragen kan ontwikkelen">
-  <properties
-      key="ORIG"
-      value="id-ac925f5351dd4ae193b78f580047abb1"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om het op te lossen vraagstuk te duiden en te beschrijven waarmee de actor onderzoeksdoelstellingen en onderzoeksvragen kan ontwikkelen"/>

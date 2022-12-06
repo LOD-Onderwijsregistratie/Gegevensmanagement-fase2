@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Vault"
-    id="id-dc5fbb709dcc4487bfe5c157c5c7a67b">
-  <properties
-      key="ORIG"
-      value="id-730f1b4e35284ec8aac0aca2303c23c3"/>
-</archimate:ApplicationComponent>
+    id="id-dc5fbb709dcc4487bfe5c157c5c7a67b"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemer"
     id="id-8006ad202e614ccea7220391d09170f3"
-    documentation="Interne en externe afnemers van gegevensproducten en/of informatieproducten&#xD;&#xA;Realisatie van informatieproducten (bv. door interne afnemers) valt buiten scope van deze architectuur.">
-  <properties
-      key="ORIG"
-      value="id-a3ff9ee4455a45fbb4a087c4f363cbea"/>
-</archimate:BusinessActor>
+    documentation="Interne en externe afnemers van gegevensproducten en/of informatieproducten&#xD;&#xA;Realisatie van informatieproducten (bv. door interne afnemers) valt buiten scope van deze architectuur."/>

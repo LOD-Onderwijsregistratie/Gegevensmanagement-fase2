@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Demand Interface Services"
     id="id-15a93432833841599eb6fbd3bab50903"
-    documentation="Functies tbv het creëren van de gebruikersomgeving. (bron: HOSA research data management 1.0)">
-  <properties
-      key="ORIG"
-      value="id-54e68ae79b4b41758989d98445315d37"/>
-</archimate:BusinessService>
+    documentation="Functies tbv het creëren van de gebruikersomgeving. (bron: HOSA research data management 1.0)"/>

@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virtual Operational Intelligence Environment (VOIE)"
-    id="id-9047f970a5ae4fb3989d3d6acf11759c">
-  <properties
-      key="ORIG"
-      value="id-0700fd06c7e644849b2b067cd8a739f0"/>
-</archimate:ApplicationComponent>
+    id="id-9047f970a5ae4fb3989d3d6acf11759c"/>

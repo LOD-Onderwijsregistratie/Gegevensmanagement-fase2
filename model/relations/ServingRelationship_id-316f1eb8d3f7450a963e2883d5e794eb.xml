@@ -2,9 +2,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-316f1eb8d3f7450a963e2883d5e794eb">
-  <properties
-      key="ORIG"
-      value="id-93dd3927a0bf4201a175762ec96f8844"/>
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-3305e1537434438f895c3fa991aade19.xml#id-3305e1537434438f895c3fa991aade19"/>

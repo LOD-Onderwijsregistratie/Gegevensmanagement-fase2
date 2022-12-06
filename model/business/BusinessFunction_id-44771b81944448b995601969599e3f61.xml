@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren referentie data"
-    id="id-44771b81944448b995601969599e3f61">
-  <properties
-      key="ORIG"
-      value="id-df7659be3a4b4ecc8399e491d4601b2e"/>
-</archimate:BusinessFunction>
+    id="id-44771b81944448b995601969599e3f61"/>

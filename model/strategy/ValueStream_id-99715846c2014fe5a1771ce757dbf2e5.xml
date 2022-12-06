@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatie verstrekken"
     id="id-99715846c2014fe5a1771ce757dbf2e5"
-    documentation="De organisatie van mensen en middelen waarmee een waardeketen de opgedragen informatieverstrekking over de primaire (wettelijke) taak kan uitvoeren.">
-  <properties
-      key="ORIG"
-      value="id-520cd005df4a41eb9d7f9ff3888e5ec4"/>
-</archimate:ValueStream>
+    documentation="De organisatie van mensen en middelen waarmee een waardeketen de opgedragen informatieverstrekking over de primaire (wettelijke) taak kan uitvoeren."/>

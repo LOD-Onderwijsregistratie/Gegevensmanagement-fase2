@@ -1,8 +1,4 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Application Lifecycle Management"
-    id="id-1c6d6be4de704148ad131e8f82016355">
-  <properties
-      key="ORIG"
-      value="id-74878ec2520c47db8b536f0ecd1a7848"/>
-</archimate:Capability>
+    id="id-1c6d6be4de704148ad131e8f82016355"/>

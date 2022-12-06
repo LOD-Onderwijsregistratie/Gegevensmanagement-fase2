@@ -4,7 +4,4 @@
     id="id-99d0c01db3254bf4ba07d6d396aba6c0"
     documentation="RDF is een standaard voor het uitwisselen van gegevens op het web. Als partijen data als ‘RDF-Triples’ uitwisselen, wordt het voor de ontvangende partij makkelijker om de data geautomatiseerd te interpreteren en te linken aan andere data(sets). Overheden die gegevens gestructureerd ter beschikking willen stellen kunnen RDF gebruiken zodat zijzelf of overige partijen  deze gegevens (geautomatiseerd) kunnen koppelen.&#xD;&#xA;&#xD;&#xA;https://www.forumstandaardisatie.nl/open-standaarden/rdf">
   <properties/>
-  <properties
-      key="ORIG"
-      value="id-ad5fb3db56bf4d3a9f9b37ecc941351d"/>
 </archimate:Constraint>

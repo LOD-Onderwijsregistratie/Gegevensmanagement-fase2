@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toezicht BIO"
     id="id-e0246cbc2e7b46d8913827cbedec70e2"
-    documentation="Toezicht BIO borgt de veilige verwerking van persoonsgegevens waarbij gekeken wordt naar de juiste toepassing van maatregelen die de Beschikbaarheid, Integriteit en Vertrouwelijkheid van gegevens beschermen">
-  <properties
-      key="ORIG"
-      value="id-b37e92b4b4bd441cb089967609fd067c"/>
-</archimate:BusinessFunction>
+    documentation="Toezicht BIO borgt de veilige verwerking van persoonsgegevens waarbij gekeken wordt naar de juiste toepassing van maatregelen die de Beschikbaarheid, Integriteit en Vertrouwelijkheid van gegevens beschermen&#xA;"/>

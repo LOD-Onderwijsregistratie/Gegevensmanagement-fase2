@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verrijken"
     id="id-ba3bb9763e9541568d7866eca4608581"
-    documentation="De actor heeft het vermogen gegevens(verzamelingen) en informatie(bronnen) al dan niet geautomatiseerd aan te vullen of aan te passen met additionele informatie die elders verkregen is, waardoor de actor de informatiewaarde van de gegevens(verzameling) of informatie(bron) verhoogt.">
-  <properties
-      key="ORIG"
-      value="id-a89930c3931e48e2b9e579c41d11e17f"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen gegevens(verzamelingen) en informatie(bronnen) al dan niet geautomatiseerd aan te vullen of aan te passen met additionele informatie die elders verkregen is, waardoor de actor de informatiewaarde van de gegevens(verzameling) of informatie(bron) verhoogt."/>

@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ETL OI"
-    id="id-cfb486938c4e45a39b4f47286602f7ab">
-  <properties
-      key="ORIG"
-      value="id-a8ebcf427d014b1ab9c81a736b9f557b"/>
-</archimate:ApplicationComponent>
+    id="id-cfb486938c4e45a39b4f47286602f7ab"/>

@@ -1,8 +1,4 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Programmeren"
-    id="id-2d26dbae8d144a8faa68a1766b049161">
-  <properties
-      key="ORIG"
-      value="id-093d62438e3b4adf8e202b94b9b25d1e"/>
-</archimate:Capability>
+    id="id-2d26dbae8d144a8faa68a1766b049161"/>

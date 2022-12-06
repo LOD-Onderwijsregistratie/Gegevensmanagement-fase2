@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modelleren (meta) gegevens"
     id="id-7e0be3b881cd44f7918f998969f064d4"
-    documentation="Gegevens en de metagegevens die deze gegevens beschrijven worden beschreven in een samenhang van gegevensmodellen beschreven in de gegevensmodellencyclus op&#xD;&#xA;Business niveau:&#xD;&#xA;1. Bedrijfsobjectenmodel (BOM)&#xD;&#xA;2. Concept model&#xD;&#xA;&#xD;&#xA;Applicatie niveau:&#xD;&#xA;3. Gegevensobjectenmodel (GOM)&#xD;&#xA;4. Logisch Data Model (LDM)&#xD;&#xA;&#xD;&#xA;Technisch niveau:&#xD;&#xA;5. Artifactenmodel&#xD;&#xA;6. Technisch Data Model (TDM)">
-  <properties
-      key="ORIG"
-      value="id-797e0a7ed6c14489a9e18508522cee8a"/>
-</archimate:BusinessFunction>
+    documentation="Gegevens en de metagegevens die deze gegevens beschrijven worden beschreven in een samenhang van gegevensmodellen beschreven in de gegevensmodellencyclus op&#xD;&#xA;Business niveau:&#xD;&#xA;1. Bedrijfsobjectenmodel (BOM)&#xD;&#xA;2. Concept model&#xD;&#xA;&#xD;&#xA;Applicatie niveau:&#xD;&#xA;3. Gegevensobjectenmodel (GOM)&#xD;&#xA;4. Logisch Data Model (LDM)&#xD;&#xA;&#xD;&#xA;Technisch niveau:&#xD;&#xA;5. Artifactenmodel&#xD;&#xA;6. Technisch Data Model (TDM)"/>

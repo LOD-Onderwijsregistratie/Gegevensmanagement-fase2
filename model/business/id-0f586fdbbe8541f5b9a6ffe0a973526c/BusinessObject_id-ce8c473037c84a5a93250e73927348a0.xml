@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoek"
     id="id-ce8c473037c84a5a93250e73927348a0"
-    documentation="Een zorgvuldige, verifieerbare en systematische studie van een bepaalde kwestie.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-20345d2c-76c7-9260-1cd3-1a4711468a23">
-  <properties
-      key="ORIG"
-      value="id-a523c16abee846d39b139237a7877223"/>
-</archimate:BusinessObject>
+    documentation="Een zorgvuldige, verifieerbare en systematische studie van een bepaalde kwestie.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-20345d2c-76c7-9260-1cd3-1a4711468a23"/>

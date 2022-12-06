@@ -1,8 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Data science"
-    id="id-3acb9d154ca34fb5810a4becd747d3a6">
-  <properties
-      key="ORIG"
-      value="id-5f2253d79d8b4cb88256829b2495a570"/>
-</archimate:ApplicationService>
+    id="id-3acb9d154ca34fb5810a4becd747d3a6"/>

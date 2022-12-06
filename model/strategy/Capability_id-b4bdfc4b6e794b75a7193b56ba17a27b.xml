@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Pseudonimiseren"
     id="id-b4bdfc4b6e794b75a7193b56ba17a27b"
-    documentation="De Actor heeft het vermogen een gegevensverzameling of informatieborn met persoonsgegevens zodanig te transformeren dat het niet meer direct terug te leiden is tot een persoon, waardoor de vertrouwelijkheid van de gepseudonimiseerde gegevensverzameling of informatiebron verlaagd word en de actor deze bronnen met minder restricties kan (laten) verwerken. Het pseudoniem wordt apart met de bijhorende persoonsidentificatie bewaard zodat re-identificatie mogelijk is.">
-  <properties
-      key="ORIG"
-      value="id-48e4c0f4ae7541de95460d566420fbf5"/>
-</archimate:Capability>
+    documentation="De Actor heeft het vermogen een gegevensverzameling of informatieborn met persoonsgegevens zodanig te transformeren dat het niet meer direct terug te leiden is tot een persoon, waardoor de vertrouwelijkheid van de gepseudonimiseerde gegevensverzameling of informatiebron verlaagd word en de actor deze bronnen met minder restricties kan (laten) verwerken. Het pseudoniem wordt apart met de bijhorende persoonsidentificatie bewaard zodat re-identificatie mogelijk is."/>

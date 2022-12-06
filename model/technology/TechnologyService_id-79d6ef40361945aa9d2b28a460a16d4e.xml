@@ -1,8 +1,4 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="File service uitwisselplaform gegevensleveringen"
-    id="id-79d6ef40361945aa9d2b28a460a16d4e">
-  <properties
-      key="ORIG"
-      value="id-8fb0f582a2fc4109a949337fe6978db2"/>
-</archimate:TechnologyService>
+    id="id-79d6ef40361945aa9d2b28a460a16d4e"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financial Clearance Services"
     id="id-359cec753d434bad9ec999f0b3658300"
-    documentation="Aanbieders en afnemers worden ondersteund bij de verrekening die bij het afnemen en gebruik van de data en diensten van toepassing is. (bron: HOSA research data management 1.0)">
-  <properties
-      key="ORIG"
-      value="id-a48984620da84609bddb0ec8fe3e85f8"/>
-</archimate:BusinessService>
+    documentation="Aanbieders en afnemers worden ondersteund bij de verrekening die bij het afnemen en gebruik van de data en diensten van toepassing is. (bron: HOSA research data management 1.0)"/>

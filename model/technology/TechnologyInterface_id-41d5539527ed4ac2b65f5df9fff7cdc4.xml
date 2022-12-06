@@ -1,8 +1,4 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SQL"
-    id="id-41d5539527ed4ac2b65f5df9fff7cdc4">
-  <properties
-      key="ORIG"
-      value="id-c0699c7721f44e7698d28127dccf9829"/>
-</archimate:TechnologyInterface>
+    id="id-41d5539527ed4ac2b65f5df9fff7cdc4"/>

@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data integriteit"
-    id="id-feed577ef7b64678978d4bcf8b7c2170">
-  <properties
-      key="ORIG"
-      value="id-1edda37ac6aa43dcbd39ee651ee49ecc"/>
-</archimate:BusinessFunction>
+    id="id-feed577ef7b64678978d4bcf8b7c2170"/>

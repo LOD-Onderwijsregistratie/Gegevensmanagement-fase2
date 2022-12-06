@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interaction Services"
     id="id-13ef375254c44abfb3b8c1b0b24a4722"
-    documentation="Tot slot biedt dit platform diensten aan rond interactie tussen aanbieders en afnemers van data. Deze interactie richt zich op het gebruik en het bereiken van de juiste kwaliteit van de data. Voor de werking van het platform is het essentieel dat deze interactie goed is ontworpen. (bron: HOSA research data management 1.0)">
-  <properties
-      key="ORIG"
-      value="id-86325bf3f7484b69b357501656fcd874"/>
-</archimate:BusinessService>
+    documentation="Tot slot biedt dit platform diensten aan rond interactie tussen aanbieders en afnemers van data. Deze interactie richt zich op het gebruik en het bereiken van de juiste kwaliteit van de data. Voor de werking van het platform is het essentieel dat deze interactie goed is ontworpen. (bron: HOSA research data management 1.0)"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interpreteren gegevens"
     id="id-12dc2ebdd4b5458cac6bfcc2a8699abf"
-    documentation="De actor heeft het vermogen om gegevensverzamelingen, informatiebronnen en analyseresultaten zodanig te duiden zodat de actor conclusies kan trekken uit de analyseresultaten.">
-  <properties
-      key="ORIG"
-      value="id-18dd827fe3df4657ae492c4f77ae8c44"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om gegevensverzamelingen, informatiebronnen en analyseresultaten zodanig te duiden zodat de actor conclusies kan trekken uit de analyseresultaten."/>

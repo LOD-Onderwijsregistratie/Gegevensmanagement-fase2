@@ -1,8 +1,4 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operational Intelligence"
-    id="id-778587b1aced44a69a945bca01e9b0cf">
-  <properties
-      key="ORIG"
-      value="id-b16b25a9d0c14f5580fec058770aa900"/>
-</archimate:Capability>
+    id="id-778587b1aced44a69a945bca01e9b0cf"/>

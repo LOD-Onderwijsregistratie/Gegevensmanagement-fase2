@@ -1,8 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatieproduct"
-    id="id-aeddb5f745d84ca4b89c036f667befe6">
-  <properties
-      key="ORIG"
-      value="id-8524cf6a95b6454c843731ec74392674"/>
-</archimate:BusinessObject>
+    id="id-aeddb5f745d84ca4b89c036f667befe6"/>

@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata Publicatie (MDP)"
-    id="id-0abbd9314d684ddebce05dc6a59fe2d4">
-  <properties
-      key="ORIG"
-      value="id-4440db761e96425bb8bfee7f67ddd37e"/>
-</archimate:ApplicationComponent>
+    id="id-0abbd9314d684ddebce05dc6a59fe2d4"/>

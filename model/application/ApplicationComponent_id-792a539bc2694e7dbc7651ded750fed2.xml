@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="GGM"
-    id="id-792a539bc2694e7dbc7651ded750fed2">
-  <properties
-      key="ORIG"
-      value="id-70d4b1032f7749479dccda1d6ff92eba"/>
-</archimate:ApplicationComponent>
+    id="id-792a539bc2694e7dbc7651ded750fed2"/>

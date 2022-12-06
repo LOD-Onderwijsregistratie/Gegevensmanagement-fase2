@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschikbaar stelling"
     id="id-94665f062f524d8385c318c22c543c48"
-    documentation="Beschikbaar stelling is het contract dat de gemaakte afspraken tav de 'beschikbaar gestelde gegevens' beschrijft. Dit contract tussen distributeur en afnemer beschrijft minimaal grondslag en doelbinding, voor welke termijn de gegevens (beschreven adhv het bedrijfsobject 'beschikbaar gestelde gegevens') beschikbaar zijn binnen welke algemene /specifieke randvoorwaarden.">
-  <properties
-      key="ORIG"
-      value="id-32cddf713aef4028b2be887f96d6a3c3"/>
-</archimate:Contract>
+    documentation="Beschikbaar stelling is het contract dat de gemaakte afspraken tav de 'beschikbaar gestelde gegevens' beschrijft. Dit contract tussen distributeur en afnemer beschrijft minimaal grondslag en doelbinding, voor welke termijn de gegevens (beschreven adhv het bedrijfsobject 'beschikbaar gestelde gegevens') beschikbaar zijn binnen welke algemene /specifieke randvoorwaarden.&#xA;"/>

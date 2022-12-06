@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheer"
-    id="id-fdabc266d9a5430f9d5139e8846ed3f4">
-  <properties
-      key="ORIG"
-      value="id-e9dd4846f5a247748bd978a20e76b4c3"/>
-</archimate:BusinessFunction>
+    id="id-fdabc266d9a5430f9d5139e8846ed3f4"/>

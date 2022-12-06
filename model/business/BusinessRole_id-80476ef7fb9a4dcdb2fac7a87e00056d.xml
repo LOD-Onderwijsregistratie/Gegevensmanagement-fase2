@@ -1,8 +1,4 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevenseigenaar"
-    id="id-80476ef7fb9a4dcdb2fac7a87e00056d">
-  <properties
-      key="ORIG"
-      value="id-9642cc3de64c4173b625d661d570e5ce"/>
-</archimate:BusinessRole>
+    id="id-80476ef7fb9a4dcdb2fac7a87e00056d"/>

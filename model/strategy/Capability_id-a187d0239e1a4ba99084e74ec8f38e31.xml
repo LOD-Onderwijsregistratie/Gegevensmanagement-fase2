@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bepalen informatiebronnen"
     id="id-a187d0239e1a4ba99084e74ec8f38e31"
-    documentation="De actor heeft het vermogen om vast te stellen welke gegevensverzamelingen en informatiebronnen nodig zijn waarmee de actor het onderzoek kan uitvoeren.">
-  <properties
-      key="ORIG"
-      value="id-afa9f17fbd174e439bd2190bc1a5f880"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om vast te stellen welke gegevensverzamelingen en informatiebronnen nodig zijn waarmee de actor het onderzoek kan uitvoeren."/>

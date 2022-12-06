@@ -1,8 +1,4 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data integratie"
-    id="id-a357759a7ca748c580aff49dd80b2ea2">
-  <properties
-      key="ORIG"
-      value="id-d96e39ce7b6c4787b90339e2bd3876a9"/>
-</archimate:TechnologyService>
+    id="id-a357759a7ca748c580aff49dd80b2ea2"/>

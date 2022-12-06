@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DWH / DIP store"
-    id="id-74d6cbe271624b83a510710104108e7a">
-  <properties
-      key="ORIG"
-      value="id-23e4d123c1284014aa5497cb43216df5"/>
-</archimate:ApplicationComponent>
+    id="id-74d6cbe271624b83a510710104108e7a"/>

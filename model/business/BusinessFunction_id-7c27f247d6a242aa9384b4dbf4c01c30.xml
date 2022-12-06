@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoek resultaat borging"
     id="id-7c27f247d6a242aa9384b4dbf4c01c30"
-    documentation="Het collectioneren van onderzoeksgegevens die bewaard moeten blijven na het onderzoek en het registreren van de onderzoeksresultaten in de relevante interne en externe administraties.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-7c2c3403-9d6b-ddd0-0931-50d85f044d01">
-  <properties
-      key="ORIG"
-      value="id-1dce7102d2e34238b97d78480a10f979"/>
-</archimate:BusinessFunction>
+    documentation="Het collectioneren van onderzoeksgegevens die bewaard moeten blijven na het onderzoek en het registreren van de onderzoeksresultaten in de relevante interne en externe administraties.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-7c2c3403-9d6b-ddd0-0931-50d85f044d01"/>

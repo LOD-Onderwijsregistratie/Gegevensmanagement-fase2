@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens distribueren"
     id="id-c207edd0b05c424db7bf5b89c8e2300d"
-    documentation="De organisatie van mensen en middelen waarmee een waardeketen gegevens beschikbaar stelt ten behoeve van opgedragen informatieverstrekking.">
-  <properties
-      key="ORIG"
-      value="id-9284740f6df04aec8cf5048bc8399ce3"/>
-</archimate:ValueStream>
+    documentation="De organisatie van mensen en middelen waarmee een waardeketen gegevens beschikbaar stelt ten behoeve van opgedragen informatieverstrekking."/>

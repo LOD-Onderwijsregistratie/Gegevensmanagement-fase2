@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Definieren onderzoek"
-    id="id-c58fc3a6f6494a159123c41da6b03bf1">
-  <properties
-      key="ORIG"
-      value="id-adf01c3d769f43d584ee0c61d934a32c"/>
-</archimate:BusinessFunction>
+    id="id-c58fc3a6f6494a159123c41da6b03bf1"/>

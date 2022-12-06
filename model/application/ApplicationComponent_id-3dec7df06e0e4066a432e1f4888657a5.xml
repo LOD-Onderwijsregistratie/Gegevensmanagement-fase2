@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Virtual Analytics Environment (VAE)"
-    id="id-3dec7df06e0e4066a432e1f4888657a5">
-  <properties
-      key="ORIG"
-      value="id-a559eda74ac0499b85d588ce6a5430eb"/>
-</archimate:ApplicationComponent>
+    id="id-3dec7df06e0e4066a432e1f4888657a5"/>

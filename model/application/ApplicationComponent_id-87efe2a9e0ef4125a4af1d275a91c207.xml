@@ -19,7 +19,4 @@
   <properties
       key="Type"
       value="Referentieapplicatie"/>
-  <properties
-      key="ORIG"
-      value="id-9f08c64de12140889e079e5d0e262540"/>
 </archimate:ApplicationComponent>

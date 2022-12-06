@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Gegevens-integratie"
     id="id-da23729aed9b4b90b15b9449993d79c1"
-    documentation="Pipelines.&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="ORIG"
-      value="id-2f306e059dec413a9529028207955146"/>
-</archimate:ApplicationService>
+    documentation="Pipelines.&#xD;&#xA;&#xD;&#xA;"/>

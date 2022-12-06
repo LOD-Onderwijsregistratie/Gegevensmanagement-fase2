@@ -1,8 +1,4 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Elastic Search"
-    id="id-7edabebae84d4ee8b766febc73ffda6c">
-  <properties
-      key="ORIG"
-      value="id-d3560f6e8f4f41e880b69609d38ef7d4"/>
-</archimate:SystemSoftware>
+    id="id-7edabebae84d4ee8b766febc73ffda6c"/>

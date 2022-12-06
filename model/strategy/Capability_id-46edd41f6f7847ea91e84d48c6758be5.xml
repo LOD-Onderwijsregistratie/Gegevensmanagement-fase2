@@ -1,8 +1,4 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analytics"
-    id="id-46edd41f6f7847ea91e84d48c6758be5">
-  <properties
-      key="ORIG"
-      value="id-2dcbcac9c4084626acd63ac6be65f789"/>
-</archimate:Capability>
+    id="id-46edd41f6f7847ea91e84d48c6758be5"/>

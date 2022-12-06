@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Horizontale metadata lineage"
     id="id-c3cff380d6b54cafb600ea7d1935a964"
-    documentation="Gebruik end-to-end lineage voor gebruiksscenario's op het gebied van governance en compliance, evenals voor impactanalyse">
-  <properties
-      key="ORIG"
-      value="id-5fac13cec9fe486eb00124ccdfa6349f"/>
-</archimate:BusinessFunction>
+    documentation="Gebruik end-to-end lineage voor gebruiksscenario's op het gebied van governance en compliance, evenals voor impactanalyse"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Selecteren"
     id="id-05fcf351ab8941cabc3ec321137d92c6"
-    documentation="De actor heeft het vermogen om, de gewenste gegevens(sets) en/of informatie(bronnen), uit het beschikbare aanbod uit te kiezen, waarmee de actor het onderzoek kan uitvoeren.">
-  <properties
-      key="ORIG"
-      value="id-0af60a813e0c463b95ef8f0065f43f85"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om, de gewenste gegevens(sets) en/of informatie(bronnen), uit het beschikbare aanbod uit te kiezen, waarmee de actor het onderzoek kan uitvoeren."/>

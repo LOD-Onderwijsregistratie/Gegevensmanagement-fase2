@@ -1,9 +1,0 @@
-<archimate:BusinessService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Catalogus &amp; zoek service"
-    id="id-0d3ff026796e4c33909366850c4cc43a"
-    documentation="Functies tbv het kunnen zoeken en vinden van diensten en data&#xD;&#xA;&#xD;&#xA;Aanbieders van onderzoeksdata en -diensten worden ondersteund bij het vastleggen van relevante informatie en kwaliteitskenmerken over de data of dienst. Enkele voorbeelden zijn mate van robuustheid en veiligheid, toepassingsgebied of gegarandeerde bestaansduur van de dienst. Deze meta-data worden toegepast en getoond in de Catalogue and Search Services.">
-  <properties
-      key="ORIG"
-      value="id-14ff633f08ac4406b75577a3f148b7a9"/>
-</archimate:BusinessService>

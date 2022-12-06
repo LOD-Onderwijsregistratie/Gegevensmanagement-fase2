@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Archivering"
     id="id-af74a83e85934b95a2e6997278c971ea"
-    documentation="Archiefmanagement is de werkwijze om de input, throughput en output van gegevens van klanten, ketenpartners en elk bedrijfsproces conform de Archiefwet te archiveren en te ontsluiten. Deze gegevens moeten duurzaam geordend en toegankelijk zijn.&#xA;Strikt genomen houdt Archiefmanagement zich bezig met het vastleggen van inhoud, vorm en structuur (metagegevens) van informatieobjecten, het borgen van de authenticiteit, betrouwbaarheid en integriteit van informatieobjecten, het zorg dragen voor bruikbaarheid en beschikbaarheid van informatieobjecten, en het vernietigen, verwijderen (schonen) en overbrengen van informatieobjecten.">
-  <properties
-      key="ORIG"
-      value="id-1e297315bb3a490f8dd10d1505951e42"/>
-</archimate:ApplicationService>
+    documentation="Archiefmanagement is de werkwijze om de input, throughput en output van gegevens van klanten, ketenpartners en elk bedrijfsproces conform de Archiefwet te archiveren en te ontsluiten. Deze gegevens moeten duurzaam geordend en toegankelijk zijn.&#xA;Strikt genomen houdt Archiefmanagement zich bezig met het vastleggen van inhoud, vorm en structuur (metagegevens) van informatieobjecten, het borgen van de authenticiteit, betrouwbaarheid en integriteit van informatieobjecten, het zorg dragen voor bruikbaarheid en beschikbaarheid van informatieobjecten, en het vernietigen, verwijderen (schonen) en overbrengen van informatieobjecten."/>

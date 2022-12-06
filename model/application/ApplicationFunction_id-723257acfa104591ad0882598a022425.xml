@@ -1,8 +1,4 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeks disseminatie beheer"
-    id="id-723257acfa104591ad0882598a022425">
-  <properties
-      key="ORIG"
-      value="id-0c96b11f0fb84bcd876ef5610b8f12e6"/>
-</archimate:ApplicationFunction>
+    id="id-723257acfa104591ad0882598a022425"/>

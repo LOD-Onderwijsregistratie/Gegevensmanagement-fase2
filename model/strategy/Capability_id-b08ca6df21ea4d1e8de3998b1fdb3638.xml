@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rapporteren onderzoek"
     id="id-b08ca6df21ea4d1e8de3998b1fdb3638"
-    documentation="De actor heeft het vermogen om verslag te doen van de voortgang van het onderzoek zodat de actor ...">
-  <properties
-      key="ORIG"
-      value="id-53653aba2f7d49aa890e70529023d1bb"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om verslag te doen van de voortgang van het onderzoek zodat de actor ..."/>

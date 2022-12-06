@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Verstrekken Management Informatie"
     id="id-3744012027414c2e92bd1223ff7d09c0"
-    documentation="Ontwikkelen, publiceren en uitvoeren van managementanalyses en rapportages.">
-  <properties
-      key="ORIG"
-      value="id-ea385a77304d4a5cb46f813e72888236"/>
-</archimate:ApplicationService>
+    documentation="Ontwikkelen, publiceren en uitvoeren van managementanalyses en rapportages."/>

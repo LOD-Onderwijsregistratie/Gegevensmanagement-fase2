@@ -4,9 +4,6 @@
     name="indexeren"
     id="id-1d3c8c1516934a02a6c9e4f577269d2c"
     accessType="1">
-  <properties
-      key="ORIG"
-      value="id-4c1ee58a05764c65aa4302541eb837b4"/>
   <source
       xsi:type="archimate:TechnologyFunction"
       href="TechnologyFunction_id-fbb639a70d034ed6ad63346afa45d62f.xml#id-fbb639a70d034ed6ad63346afa45d62f"/>

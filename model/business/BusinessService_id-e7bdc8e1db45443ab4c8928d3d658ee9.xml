@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Download services"
     id="id-e7bdc8e1db45443ab4c8928d3d658ee9"
-    documentation="Het platform biedt voorzieningen om gegevens, beschikbaar in andere bronnen, op te halen of mee te koppelen. Bijvoorbeeld uit bronnen van op het platform opererende en participerende partijen (bron: HOSA research data management 1.0)">
-  <properties
-      key="ORIG"
-      value="id-3c146edb3daf4511a6472f9a02ce07ac"/>
-</archimate:BusinessService>
+    documentation="Het platform biedt voorzieningen om gegevens, beschikbaar in andere bronnen, op te halen of mee te koppelen. Bijvoorbeeld uit bronnen van op het platform opererende en participerende partijen (bron: HOSA research data management 1.0)"/>
