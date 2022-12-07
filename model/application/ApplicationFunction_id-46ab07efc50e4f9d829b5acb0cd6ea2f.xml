@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Computefunctie"
-    id="id-46ab07efc50e4f9d829b5acb0cd6ea2f"
-    documentation="Het uitvoeren van (grootschalige, high-performance) rekenkundige operaties.">
-  <properties
-      key="Type"
-      value="Applicatiefunctie"/>
-</archimate:ApplicationFunction>
