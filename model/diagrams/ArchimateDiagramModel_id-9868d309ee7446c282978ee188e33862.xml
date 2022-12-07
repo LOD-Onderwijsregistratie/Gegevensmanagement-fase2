@@ -66,7 +66,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e9150fc6b014486694e61553960e2f25">
+      id="id-e9150fc6b014486694e61553960e2f25"
+      fillColor="#c0c0c0">
     <bounds
         x="372"
         y="354"
@@ -78,7 +79,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5fd6ab6702be4dbab330f6aab9e81958">
+      id="id-5fd6ab6702be4dbab330f6aab9e81958"
+      fillColor="#c0c0c0">
     <bounds
         x="504"
         y="354"
@@ -90,7 +92,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ccbb7c6064f44a26b5398e712d582d6f">
+      id="id-ccbb7c6064f44a26b5398e712d582d6f"
+      fillColor="#c0c0c0">
     <bounds
         x="504"
         y="294"
@@ -114,7 +117,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-655e6139c81c4a72b6b230a718be2ed6">
+      id="id-655e6139c81c4a72b6b230a718be2ed6"
+      fillColor="#c0c0c0">
     <bounds
         x="636"
         y="294"
@@ -126,7 +130,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ea82589d74104f7d8c375cb4063462a0">
+      id="id-ea82589d74104f7d8c375cb4063462a0"
+      fillColor="#c0c0c0">
     <bounds
         x="636"
         y="234"
@@ -162,7 +167,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-f657d3ffb3eb4721b346ba9fffd16e44">
+      id="id-f657d3ffb3eb4721b346ba9fffd16e44"
+      fillColor="#c0c0c0">
     <bounds
         x="72"
         y="354"
@@ -174,7 +180,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9edeadf1da134d37a4508fe76ca0d4d8">
+      id="id-9edeadf1da134d37a4508fe76ca0d4d8"
+      fillColor="#c0c0c0">
     <bounds
         x="204"
         y="294"
@@ -186,7 +193,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8f33e36e2b7d4202864cbfbdbd5de7dd">
+      id="id-8f33e36e2b7d4202864cbfbdbd5de7dd"
+      fillColor="#c0c0c0">
     <bounds
         x="204"
         y="234"
