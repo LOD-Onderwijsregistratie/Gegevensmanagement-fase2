@@ -543,7 +543,7 @@
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-8acdb34004c14dfb80fa1112dfea4909.xml#id-8acdb34004c14dfb80fa1112dfea4909"/>
+          href="ApplicationComponent_id-5ed0df61fb8b4e1eb221ed110e37a133.xml#id-5ed0df61fb8b4e1eb221ed110e37a133"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -570,7 +570,7 @@
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-9dab3a8e01cc492caa2f380dc534505f.xml#id-9dab3a8e01cc492caa2f380dc534505f"/>
+          href="ApplicationComponent_id-521062efbd344fb5ad5670a5e24b28ed.xml#id-521062efbd344fb5ad5670a5e24b28ed"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -1176,11 +1176,11 @@
           height="49"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-711d0205df7248e0987de501a2c93696.xml#id-711d0205df7248e0987de501a2c93696"/>
+          href="SystemSoftware_id-9da81ef236e94175bb26863b67a1173b.xml#id-9da81ef236e94175bb26863b67a1173b"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-741994dba7c745409a9c52976d112ae8.xml#id-741994dba7c745409a9c52976d112ae8"/>
+        href="TechnologyService_id-557836c88743475b967c924dbb39504d.xml#id-557836c88743475b967c924dbb39504d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

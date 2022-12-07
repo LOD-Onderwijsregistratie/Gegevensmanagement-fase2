@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Landing Zone"
+    id="id-0c28e4f2959b4b519ef1ed7bea3b9e29"
+    documentation="Een plaats waar de gegevenseigenaar gegevens plaatst en waar de gegevens niet kunnen worden gewijzigd. De landingszone bestaat uit twee delen. Een logboek van wie wanneer welke data heeft aangeboden en de gegevens plus de licentieovereenkomst. De voorwaarden van de licentieovereenkomst worden overgenomen van de bron en zijn een directe afgeleide van de governance die wordt geboden door de onderzoeksvraag.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-e6d6d089-bde4-e8c4-7de2-ea0c5a9ebd30&#xA;">
+  <properties
+      key="Type"
+      value="Gebundelde applicatiefunctie"/>
+  <properties
+      key="Externe informatie"
+      value="https://www.edugroepen.nl/sites/RDM_platform/RDM%20Glossary/D/Data%20Landing%20Zone.aspx"/>
+</archimate:ApplicationFunction>

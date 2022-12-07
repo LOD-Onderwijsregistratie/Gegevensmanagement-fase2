@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6ae881d93c47439dbac5f6d779a7157e"
+    documentation="Een zorgvuldige, verifieerbare en systematische studie van een bepaalde kwestie.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-20345d2c-76c7-9260-1cd3-1a4711468a23">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-29660810f4284ee192c717c58fc0866f.xml#id-29660810f4284ee192c717c58fc0866f"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8faf8ca62e814f6e9ddf6dfdffe1bc62.xml#id-8faf8ca62e814f6e9ddf6dfdffe1bc62"/>
+</archimate:AccessRelationship>

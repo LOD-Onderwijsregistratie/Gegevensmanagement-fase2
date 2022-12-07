@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensvisualisatiefunctie"
+    id="id-ca2df00ede394d04b1b292e48d099c55"
+    documentation="Het ondersteunen van de visualisatie van gegevens&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-052b90f0-3486-ff2b-10ca-224f12fd8194&#xA;">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

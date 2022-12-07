@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Catalogus Management"
-    id="id-a6efaeda9e0849859d8dfac3843fd4b7"/>
+    id="id-a6efaeda9e0849859d8dfac3843fd4b7"
+    documentation="&#xA;"/>

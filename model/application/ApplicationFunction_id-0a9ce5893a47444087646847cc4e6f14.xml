@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Indexatiefunctie"
-    id="id-0a9ce5893a47444087646847cc4e6f14"
-    documentation="Het indexeren van interne en externe wetenschappelijke content ten behoeve van doorzoekbaarheid.">
-  <properties
-      key="Type"
-      value="Applicatiefunctie"/>
-</archimate:ApplicationFunction>

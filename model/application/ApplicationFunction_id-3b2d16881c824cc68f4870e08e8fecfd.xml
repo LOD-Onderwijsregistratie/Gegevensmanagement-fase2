@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vault"
     id="id-3b2d16881c824cc68f4870e08e8fecfd"
-    documentation="Biedt de mogelijkheid om versies van gegevensworkflows, algoritmen en indien nodig (subsets van) gegevens op te slaan.">
+    documentation="Biedt de mogelijkheid om versies van gegevensworkflows, algoritmen en indien nodig (subsets van) gegevens op te slaan.&#xA;">
   <properties
       key="Type"
       value="Gebundelde applicatiefunctie"/>

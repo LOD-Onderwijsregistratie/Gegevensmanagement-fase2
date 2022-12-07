@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Compute &amp; Data Staging"
     id="id-7cb73856f14b46428141cd253a694a6f"
-    documentation="Ruimte binnen de VRE om gebruik te maken van verschillende compute solutions en waar nodig eenvoudig te configureren datastaging om kosteneffectief te bufferen voor grootschalige berekeningen.">
+    documentation="Ruimte binnen de VRE om gebruik te maken van verschillende compute solutions en waar nodig eenvoudig te configureren datastaging om kosteneffectief te bufferen voor grootschalige berekeningen.&#xA;">
   <properties
       key="Type"
       value="Gebundelde applicatiefunctie"/>

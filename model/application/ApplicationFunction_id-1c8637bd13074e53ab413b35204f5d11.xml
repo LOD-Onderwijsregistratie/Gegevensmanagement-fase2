@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Rapportagefunctie"
-    id="id-1c8637bd13074e53ab413b35204f5d11"
-    documentation="Het bieden van een integraal en historisch beeld van gegevens">
-  <properties
-      key="Type"
-      value="Applicatiefunctie"/>
-</archimate:ApplicationFunction>

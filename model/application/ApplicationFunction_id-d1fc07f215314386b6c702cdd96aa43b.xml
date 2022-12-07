@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Cleansing Zone"
     id="id-d1fc07f215314386b6c702cdd96aa43b"
-    documentation="Het gebied voor gecontroleerd detecteren en corrigeren (of verwijderen) van corrupte of onnauwkeurige records uit een recordset, tabel of database. Vooral gebruikt in databases verwijst de term naar het identificeren van onvolledige, onjuiste, onnauwkeurige, irrelevante, enz. delen van de gegevens en het vervolgens vervangen, wijzigen of verwijderen van deze 'vuile' gegevens. Het gecontroleerde vermogen om de datamodificatie van gegevens(sets) bij te houden, is noodzakelijk voor data-trailing / -audits, het voldoen aan voorwaarden van bepaalde subsidies en is de sleutel voor monitoren. De licentieovereenkomst kan vereisen dat passende correcties worden voorgesteld / gemaakt om de brongegevens te corrigeren / verbeteren.">
+    documentation="Het gebied voor gecontroleerd detecteren en corrigeren (of verwijderen) van corrupte of onnauwkeurige records uit een recordset, tabel of database. Vooral gebruikt in databases verwijst de term naar het identificeren van onvolledige, onjuiste, onnauwkeurige, irrelevante, enz. delen van de gegevens en het vervolgens vervangen, wijzigen of verwijderen van deze 'vuile' gegevens. Het gecontroleerde vermogen om de datamodificatie van gegevens(sets) bij te houden, is noodzakelijk voor data-trailing / -audits, het voldoen aan voorwaarden van bepaalde subsidies en is de sleutel voor monitoren. De licentieovereenkomst kan vereisen dat passende correcties worden voorgesteld / gemaakt om de brongegevens te corrigeren / verbeteren.&#xA;">
   <properties
       key="Type"
       value="Gebundelde applicatiefunctie"/>

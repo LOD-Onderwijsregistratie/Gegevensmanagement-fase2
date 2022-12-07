@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Referentiedata Management"
-    id="id-cac3e329d3fa4c01b27e831887d0f811"/>
+    id="id-cac3e329d3fa4c01b27e831887d0f811"
+    documentation="&#xA;"/>
