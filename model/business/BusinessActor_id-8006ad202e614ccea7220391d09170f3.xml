@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Afnemer"
     id="id-8006ad202e614ccea7220391d09170f3"
-    documentation="Interne en externe afnemers van gegevensproducten en/of informatieproducten&#xD;&#xA;Realisatie van informatieproducten (bv. door interne afnemers) valt buiten scope van deze architectuur."/>
+    documentation="Dit kan een individu, afdeling of organisatie zijn die de rol van afnemer heeft."/>
