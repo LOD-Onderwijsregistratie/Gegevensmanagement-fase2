@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[DA ZD] Kantbeeld"
+    id="id-73a78e2e893842bc8f1cad2d5fa1e2c2"
+    documentation="Bundeling van (generieke) inzagefuncties:&#xD;&#xA;Tonen klantgegevens: MijnProfiel/BeherenProfiel, Handelingsperspectief, Instellingen/voorkeur&#xD;&#xA;Tonen producten&#xD;&#xA;Tonen taken&#xD;&#xA;Tonen contacthistorie&#xD;&#xA;Tonen (lopende) zaken: overzicht van de zaken die de eindtoestand (zoals bepaald in ZaakTypeCatalogus) nog niet hebben bereikt&#xD;&#xA;Tonen correspondentie&#xD;&#xA;Tonen afspraken&#xD;&#xA;Bovenstaande functies kunnen gebruik maken van een downloadcomponent.&#xD;&#xA;Via een slim ontworpen gebruikersinterface kan de gewenste informatie eenvoudig en intuitief worden gevonden.&#xD;&#xA;"/>

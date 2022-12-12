@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[DA ZD] Authenticatie component"
+    id="id-cc1bc79809f0485e8f946db7ed3cd224"
+    documentation="Zorgt voor identificatie van de gebruiker, waarbij gebruik gemaakt wordt van de externe authenticatiedienst van eHerkenning."/>

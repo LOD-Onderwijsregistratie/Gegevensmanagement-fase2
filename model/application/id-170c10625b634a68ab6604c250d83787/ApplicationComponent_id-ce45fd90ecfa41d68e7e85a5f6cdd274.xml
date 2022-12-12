@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[DA ZD] Formulier Component"
+    id="id-ce45fd90ecfa41d68e7e85a5f6cdd274"
+    documentation="Transactiecomponent, waarmee een taak kan worden uitgevoerd via een invulbaar webformulier, dat eindigt met een formele &quot;indien&quot;-actie door e klant."/>
