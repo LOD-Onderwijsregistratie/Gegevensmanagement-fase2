@@ -13,7 +13,11 @@ Om deze jArchi-scripts te kunnen spelen heb je de jArchi-plugin voor Archi nodig
 ##  Merge elements
 
 Dit is een script waarmee twee in Archi geselecteerde elementen kunnen worden vergeleken en naar keuze samengevoegd. 
-![afbeelding](https://user-images.githubusercontent.com/20146034/205668423-cd850eb7-6bf2-4136-90bc-985492dac1f2.png)
+
+## Copy views tot model
+
+Kopieer één of meer geselecteerde views met al hun elementen naar een nieuw model.
+
 
 
 
