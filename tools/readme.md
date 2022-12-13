@@ -14,7 +14,7 @@ Om deze jArchi-scripts te kunnen spelen heb je de jArchi-plugin voor Archi nodig
 
 Dit is een script waarmee twee in Archi geselecteerde elementen kunnen worden vergeleken en naar keuze samengevoegd. 
 
-## Copy views tot model
+## Copy views to model
 
 Kopieer één of meer geselecteerde views met al hun elementen naar een nieuw model.
 
