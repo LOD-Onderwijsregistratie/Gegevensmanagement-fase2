@@ -3,7 +3,7 @@
  * 
  * Select one or more views to copy them to a newly created model including all the concepts (and objects)
  *
- * (c) 2022 Gerald Groot Roessink
+ * (c) 2022 Gerald Groot Roessink,  2022-12-14
  * 
  * This work is licensed under the HUMANS Licence described below.
  * 
@@ -32,10 +32,9 @@ if(vw_selection.size() < 1 ) {
 console.log("> Starting Copy");
 
 
-var select=false; 
 // array for collection
-const  allelements = [] ;
-const  allrelations = [] ;
+const  foundelements = [] ;
+const  foundrelations = [] ;
 const  allviews = [] ;
 
 
@@ -45,17 +44,29 @@ vw_selection.each(function(view) {
 	allviews.push(view);
 	console.log("------------------\n   view", view.name);	
 
-	//get all elements
+	//get all elements(no duplicates)
+	var found=false;
 	var elements = $(view).find('element') ; 
 	elements.each(function(e) {	
-		allelements.push(e.concept)
+		for(var i = 0; i < foundelements.length; i++) {
+			if (foundelements[i].id == e.concept.id) {found=true};
+		};
+		if (!found) {
+			foundelements.push(e.concept); 
+		};	
 	});
 	console.log("   number of elements", elements.length);
 
-	//get all relations
+	//get all relations (no duplicates)
+	found=false;
 	var relations = $(view).find('relationship');
-	relations.each(function(r) {	
-		allrelations.push(r.concept)
+	relations.each(function(r) {
+		for(var i = 0; i < foundrelations.length; i++) {
+			if (foundrelations[i].id == r.concept.id) {found=true};
+		};
+		if (!found) {
+			foundrelations.push(r.concept);
+		};	
 	});
 	console.log("   number of relations", relations.length);
 
@@ -63,6 +74,8 @@ vw_selection.each(function(view) {
 });
 
 console.log ("-------");
+foundelements.forEach(function(x){console.log(x)});
+
 
 // Create a new model and set it as the current model
 $.model.create("Stripped model").setAsCurrent();
@@ -73,9 +86,10 @@ var folder = $("folder.Business").first(); // Find folder called "Business"
 var BO_folder=folder.createFolder("Business-object"); // Create a sub-folder 
 
 // Copy elements to new model
-for(var ie = 0; ie < allelements.length; ie++) {
-	var element = allelements[ie] ;
+for(var ie = 0; ie < foundelements.length; ie++) {
 
+
+	var element = foundelements[ie] ;
 	var elementcopy = {} ;
 	if (element.type == "business-object") {
 		elementcopy = model.createElement(element.type, element.name, BO_folder);
@@ -99,9 +113,11 @@ for(var ie = 0; ie < allelements.length; ie++) {
 
 };
 
+
+
 // Copy relationships to new model
-for(var ir = 0; ir < allrelations.length; ir++) {
-	var relation = allrelations[ir];
+for(var ir = 0; ir < foundrelations.length; ir++) {
+	var relation = foundrelations[ir];
 	
 	src=find_copy_concept("ORIG", relation.source.id); // find source-copy in new model
 	tar=find_copy_concept("ORIG", relation.target.id); // find target-copy in new model
