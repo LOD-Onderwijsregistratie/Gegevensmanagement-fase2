@@ -201,6 +201,7 @@ for(var iv = 0; iv < allviews.length; iv++) {
 		
 		// if need be: add other attributes 
 		obj.imagePosition = element.imagePosition;
+		obj.fillColor = element.fillColor;
 
     });
  
