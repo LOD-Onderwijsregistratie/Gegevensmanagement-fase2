@@ -611,11 +611,11 @@
       <bendpoints
           startY="-87"
           endX="-48"
-          endY="99"/>
+          endY="105"/>
       <bendpoints
           startX="48"
           startY="-87"
-          endY="99"/>
+          endY="105"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-fab8f28e47994a489b036f5149ba6594.xml#id-fab8f28e47994a489b036f5149ba6594"/>
@@ -935,9 +935,9 @@
         target="id-de70f16cd7ae45e4bca5f9df6987ebc1">
       <bendpoints
           startX="18"
-          startY="141"
+          startY="129"
           endX="-252"
-          endY="-120"/>
+          endY="-110"/>
       <bendpoints
           startX="270"
           startY="141"
