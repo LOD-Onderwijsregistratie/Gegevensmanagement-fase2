@@ -10,6 +10,11 @@ https://github.com/archimatetool/archi-scripting-plugin
 
 Om deze jArchi-scripts te kunnen spelen heb je de jArchi-plugin voor Archi nodig. Daarvoor moet je miniem bedrag doneren. Zie wiki/Quick start van die Github.
 
+
+##  Add identitynote on view
+
+Voeg een note toe aan een geselecteerde view op basis van documentation en properties.
+
 ##  Merge elements
 
 Dit is een script waarmee twee in Archi geselecteerde elementen kunnen worden vergeleken en naar keuze samengevoegd. 
