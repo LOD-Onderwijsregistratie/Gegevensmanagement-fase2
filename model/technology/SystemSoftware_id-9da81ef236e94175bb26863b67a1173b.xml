@@ -1,8 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Triple Store"
-    id="id-9da81ef236e94175bb26863b67a1173b">
-  <properties
-      key="ORIG"
-      value="id-16680dcf402f4d2eac35e9dfe2662f46"/>
-</archimate:SystemSoftware>
+    id="id-9da81ef236e94175bb26863b67a1173b"
+    documentation="&#xA;"/>

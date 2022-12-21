@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderwijsdeelnemers"
-    id="id-4136ecc4c0f3470ebc8c4bcf5d65fa5d">
-  <properties
-      key="ORIG"
-      value="id-a725d2bdf0bc436fbec11a4420faa1d9"/>
-</archimate:ApplicationComponent>
+    id="id-4136ecc4c0f3470ebc8c4bcf5d65fa5d"/>

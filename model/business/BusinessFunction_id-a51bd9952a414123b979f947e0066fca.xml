@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Terugmelding"
-    id="id-a51bd9952a414123b979f947e0066fca">
-  <properties
-      key="ORIG"
-      value="id-9da186406c1a46f78ada8ca39525d7b4"/>
-</archimate:BusinessFunction>
+    id="id-a51bd9952a414123b979f947e0066fca"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beschikbaar gestelde gegevens"
     id="id-88ae7eb1471f462a82b970a98ecc5be3"
-    documentation="Beschikbaar gestelde gegevens beschrijft welke gegevens ten behoeve van een bepaalde doelstelling (berschreven in 'beschikbaar stelling') beschikbaar worden gesteld ">
-  <properties
-      key="ORIG"
-      value="id-df85139e81fc4ff785a7bc680678525e"/>
-</archimate:BusinessObject>
+    documentation="Beschikbaar gestelde gegevens beschrijft welke gegevens ten behoeve van een bepaalde doelstelling (berschreven in 'beschikbaar stelling') beschikbaar worden gesteld &#xA;"/>

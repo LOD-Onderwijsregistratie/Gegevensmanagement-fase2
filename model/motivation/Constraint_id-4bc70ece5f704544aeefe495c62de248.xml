@@ -1,8 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AVG compliant"
-    id="id-4bc70ece5f704544aeefe495c62de248">
-  <properties
-      key="ORIG"
-      value="id-5ae055e1417f4e9f87b98d54ff7dfc9f"/>
-</archimate:Constraint>
+    id="id-4bc70ece5f704544aeefe495c62de248"
+    documentation="DUO voldoet aan de Algemene Verordening Gegevensbescherming (AVG)"/>

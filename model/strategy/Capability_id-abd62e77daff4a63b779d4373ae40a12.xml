@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authentiseren"
     id="id-abd62e77daff4a63b779d4373ae40a12"
-    documentation="De actor heeft het vermogen om de geclaimde identiteit van een natuurlijk persoon of aparaat evalueren en te bevestigen of af te wijzen, zodat de actor er zeker van is dat de afnemer van de dienst of product daadwerkelijk degene is die het beweert te zijn.">
-  <properties
-      key="ORIG"
-      value="id-a3b6cd21bd2f4b908605be65ec6f0043"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om de geclaimde identiteit van een natuurlijk persoon of aparaat evalueren en te bevestigen of af te wijzen, zodat de actor er zeker van is dat de afnemer van de dienst of product daadwerkelijk degene is die het beweert te zijn."/>

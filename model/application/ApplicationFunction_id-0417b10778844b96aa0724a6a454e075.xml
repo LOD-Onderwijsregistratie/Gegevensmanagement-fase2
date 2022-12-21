@@ -2,11 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data ingestionfunctie"
     id="id-0417b10778844b96aa0724a6a454e075"
-    documentation="Het inladen van gegevens van een andere bron conform de afgesproken voorwaarden van de bijbehorende licentieovereenkomst.">
+    documentation="Het inladen van gegevens van een andere bron conform de afgesproken voorwaarden van de bijbehorende licentieovereenkomst.&#xA;">
   <properties
       key="Type"
       value="Applicatiefunctie"/>
-  <properties
-      key="ORIG"
-      value="id-5dd73528398e43118e87ab41ad6744cf"/>
 </archimate:ApplicationFunction>

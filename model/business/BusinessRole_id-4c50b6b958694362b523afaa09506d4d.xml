@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Domein architect"
     id="id-4c50b6b958694362b523afaa09506d4d"
-    documentation="De domeinarchitect stelt architectuur op voor één van de domeinen van DUO. De domeinarchitect is verantwoordelijk voor het definieren, bewaken en beheren van de architectuur componenten en views binnen dat domein.">
-  <properties
-      key="ORIG"
-      value="id-17061d0298934ac5af7de6205b74a72d"/>
-</archimate:BusinessRole>
+    documentation="De domeinarchitect stelt architectuur op voor één van de domeinen van DUO. De domeinarchitect is verantwoordelijk voor het definieren, bewaken en beheren van de architectuur componenten en views binnen dat domein."/>

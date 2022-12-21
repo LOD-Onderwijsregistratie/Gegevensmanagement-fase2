@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Studiefinanciering"
-    id="id-72dae04992e64eeb8836d01f4f7cc98a">
-  <properties
-      key="ORIG"
-      value="id-9e924c3842a144a19c5d3ffd95eeed77"/>
-</archimate:ApplicationComponent>
+    id="id-72dae04992e64eeb8836d01f4f7cc98a"/>

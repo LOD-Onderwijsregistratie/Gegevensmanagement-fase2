@@ -1,8 +1,4 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Data governance management"
-    id="id-c20df3ba2d744445b5b66c71a712b276">
-  <properties
-      key="ORIG"
-      value="id-78e1dc756fd74a57bbe6c861aadb9a86"/>
-</archimate:ApplicationService>
+    id="id-c20df3ba2d744445b5b66c71a712b276"/>

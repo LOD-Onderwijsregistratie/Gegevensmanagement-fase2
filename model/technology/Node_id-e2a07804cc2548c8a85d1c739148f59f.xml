@@ -1,8 +1,4 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensmodellen Server"
-    id="id-e2a07804cc2548c8a85d1c739148f59f">
-  <properties
-      key="ORIG"
-      value="id-6394d61937714800be704f3a04451952"/>
-</archimate:Node>
+    id="id-e2a07804cc2548c8a85d1c739148f59f"/>

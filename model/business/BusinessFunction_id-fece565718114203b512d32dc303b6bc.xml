@@ -1,8 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data toegang"
-    id="id-fece565718114203b512d32dc303b6bc">
-  <properties
-      key="ORIG"
-      value="id-71d347abe4b24a11898e1a40d35818c3"/>
-</archimate:BusinessFunction>
+    id="id-fece565718114203b512d32dc303b6bc"
+    documentation="&#xA;"/>

@@ -1,0 +1,12 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Sharing Zone"
+    id="id-82350fb12ddc49978264e45f6ae0bc3c"
+    documentation="Een plek waar de gebruiker van de VRE gegevens kan delen; dit omvat archivering van de studie. De gegevens in de Data Sharing Zone kunnen niet worden gewijzigd, maar alleen worden verwijderd door een gebruiker van de werkruimte. De zone voor het delen van gegevens bestaat uit drie delen: meta, log en gegevens en voorwaarden. Het verschil met een data-landingzone, is wie de controle heeft over de gegevens: data-landingzone = leverancier / eigenaar van de data; zone voor gegevensuitwisseling = werkruimtegebruiker.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-92cc290e-be35-6aa9-8736-9436ff80dd94&#xA;">
+  <properties
+      key="Type"
+      value="Gebundelde applicatiefunctie"/>
+  <properties
+      key="Externe informatie"
+      value="https://www.edugroepen.nl/sites/RDM_platform/RDM%20Glossary/D/Data%20Sharing%20Zone.aspx"/>
+</archimate:ApplicationFunction>

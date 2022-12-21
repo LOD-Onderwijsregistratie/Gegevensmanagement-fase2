@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeksgegevensverzamelfunctie"
     id="id-26c59b2b79c34909a7243ef786fceefe"
-    documentation="Het ondersteunen van het verzamelen van onderzoeksgegevens&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-0eb46487-76b5-e3a5-dc17-96c8abbc8f30">
-  <properties
-      key="ORIG"
-      value="id-89c9e3ae860d4f039335a2ce80c973c4"/>
-</archimate:ApplicationFunction>
+    documentation="Het ondersteunen van het verzamelen van onderzoeksgegevens&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-0eb46487-76b5-e3a5-dc17-96c8abbc8f30&#xA;"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voldoen aan 'Recht op overdraagbaarheid'"
     id="id-b7f138bfc36146d592cc8296f828b199"
-    documentation="Artikel 20 Recht op overdraagbaarheid van gegevens">
-  <properties
-      key="ORIG"
-      value="id-4dc6a684821a4c438ab63e2011c51749"/>
-</archimate:Requirement>
+    documentation="Artikel 20 Recht op overdraagbaarheid van gegevens"/>

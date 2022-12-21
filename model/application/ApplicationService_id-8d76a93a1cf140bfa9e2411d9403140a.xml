@@ -1,8 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata opslag"
-    id="id-8d76a93a1cf140bfa9e2411d9403140a">
-  <properties
-      key="ORIG"
-      value="id-93e3a426ed924efebc872c6f96f77190"/>
-</archimate:ApplicationService>
+    id="id-8d76a93a1cf140bfa9e2411d9403140a"
+    documentation="&#xA;"/>

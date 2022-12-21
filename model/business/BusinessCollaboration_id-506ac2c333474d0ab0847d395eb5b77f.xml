@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bronhouder Toezichthouder samenwerking"
     id="id-506ac2c333474d0ab0847d395eb5b77f"
-    documentation="Bronhouder en toezichthouder hebben beide een belang tav het rechtmatig verwerken van gegevens en werken daarbij samen">
-  <properties
-      key="ORIG"
-      value="id-bd06adc3cce64e3dbd4923ee1e36a4e2"/>
-</archimate:BusinessCollaboration>
+    documentation="Bronhouder en toezichthouder hebben beide een belang tav het rechtmatig verwerken van gegevens en werken daarbij samen&#xA;"/>

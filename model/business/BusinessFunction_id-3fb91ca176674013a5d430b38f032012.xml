@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Governance"
-    id="id-3fb91ca176674013a5d430b38f032012">
-  <properties
-      key="ORIG"
-      value="id-b3d9c169c8674c0e85ac2cd9d7449255"/>
-</archimate:BusinessFunction>
+    id="id-3fb91ca176674013a5d430b38f032012"/>

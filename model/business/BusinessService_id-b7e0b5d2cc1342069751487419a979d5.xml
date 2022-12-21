@@ -1,8 +1,4 @@
 <archimate:BusinessService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gebruik (Voortbrengen - realisatie)"
-    id="id-b7e0b5d2cc1342069751487419a979d5">
-  <properties
-      key="ORIG"
-      value="id-d80b9a20eaa741dc91840bee136bf93b"/>
-</archimate:BusinessService>
+    id="id-b7e0b5d2cc1342069751487419a979d5"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Audit"
     id="id-c36e04e1137f40e4bb25a6fa28273993"
-    documentation="Het vastleggen van handelingen van gebruikers voor beveiligingsdoeleinden.">
-  <properties
-      key="ORIG"
-      value="id-1238f94c141e4f5b8ddc6cdd8d4cf515"/>
-</archimate:TechnologyService>
+    documentation="Het vastleggen van handelingen van gebruikers voor beveiligingsdoeleinden."/>

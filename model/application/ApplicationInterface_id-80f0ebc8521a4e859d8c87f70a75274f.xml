@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensmagazijn"
     id="id-80f0ebc8521a4e859d8c87f70a75274f"
-    documentation="gegensintegratie in het operationele domein ">
-  <properties
-      key="ORIG"
-      value="id-24061866c36643378ea942c29d6dc509"/>
-</archimate:ApplicationInterface>
+    documentation="gegensintegratie in het operationele domein "/>

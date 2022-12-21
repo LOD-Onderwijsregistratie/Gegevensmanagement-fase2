@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Batch import"
     id="id-8754a6795de14adb93785c57754fb281"
-    documentation="via pipelines&#xD;&#xA;">
-  <properties
-      key="ORIG"
-      value="id-3a41db97e2fb43d2af5ec793470a7a5e"/>
-</archimate:TechnologyService>
+    documentation="via pipelines&#xD;&#xA;"/>

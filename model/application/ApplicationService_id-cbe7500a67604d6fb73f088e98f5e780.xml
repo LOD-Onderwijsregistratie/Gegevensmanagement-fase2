@@ -1,8 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Gegevensanalyse"
-    id="id-cbe7500a67604d6fb73f088e98f5e780">
-  <properties
-      key="ORIG"
-      value="id-2aacb2f30479454ba751475e21370f62"/>
-</archimate:ApplicationService>
+    id="id-cbe7500a67604d6fb73f088e98f5e780"
+    documentation="&#xA;"/>

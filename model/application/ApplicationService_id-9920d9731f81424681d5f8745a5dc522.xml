@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Datakwaliteit"
     id="id-9920d9731f81424681d5f8745a5dc522"
-    documentation="Het verbeteren van de kwaliteit van een gegevensverzameling door duplicaten te detecteren en samen te voegen, ontbrekende gegevens aan te vullen en foutieve records te verwijderen (cleansing).">
-  <properties
-      key="ORIG"
-      value="id-c5c60d671d8b44988c525a17632c1ef6"/>
-</archimate:ApplicationService>
+    documentation="Het verbeteren van de kwaliteit van een gegevensverzameling door duplicaten te detecteren en samen te voegen, ontbrekende gegevens aan te vullen en foutieve records te verwijderen (cleansing).&#xA;"/>

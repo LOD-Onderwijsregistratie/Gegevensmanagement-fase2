@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Input management"
     id="id-bead8ba64f384c908f2788afd65005b6"
-    documentation="Inputmanagement is de werkwijze om de gegevensinput van elk bedrijfsproces zo gestandaardiseerd en gestructureerd mogelijk, en daarmee zo effectief en zo efficiënt mogelijk, te doen verlopen. Het is de manier waarop de input van DUO klanten (of ketenpartners) behandeld wordt en aangeboden ter verdere verwerking binnen DUO. Strikt genomen houdt Inputmanagement zich bezig met het ontvangen, classificeren, registreren en de eerste distributie van input. Dus in principe niet met de inhoud van de informatie. Daarvoor is afnemereigenaar verantwoordelijk.">
-  <properties
-      key="ORIG"
-      value="id-b9153692a5d74f698a3814f89b7b877d"/>
-</archimate:ApplicationService>
+    documentation="Inputmanagement is de werkwijze om de gegevensinput van elk bedrijfsproces zo gestandaardiseerd en gestructureerd mogelijk, en daarmee zo effectief en zo efficiënt mogelijk, te doen verlopen. Het is de manier waarop de input van DUO klanten (of ketenpartners) behandeld wordt en aangeboden ter verdere verwerking binnen DUO. Strikt genomen houdt Inputmanagement zich bezig met het ontvangen, classificeren, registreren en de eerste distributie van input. Dus in principe niet met de inhoud van de informatie. Daarvoor is afnemereigenaar verantwoordelijk."/>

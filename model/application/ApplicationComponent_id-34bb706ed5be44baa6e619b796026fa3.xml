@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeksgegevensbeheersysteem"
     id="id-34bb706ed5be44baa6e619b796026fa3"
-    documentation="Een systeem dat het beheer van onderzoeksgegevens tijdens de uitvoering van het onderzoek ondersteunt.">
+    documentation="Een systeem dat het beheer van onderzoeksgegevens tijdens de uitvoering van het onderzoek ondersteunt.&#xA;">
   <properties
       key="Externe informatie"/>
   <properties
@@ -19,7 +19,4 @@
   <properties
       key="Type"
       value="Referentieapplicatie"/>
-  <properties
-      key="ORIG"
-      value="id-c39384081bc640458f716fcdc0e9bcbf"/>
 </archimate:ApplicationComponent>

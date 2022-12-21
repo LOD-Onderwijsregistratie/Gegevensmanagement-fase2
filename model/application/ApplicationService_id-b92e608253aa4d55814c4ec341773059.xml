@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Drilldown"
+    id="id-b92e608253aa4d55814c4ec341773059"
+    documentation="Dienst die het mogelijk maakt om informatieproducten te maken waar op gegevens van een hoog aggregatie niveau ingezoomd kan worden naar een lager aggregatie niveau of zelfs de individuele gegevens.&#xA;"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Datamining"
     id="id-6c416a200dad41e2ae3ebc2fa454d53f"
-    documentation="Datamining is het gericht zoeken naar (statistische) verbanden in gegevensverzamelingen met als doel de digitale dienstverlening te verbeteren">
-  <properties
-      key="ORIG"
-      value="id-b4b522cd249e4bda8a7e8ba273d06014"/>
-</archimate:ApplicationService>
+    documentation="Datamining is het gericht zoeken naar (statistische) verbanden in gegevensverzamelingen met als doel de digitale dienstverlening te verbeteren&#xA;"/>

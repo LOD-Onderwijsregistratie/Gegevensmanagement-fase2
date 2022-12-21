@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toezicht houden"
     id="id-69cc4f4d04d447008c73591480cfe742"
-    documentation="Toezicht houden borgt de rechtmatige verwerking van gegevens. Primair wordt hier gekeken of gegevens beschikbaar gesteld worden conform rechtmatige overeenkomst met de afnemer, maar daarnaast wordt ook gekeken naar de juiste toepassing van  genomen maatregelen.">
-  <properties
-      key="ORIG"
-      value="id-643f1fd4f8684282813463d3f8674c7b"/>
-</archimate:BusinessFunction>
+    documentation="Toezicht houden borgt de rechtmatige verwerking van gegevens. Primair wordt hier gekeken of gegevens beschikbaar gesteld worden conform rechtmatige overeenkomst met de afnemer, maar daarnaast wordt ook gekeken naar de juiste toepassing van  genomen maatregelen.&#xA;"/>

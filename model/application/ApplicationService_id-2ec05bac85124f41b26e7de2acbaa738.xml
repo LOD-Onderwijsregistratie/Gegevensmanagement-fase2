@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Autorisatie aanvraag"
     id="id-2ec05bac85124f41b26e7de2acbaa738"
-    documentation="Vastleggen doelbinding en grondslag voor de aanvraag ihkv onderzoek.">
-  <properties
-      key="ORIG"
-      value="id-f9bcf469f01f4a519b145200cdd2a0ff"/>
-</archimate:ApplicationService>
+    documentation="Vastleggen doelbinding en grondslag voor de aanvraag ihkv onderzoek.&#xA;"/>

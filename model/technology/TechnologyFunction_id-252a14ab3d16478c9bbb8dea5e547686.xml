@@ -1,8 +1,4 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Governance dataset"
-    id="id-252a14ab3d16478c9bbb8dea5e547686">
-  <properties
-      key="ORIG"
-      value="id-dbcbaea9b86a41458b8cf80ba0793f03"/>
-</archimate:TechnologyFunction>
+    id="id-252a14ab3d16478c9bbb8dea5e547686"/>

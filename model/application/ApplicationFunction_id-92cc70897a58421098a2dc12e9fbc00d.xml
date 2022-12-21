@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Wetenschappelijke zoekfunctie"
+    id="id-92cc70897a58421098a2dc12e9fbc00d"
+    documentation="Het ondersteunen van het doorzoeken van alle interne en externe wetenschappelijke content.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-a25a143c-5241-b3e1-d496-94258698397b&#xA;">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

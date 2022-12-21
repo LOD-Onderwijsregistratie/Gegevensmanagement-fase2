@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeks gegevens archief functie"
     id="id-f923920fa1514776823d5db29188beaa"
-    documentation="Het ondersteunen van het archiveren van onderzoeksgegevens&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-e4f42d41-801b-c0b0-82fb-10e26cf5172f">
-  <properties
-      key="ORIG"
-      value="id-39fb0f78a2a74ecb91f9a0205eb03425"/>
-</archimate:ApplicationFunction>
+    documentation="Het ondersteunen van het archiveren van onderzoeksgegevens&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-e4f42d41-801b-c0b0-82fb-10e26cf5172f"/>

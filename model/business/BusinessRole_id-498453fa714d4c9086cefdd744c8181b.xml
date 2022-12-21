@@ -1,8 +1,4 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Administrator"
-    id="id-498453fa714d4c9086cefdd744c8181b">
-  <properties
-      key="ORIG"
-      value="id-e24eba38c162485db88410ee14881393"/>
-</archimate:BusinessRole>
+    id="id-498453fa714d4c9086cefdd744c8181b"/>

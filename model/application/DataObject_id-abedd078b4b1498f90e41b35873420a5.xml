@@ -1,8 +1,4 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Staging data"
-    id="id-abedd078b4b1498f90e41b35873420a5">
-  <properties
-      key="ORIG"
-      value="id-7604fdb23f784c09b69fb5cf5ca5951c"/>
-</archimate:DataObject>
+    id="id-abedd078b4b1498f90e41b35873420a5"/>

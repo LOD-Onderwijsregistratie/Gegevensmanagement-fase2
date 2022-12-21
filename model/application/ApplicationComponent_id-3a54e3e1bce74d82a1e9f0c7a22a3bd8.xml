@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kinderopvang"
-    id="id-3a54e3e1bce74d82a1e9f0c7a22a3bd8">
-  <properties
-      key="ORIG"
-      value="id-dea12d6f9e5d4006a63031074a9f2b9e"/>
-</archimate:ApplicationComponent>
+    id="id-3a54e3e1bce74d82a1e9f0c7a22a3bd8"/>

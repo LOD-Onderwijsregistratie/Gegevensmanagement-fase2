@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datastagingfunctie"
+    id="id-6f00a824760847d7b9758636b7d5fbfa"
+    documentation="Het klaarzetten van grote datasets ten behoeve van het uitvoeren van rekenkundige operaties.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-6551bfa1-2eb5-c0ac-718f-b1193aa8b1ef&#xA;">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

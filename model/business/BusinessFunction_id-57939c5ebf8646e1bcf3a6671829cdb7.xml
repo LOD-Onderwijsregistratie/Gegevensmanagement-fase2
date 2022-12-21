@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verstrekken"
-    id="id-57939c5ebf8646e1bcf3a6671829cdb7">
-  <properties
-      key="ORIG"
-      value="id-7dc5ee3a082e46418609a8f313c734ee"/>
-</archimate:BusinessFunction>
+    id="id-57939c5ebf8646e1bcf3a6671829cdb7"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Ontsluiten gegevens"
     id="id-c180430ba466464daad0139b846533ff"
-    documentation="Ontsluiten van de informatie in de registers voor andere applicaties">
-  <properties
-      key="ORIG"
-      value="id-9a0cbe43663e44219505d88627a7d5c3"/>
-</archimate:ApplicationService>
+    documentation="Ontsluiten van de informatie in de registers voor andere applicaties&#xA;"/>

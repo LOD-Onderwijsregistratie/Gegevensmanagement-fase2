@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensanalyse, dissemniatie en publicatie rollen worden apart gefaciliteerd"
+    id="id-8564160cc172449b874956fa5ccd5d5a"
+    documentation="Gegevensanalyse, onderzoeksdissemeniatie en publicatie/beschikbaarstelling zijn rollen die apart uitgevoerd kunnen worden. Technische ondersteuning van deze rollen moet zodanig ingericht zijn zodat het apart uitvoeren van de rollen mogelijk is.&#xD;&#xA;De technische ondersteuning van een gegevensanalyse dat leidt tot een onderzoeksresultaat kan verschillen van de technische ondersteuning om het onderzoeksresultaat op te maken om het toegankelijk te laten consusmeren en kan verschillen van de technische ondersteuning om het opgemaakte resultaat daadwerkelijk te publiceren of beschikbaar te stellen aan de afnemer."/>

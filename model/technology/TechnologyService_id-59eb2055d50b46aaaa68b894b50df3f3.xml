@@ -1,8 +1,4 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Database connectie service (OLTP)"
-    id="id-59eb2055d50b46aaaa68b894b50df3f3">
-  <properties
-      key="ORIG"
-      value="id-a82380ba269c4c2fa30a39c4570b1469"/>
-</archimate:TechnologyService>
+    id="id-59eb2055d50b46aaaa68b894b50df3f3"/>

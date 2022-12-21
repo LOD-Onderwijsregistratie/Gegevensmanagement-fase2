@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="R-Shiny"
-    id="id-f0a39a12574c448bbbafef3507a616ec">
-  <properties
-      key="ORIG"
-      value="id-5d9f2637663f4280b79748d4a2ee94d1"/>
-</archimate:ApplicationComponent>
+    id="id-f0a39a12574c448bbbafef3507a616ec"/>

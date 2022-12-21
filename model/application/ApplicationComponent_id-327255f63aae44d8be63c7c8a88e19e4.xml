@@ -1,8 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Linked Data store"
-    id="id-327255f63aae44d8be63c7c8a88e19e4">
-  <properties
-      key="ORIG"
-      value="id-2495c22a9fcb483b8d0f26be647160a6"/>
-</archimate:ApplicationComponent>
+    id="id-327255f63aae44d8be63c7c8a88e19e4"
+    documentation="Database management systeem voor statements van het soort subject-poperty-object (triples). Dit heeft een eigen vraagtaal SPARQL (NOSQL)."/>

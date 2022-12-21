@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Historische data stage"
-    id="id-1a10b236c0264a66b6416e1f3f38d1d7">
-  <properties
-      key="ORIG"
-      value="id-849cb7e64c524348bcc90db1f3d30697"/>
-</archimate:ApplicationComponent>
+    id="id-1a10b236c0264a66b6416e1f3f38d1d7"/>

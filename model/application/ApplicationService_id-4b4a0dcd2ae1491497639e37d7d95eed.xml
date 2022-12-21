@@ -1,8 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Onderzoek"
-    id="id-4b4a0dcd2ae1491497639e37d7d95eed">
-  <properties
-      key="ORIG"
-      value="id-56126bd0318345ee89cb0d6bf66c6cd2"/>
-</archimate:ApplicationService>
+    id="id-4b4a0dcd2ae1491497639e37d7d95eed"
+    documentation="&#xA;"/>

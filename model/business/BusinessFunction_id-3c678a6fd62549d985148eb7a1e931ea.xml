@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Minimaliseren gegevens"
     id="id-3c678a6fd62549d985148eb7a1e931ea"
-    documentation="DataHub stelt alleen die gegevens beschikbaar die nodig zijn voor het beantwoorden van de analyse vraag met bijbehorende grondslag en doelbinding. De gegevens uit de brondata die niet nodig zijn voor het beantwoorden van de analysevraag worden niet (gegevensminimalisatie) of in een andere vorm (gegevenstransformatie) aangeboden. &#xD;&#xA;- Specifieke minimalisatie: aggregatie van gegevens&#xD;&#xA;- Specifieke transformaties: pseudonymisering, anonymisering en synthetisering van gegevens">
-  <properties
-      key="ORIG"
-      value="id-f648efef631a41459d37ae39e0a36cba"/>
-</archimate:BusinessFunction>
+    documentation="DataHub stelt alleen die gegevens beschikbaar die nodig zijn voor het beantwoorden van de analyse vraag met bijbehorende grondslag en doelbinding. De gegevens uit de brondata die niet nodig zijn voor het beantwoorden van de analysevraag worden niet (gegevensminimalisatie) of in een andere vorm (gegevenstransformatie) aangeboden. &#xD;&#xA;- Specifieke minimalisatie: aggregatie van gegevens&#xD;&#xA;- Specifieke transformaties: pseudonymisering, anonymisering en synthetisering van gegevens&#xA;"/>

@@ -1,8 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Kennismanagement"
-    id="id-7c0f54ef0a0947dea62998a6986fc65d">
-  <properties
-      key="ORIG"
-      value="id-1ed084cd9f54471a9d95ec20b6042aac"/>
-</archimate:ApplicationService>
+    id="id-7c0f54ef0a0947dea62998a6986fc65d"
+    documentation="&#xA;"/>

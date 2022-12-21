@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voldoen aan 'Recht op beperking gegevensverwerking'"
     id="id-10294e8d98cd4b3080b03a8d51e77eae"
-    documentation="Artikel 18 Recht op beperking van de verwerking">
-  <properties
-      key="ORIG"
-      value="id-f9f2b2593dab4c12a9b6cdb652f4f43f"/>
-</archimate:Requirement>
+    documentation="Artikel 18 Recht op beperking van de verwerking"/>

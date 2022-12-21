@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aggregeren"
     id="id-0ba57b9b29bd4a4aa7ca344a09f0250b"
-    documentation="De actor heeft het vermogen gegevensverzamelingen samen te vatten om zo informatie (beschrijvende statistieken) te verkrijgen over een (combinatie van) specifieke variabele(n) in de gegevensverzameling, waardoor de actor betekenis en waarde toevoegt aan de gegevens(verzameling).">
-  <properties
-      key="ORIG"
-      value="id-539b5991546c4eb79f32812d98a2acbd"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen gegevensverzamelingen samen te vatten om zo informatie (beschrijvende statistieken) te verkrijgen over een (combinatie van) specifieke variabele(n) in de gegevensverzameling, waardoor de actor betekenis en waarde toevoegt aan de gegevens(verzameling)."/>

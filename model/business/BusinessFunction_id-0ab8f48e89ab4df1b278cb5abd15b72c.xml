@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Synthetiseren Gegevens"
     id="id-0ab8f48e89ab4df1b278cb5abd15b72c"
-    documentation="Persoonsgegevens uit aangesloten bronnen van DUO worden gegenereerd ten behoeve van analyse en onderzoek, waarbij de eigenschappen van de geleverde set overeenkomen met de bron.">
-  <properties
-      key="ORIG"
-      value="id-5b19a415ae4944c08ba78aa1324a2dc7"/>
-</archimate:BusinessFunction>
+    documentation="Persoonsgegevens uit aangesloten bronnen van DUO worden gegenereerd ten behoeve van analyse en onderzoek, waarbij de eigenschappen van de geleverde set overeenkomen met de bron.&#xA;"/>

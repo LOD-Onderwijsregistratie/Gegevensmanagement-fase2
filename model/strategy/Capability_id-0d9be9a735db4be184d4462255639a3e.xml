@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensverwerking"
     id="id-0d9be9a735db4be184d4462255639a3e"
-    documentation="Het vermogen om gegevens te verwerken ten behoeve van het uitvoeren van wettelijke taken door de verschillende waardeketens van DUO. Hierin komen kennis, mandaat, technologie bij elkaar om op een verantwoorde manier met gegevens om te gaan.">
-  <properties
-      key="ORIG"
-      value="id-76df1b66db7a418791d3720b35a64f2a"/>
-</archimate:Capability>
+    documentation="Het vermogen om gegevens te verwerken ten behoeve van het uitvoeren van wettelijke taken door de verschillende waardeketens van DUO. Hierin komen kennis, mandaat, technologie bij elkaar om op een verantwoorde manier met gegevens om te gaan."/>

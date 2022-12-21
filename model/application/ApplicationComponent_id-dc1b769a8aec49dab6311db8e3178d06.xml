@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Staging"
-    id="id-dc1b769a8aec49dab6311db8e3178d06">
-  <properties
-      key="ORIG"
-      value="id-03ee7b04e29b465aab76e363a0aba257"/>
-</archimate:ApplicationComponent>
+    id="id-dc1b769a8aec49dab6311db8e3178d06"/>

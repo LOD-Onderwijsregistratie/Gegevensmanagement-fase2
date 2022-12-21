@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[IP] Tool Ondersteunt door Leverancier en/of Community"
     id="id-00a2bb58eb9d4eb18e76411b6aadd581"
-    documentation="De tool wordt (langdurig) ondersteund door een leverancier of, bij open source, een grote actieve community.">
-  <properties
-      key="ORIG"
-      value="id-60a866a2876545e2911d20383e270f07"/>
-</archimate:Requirement>
+    documentation="De tool wordt (langdurig) ondersteund door een leverancier of, bij open source, een grote actieve community."/>

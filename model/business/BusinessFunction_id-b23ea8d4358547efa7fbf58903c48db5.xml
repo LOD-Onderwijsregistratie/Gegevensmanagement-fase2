@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Controleren data management"
-    id="id-b23ea8d4358547efa7fbf58903c48db5">
-  <properties
-      key="ORIG"
-      value="id-fc34555974284eaa96fc08973196997a"/>
-</archimate:BusinessFunction>
+    id="id-b23ea8d4358547efa7fbf58903c48db5"/>

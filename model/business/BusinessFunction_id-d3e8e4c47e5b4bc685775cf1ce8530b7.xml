@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toegang krijgen tot gegevens"
-    id="id-d3e8e4c47e5b4bc685775cf1ce8530b7">
-  <properties
-      key="ORIG"
-      value="id-bc4e5d99e92c4fc591e634b85814e01c"/>
-</archimate:BusinessFunction>
+    id="id-d3e8e4c47e5b4bc685775cf1ce8530b7"/>

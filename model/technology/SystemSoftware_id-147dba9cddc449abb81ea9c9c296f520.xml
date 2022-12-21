@@ -1,8 +1,4 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oracle"
-    id="id-147dba9cddc449abb81ea9c9c296f520">
-  <properties
-      key="ORIG"
-      value="id-af99d5be49904595830b85af39b72926"/>
-</archimate:SystemSoftware>
+    id="id-147dba9cddc449abb81ea9c9c296f520"/>

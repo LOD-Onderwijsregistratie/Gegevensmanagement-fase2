@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Logging"
+    id="id-c9d6feb5857c4ed5a147990ec6d70308"
+    documentation="Service tbv het vastleggen wie welke handelingen met welke gegevens uitvoert."/>

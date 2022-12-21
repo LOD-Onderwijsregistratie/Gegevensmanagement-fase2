@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Database"
     id="id-557836c88743475b967c924dbb39504d"
-    documentation="Het in gestructureerde vorm beheren van gegevens.">
-  <properties
-      key="ORIG"
-      value="id-85e6acff373a4a958ba5c36788823e1d"/>
-</archimate:TechnologyService>
+    documentation="Het in gestructureerde vorm beheren van gegevens.&#xA;"/>

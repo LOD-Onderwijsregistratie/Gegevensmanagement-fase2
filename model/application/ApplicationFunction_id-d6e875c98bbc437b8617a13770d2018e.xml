@@ -1,0 +1,9 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portaalfunctie"
+    id="id-d6e875c98bbc437b8617a13770d2018e"
+    documentation="Het bieden van een persoonlijke omgeving aan gebruikers&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-2c1ef3b7-62f6-ca7b-9c60-4406b76f5b6f&#xA;">
+  <properties
+      key="Type"
+      value="Applicatiefunctie"/>
+</archimate:ApplicationFunction>

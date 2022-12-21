@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integratie"
-    id="id-9637d565010c408f97d9183bde3437f1">
-  <properties
-      key="ORIG"
-      value="id-155e8a5e34414832938c80604353e88e"/>
-</archimate:BusinessFunction>
+    id="id-9637d565010c408f97d9183bde3437f1"/>

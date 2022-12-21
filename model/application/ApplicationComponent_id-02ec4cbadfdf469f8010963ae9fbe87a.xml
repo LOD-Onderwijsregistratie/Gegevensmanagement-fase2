@@ -1,8 +1,4 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata Profilering"
-    id="id-02ec4cbadfdf469f8010963ae9fbe87a">
-  <properties
-      key="ORIG"
-      value="id-3d642f2358e9425e8d767f12bb7df54b"/>
-</archimate:ApplicationComponent>
+    id="id-02ec4cbadfdf469f8010963ae9fbe87a"/>

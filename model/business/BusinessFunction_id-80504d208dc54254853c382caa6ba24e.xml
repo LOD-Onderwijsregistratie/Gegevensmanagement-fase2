@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toetsing onderzoek"
-    id="id-80504d208dc54254853c382caa6ba24e">
-  <properties
-      key="ORIG"
-      value="id-14647c7c8a2f4a358ecf40d9467baec3"/>
-</archimate:BusinessFunction>
+    id="id-80504d208dc54254853c382caa6ba24e"/>

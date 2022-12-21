@@ -3,9 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-31b0395d1dc84b5094f8e2dec9acbeca"
     accessType="1">
-  <properties
-      key="ORIG"
-      value="id-b9071661a9424d66bda4b743c803bef7"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-2efb6c36094c4336837a1029d9c4e4ee.xml#id-2efb6c36094c4336837a1029d9c4e4ee"/>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens toezicht  service"
     id="id-3425c4bf7a30439eb4e654b1033c9615"
-    documentation="Dienstverlening die toezicht mogelijk maakt dat gegevens rechtmatig beschikbaar gesteld worden ten behoeve van onderzoek.&#xD;&#xA;&#xD;&#xA;Pilot : ontheffing">
-  <properties
-      key="ORIG"
-      value="id-379d7799c5594f8e98de53e3b1457766"/>
-</archimate:BusinessService>
+    documentation="Dienstverlening die toezicht mogelijk maakt dat gegevens rechtmatig beschikbaar gesteld worden ten behoeve van onderzoek.&#xD;&#xA;&#xD;&#xA;Pilot : ontheffing"/>

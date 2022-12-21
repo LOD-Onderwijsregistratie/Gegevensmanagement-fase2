@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Meta gegevens"
     id="id-e7cc95a918df4b33ac9c6846965aa927"
-    documentation="Data Intelligence&#xD;&#xA;">
-  <properties
-      key="ORIG"
-      value="id-6bdf4cdbb2054a8c8f8fd87c2891bab3"/>
-</archimate:Capability>
+    documentation="Data Intelligence&#xD;&#xA;"/>

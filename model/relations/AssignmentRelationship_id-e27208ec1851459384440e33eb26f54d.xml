@@ -2,9 +2,6 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-e27208ec1851459384440e33eb26f54d">
-  <properties
-      key="ORIG"
-      value="id-1db34413f800427184f1d1ec48edaf0f"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-0fd0ba2f4ce24a419eb3db7da60f38f0.xml#id-0fd0ba2f4ce24a419eb3db7da60f38f0"/>

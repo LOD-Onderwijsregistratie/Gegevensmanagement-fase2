@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] File synchronisation"
     id="id-5aa0451de3bf446fa6ffd49726bb5ce2"
-    documentation="Het synchroniseren van bestanden tussen twee bestandslokaties.">
-  <properties
-      key="ORIG"
-      value="id-d6728d6036a14764b3df8a89df1c0e56"/>
-</archimate:TechnologyService>
+    documentation="Het synchroniseren van bestanden tussen twee bestandslokaties."/>

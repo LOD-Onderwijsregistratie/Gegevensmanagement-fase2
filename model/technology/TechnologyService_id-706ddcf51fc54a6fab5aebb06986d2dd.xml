@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Federated database system"
     id="id-706ddcf51fc54a6fab5aebb06986d2dd"
-    documentation="Het bieden van een integrale view op meerdere databases of directories. (Datavirtualisatie, single pane of glass)&#xA;&#xA;Niet in gebruik bij DUO.&#xA;&#xA;Het gegevensmagazijn is een maatwerkapplicatie (applicatielaag).">
-  <properties
-      key="ORIG"
-      value="id-ca8ce64b519b444191abe3e414e94d77"/>
-</archimate:TechnologyService>
+    documentation="Het bieden van een integrale view op meerdere databases of directories. (Datavirtualisatie, single pane of glass)&#xA;&#xA;Niet in gebruik bij DUO.&#xA;&#xA;Het gegevensmagazijn is een maatwerkapplicatie (applicatielaag)."/>

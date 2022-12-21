@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Service Request Management Services"
     id="id-6372ce6f3f7442a7a5a4cfdf63876911"
-    documentation="Services die gebruikers ondersteunen bij het gebruik van diensten en data. (bron: HOSA research data management 1.0)">
-  <properties
-      key="ORIG"
-      value="id-35bde125269e463bbc5a572524731cf6"/>
-</archimate:BusinessService>
+    documentation="Services die gebruikers ondersteunen bij het gebruik van diensten en data. (bron: HOSA research data management 1.0)&#xA;"/>

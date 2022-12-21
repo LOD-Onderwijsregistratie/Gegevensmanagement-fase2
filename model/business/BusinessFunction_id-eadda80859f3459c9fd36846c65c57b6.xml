@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadatabeheer"
     id="id-eadda80859f3459c9fd36846c65c57b6"
-    documentation="todo: uitsplitsen functie naar onstaan van metadata en beheer">
-  <properties
-      key="ORIG"
-      value="id-704e3b49a51b464296345c3398a5aa5d"/>
-</archimate:BusinessFunction>
+    documentation="todo: uitsplitsen functie naar onstaan van metadata en beheer"/>

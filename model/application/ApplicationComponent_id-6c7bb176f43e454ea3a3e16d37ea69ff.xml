@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensvisualisatiesysteem"
     id="id-6c7bb176f43e454ea3a3e16d37ea69ff"
-    documentation="Een systeem dat de visualisatie van gegevens ondersteunt.">
+    documentation="Een systeem dat de visualisatie van gegevens ondersteunt.&#xA;">
   <properties
       key="Externe informatie"/>
   <properties
@@ -18,7 +18,4 @@
   <properties
       key="Type"
       value="Referentieapplicatie"/>
-  <properties
-      key="ORIG"
-      value="id-5cf891994ce4418a9cb1d0b679649652"/>
 </archimate:ApplicationComponent>

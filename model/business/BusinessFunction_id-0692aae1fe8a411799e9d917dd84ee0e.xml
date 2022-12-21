@@ -1,8 +1,4 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Toezicht op data management"
-    id="id-0692aae1fe8a411799e9d917dd84ee0e">
-  <properties
-      key="ORIG"
-      value="id-e0eb66662295446980ced47180457014"/>
-</archimate:BusinessFunction>
+    id="id-0692aae1fe8a411799e9d917dd84ee0e"/>

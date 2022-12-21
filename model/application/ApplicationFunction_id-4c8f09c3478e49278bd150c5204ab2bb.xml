@@ -2,11 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Onderzoeks gegevens creatiefunctie"
     id="id-4c8f09c3478e49278bd150c5204ab2bb"
-    documentation="Het ondersteunen van het creëren van onderzoeksgegevens&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-e7ecf28c-a035-8a8f-f028-7e07ad0a952c">
+    documentation="Het ondersteunen van het creëren van onderzoeksgegevens&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-e7ecf28c-a035-8a8f-f028-7e07ad0a952c&#xA;">
   <properties
       key="Type"
       value="Applicatiefunctie"/>
-  <properties
-      key="ORIG"
-      value="id-7d91e83f90a54b08b2744f1f81828577"/>
 </archimate:ApplicationFunction>

@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Metadata management"
     id="id-2eeeb3ecb0f34463b9804f6137854c18"
-    documentation="Metadata zijn data die de karakteristieken van andere data beschrijven. Het bewaren bij of koppelen van metadata aan de data waarop ze betrekking hebben, heeft als voordeel dat de data makkelijker gevonden kunnen worden. Zo kan men in een zoekmachine die gebruik maakt van metadata bijvoorbeeld direct zoeken naar documenten geschreven door een bepaalde auteur.">
-  <properties
-      key="ORIG"
-      value="id-90e269a591fa49379f5e1d16ada7538b"/>
-</archimate:ApplicationService>
+    documentation="Metadata zijn data die de karakteristieken van andere data beschrijven. Het bewaren bij of koppelen van metadata aan de data waarop ze betrekking hebben, heeft als voordeel dat de data makkelijker gevonden kunnen worden. Zo kan men in een zoekmachine die gebruik maakt van metadata bijvoorbeeld direct zoeken naar documenten geschreven door een bepaalde auteur."/>

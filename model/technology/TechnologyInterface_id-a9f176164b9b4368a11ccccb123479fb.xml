@@ -1,8 +1,4 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Search en query API"
-    id="id-a9f176164b9b4368a11ccccb123479fb">
-  <properties
-      key="ORIG"
-      value="id-59a332abd1b2478781eedd44c8b4df79"/>
-</archimate:TechnologyInterface>
+    id="id-a9f176164b9b4368a11ccccb123479fb"/>

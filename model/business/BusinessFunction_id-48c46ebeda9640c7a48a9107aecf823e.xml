@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadateren gegevens"
     id="id-48c46ebeda9640c7a48a9107aecf823e"
-    documentation="taggen en creëren van semantische relaties">
-  <properties
-      key="ORIG"
-      value="id-35eab0dfb8964b24bcdfcf6014b5170f"/>
-</archimate:BusinessFunction>
+    documentation="taggen en creëren van semantische relaties"/>

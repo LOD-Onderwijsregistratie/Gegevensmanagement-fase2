@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[DA ZD] Informatie Component"
+    id="id-363f94646b134ee18cce26f8aa607d1a"
+    documentation="Component die zorgt voor de content in MDZ, Content wordt beheerd in een CMS, Content wordt headless geleverd.&#xD;&#xA;&#xD;&#xA;Aangeboden content kan gepersonaliseerd worden als de klantvertegenwoordiger is ingelogd.&#xD;&#xA;Ook kennisbanken (FAQ) en rekenhulpen zijn vormen van een informatiecomponent"/>

@@ -1,8 +1,4 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatica Powercenter"
-    id="id-f9324c3ed59343808a53bc09fde7df81">
-  <properties
-      key="ORIG"
-      value="id-cb07df658f054e21b28ca883e57e158f"/>
-</archimate:SystemSoftware>
+    id="id-f9324c3ed59343808a53bc09fde7df81"/>

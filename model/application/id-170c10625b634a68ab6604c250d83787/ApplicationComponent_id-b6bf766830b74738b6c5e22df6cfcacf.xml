@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[DA ZD] Autorisatie component"
+    id="id-b6bf766830b74738b6c5e22df6cfcacf"
+    documentation="Toegansrechten, Bevoegdheden / Machtigingen, Realisatie LogS.&#xD;&#xA;De autorisatiecomponent gebruikt de identiteit van de gebruiker die is vastgesteld door de Authenticatiecomponent."/>

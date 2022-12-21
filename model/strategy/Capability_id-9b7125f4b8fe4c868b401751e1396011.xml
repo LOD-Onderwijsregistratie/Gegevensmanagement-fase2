@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Verzamelen gegevens"
     id="id-9b7125f4b8fe4c868b401751e1396011"
-    documentation="De actor heeft het vermogen om de benodigde gegevensverzamelingen en informatiebronnen te verkrijgen waardoor de actor deze gegevensverzamelingen en informatiebronnen daadwerkelijk kan gebruiken in het onderzoek.">
-  <properties
-      key="ORIG"
-      value="id-f35fec1891a8443e9d82d7f19528e07e"/>
-</archimate:Capability>
+    documentation="De actor heeft het vermogen om de benodigde gegevensverzamelingen en informatiebronnen te verkrijgen waardoor de actor deze gegevensverzamelingen en informatiebronnen daadwerkelijk kan gebruiken in het onderzoek."/>

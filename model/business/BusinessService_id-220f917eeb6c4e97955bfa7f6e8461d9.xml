@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Financiele afhandeling service"
     id="id-220f917eeb6c4e97955bfa7f6e8461d9"
-    documentation="Aanbieders en afnemers worden ondersteund bij de verrekening die bij het afnemen en gebruik van de data en diensten van toepassing is.">
-  <properties
-      key="ORIG"
-      value="id-458d8b85b71041d697742590304dbefb"/>
-</archimate:BusinessService>
+    documentation="Aanbieders en afnemers worden ondersteund bij de verrekening die bij het afnemen en gebruik van de data en diensten van toepassing is."/>

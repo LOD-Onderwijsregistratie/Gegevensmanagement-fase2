@@ -1,8 +1,4 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CMDA"
-    id="id-6af52f4268a8465a82d72eb8039f1cde">
-  <properties
-      key="ORIG"
-      value="id-51c7d7a69a834e51bd7afa8ed742ef63"/>
-</archimate:BusinessActor>
+    id="id-6af52f4268a8465a82d72eb8039f1cde"/>

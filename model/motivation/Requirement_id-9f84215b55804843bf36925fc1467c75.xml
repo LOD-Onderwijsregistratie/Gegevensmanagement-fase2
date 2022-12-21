@@ -1,8 +1,4 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Waarborg Integriteit"
-    id="id-9f84215b55804843bf36925fc1467c75">
-  <properties
-      key="ORIG"
-      value="id-27949932ead6427c88945fe145c3b5b8"/>
-</archimate:Requirement>
+    id="id-9f84215b55804843bf36925fc1467c75"/>
