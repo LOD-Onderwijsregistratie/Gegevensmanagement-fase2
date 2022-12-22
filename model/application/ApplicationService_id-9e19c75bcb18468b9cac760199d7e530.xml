@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] API management"
     id="id-9e19c75bcb18468b9cac760199d7e530"
-    documentation="&#xA;"/>
+    documentation="API Management functies : https://www.gemmaonline.nl/index.php/GGI/id-b15d6d09-23ba-41ee-ac51-892ceda90be9&#xD;&#xA;&#xD;&#xA;">
+  <properties
+      key="ORIG"
+      value="id-f33eb21f13f04b0e83925b7b36327972"/>
+</archimate:ApplicationService>
