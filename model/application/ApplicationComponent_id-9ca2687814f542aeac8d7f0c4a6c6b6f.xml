@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatica"
-    id="id-9ca2687814f542aeac8d7f0c4a6c6b6f"/>
+    name="ETL tooling"
+    id="id-9ca2687814f542aeac8d7f0c4a6c6b6f"
+    documentation="ETL-tooling is software die is ontworpen om ETL-processen te ondersteunen: het extraheren van gegevens uit ongelijksoortige bronnen, het opschonen van gegevens voor consistentie en kwaliteit, en het consolideren van deze informatie in datawarehouses."/>
