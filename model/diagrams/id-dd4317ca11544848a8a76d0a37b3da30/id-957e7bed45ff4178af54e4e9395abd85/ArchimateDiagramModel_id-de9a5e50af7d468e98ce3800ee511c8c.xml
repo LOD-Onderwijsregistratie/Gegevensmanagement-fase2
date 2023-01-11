@@ -883,8 +883,8 @@
       textAlignment="1"
       content="DWH IST">
     <bounds
-        x="2808"
-        y="540"
+        x="2832"
+        y="516"
         width="204"
         height="148"/>
   </children>
@@ -1086,8 +1086,8 @@
       textAlignment="1"
       content="Data Hub&#xA;">
     <bounds
-        x="2760"
-        y="1236"
+        x="2808"
+        y="1248"
         width="204"
         height="148"/>
   </children>
