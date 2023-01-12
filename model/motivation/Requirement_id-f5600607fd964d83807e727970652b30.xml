@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data transformatie"
+    id="id-f5600607fd964d83807e727970652b30"
+    documentation="De mogelijkheid om gegevens uit bronformaten te transformeren naar een zelf te kiezen graaf model."/>
