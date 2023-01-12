@@ -746,4 +746,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-4a671e4a4fb64483b6b4bc9cdbc6c206.xml#id-4a671e4a4fb64483b6b4bc9cdbc6c206"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-4caee9c60d8144ae832790265c3865cd"
+      textAlignment="1"
+      content="Requirements MDP">
+    <bounds
+        x="593"
+        y="22"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
