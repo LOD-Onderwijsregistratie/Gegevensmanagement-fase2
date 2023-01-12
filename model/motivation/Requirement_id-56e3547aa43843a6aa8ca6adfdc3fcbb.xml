@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authenticatie en autorisatie (SAML)"
+    id="id-56e3547aa43843a6aa8ca6adfdc3fcbb"
+    documentation="Ondersteuning voor het SAML protocol, zodat gebruikers op een veilige manier en met bestaande accounts kunnen inloggen op de omgeving."/>

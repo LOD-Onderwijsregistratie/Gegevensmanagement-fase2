@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Opgeslagen bevragingen"
+    id="id-f3b7aac13e854e00a6e7522158e0074f"
+    documentation="De mogelijkheid om SPARQL bevragingen op te slaan voor latere raadpleging. Het moet mogelijk zijn om verschillende versies van dezelfde bevraging op te slaan. De opgeslagen bevragingen moeten voorzien zijn van metadata ten behoeve van de vindbaarheid."/>

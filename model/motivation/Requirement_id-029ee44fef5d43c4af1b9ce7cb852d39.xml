@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data stories"
+    id="id-029ee44fef5d43c4af1b9ce7cb852d39"
+    documentation="De mogelijkheid om rapportages op te stellen aan de hand van opgeslagen SPARQL bevragingen. Deze rapportages moeten live bijgewerkt kunnen worden op basis van veranderingen in de onderliggende data."/>

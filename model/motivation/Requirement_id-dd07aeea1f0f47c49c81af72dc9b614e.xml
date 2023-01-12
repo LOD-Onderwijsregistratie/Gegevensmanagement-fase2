@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Beveiliging tegen aanvallen"
+    id="id-dd07aeea1f0f47c49c81af72dc9b614e"
+    documentation="Automatische beveiliging tegen onordentelijk gebruik, waaronder het automatisch afvangen van Denial-of-Service (DoS) aanvallen middels zogenaamde ‘rate limiting’."/>

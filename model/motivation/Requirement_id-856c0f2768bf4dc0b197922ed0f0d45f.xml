@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data volume"
+    id="id-856c0f2768bf4dc0b197922ed0f0d45f"
+    documentation="De mogelijkheid om ten minste 500 miljoen (500,000,000) triples op te slaan. En de mogelijkheid om het data volume in te toekomst op te schalen, tot maximaal 2 miljard (2,000,000,000) triples."/>
