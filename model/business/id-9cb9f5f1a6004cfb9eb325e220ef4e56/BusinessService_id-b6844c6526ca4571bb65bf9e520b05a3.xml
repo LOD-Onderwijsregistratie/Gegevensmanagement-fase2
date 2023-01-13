@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HOSA] Data Computing Services"
+    id="id-b6844c6526ca4571bb65bf9e520b05a3"
+    documentation="Voor hele complexe en zware analyses van onderzoeksdata biedt het platform diensten aan op het gebied van rekenkracht of brengt het deze bij elkaar. Op basis van criteria wordt (bij voorkeur geautomatiseerd) bepaald welke computing service het meest geschikt is. Voorbeelden zijn grid computing, high performance computing of generieke cloud computing. Deze computing-diensten worden beschikbaar gesteld door instellingen of door publiek/private partners. Het platform voert de regie over de computing services. &#xD;&#xA;&#xD;&#xA;https://www.surf.nl/files/2022-02/hosa-domeinarchitectuur-research-data-management-v1.0.pdf"/>
