@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Open API Specification"
+    id="id-b12216350d1844198a23fb1137fe996e"
+    documentation="De REST API wordt, conform de Nederlandse API strategie van de overheid, ontsloten middels de Open API Specification (voorheen: Swagger specificatie)."/>

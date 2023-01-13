@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data ingest"
+    id="id-c766c6b265344d84974f97159bc63380"
+    documentation="De mogelijkheid om met verschillende bronformaten en bronsystemen te connecteren voor het opzetten van een data ingest. Ten minste ondersteuning voor de volgende formaten: JSON (zoals toegepast binnen de ELK Stack), XML, XSLX (Excel), relationeel SQL. "/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gelijktijdig gebruik"
+    id="id-a3ef69b240ca4c9bb97c142183bfd921"
+    documentation="De mogelijkheid om ten minste 100 gelijktijdige bevragingen uit te voeren zonder performance verlies."/>

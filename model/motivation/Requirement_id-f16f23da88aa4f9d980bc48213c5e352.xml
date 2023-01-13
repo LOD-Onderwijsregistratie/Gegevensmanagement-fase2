@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data verversing"
+    id="id-f16f23da88aa4f9d980bc48213c5e352"
+    documentation="De mogelijkheid om geautomatiseerd de getransformeerde gegevens te verversen en bij te werken. Er moet ten minste ondersteuning zijn voor de volgende twee methoden: (1) volledige verversing middels een full-load batch proces; (2) gedeeltelijke en/of iteratieve bijwerken middels een delta-gebaseerd proces."/>

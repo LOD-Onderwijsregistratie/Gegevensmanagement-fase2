@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Admin functionaliteit"
+    id="id-802e54b2f7a54b0fb7ddbf8811be600e"
+    documentation="De mogelijkheid voor een administrator om in te loggen in een beveiligde administratie GUI. Binnen deze omgeving moet het ten minste mogelijk zijn om gebruikers te beheren (aan te maken, rollen toe te kennen, en accounts op non-actief te zetten), datasets in te zien, en diensten bovenop deze datasets te beheren."/>

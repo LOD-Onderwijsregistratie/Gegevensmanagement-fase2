@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Widgets"
+    id="id-db2bbb0fdc7344908baa5524c718343d"
+    documentation="De mogelijkheid om de resultaten van SPARQL de bevragingen weer te geven in widgets. Hierbij is er ten minste ondersteuning voor de volgende widget typen: lijn grafiek, staafdiagram, cirkeldiagram, scatterplot, organogram, geografische kaart met onderlaag NL Maps, tabel, graaf, gecustomiseerde HTML templates."/>

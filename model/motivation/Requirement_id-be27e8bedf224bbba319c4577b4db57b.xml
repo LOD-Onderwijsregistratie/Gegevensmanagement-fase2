@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Horizontale schaalbaarheid"
+    id="id-be27e8bedf224bbba319c4577b4db57b"
+    documentation="De mogelijkheid om dynamisch op te schalen en/of af te schalen op basis van toenemend danwel afnemend gebruik."/>

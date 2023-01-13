@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Graaf navigatie"
+    id="id-dac4cbbeb6964120ab0795851e3c9010"
+    documentation="De mogelijkheid om op een visuele manier door de gegevensgraaf te navigeren, bijvoorbeeld aan de hand van faceted browsing technieken."/>

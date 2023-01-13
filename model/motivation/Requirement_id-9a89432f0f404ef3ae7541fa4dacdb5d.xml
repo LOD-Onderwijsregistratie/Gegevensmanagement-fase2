@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data standaarden"
+    id="id-9a89432f0f404ef3ae7541fa4dacdb5d"
+    documentation="Ondersteuning voor het uploaden van gegevens in ten minste de volgende open formaten: JSON-LD, N-Quads, N-Triples, Turtle, TriG, RDF/XML, CSV."/>

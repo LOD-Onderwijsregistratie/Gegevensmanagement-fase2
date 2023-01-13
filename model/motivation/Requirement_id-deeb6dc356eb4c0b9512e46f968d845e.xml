@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ETL beheer"
+    id="id-deeb6dc356eb4c0b9512e46f968d845e"
+    documentation="De mogelijkheid om een Extract-Transform-Load (ETL) proces in te richten en te onderhouden."/>
