@@ -495,7 +495,7 @@
     <bounds
         x="804"
         y="421"
-        width="445"
+        width="505"
         height="204"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -513,7 +513,7 @@
       <bounds
           x="180"
           y="24"
-          width="145"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -539,7 +539,7 @@
       <bounds
           x="180"
           y="144"
-          width="145"
+          width="193"
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -566,7 +566,7 @@
       <bounds
           x="180"
           y="84"
-          width="145"
+          width="193"
           height="49"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
@@ -599,7 +599,7 @@
             href="SpecializationRelationship_id-5703ca88f1ad4edd80597fc700232037.xml#id-5703ca88f1ad4edd80597fc700232037"/>
       </sourceConnections>
       <bounds
-          x="348"
+          x="408"
           y="144"
           width="84"
           height="49"/>
@@ -621,7 +621,7 @@
             href="SpecializationRelationship_id-8a1fd63c54d24536b144b3ebd9191138.xml#id-8a1fd63c54d24536b144b3ebd9191138"/>
       </sourceConnections>
       <bounds
-          x="348"
+          x="408"
           y="84"
           width="84"
           height="49"/>
@@ -643,7 +643,7 @@
             href="SpecializationRelationship_id-1c6127c345d44081bfd9a52b1ff232cb.xml#id-1c6127c345d44081bfd9a52b1ff232cb"/>
       </sourceConnections>
       <bounds
-          x="348"
+          x="408"
           y="24"
           width="84"
           height="55"/>
@@ -1188,7 +1188,7 @@
     <bounds
         x="816"
         y="636"
-        width="433"
+        width="493"
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

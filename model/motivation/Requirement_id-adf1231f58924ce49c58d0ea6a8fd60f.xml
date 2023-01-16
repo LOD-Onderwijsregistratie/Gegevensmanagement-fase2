@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="REST API"
     id="id-adf1231f58924ce49c58d0ea6a8fd60f"
-    documentation="De mogelijkheid om op basis van opgeslagen SPARQL bevragingen zelf een REST API in te richten."/>
+    documentation="De mogelijkheid om op basis van opgeslagen SPARQL bevragingen zelf een REST API in te richten.">
+  <properties
+      key="moscow"
+      value="Should"/>
+</archimate:Requirement>
