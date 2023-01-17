@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inwinnen Onderzoeksgegevens"
-    id="id-35282f85a06147618461b2f4df33a63d"/>
+    id="id-35282f85a06147618461b2f4df33a63d"
+    documentation="Betreft een service dat het inwinnen van gegevens ten behoeve van een onderzoek mogelijk maakt."/>

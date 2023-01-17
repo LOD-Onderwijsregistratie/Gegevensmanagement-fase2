@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HORA] Onderzoeksresultaatborging"
+    id="id-9720c74f18174118a32315b18c9e39ee"
+    documentation="Het collectioneren van onderzoeksgegevens die bewaard moeten blijven na het onderzoek en het registreren van de onderzoeksresultaten in de relevante interne en externe administraties.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-7c2c3403-9d6b-ddd0-0931-50d85f044d01&#xA;">
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+</archimate:BusinessFunction>

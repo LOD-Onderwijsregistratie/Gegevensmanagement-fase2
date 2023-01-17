@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HOSA] Anonymisation &amp; Pseudonymisation Services"
+    id="id-8ad7166e112840fe8c7123fe7c08c7a4"
+    documentation="Soms moeten data eerst geanonimiseerd of gepseudonimiseerd worden, alvorens ze via het platform worden aangeboden. Het platform biedt diensten aan die de aanbieder daarbij ondersteunen (Data Anonymisation &amp; Pseudonymisation Services). (bron: HOSA research data management 1.0)"/>
