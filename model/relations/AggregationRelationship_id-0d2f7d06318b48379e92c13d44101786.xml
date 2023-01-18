@@ -1,0 +1,12 @@
+<archimate:AggregationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-0d2f7d06318b48379e92c13d44101786"
+    documentation="Het werven van fondsen ten behoeve van het uitvoeren van onderzoek.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-42e807e1-66a4-c497-4590-a0a3a9840f80">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-2ad42e48b6b14ec887e14c13feddbaa1.xml#id-2ad42e48b6b14ec887e14c13feddbaa1"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-a52f5b423c574b93b5f4e762da339d97.xml#id-a52f5b423c574b93b5f4e762da339d97"/>
+</archimate:AggregationRelationship>

@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kibana"
+    id="id-ba95fb0709a940e993b50c6e7e3f1286"
+    documentation="Kibana is an free and open frontend application that sits on top of the Elastic Stack, providing search and data visualization capabilities for data indexed in Elasticsearch.&#xD;&#xA;&#xD;&#xA;https://www.elastic.co/what-is/kibana&#xD;&#xA;"/>
