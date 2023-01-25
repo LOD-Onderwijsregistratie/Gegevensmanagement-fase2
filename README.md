@@ -26,7 +26,7 @@ Alternatief: maak met Git-bash een SSH-sleutelpaar en voer de  publieke sleutel 
 ### Klonen in coArchi
 
 Ga in  het  collaboration-menu naar de optie: Import Remote Model to Workspace.  Er volgt een popup:
-![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding4.png)
+![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/Afbeelding4.svg)
 
 Hier vul je in (https-variant):
 1. URL: Dit is het internetadres van de repo. Dat vind je achter de groene "code" button in Github. Kies de https-versie.
