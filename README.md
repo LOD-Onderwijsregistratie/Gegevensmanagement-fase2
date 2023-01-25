@@ -18,7 +18,7 @@ Archi kan “git-friendly’ gemaakt met een extra plugin genaamd coArchi. Dit i
 ## Beveiliging Github-Archi. 
 Maak in Github een Personal Access Token (PAT) aan bij je persoonlijke account. Volg linker menu:  Settings/Developer setting/Personal Access Token.
 
-Alternatief: maak met Git-bash een SSH-sleutelpaat  aan en voer de  publieke sleutel in bij je persoonlijke account via het linker menu Settings/SSH-keys. 
+Alternatief: maak met Git-bash een SSH-sleutelpaar en voer de  publieke sleutel in bij je persoonlijke account via het linker menu Settings/SSH-keys. 
 
 ## Gitflow
 
@@ -26,7 +26,7 @@ Alternatief: maak met Git-bash een SSH-sleutelpaat  aan en voer de  publieke sle
 ### Klonen in coArchi
 
 Ga in  het  collaboration-menu naar de optie: Import Remote Model to Workspace.  Er volgt een popup:
-![coarchi-control](https://github.com/onderwijsarchitectuur/architectuurontwikkelen/blob/master/coarchi-control.png)
+![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding4.png)
 
 Hier vul je in (https-variant):
 1. URL: Dit is het internetadres van de repo. Dat vind je achter de groene "code" button in Github. Kies de https-versie.
@@ -43,7 +43,7 @@ Of vul je in (ssh-variant):
 ### Lokaal wijzigen in Archi
 Nu is het mogelijk om lokaal wijzigingen door te voeren in het model.  De meest eenvoudige gitflow is dit:
 
-
+![gitflow-simpel](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding1.png)
 Er is één branche, de master of mainline. Meerdere architecten kunnen tegelijk werken aan hetzelfde model in hun eigen (archi-)omgeving.   Sla het op in lokale workspace (control-s) en doe een commit in het Collaboration-menu om de wijzigingen te bevestigen 
  
 
@@ -51,13 +51,12 @@ Er is één branche, de master of mainline. Meerdere architecten kunnen tegelijk
 Daarna kun je de gewijzigde model in het Collaboration menu van coArchi centraal maken met de optie Publish:
 Archi controleert op mergeconflicten per architectuurelement. Als die er zijn Archi beide varianten en kan de architect kiezen om de centrale versie te overrulen met zijn eigen versie of om zijn eigen versie te af te blazen.
 
-{GGR: Image Git-flow]
- 
-
+![Merge-conflict](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding2.png) 
 
 ### Beschermde master/mainline
 Bovenstaande gitflow is eenvoudig maar wordt bij een groter aantal architecten al snel onoverzichtelijk. Iedereen kan direct dingen in de master publiceren.  De volgende stap is dat de master alleen kan worden aangepast na een formeel besluit. Hiertoe kunnen de architecten in Archi extra branches introducerenn.
 
+![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding3.png)
  
 Stappen:
 1.	Stel, in de Git-repository zit een model met één branch, de Master. Deze repository is gekloond in (co)Archi, collaboration-menu : Import Remote Model to Workspace.
