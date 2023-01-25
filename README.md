@@ -1,6 +1,6 @@
 
 # Gegevensmanagement
-Deze github-repository bevat het kernmodel van business, toepassing en technische architectuur van het domein gegevensmanagement. Deze (tijdelijke) repository is ingericht om te werken met (co)Archi.
+Deze github-repository bevat het kernmodel van business, toepassing en technische architectuur van het domein gegevensmanagement. Deze (tijdelijke) repository is ingericht om te werken met (co)Archi. Hieronder een uitleg hoe dit in te richten.
 
 ## (co)Archi
 Archi is een populaire open source tool voor he maken van architectuurmodellen. Die hier te vinden: [Archi download-pagina](https://www.archimatetool.com/download/). Het is freeware maar een donatie wordt gewaardeerd en sommige dingen zijn alleen beschikbaar  voor donors (voor een verwaarloosbaar bedrag). Uitgangspunt van deze beschrijving is dat de werking van Archi bekend is, het is in elk geval intuïtief.
@@ -11,7 +11,7 @@ Archi kan “git-friendly’ gemaakt met een extra plugin genaamd coArchi. Dit i
 4.	Configure coArchi through Archi’s menu Edit/Preferences/Collaboration. At least:
      * Naam en email
      * Lokale workspace (default)
-     * Primary password (wordt gevraagd als je Archi opnieuw opstarten en wil klonen of mergen).
+     * Primary password (asked at first clone or publish after Archi restarted).
  
  
 
@@ -26,9 +26,8 @@ Alternatief: maak met Git-bash een SSH-sleutelpaar en voer de  publieke sleutel 
 ### Klonen in coArchi
 
 Ga in  het  collaboration-menu naar de optie: Import Remote Model to Workspace.  Er volgt een popup:
-![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding4.svg)
-![Emrex](https://github.com/onderwijsarchitectuur/OOTS-Emrex/blob/master/OOTS-Emrex.png)
 
+![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/blob/master/images/Afbeelding4.png)
 
 Hier vul je in (https-variant):
 1. URL: Dit is het internetadres van de repo. Dat vind je achter de groene "code" button in Github. Kies de https-versie.
@@ -45,7 +44,8 @@ Of vul je in (ssh-variant):
 ### Lokaal wijzigen in Archi
 Nu is het mogelijk om lokaal wijzigingen door te voeren in het model.  De meest eenvoudige gitflow is dit:
 
-![gitflow-simpel](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding1.png)
+![gitflow-simpel](https://github.com/onderwijsarchitectuur/Gegevensmanagement/blob/master/images/Afbeelding1.svg)
+
 Er is één branche, de master of mainline. Meerdere architecten kunnen tegelijk werken aan hetzelfde model in hun eigen (archi-)omgeving.   Sla het op in lokale workspace (control-s) en doe een commit in het Collaboration-menu om de wijzigingen te bevestigen 
  
 
@@ -53,12 +53,12 @@ Er is één branche, de master of mainline. Meerdere architecten kunnen tegelijk
 Daarna kun je de gewijzigde model in het Collaboration menu van coArchi centraal maken met de optie Publish:
 Archi controleert op mergeconflicten per architectuurelement. Als die er zijn Archi beide varianten en kan de architect kiezen om de centrale versie te overrulen met zijn eigen versie of om zijn eigen versie te af te blazen.
 
-![Merge-conflict](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding2.png) 
+![Merge-conflict](https://github.com/onderwijsarchitectuur/Gegevensmanagement/blob/master/images/Afbeelding2.png) 
 
 ### Beschermde master/mainline
 Bovenstaande gitflow is eenvoudig maar wordt bij een groter aantal architecten al snel onoverzichtelijk. Iedereen kan direct dingen in de master publiceren.  De volgende stap is dat de master alleen kan worden aangepast na een formeel besluit. Hiertoe kunnen de architecten in Archi extra branches introducerenn.
 
-![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/images/blob/master/Afbeelding3.png)
+![coarchi-control](https://github.com/onderwijsarchitectuur/Gegevensmanagement/blob/master/images/Afbeelding3.png)
  
 Stappen:
 1.	Stel, in de Git-repository zit een model met één branch, de Master. Deze repository is gekloond in (co)Archi, collaboration-menu : Import Remote Model to Workspace.
