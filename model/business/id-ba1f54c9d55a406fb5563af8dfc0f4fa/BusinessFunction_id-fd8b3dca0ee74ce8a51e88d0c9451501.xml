@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Procesmanagement"
-    id="id-9e7c5f29e2664a948396423bf83f0331"
-    documentation="Het bepalen van de gewenste inrichting van de processen en het bewaken dat de uitvoering in lijn is met deze inrichting.">
+    name="[HORA] Overige externe rapportages"
+    id="id-fd8b3dca0ee74ce8a51e88d0c9451501"
+    documentation="Het beschikbaar stellen van informatie over de het functioneren van de organisatie aan externe partijen.">
   <properties
       key="Domein"
       value="Sturing"/>

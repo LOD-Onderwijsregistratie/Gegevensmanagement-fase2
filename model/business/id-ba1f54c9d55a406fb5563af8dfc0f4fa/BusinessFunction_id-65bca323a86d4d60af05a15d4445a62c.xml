@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Performancemanagement"
-    id="id-893a345a84e9484bac0cda072b36ff70"
-    documentation="Het ervoor zorgdragen dat het functioneren van de organisatie in lijn is met de eerder gestelde doelstellingen.">
+    name="[HORA] Jaarverslaglegging"
+    id="id-65bca323a86d4d60af05a15d4445a62c"
+    documentation="Het opstellen van een algemeen verslag (jaarverslag) en financieel verslag (jaarrekening) over het functioneren van de organisatie.">
   <properties
       key="Domein"
       value="Sturing"/>

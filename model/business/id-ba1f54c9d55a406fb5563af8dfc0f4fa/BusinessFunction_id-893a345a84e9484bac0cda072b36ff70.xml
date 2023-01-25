@@ -1,8 +1,8 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Overige externe rapportages"
-    id="id-fd8b3dca0ee74ce8a51e88d0c9451501"
-    documentation="Het beschikbaar stellen van informatie over de het functioneren van de organisatie aan externe partijen.">
+    name="[HORA] Performancemanagement"
+    id="id-893a345a84e9484bac0cda072b36ff70"
+    documentation="Het ervoor zorgdragen dat het functioneren van de organisatie in lijn is met de eerder gestelde doelstellingen.">
   <properties
       key="Domein"
       value="Sturing"/>
