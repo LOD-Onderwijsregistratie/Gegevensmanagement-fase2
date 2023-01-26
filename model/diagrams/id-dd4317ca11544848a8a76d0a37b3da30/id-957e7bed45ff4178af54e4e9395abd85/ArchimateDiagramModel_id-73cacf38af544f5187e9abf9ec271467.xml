@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzichtsplaat SANE 2"
     id="id-73cacf38af544f5187e9abf9ec271467"
-    documentation="Deze view geeft een overzicht van de verschillende architectuurlagen van een beveiligde analyse omgeving. Hoewel expliciet de onderzoeksfunctie wordt benoemd, kunnen hierop eenvoudig de Business Intelligence en Operational Intelligence functie op gemapt worden.&#xD;&#xA;&#xD;&#xA;De capabilities zijn gebaseerd op document &quot;Gegevens platform voor de Sector Onderwijs&quot; door Jaap van den Berg en de draw.io plaat van pilot DataHub.&#xD;&#xA;De business laag is gebaseerd op de referentie-architectuur HORA&#xD;&#xA;De applicatie laag is ontwikkeld met de referentie-architecturen HORA en HOSA al bronnen.&#xD;&#xA;De technologie laag bestaan uit hergebruikte elementen uit het DUO Architectuur continuum.&#xD;&#xA;&#xD;&#xA;De applicatieve inrichting voor de onderzoeksontwikkeling in buiten scope van dit overzicht.&#xD;&#xA;De API gateway is een concept uit de Enterprise DataHub op basis waarvan deze onderzoeksplatformen de onderzoeksgegevens verkrijgen.&#xD;&#xA;"
+    documentation="Deze view geeft een overzicht van de verschillende architectuurlagen van een beveiligde analyse omgeving. &#xD;&#xA;&#xD;&#xA;De capabilities zijn gebaseerd op de documenten met blauwdrukken van de Organisatorische indeling van DUO's informatiemanagement.&#xD;&#xA;De business laag beschrijven op algemeen niveau de bedrijfsfuncties die nodig zijn om enige vorm van een verzoek om het leveren van gegevens of informatieverzoek af te wikkelen. Dit is geinspireerd op de standaard transactie patronen uit de DEMO methode.&#xD;&#xA;&#xD;&#xA;De applicatie laag is ontwikkeld met de referentie-architecturen HORA en HOSA al bronnen.&#xD;&#xA;De technologie laag bestaat uit hergebruikte elementen uit het DUO Architectuur continuum.&#xD;&#xA;&#xD;&#xA;De applicatieve inrichting voor de onderzoeksontwikkeling in buiten scope van dit overzicht.&#xD;&#xA;De API gateway is een concept uit de Enterprise DataHub op basis waarvan deze onderzoeksplatformen de onderzoeksgegevens verkrijgen.&#xD;&#xA;"
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -249,14 +249,14 @@
         source="id-93c4ffa2cc584b7887e446136557cfd0"
         target="id-e649c85994be4f9e871dac0744a705d4">
       <bendpoints
-          startX="148"
+          startX="180"
           startY="-12"
-          endX="-1188"
+          endX="-1191"
           endY="-24"/>
       <bendpoints
-          startX="148"
+          startX="180"
           startY="-60"
-          endX="-1188"
+          endX="-1191"
           endY="-72"/>
       <bendpoints
           startX="1067"
@@ -273,14 +273,14 @@
         source="id-93c4ffa2cc584b7887e446136557cfd0"
         target="id-543bce52ebe64ef3b0349b23da00d203">
       <bendpoints
-          startX="148"
+          startX="180"
           startY="-12"
-          endX="-900"
+          endX="-903"
           endY="-24"/>
       <bendpoints
-          startX="148"
+          startX="180"
           startY="-60"
-          endX="-900"
+          endX="-903"
           endY="-72"/>
       <bendpoints
           startX="856"
@@ -292,7 +292,7 @@
           href="FlowRelationship_id-7d9c768e04384485a0de8c1e8725ad41.xml#id-7d9c768e04384485a0de8c1e8725ad41"/>
     </sourceConnections>
     <bounds
-        x="239"
+        x="204"
         y="396"
         width="97"
         height="73"/>

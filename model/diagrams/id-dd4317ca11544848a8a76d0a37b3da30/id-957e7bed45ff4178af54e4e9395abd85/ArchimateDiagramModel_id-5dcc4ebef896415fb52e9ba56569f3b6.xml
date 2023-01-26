@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzichtsplaat SANE 1"
     id="id-5dcc4ebef896415fb52e9ba56569f3b6"
-    documentation="Deze view geeft een overzicht van de verschillende architectuurlagen van een beveiligde analyse omgeving. Hoewel expliciet de onderzoeksfunctie wordt benoemd, kunnen hierop eenvoudig de Business Intelligence en Operational Intelligence functie op gemapt worden.&#xD;&#xA;&#xD;&#xA;De capabilities zijn gebaseerd op document &quot;Gegevens platform voor de Sector Onderwijs&quot; door Jaap van den Berg en de draw.io plaat van pilot DataHub.&#xD;&#xA;De business laag is gebaseerd op de referentie-architectuur HORA&#xD;&#xA;De applicatie laag is ontwikkeld met de referentie-architecturen HORA en HOSA al bronnen.&#xD;&#xA;De technologie laag bestaan uit hergebruikte elementen uit het DUO Architectuur continuum.&#xD;&#xA;&#xD;&#xA;De applicatieve inrichting voor de onderzoeksontwikkeling in buiten scope van dit overzicht.&#xD;&#xA;De API gateway is een concept uit de Enterprise DataHub op basis waarvan deze onderzoeksplatformen de onderzoeksgegevens verkrijgen.&#xD;&#xA;"
+    documentation="Deze view geeft een overzicht van de verschillende architectuurlagen van een beveiligde analyse omgeving. &#xD;&#xA;&#xD;&#xA;De capabilities zijn gebaseerd op de documenten met blauwdrukken van de Organisatorische indeling van DUO's informatiemanagement.&#xD;&#xA;De business laag beschrijven op algemeen niveau de bedrijfsfuncties die nodig zijn om enige vorm van een verzoek om het leveren van gegevens of informatieverzoek af te wikkelen. Dit is geinspireerd op de standaard transactie patronen uit de DEMO methode.&#xD;&#xA;&#xD;&#xA;De applicatie laag is ontwikkeld met de referentie-architecturen HORA en HOSA al bronnen.&#xD;&#xA;De technologie laag bestaat uit hergebruikte elementen uit het DUO Architectuur continuum.&#xD;&#xA;&#xD;&#xA;De applicatieve inrichting voor de onderzoeksontwikkeling in buiten scope van dit overzicht.&#xD;&#xA;De API gateway is een concept uit de Enterprise DataHub op basis waarvan deze onderzoeksplatformen de onderzoeksgegevens verkrijgen.&#xD;&#xA;"
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -56,9 +56,9 @@
           href="RealizationRelationship_id-dea9e554e03b4c88b60b174578f7848b.xml#id-dea9e554e03b4c88b60b174578f7848b"/>
     </sourceConnections>
     <bounds
-        x="554"
+        x="564"
         y="444"
-        width="529"
+        width="519"
         height="97"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -73,7 +73,7 @@
             href="SpecializationRelationship_id-8250e93cd6884bec9dd0fa6b3b4d664a.xml#id-8250e93cd6884bec9dd0fa6b3b4d664a"/>
       </sourceConnections>
       <bounds
-          x="384"
+          x="374"
           y="24"
           width="120"
           height="55"/>
@@ -94,7 +94,7 @@
             href="SpecializationRelationship_id-19eb0d761c85415dbf870758d173cc02.xml#id-19eb0d761c85415dbf870758d173cc02"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="38"
           y="24"
           width="120"
           height="55"/>
@@ -115,7 +115,7 @@
             href="SpecializationRelationship_id-a9e04f07f29a4e6d8e09895cd904a085.xml#id-a9e04f07f29a4e6d8e09895cd904a085"/>
       </sourceConnections>
       <bounds
-          x="204"
+          x="206"
           y="24"
           width="120"
           height="55"/>
@@ -239,14 +239,14 @@
         source="id-89daddf6982341beac1e758b1fc06760"
         target="id-70b41bdecf0741a7a5142f4035c89743">
       <bendpoints
-          startX="143"
+          startX="154"
           startY="-12"
-          endX="-1045"
+          endX="-1034"
           endY="-24"/>
       <bendpoints
-          startX="143"
+          startX="154"
           startY="-60"
-          endX="-1045"
+          endX="-1034"
           endY="-72"/>
       <bendpoints
           startX="1067"
@@ -263,14 +263,14 @@
         source="id-89daddf6982341beac1e758b1fc06760"
         target="id-f81b8de1d5934b2d9928bd771cb9f760">
       <bendpoints
-          startX="143"
+          startX="154"
           startY="-12"
-          endX="-800"
+          endX="-788"
           endY="-24"/>
       <bendpoints
-          startX="143"
+          startX="154"
           startY="-60"
-          endX="-800"
+          endX="-788"
           endY="-72"/>
       <bendpoints
           startX="815"
