@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HORA] Ontsluiting fysiek materiaal"
+    id="id-2aae0a99f6494b3d9c057036374131b2"
+    documentation="Het beschikbaar stellen van fysieke middelen zoals boeken, tijdschriften en DVDs.">
+  <properties
+      key="Domein"
+      value="Informatieontsluiting"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

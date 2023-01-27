@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SAP Business Objects"
-    id="id-c6cbdee922914f3ab08b60a8b2058b99"/>
+    id="id-c6cbdee922914f3ab08b60a8b2058b99"
+    documentation="BO is een enterprise bi suite with components that provide performance management, planning, reporting, query and analysis, as well as enterprise information management."/>

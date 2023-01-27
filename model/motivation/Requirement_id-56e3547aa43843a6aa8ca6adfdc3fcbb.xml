@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Authenticatie en autorisatie (SAML)"
     id="id-56e3547aa43843a6aa8ca6adfdc3fcbb"
-    documentation="Ondersteuning voor het SAML protocol, zodat gebruikers op een veilige manier en met bestaande accounts kunnen inloggen op de omgeving."/>
+    documentation="Ondersteuning voor het SAML protocol, zodat gebruikers op een veilige manier en met bestaande accounts kunnen inloggen op de omgeving.&#xD;&#xA;&#xD;&#xA;https://nl.wikipedia.org/wiki/Security_Assertion_Markup_Language&#xD;&#xA;&#xD;&#xA;Security Assertion Markup Language (SAML) is een op XML gebaseerde standaard voor het uitwisselen van authenticatie- en autorisatiegegevens tussen domeinen. SAML is een product van de OASIS Security Services Technical Committee.&#xD;&#xA;&#xD;&#xA;SAML biedt een XML-gebaseerd raamwerk voor het creëren en uitwisselen van beveiligingsinformatie van online partners. SAML wordt onderhouden door een internetgemeenschap en wordt publiekelijk bijgewerkt. Geïnteresseerden worden aangemoedigd om een bijdrage aan de ontwikkeling ervan te leveren."/>

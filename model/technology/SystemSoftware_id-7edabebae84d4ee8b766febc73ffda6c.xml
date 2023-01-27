@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Elastic Search"
-    id="id-7edabebae84d4ee8b766febc73ffda6c"/>
+    id="id-7edabebae84d4ee8b766febc73ffda6c"
+    documentation="Elasticsearch is a distributed, free and open search and analytics engine for all types of data, including textual, numerical, geospatial, structured, and unstructured.&#xD;&#xA;&#xD;&#xA;https://www.elastic.co/what-is/elasticsearch"/>

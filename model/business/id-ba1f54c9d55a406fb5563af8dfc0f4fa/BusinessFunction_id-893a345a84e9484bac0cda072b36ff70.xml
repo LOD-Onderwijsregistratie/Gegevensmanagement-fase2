@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HORA] Performancemanagement"
+    id="id-893a345a84e9484bac0cda072b36ff70"
+    documentation="Het ervoor zorgdragen dat het functioneren van de organisatie in lijn is met de eerder gestelde doelstellingen.">
+  <properties
+      key="Domein"
+      value="Sturing"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

@@ -434,14 +434,14 @@
               endX="210"
               endY="42"/>
           <bendpoints
-              startX="-223"
+              startX="-201"
               startY="-15"
-              endX="126"
+              endX="125"
               endY="42"/>
           <bendpoints
-              startX="-222"
+              startX="-201"
               startY="-51"
-              endX="127"
+              endX="125"
               endY="6"/>
           <archimateRelationship
               xsi:type="archimate:AccessRelationship"
