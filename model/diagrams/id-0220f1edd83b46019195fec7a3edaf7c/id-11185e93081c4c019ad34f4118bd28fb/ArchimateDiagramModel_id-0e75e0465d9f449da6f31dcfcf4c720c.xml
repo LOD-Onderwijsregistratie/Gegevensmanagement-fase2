@@ -32,7 +32,7 @@
       targetConnections="id-2b42b008b8f740978a16c22896d95175">
     <bounds
         x="300"
-        y="40"
+        y="36"
         width="120"
         height="55"/>
     <archimateElement
@@ -110,7 +110,7 @@
       targetConnections="id-0c75293663c042ad8fb552fe9609087f id-152d5be4321049e0b5a4739ad51f3e54">
     <bounds
         x="660"
-        y="41"
+        y="36"
         width="120"
         height="55"/>
     <archimateElement
@@ -306,8 +306,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2948747adf0348be8e7c371076bbd342">
     <bounds
-        x="137"
-        y="40"
+        x="132"
+        y="36"
         width="120"
         height="55"/>
     <archimateElement

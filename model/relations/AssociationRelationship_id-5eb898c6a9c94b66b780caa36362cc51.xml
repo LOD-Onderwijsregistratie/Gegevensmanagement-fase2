@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="heeft de rol vanbe"
+    name="heeft de rol van"
     id="id-5eb898c6a9c94b66b780caa36362cc51">
   <source
       xsi:type="archimate:BusinessRole"
