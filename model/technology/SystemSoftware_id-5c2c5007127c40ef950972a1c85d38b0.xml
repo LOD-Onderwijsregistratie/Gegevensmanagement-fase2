@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Logstash"
-    id="id-5c2c5007127c40ef950972a1c85d38b0"
-    documentation="Logstash is an open source data collection engine with real-time pipelining capabilities.&#xD;&#xA;&#xD;&#xA;https://www.elastic.co/guide/en/logstash/current/introduction.html"/>
