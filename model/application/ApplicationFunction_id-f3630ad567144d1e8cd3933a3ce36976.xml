@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadatabeheerfunctie"
-    id="id-f3630ad567144d1e8cd3933a3ce36976"
-    documentation="Het beheren van metadata van onderzoeksgegevens.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-db9b2f92-bd9d-adad-b07f-">
-  <properties
-      key="Type"
-      value="Applicatiefunctie"/>
-</archimate:ApplicationFunction>
