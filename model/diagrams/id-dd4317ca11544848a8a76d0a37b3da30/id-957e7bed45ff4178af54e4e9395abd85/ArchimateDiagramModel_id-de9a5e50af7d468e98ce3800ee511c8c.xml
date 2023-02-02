@@ -1218,4 +1218,16 @@
         xsi:type="archimate:BusinessService"
         href="BusinessService_id-7872820b81074946a75cef3e18f4d659.xml#id-7872820b81074946a75cef3e18f4d659"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5df3512b6a014d5cab79431ffa7dc5bf">
+    <bounds
+        x="203"
+        y="149"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-d9e3e761cd794bde9d7851877c24ca80.xml#id-d9e3e761cd794bde9d7851877c24ca80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
