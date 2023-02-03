@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Compliancy Management Architecture"
+    name="DUO CMA"
     id="id-b88bde68fd3341dfaa1c7644ab5ce930"
     documentation="Archimate uitwerking van de DUO Compliance Management architectuur zoals gepubliceerd op de WIKI">
   <children
@@ -41,9 +41,8 @@
           source="id-7d9e4a6ebf284aa6b2969465ff9e4f93"
           target="id-2907ae5c7e8e48c1aa3d5a21488663c0">
         <bendpoints
-            startX="-1"
             startY="156"
-            endX="121"
+            endX="133"
             endY="-6"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
@@ -111,6 +110,11 @@
         id="id-f7e36a5ecc08489e9d1a1cf44e6cac71"
         source="id-fc8da9954d484235b763f29ded2ca296"
         target="id-12e79dcc383642f5ae09a18f98d881fd">
+      <bendpoints
+          startX="6"
+          startY="-123"
+          endX="275"
+          endY="195"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-44e4767ab9024cdda8483533533e102e.xml#id-44e4767ab9024cdda8483533533e102e"/>
@@ -221,9 +225,9 @@
           href="AssignmentRelationship_id-240e12a05cb745419feeede5e4bfee4d.xml#id-240e12a05cb745419feeede5e4bfee4d"/>
     </sourceConnections>
     <bounds
-        x="961"
+        x="924"
         y="516"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -308,10 +312,9 @@
         source="id-e0d225da88ea4780983efa1ebfe31e1f"
         target="id-7d9e4a6ebf284aa6b2969465ff9e4f93">
       <bendpoints
-          startX="-108"
-          startY="-206"
-          endX="396"
-          endY="72"/>
+          startY="-267"
+          endX="480"
+          endY="12"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-eaf24651f1e147df89d2e37b4b1b0329.xml#id-eaf24651f1e147df89d2e37b4b1b0329"/>
@@ -353,9 +356,9 @@
           href="AggregationRelationship_id-3306e8498edc43aabf30c9419d128aea.xml#id-3306e8498edc43aabf30c9419d128aea"/>
     </sourceConnections>
     <bounds
-        x="961"
+        x="924"
         y="336"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -378,6 +381,10 @@
         id="id-349b55596eca43538a99f4a37113fa06"
         source="id-3df54181c50243e9bb50b942a392b684"
         target="id-7d9e4a6ebf284aa6b2969465ff9e4f93">
+      <bendpoints
+          startY="69"
+          endX="480"
+          endY="-12"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-0972ed7d8d454e4698439938c677f0c3.xml#id-0972ed7d8d454e4698439938c677f0c3"/>
@@ -389,15 +396,14 @@
         source="id-3df54181c50243e9bb50b942a392b684"
         target="id-025d15def3d046b380282be7d571a12f">
       <bendpoints
-          startX="-12"
-          startY="-63"
-          endX="852"
-          endY="-243"/>
+          startY="-45"
+          endX="864"
+          endY="-207"/>
       <bendpoints
           startX="-960"
-          startY="-63"
+          startY="-45"
           endX="-96"
-          endY="-243"/>
+          endY="-207"/>
       <bendpoints
           startX="-960"
           startY="177"
@@ -409,12 +415,12 @@
     </sourceConnections>
     <bounds
         x="924"
-        y="-24"
+        y="-30"
         width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
-        href="BusinessRole_id-39292f152d234c4288115efe8ffb24f2.xml#id-39292f152d234c4288115efe8ffb24f2"/>
+        href="BusinessRole_id-8b66ddb8d575499c886682a0d9c36cbc.xml#id-8b66ddb8d575499c886682a0d9c36cbc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -422,7 +428,7 @@
     <bounds
         x="1115"
         y="48"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessCollaboration"
@@ -437,6 +443,16 @@
         id="id-1d6a6d419f054a47bd5a142116136814"
         source="id-025d15def3d046b380282be7d571a12f"
         target="id-12e79dcc383642f5ae09a18f98d881fd">
+      <bendpoints
+          startX="132"
+          startY="-3"
+          endX="-253"
+          endY="111"/>
+      <bendpoints
+          startX="132"
+          startY="-63"
+          endX="-253"
+          endY="51"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-b706916bd8364233b93a768592c78973.xml#id-b706916bd8364233b93a768592c78973"/>
@@ -444,7 +460,7 @@
     <bounds
         x="60"
         y="132"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -465,7 +481,7 @@
     <bounds
         x="60"
         y="-30"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -481,9 +497,14 @@
         target="id-37ac2f627c274ab88c2859296b2ddd50">
       <bendpoints
           startX="180"
-          startY="-2"
-          endX="-216"
-          endY="47"/>
+          startY="-3"
+          endX="-204"
+          endY="46"/>
+      <bendpoints
+          startX="180"
+          startY="-39"
+          endX="-204"
+          endY="10"/>
       <archimateRelationship
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-01f07d8c34fa4ddd880296c8615d1222.xml#id-01f07d8c34fa4ddd880296c8615d1222"/>
@@ -491,7 +512,7 @@
     <bounds
         x="60"
         y="48"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -512,7 +533,7 @@
     <bounds
         x="60"
         y="336"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -531,9 +552,9 @@
           href="AssignmentRelationship_id-d05e4e810c5f48a0b4fb131d4161c834.xml#id-d05e4e810c5f48a0b4fb131d4161c834"/>
     </sourceConnections>
     <bounds
-        x="-36"
-        y="426"
-        width="120"
+        x="60"
+        y="468"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -552,9 +573,9 @@
           href="AssignmentRelationship_id-6c4b30ae39514e83b84da84dec542580.xml#id-6c4b30ae39514e83b84da84dec542580"/>
     </sourceConnections>
     <bounds
-        x="-36"
-        y="492"
-        width="120"
+        x="60"
+        y="540"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -573,9 +594,9 @@
           href="AssignmentRelationship_id-0b09c7570ef341d7b323ccc6e1559d3f.xml#id-0b09c7570ef341d7b323ccc6e1559d3f"/>
     </sourceConnections>
     <bounds
-        x="-36"
-        y="570"
-        width="120"
+        x="60"
+        y="612"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -603,9 +624,9 @@
           href="AssignmentRelationship_id-cbf2da32e88f43b08cb66ec71e39d7f1.xml#id-cbf2da32e88f43b08cb66ec71e39d7f1"/>
     </sourceConnections>
     <bounds
-        x="95"
-        y="588"
-        width="120"
+        x="60"
+        y="684"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -625,9 +646,9 @@
           href="AssignmentRelationship_id-79758aa2ad834ba082d39ab394b97ee9.xml#id-79758aa2ad834ba082d39ab394b97ee9"/>
     </sourceConnections>
     <bounds
-        x="95"
-        y="672"
-        width="120"
+        x="60"
+        y="768"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -640,7 +661,7 @@
     <bounds
         x="1115"
         y="264"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -653,7 +674,7 @@
     <bounds
         x="1115"
         y="336"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
@@ -666,7 +687,7 @@
     <bounds
         x="1115"
         y="408"
-        width="120"
+        width="144"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessRole"
