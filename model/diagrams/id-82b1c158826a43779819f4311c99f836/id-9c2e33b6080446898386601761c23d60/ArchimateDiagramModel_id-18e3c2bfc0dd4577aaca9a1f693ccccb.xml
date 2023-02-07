@@ -1224,11 +1224,11 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
-          href="Node_id-3ae9a680d1b84eb48131238a449befff.xml#id-3ae9a680d1b84eb48131238a449befff"/>
+          href="Node_id-1c2244034d3d44e7ac4acd81c341fee8.xml#id-1c2244034d3d44e7ac4acd81c341fee8"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-5f8d76208b3f413486fa9eb4acc4f9a8.xml#id-5f8d76208b3f413486fa9eb4acc4f9a8"/>
+        href="TechnologyService_id-0cd265ba3bbd4001a853a8d68afe22cc.xml#id-0cd265ba3bbd4001a853a8d68afe22cc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
