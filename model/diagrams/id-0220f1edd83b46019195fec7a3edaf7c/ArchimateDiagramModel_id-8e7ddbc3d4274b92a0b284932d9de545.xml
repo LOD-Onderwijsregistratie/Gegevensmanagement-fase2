@@ -262,7 +262,7 @@
         height="40"/>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
-        href="SystemSoftware_id-e70970a3793549ff816fadb1995f3c37.xml#id-e70970a3793549ff816fadb1995f3c37"/>
+        href="SystemSoftware_id-7edabebae84d4ee8b766febc73ffda6c.xml#id-7edabebae84d4ee8b766febc73ffda6c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -299,7 +299,7 @@
         height="43"/>
     <archimateElement
         xsi:type="archimate:TechnologyInterface"
-        href="TechnologyInterface_id-f74996d5ccaa4a04a696f8976f9abbdd.xml#id-f74996d5ccaa4a04a696f8976f9abbdd"/>
+        href="TechnologyInterface_id-41d5539527ed4ac2b65f5df9fff7cdc4.xml#id-41d5539527ed4ac2b65f5df9fff7cdc4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
