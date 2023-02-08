@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL"
+    id="id-f74996d5ccaa4a04a696f8976f9abbdd"
+    documentation="Interface geschikt voor het verwerken van SQL commando's"/>
