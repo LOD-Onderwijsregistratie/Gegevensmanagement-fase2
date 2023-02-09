@@ -1,0 +1,5 @@
+<archimate:BusinessService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Compliancy"
+    id="id-cdc810f35a5c4269a70e52451fc67b02"
+    documentation="Betreft alle vormen van complaincy te weten: Privacy, Informatiebveveiling an Archief. Deze service maakt het mogelijk om de gegevensmanagement capability compliant uit te voeren en is van toepassing op zowel gegevenstypering, kwaliteit (populatie), gegevensgebruik en gegevensdeling."/>

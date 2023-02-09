@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Register"
-    id="id-14b5bef83ebb42048bf8b2d4cf69c890"/>
+    id="id-14b5bef83ebb42048bf8b2d4cf69c890"
+    documentation="check: opslag ipv Register?"/>
