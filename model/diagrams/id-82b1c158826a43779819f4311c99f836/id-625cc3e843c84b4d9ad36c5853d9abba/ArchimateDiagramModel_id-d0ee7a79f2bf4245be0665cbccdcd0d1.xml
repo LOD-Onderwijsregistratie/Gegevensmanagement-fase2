@@ -2612,7 +2612,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-f9324c3ed59343808a53bc09fde7df81.xml#id-f9324c3ed59343808a53bc09fde7df81"/>
+          href="SystemSoftware_id-933b182dddfb4f10b7b9f01006500c2f.xml#id-933b182dddfb4f10b7b9f01006500c2f"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -2723,7 +2723,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-c6cbdee922914f3ab08b60a8b2058b99.xml#id-c6cbdee922914f3ab08b60a8b2058b99"/>
+          href="SystemSoftware_id-5e2eb70b94834486bcd1257e5757b7aa.xml#id-5e2eb70b94834486bcd1257e5757b7aa"/>
     </children>
     <archimateElement
         xsi:type="archimate:Node"
