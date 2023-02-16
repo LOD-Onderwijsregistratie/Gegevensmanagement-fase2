@@ -1,5 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadatabeheer"
+    name="Metadateren"
     id="id-eadda80859f3459c9fd36846c65c57b6"
-    documentation="todo: uitsplitsen functie naar onstaan van metadata en beheer"/>
+    documentation="het zoeken, vinden, begrijpen, vergelijken, kiezen en gebruiken van gegevens wordt mogelijk gemaakt;&#xD;&#xA;het vullen van de metadata elementen.&#xD;&#xA;bron: Ketenarchitectuur veranderopgave onderwijsgegevensplatform (nov '21)&#xD;&#xA;&#xD;&#xA;Metadata DAMA DMBOK2: “the planning, implementation, and control activities to enable access to high quality, integrated metadata.”&#xD;&#xA;&#xD;&#xA;todo: uitsplitsen functie naar onstaan van metadata en beheer&#xD;&#xA;check link naar: [HOSA] Catalog &amp; Search Services (proces)"/>
