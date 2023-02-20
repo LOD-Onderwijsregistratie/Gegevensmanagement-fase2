@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[DMBOK] Reference &amp; Master Data"
-    id="id-5c65e0878a9e4b03b3ab0248371efc9e"/>
+    id="id-5c65e0878a9e4b03b3ab0248371efc9e"
+    documentation="Een organisatie heeft het vermogen om gedeelde data te indentificeren en te beheren zodat organisatie doelen en risico's op het gebied van redundantie en kwaliteit gereduceerd worden waardoor kosten van data integratie gereduceerd worden."/>
