@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DMBOK vs KDG"
-    id="id-2cd43fff86bf4ad3a11a56a7237bfabb">
+    id="id-2cd43fff86bf4ad3a11a56a7237bfabb"
+    documentation="Overzicht van associaties tussen de capabilities uit het Kenniswiel Data Governance Rijksoverheid en Datamanagement Wiel van DMBOK.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-19afa0e281b44de497dcfacbae0b6a79"
@@ -22,8 +23,8 @@
           href="SpecializationRelationship_id-73acca4c2ba141cb8774a846617b4567.xml#id-73acca4c2ba141cb8774a846617b4567"/>
     </sourceConnections>
     <bounds
-        x="732"
-        y="204"
+        x="636"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -35,8 +36,8 @@
       id="id-bd4ac99f62584b8fb3eb711449cee02b"
       targetConnections="id-16464bdf1c3c49afa7b74429937fc6d3 id-d2ee2dd8bb5e4d12b72a6ce43976db27 id-089b26fa009f40029cb4fec6f6758093 id-010c8c8f17a843daa6277e7c062fd596 id-a5f1fe0db2c24f559f4e32e63f1612e3 id-c1616714e7ee40d9b388dfe1b0ab735d id-b5b26c4155c640bdafda8f35777603d9 id-db7cfbe518bd48c182b59b1d76ed3b64 id-7f475da69f704c74a3f75d96fa609ee7 id-43a6edbf10f04002a8671000bd130822 id-0d9fe0eddd0c423fa7032f048d1eeb99 id-cfda4bdc22ae44b290de8148c0049b49 id-f9db5c3b5bc54f739c51c221f9becd58 id-d9e60d48190947489462d365805fa138 id-4c091c663d664ff59ebd9d5cc5d6ebb8 id-c3859732a37d44ebbb867c9d8906c963 id-3199277b7ce04e4f841e231969e7a886 id-207f529a34e740f78180683d1faeca90 id-ad864ed34f1548469b712edeecd9b796">
     <bounds
-        x="552"
-        y="120"
+        x="456"
+        y="23"
         width="120"
         height="55"/>
     <archimateElement
@@ -61,8 +62,8 @@
           href="SpecializationRelationship_id-31954889fc3a41a6812e440f8785c4e5.xml#id-31954889fc3a41a6812e440f8785c4e5"/>
     </sourceConnections>
     <bounds
-        x="1260"
-        y="204"
+        x="1164"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -87,8 +88,8 @@
           href="SpecializationRelationship_id-9e5a18be6ede4a42a1f4f8e5ec56790e.xml#id-9e5a18be6ede4a42a1f4f8e5ec56790e"/>
     </sourceConnections>
     <bounds
-        x="864"
-        y="204"
+        x="768"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -113,8 +114,8 @@
           href="SpecializationRelationship_id-667b51c2194c4da3b70cf30b90e3ada7.xml#id-667b51c2194c4da3b70cf30b90e3ada7"/>
     </sourceConnections>
     <bounds
-        x="1920"
-        y="204"
+        x="1824"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -139,8 +140,8 @@
           href="SpecializationRelationship_id-9c8396f8a0ae461b9e8e5f07810abed5.xml#id-9c8396f8a0ae461b9e8e5f07810abed5"/>
     </sourceConnections>
     <bounds
-        x="1128"
-        y="204"
+        x="1032"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -165,8 +166,8 @@
           href="SpecializationRelationship_id-455fbeaebfda4b589964a49f965b4bf7.xml#id-455fbeaebfda4b589964a49f965b4bf7"/>
     </sourceConnections>
     <bounds
-        x="996"
-        y="204"
+        x="900"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -192,8 +193,8 @@
           href="SpecializationRelationship_id-ab68eb525a64466695d7e017cc6e5035.xml#id-ab68eb525a64466695d7e017cc6e5035"/>
     </sourceConnections>
     <bounds
-        x="1397"
-        y="204"
+        x="1301"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -218,8 +219,8 @@
           href="SpecializationRelationship_id-e296a730cc284a0eb45920cd02ee7de4.xml#id-e296a730cc284a0eb45920cd02ee7de4"/>
     </sourceConnections>
     <bounds
-        x="1656"
-        y="204"
+        x="1560"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -244,8 +245,8 @@
           href="SpecializationRelationship_id-e59584e218544e9f81e9703c423a42a8.xml#id-e59584e218544e9f81e9703c423a42a8"/>
     </sourceConnections>
     <bounds
-        x="1788"
-        y="204"
+        x="1692"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -269,8 +270,8 @@
           href="SpecializationRelationship_id-88ce7251e9a44a27b08275c36cd7dddf.xml#id-88ce7251e9a44a27b08275c36cd7dddf"/>
     </sourceConnections>
     <bounds
-        x="1524"
-        y="204"
+        x="1428"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -336,8 +337,8 @@
           href="AssociationRelationship_id-047c52a705e542e8a6ae3b7b81b8bbe6.xml#id-047c52a705e542e8a6ae3b7b81b8bbe6"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="1032"
+        x="204"
+        y="935"
         width="157"
         height="55"/>
     <archimateElement
@@ -401,8 +402,8 @@
           href="AssociationRelationship_id-63941fd23cd04a49ab5d177cf0fe96d1.xml#id-63941fd23cd04a49ab5d177cf0fe96d1"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="780"
+        x="204"
+        y="683"
         width="157"
         height="55"/>
     <archimateElement
@@ -466,8 +467,8 @@
           href="AssociationRelationship_id-964918c5a2bf4cf5af599e9e082e151b.xml#id-964918c5a2bf4cf5af599e9e082e151b"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="864"
+        x="204"
+        y="767"
         width="157"
         height="55"/>
     <archimateElement
@@ -532,8 +533,8 @@
           href="AssociationRelationship_id-01fa1fa6cf75412295640a908a29473a.xml#id-01fa1fa6cf75412295640a908a29473a"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="696"
+        x="204"
+        y="599"
         width="157"
         height="55"/>
     <archimateElement
@@ -598,8 +599,8 @@
           href="AssociationRelationship_id-e0ad3cf2e03d4f269e33fe7f42fdb469.xml#id-e0ad3cf2e03d4f269e33fe7f42fdb469"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="444"
+        x="204"
+        y="347"
         width="157"
         height="55"/>
     <archimateElement
@@ -638,8 +639,8 @@
           href="AssociationRelationship_id-10b2e125e1274f28aecbcfab0ef64dc4.xml#id-10b2e125e1274f28aecbcfab0ef64dc4"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="360"
+        x="204"
+        y="263"
         width="157"
         height="55"/>
     <archimateElement
@@ -717,8 +718,8 @@
           href="AssociationRelationship_id-83cd5ed649874da881fcedc17ace1c0c.xml#id-83cd5ed649874da881fcedc17ace1c0c"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="612"
+        x="204"
+        y="515"
         width="157"
         height="55"/>
     <archimateElement
@@ -783,8 +784,8 @@
           href="AssociationRelationship_id-cdc00f2ed97341178c3b1e14dbe9acbd.xml#id-cdc00f2ed97341178c3b1e14dbe9acbd"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="528"
+        x="204"
+        y="431"
         width="157"
         height="55"/>
     <archimateElement
@@ -875,8 +876,8 @@
           href="AssociationRelationship_id-7fe2670784d24372ad3bd4a063387964.xml#id-7fe2670784d24372ad3bd4a063387964"/>
     </sourceConnections>
     <bounds
-        x="300"
-        y="948"
+        x="204"
+        y="851"
         width="157"
         height="55"/>
     <archimateElement
@@ -888,8 +889,8 @@
       id="id-c326509edc334e66a1a03fb47ed328d4"
       targetConnections="id-fc34f4adf06c4706aaa7c447df9166a4 id-3afade4b50854a6683f0da1ac65a8de5 id-b42a4c813d25477dbb7f9e5d2239f9d0 id-46c8e7105ee84c9b958d95addd8a051d id-e0730b95623f4a15b3e64d718644262a id-1f66a697b5f6456f811e516780b78d35 id-0eb27f4c661e411caf9747e4935acde5 id-a18104aa1b9a4410b0027e79d1ecfd54 id-e5a623222f7145ba8651b31002ec415a">
     <bounds
-        x="120"
-        y="265"
+        x="24"
+        y="168"
         width="157"
         height="55"/>
     <archimateElement
@@ -915,8 +916,8 @@
           href="SpecializationRelationship_id-a39cf3d05cc4495481bb9d67661de6ab.xml#id-a39cf3d05cc4495481bb9d67661de6ab"/>
     </sourceConnections>
     <bounds
-        x="600"
-        y="204"
+        x="504"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -941,8 +942,8 @@
           href="SpecializationRelationship_id-ff5c69b4b44a4600bf9caef8480368b5.xml#id-ff5c69b4b44a4600bf9caef8480368b5"/>
     </sourceConnections>
     <bounds
-        x="2052"
-        y="204"
+        x="1956"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -966,8 +967,8 @@
           href="SpecializationRelationship_id-54589ed767a54196b395611cb1e65350.xml#id-54589ed767a54196b395611cb1e65350"/>
     </sourceConnections>
     <bounds
-        x="2184"
-        y="204"
+        x="2088"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -992,8 +993,8 @@
           href="SpecializationRelationship_id-744eeea6f63343f69bf84f247678fe2d.xml#id-744eeea6f63343f69bf84f247678fe2d"/>
     </sourceConnections>
     <bounds
-        x="2316"
-        y="204"
+        x="2220"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
@@ -1018,12 +1019,23 @@
           href="SpecializationRelationship_id-cddc42ba4c874391ab4802c617856bb9.xml#id-cddc42ba4c874391ab4802c617856bb9"/>
     </sourceConnections>
     <bounds
-        x="2448"
-        y="204"
+        x="2352"
+        y="107"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-e2e02b0957f94dd28bb9859334375acf.xml#id-e2e02b0957f94dd28bb9859334375acf"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-47099cf5b17741f0b9e90c226dc2a514"
+      textAlignment="1"
+      content="Overzicht van associaties tussen de capabilities uit het Kenniswiel Data Governance Rijksoverheid en Datamanagement Wiel van DMBOK.&#xD;&#xA;">
+    <bounds
+        x="24"
+        y="24"
+        width="249"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
