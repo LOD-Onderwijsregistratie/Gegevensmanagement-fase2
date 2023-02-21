@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Requirements Metadata Semantische wiki"
+    id="id-35a833579f164f70b8d241f736888a94">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-966aa3b157284c0492012f80ede3fe47">
+    <bounds
+        x="396"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-208b56453db44166a04dacf77aa3872c.xml#id-208b56453db44166a04dacf77aa3872c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-40c54e0420314f3593063ab3676bebd7">
+    <bounds
+        x="691"
+        y="137"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-e9a66d1fdfec46ff9c117c53b02116bd.xml#id-e9a66d1fdfec46ff9c117c53b02116bd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6bbd15833e8a402682b8a56f125801b5">
+    <bounds
+        x="707"
+        y="252"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-99d0c01db3254bf4ba07d6d396aba6c0.xml#id-99d0c01db3254bf4ba07d6d396aba6c0"/>
+  </children>
+</archimate:ArchimateDiagramModel>
