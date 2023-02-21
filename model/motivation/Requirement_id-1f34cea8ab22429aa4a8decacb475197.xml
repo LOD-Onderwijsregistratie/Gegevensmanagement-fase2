@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkplek is schaalbaar wb CPU, GPU, memory"
+    id="id-1f34cea8ab22429aa4a8decacb475197"
+    documentation="Requirements op basis van gezamelijke sessie met CIO, Data Office, Infra, Security en werkplek architecten."/>

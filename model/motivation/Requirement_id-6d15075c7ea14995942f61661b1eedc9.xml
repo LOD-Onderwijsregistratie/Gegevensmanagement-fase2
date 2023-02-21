@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Werkplek werkt met  een whitelist per gebruiker"
+    id="id-6d15075c7ea14995942f61661b1eedc9"
+    documentation="Requirements op basis van gezamelijke sessie met CIO, Data Office, Infra, Security en werkplek architecten."/>
