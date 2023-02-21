@@ -159,6 +159,20 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-1a9feb06fd7d4a3eac6a1b1c89923159.xml#id-1a9feb06fd7d4a3eac6a1b1c89923159"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-736db623a08b4259b5b8d6f1b0e04c0c"
+        source="id-966aa3b157284c0492012f80ede3fe47"
+        target="id-47639bc0affc4ec5a9e673fad3370074">
+      <bendpoints
+          startX="-12"
+          startY="-171"
+          endX="318"
+          endY="9"/>
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-5f64560588b648c98dd829fbb6d2325d.xml#id-5f64560588b648c98dd829fbb6d2325d"/>
+    </sourceConnections>
     <bounds
         x="396"
         y="252"
@@ -326,7 +340,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-47639bc0affc4ec5a9e673fad3370074">
+      id="id-47639bc0affc4ec5a9e673fad3370074"
+      targetConnections="id-736db623a08b4259b5b8d6f1b0e04c0c">
     <bounds
         x="48"
         y="72"
@@ -335,5 +350,16 @@
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-e188532b32a14d99b718973f36bcb809.xml#id-e188532b32a14d99b718973f36bcb809"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2744c4507a06403bbf2e8877e94db3b2"
+      textAlignment="1"
+      content="Naam: Requirements MDP GABI Metadata Semantische wiki&#xD;&#xA;Auteur: Jan Willem&#xD;&#xA;Datum laatste wijziging: 21-2-2023&#xD;&#xA;">
+    <bounds
+        x="936"
+        y="45"
+        width="205"
+        height="100"/>
   </children>
 </archimate:ArchimateDiagramModel>
