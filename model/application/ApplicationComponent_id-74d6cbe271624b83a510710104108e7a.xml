@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enterprise Dataware House"
-    id="id-74d6cbe271624b83a510710104108e7a"/>
+    id="id-74d6cbe271624b83a510710104108e7a">
+  <properties
+      key="BegripURI"
+      value="https://www.begrippenxl.nl/gabi/nl/page/EDH"/>
+</archimate:ApplicationComponent>

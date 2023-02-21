@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Triple Store"
     id="id-9da81ef236e94175bb26863b67a1173b"
-    documentation="&#xA;"/>
+    documentation="&#xA;">
+  <properties
+      key="BegripURI"
+      value="https://www.begrippenxl.nl/gabi/nl/page/Triplestore"/>
+</archimate:SystemSoftware>

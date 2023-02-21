@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata Publicatie (MDP)"
-    id="id-0abbd9314d684ddebce05dc6a59fe2d4"/>
+    id="id-0abbd9314d684ddebce05dc6a59fe2d4">
+  <properties
+      key="BegripURI"
+      value="https://www.begrippenxl.nl/gabi/nl/page/MDP"/>
+</archimate:ApplicationComponent>
