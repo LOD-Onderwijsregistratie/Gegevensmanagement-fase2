@@ -323,9 +323,21 @@
         x="806"
         y="496"
         width="223"
-        height="50"/>
+        height="57"/>
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-e7e6262412e2406a9a3ac175c04e9afe.xml#id-e7e6262412e2406a9a3ac175c04e9afe"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-64e5b9acb76a4cacb7aec7a936b91b9c">
+    <bounds
+        x="1056"
+        y="492"
+        width="223"
+        height="50"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_id-11e2919e64b94874a01831d1d73f12b3.xml#id-11e2919e64b94874a01831d1d73f12b3"/>
   </children>
 </archimate:ArchimateDiagramModel>
