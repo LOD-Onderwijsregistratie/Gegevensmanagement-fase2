@@ -223,9 +223,21 @@
         targetConnections="id-03af2eca64c84c599a700685601df174">
       <bounds
           x="12"
-          y="276"
-          width="120"
-          height="55"/>
+          y="228"
+          width="144"
+          height="85"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-985e741617604fb188a5c522ad420f89">
+        <bounds
+            x="12"
+            y="24"
+            width="120"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-d367d8509ea74c7cac29f369103d2cdc.xml#id-d367d8509ea74c7cac29f369103d2cdc"/>
+      </children>
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-01295d4403cd49b7b52373150f934e24.xml#id-01295d4403cd49b7b52373150f934e24"/>
