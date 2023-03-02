@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NF] Beperkingen in capaciteit"
+    id="id-9f86215f6f7044d5a6d2f675a5e92476"
+    documentation="processor speed, memory, disk space, network bandwidth, etc."/>

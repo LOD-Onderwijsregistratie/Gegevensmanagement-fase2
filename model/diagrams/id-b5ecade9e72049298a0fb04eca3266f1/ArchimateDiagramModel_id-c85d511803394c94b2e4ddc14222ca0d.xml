@@ -178,7 +178,7 @@
         x="204"
         y="36"
         width="169"
-        height="565"/>
+        height="589"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0270fac5d6fe44798a811addbe0a27aa"
@@ -274,8 +274,8 @@
       <bounds
           x="12"
           y="492"
-          width="120"
-          height="55"/>
+          width="144"
+          height="85"/>
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-0413b147cf844dfd9430536a6a0d5d7e.xml#id-0413b147cf844dfd9430536a6a0d5d7e"/>
