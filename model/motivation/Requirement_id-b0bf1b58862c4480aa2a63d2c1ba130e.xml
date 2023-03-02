@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Meertaligheid in interface"
+    id="id-b0bf1b58862c4480aa2a63d2c1ba130e"
+    documentation="Bij het ontwerpen van een User interface van een meertalige omgeving komen een aantal belangrijke zaken kijken waar rekening mee moet worden gehouden. Natuurlijk één van de belangrijkste zaken is dat een gebruiker gemakkelijk kan switchen tussen talen, zelfs in zoverre dat een gebruiker van taal kan verwisselen zonder de taal daadwerkelijk te kunnen lezen."/>

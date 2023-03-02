@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[BIC] Instellen vrijheidsgraad rapporten."
+    id="id-c6c7c502abbf4b4cb90e388029c86f30"
+    documentation="Verschillende activiteiten binnen het gebruik van de tool en rapporten moeten role based kunnen worden ingericht."/>
