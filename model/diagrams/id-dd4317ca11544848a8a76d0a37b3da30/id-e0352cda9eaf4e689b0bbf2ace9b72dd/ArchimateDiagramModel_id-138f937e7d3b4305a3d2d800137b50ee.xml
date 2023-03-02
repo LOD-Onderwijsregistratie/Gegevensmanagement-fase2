@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Aanvraagproces"
+    name="SANE Aanvraagproces"
     id="id-138f937e7d3b4305a3d2d800137b50ee"
+    documentation="Bedrijfsfuncties en hun volgorde met betrekking tot een aanvraagproces."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -221,8 +222,8 @@
       content="Wachten op ontwikkeling aanvraagproces vanuit Compliance / IP / BICC / SEG">
     <bounds
         x="48"
-        y="252"
+        y="12"
         width="185"
-        height="80"/>
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
