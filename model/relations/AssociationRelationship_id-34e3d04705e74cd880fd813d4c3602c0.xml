@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wordt"
+    id="id-34e3d04705e74cd880fd813d4c3602c0"
+    documentation="informatie object wordt gepubliceerd">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-aab5f973f9884b478fac6d9cd0604315.xml#id-aab5f973f9884b478fac6d9cd0604315"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8b18bb274b5747e2b1dfc742e30180d2.xml#id-8b18bb274b5747e2b1dfc742e30180d2"/>
+</archimate:AssociationRelationship>

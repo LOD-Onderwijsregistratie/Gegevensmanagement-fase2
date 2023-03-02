@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="betrekking op 1..1"
+    id="id-34f4734cf00a4bfc88c22ec0a9336a8e"
+    documentation="beslissing heeft betrekking op een aan vraag">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-c2b47eedfdea4da58cc07a11c075f455.xml#id-c2b47eedfdea4da58cc07a11c075f455"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-39142d4f250a4f97920d631187902041.xml#id-39142d4f250a4f97920d631187902041"/>
+</archimate:AssociationRelationship>

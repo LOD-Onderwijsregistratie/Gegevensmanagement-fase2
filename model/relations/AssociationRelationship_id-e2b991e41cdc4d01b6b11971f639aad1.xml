@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="met n..1"
+    id="id-e2b991e41cdc4d01b6b11971f639aad1"
+    documentation="klantcontact met klant">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-1db78823df454011bc063cf4c18dee29.xml#id-1db78823df454011bc063cf4c18dee29"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4f60704f1d184fc0a3bf4a3a10e71216.xml#id-4f60704f1d184fc0a3bf4a3a10e71216"/>
+</archimate:AssociationRelationship>

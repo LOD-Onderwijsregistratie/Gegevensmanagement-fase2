@@ -288,6 +288,18 @@
           y="480"
           width="144"
           height="85"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-955d4a5704494779b7ad34133dc3e1b6">
+        <bounds
+            x="12"
+            y="24"
+            width="120"
+            height="55"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-e43c2c38b513444a80f27c3c9275eb74.xml#id-e43c2c38b513444a80f27c3c9275eb74"/>
+      </children>
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-0413b147cf844dfd9430536a6a0d5d7e.xml#id-0413b147cf844dfd9430536a6a0d5d7e"/>

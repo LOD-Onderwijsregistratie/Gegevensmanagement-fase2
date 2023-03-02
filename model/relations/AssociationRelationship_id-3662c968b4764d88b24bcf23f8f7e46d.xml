@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gerapporteerd 1..n"
+    id="id-3662c968b4764d88b24bcf23f8f7e46d"
+    documentation="In Control Verklaring beschrijft de werking van de genomen beheersmaatregelen.">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-a45050d37a0146398fa16351b9b55e9b.xml#id-a45050d37a0146398fa16351b9b55e9b"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-cee3ecb9dcda402b98a832afab23915a.xml#id-cee3ecb9dcda402b98a832afab23915a"/>
+</archimate:AssociationRelationship>

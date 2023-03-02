@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="op basis van n..m"
+    id="id-27c16898b5964bd4ad85351b34da46be"
+    documentation="beslissing op basis van een regeling">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-39142d4f250a4f97920d631187902041.xml#id-39142d4f250a4f97920d631187902041"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-8957bc1dae0f4c8c84da10ae9c581381.xml#id-8957bc1dae0f4c8c84da10ae9c581381"/>
+</archimate:AssociationRelationship>

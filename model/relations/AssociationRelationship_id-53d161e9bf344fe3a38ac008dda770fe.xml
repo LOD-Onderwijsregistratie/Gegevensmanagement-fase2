@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beschrijft"
+    id="id-53d161e9bf344fe3a38ac008dda770fe"
+    documentation="Begrip beschrijft de gegevensverzameling">
+  <source
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-0a30ca5855fa4124a30109f4a29ed589.xml#id-0a30ca5855fa4124a30109f4a29ed589"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-3883625d1f5e48e29fa312f90342cf8e.xml#id-3883625d1f5e48e29fa312f90342cf8e"/>
+</archimate:AssociationRelationship>
