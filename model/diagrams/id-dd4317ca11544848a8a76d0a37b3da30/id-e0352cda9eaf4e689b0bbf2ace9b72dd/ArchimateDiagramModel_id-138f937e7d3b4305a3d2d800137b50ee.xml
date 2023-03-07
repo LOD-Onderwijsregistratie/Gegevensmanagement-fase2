@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SANE Aanvraagproces"
+    name="SANE Afhandelen Gegevens- / Informatieverzoek"
     id="id-138f937e7d3b4305a3d2d800137b50ee"
-    documentation="Bedrijfsfuncties en hun volgorde met betrekking tot een aanvraagproces."
+    documentation="Bedrijfsfuncties en hun volgorde met betrekking tot het afhandelen van een gegvens- of informatieverzoek"
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
