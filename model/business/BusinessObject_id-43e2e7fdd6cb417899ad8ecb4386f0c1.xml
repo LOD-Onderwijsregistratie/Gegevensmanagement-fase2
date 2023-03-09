@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="examenresultaat"
+    id="id-43e2e7fdd6cb417899ad8ecb4386f0c1"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een examenresultaat betreft het verifieerbare referentie van een met gunstig gevolg afgelegd examen."/>
+</archimate:BusinessObject>

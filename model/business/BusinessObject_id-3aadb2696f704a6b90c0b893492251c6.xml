@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beleidsinformatie"
+    id="id-3aadb2696f704a6b90c0b893492251c6"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Dit is de informatie ter ondersteuning van de ontwikkeling of evaluatie van het beleid van het Nederlandse onderwijs ten behoeve van de opdrachtgever van DUO."/>
+</archimate:BusinessObject>

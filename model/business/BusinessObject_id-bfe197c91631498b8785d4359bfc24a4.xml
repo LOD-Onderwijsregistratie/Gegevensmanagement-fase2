@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toets"
+    id="id-bfe197c91631498b8785d4359bfc24a4"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een toets is een enkele afname die een resultaat tot gevolg heeft."/>
+  <properties
+      key="extern_titel"
+      value="CVTE"/>
+</archimate:BusinessObject>

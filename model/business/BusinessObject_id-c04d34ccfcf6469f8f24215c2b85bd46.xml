@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="begrip"
+    id="id-c04d34ccfcf6469f8f24215c2b85bd46"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Concept"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="extern_uri"
+      value="https://www.noraonline.nl/wiki/Gegevensbeschrijvingen/Metagegevensmodel"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een begrip is de betekenis die door mensen wordt toegekend aan een term."/>
+  <properties
+      key="extern_titel"
+      value="Gebaseerd op NORA"/>
+</archimate:BusinessObject>

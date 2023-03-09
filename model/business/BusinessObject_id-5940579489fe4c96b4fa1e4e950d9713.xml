@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ketenpartner"
+    id="id-5940579489fe4c96b4fa1e4e950d9713"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een ketenpartner betreft een niet natuurlijk persoon die bijdrage levert aan de DUO of vice versa ten behoeve van een integrale dienstverlening aan klanten en waarbij onderling geen sprake is van een opdrachtgever-opdrachtnemer relatie. Voorbeelden van ketenpartners zijn CITO, CDFD, Examencommissie of de basisregistraties die gegevens leveren."/>
+</archimate:BusinessObject>

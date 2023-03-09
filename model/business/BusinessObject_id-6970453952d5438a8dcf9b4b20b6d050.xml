@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="exameninschrijving"
+    id="id-6970453952d5438a8dcf9b4b20b6d050"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Afspraak"/>
+  <properties
+      key="omschrijving"
+      value="Een exameninschrijving betreft het op basis van één of meer criteria toelaten van een examen kandidaat tot het afleggen van een examen."/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="plaats"
+    id="id-635ba0f752ab45cbacacf83cfd578c1e"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="http://opendata.stelselcatalogus.nl/brk/id/begrip/woonplaats"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Eigenschap"/>
+  <properties
+      key="omschrijving"
+      value="Een plaats betreft een door het bevoegde gemeentelijke orgaan als zodanig aangewezen en van een naam voorzien gedeelte van het grondgebied van de gemeente. Stelselcatalogus: Elk [Adres] is gelegen in een plaats."/>
+  <properties
+      key="extern_titel"
+      value="BRK"/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gegevenstype"
+    id="id-82e27c1400f842ae9ae964fdeea3fd09"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een gegevenstype betreft de typering van een gegevensattribuut binnen een data- en/of informatiemodel dat zodanig beschikbaar is gemaakt dat dit kan worden hergebruikt door middel van verwijzing. Bijvoorbeeld beschrijving van het patroon van de opmaak van een postcode, BRIN, CREBO code."/>
+</archimate:BusinessObject>

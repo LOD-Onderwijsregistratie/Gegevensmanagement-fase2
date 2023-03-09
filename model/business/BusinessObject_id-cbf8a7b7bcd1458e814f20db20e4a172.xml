@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kind"
+    id="id-cbf8a7b7bcd1458e814f20db20e4a172"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Eigenschap"/>
+  <properties
+      key="omschrijving"
+      value="Een kind is een eerstegraads bloedverwant van de [Persoon] in de neergaande lijn. Toelichting: Bloedverwant = een door een familiebetrekking verbonden persoon, veroorzaakt door geboorte, adoptie, erkenning of gerechtelijke vaststelling. Door adoptie worden de adoptieouders de juridische ouders van het kind en ontstaat er bloedverwantschap. Bloedverwantschap is dus niet alleen biologisch bepaald. Stelselcatalogus: Kind op de Persoonslijst (PL) van de persoon."/>
+</archimate:BusinessObject>

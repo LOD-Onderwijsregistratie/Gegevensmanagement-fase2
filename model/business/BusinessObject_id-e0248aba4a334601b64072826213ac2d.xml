@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leerlingverzuim"
+    id="id-e0248aba4a334601b64072826213ac2d"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="extern_uri"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0042012&amp;hoofdstuk=1&amp;artikel=1"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een leerlingverzuim is het zonder geldige reden niet meer volgen van het onderwijs. Opmerking: Hieronder valt het relatieve en absolute verzuim, waarbij de eerste betrekking heeft op het verzuim van een ingeschreven persoon en de tweede over een niet ingeschreven persoon terwijl dit persoon wel onder de leerplicht valt."/>
+  <properties
+      key="extern_titel"
+      value="WRO"/>
+</archimate:BusinessObject>

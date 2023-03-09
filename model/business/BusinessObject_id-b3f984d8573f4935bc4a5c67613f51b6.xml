@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderwijslocatie"
+    id="id-b3f984d8573f4935bc4a5c67613f51b6"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="https://www.rio-onderwijs.nl/informatiemodel-en-begrippen"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een onderwijslocatie is een bepaalde plaats, meestal een gebouw, waar onderwijs wordt gegeven. Het is een plek op de kaart, een adres in de Basisregistratie Adressen en Gebouwen."/>
+  <properties
+      key="extern_titel"
+      value="RIO"/>
+</archimate:BusinessObject>

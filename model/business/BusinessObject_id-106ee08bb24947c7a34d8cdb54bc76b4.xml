@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderwijsmedewerker"
+    id="id-106ee08bb24947c7a34d8cdb54bc76b4"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="https://rosa.wikixl.nl/index.php/Woordenlijst#O"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een onderwijsmedewerker is een natuurlijk persoon die betaald of vrijwillig werkzaam is bij of voor een [Onderwijsorganisatie]."/>
+  <properties
+      key="extern_titel"
+      value="ROSA / KOI"/>
+</archimate:BusinessObject>

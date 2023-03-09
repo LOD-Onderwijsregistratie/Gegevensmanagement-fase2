@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="examenkandidaat"
+    id="id-fc763dbfc8e747128ced28f0c4303fd6"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een Examenkandidaat betreft een Natuurlijk Persoon die deelneemt aan een Examen."/>
+</archimate:BusinessObject>

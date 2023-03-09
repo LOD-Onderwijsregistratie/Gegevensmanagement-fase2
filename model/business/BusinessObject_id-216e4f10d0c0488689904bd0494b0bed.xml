@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toetsresultaat"
+    id="id-216e4f10d0c0488689904bd0494b0bed"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="https://rosa.wikixl.nl/index.php/Toetsresultaat"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Het toetsresultaat is het cijfer of andere waardering voor en toets"/>
+  <properties
+      key="extern_titel"
+      value="ROSA"/>
+</archimate:BusinessObject>

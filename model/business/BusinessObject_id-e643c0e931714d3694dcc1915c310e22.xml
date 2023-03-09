@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beheersmaatregel"
+    id="id-e643c0e931714d3694dcc1915c310e22"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een beheersmaatregel betreft een maatregel die risico’s op het niet behalen van doelstellingen structureel verlaagt tot een geaccepteerd niveau."/>
+</archimate:BusinessObject>

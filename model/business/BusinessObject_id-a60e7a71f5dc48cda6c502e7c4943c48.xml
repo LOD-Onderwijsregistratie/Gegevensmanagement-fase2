@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ontvangst"
+    id="id-a60e7a71f5dc48cda6c502e7c4943c48"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een ontvangst betreft een registratie van inkomende poststukken of e-mail aangevuld met gegevens over identificatie en routering naar het te behandelen proces."/>
+  <properties
+      key="grondslag"
+      value="Vitaal belang van de betrokkene"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+</archimate:BusinessObject>
