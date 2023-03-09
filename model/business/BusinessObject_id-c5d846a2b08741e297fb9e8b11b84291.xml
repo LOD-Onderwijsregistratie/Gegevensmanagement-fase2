@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="aangeboden opleiding"
+    id="id-c5d846a2b08741e297fb9e8b11b84291"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="Een aangeboden opleiding is een Opleidingseenheid die door een Onderwijsaanbieder aangeboden wordt in een bepaald vorm, al dan niet op een bepaalde Onderwijslocatie."/>
+  <properties
+      key="extern_uri"
+      value="https://www.rio-onderwijs.nl/informatiemodel-en-begrippen"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="extern_titel"
+      value="RIO"/>
+</archimate:BusinessObject>

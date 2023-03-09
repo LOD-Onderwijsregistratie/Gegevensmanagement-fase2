@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="informatieobject"
+    id="id-3f1808217e724ed28ce0460263b5370b"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="extern_uri"
+      value="https://www.noraonline.nl/wiki/Informatie-object"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een informatieobject is een op zichzelf staand geheel van gegevens met een eigen identiteit, die als zodanig als eenheid wordt verwerkt. Toelichting: Informatieobject wordt met name gebruikt ivm archiverings(plicht) van een [Beschikking]"/>
+  <properties
+      key="extern_titel"
+      value="NORA"/>
+</archimate:BusinessObject>

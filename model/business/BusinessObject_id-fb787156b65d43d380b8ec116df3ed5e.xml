@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="product"
+    id="id-fb787156b65d43d380b8ec116df3ed5e"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Dienst"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een product is een tastbaar goed of verzameling activiteiten die door een leverancier geleverd kunnen worden. Toelichting: Een product heeft (materiële of immateriële) waarde voor de klant. Een product is dus inclusief de dienst er omheen. Een dienst (business service) is de van buitenaf zichtbare functie die wordt vervuld en die zinvol is voor de klant. Ook de toelichting over (het gebruik) van het product valt daaronder. Voor het bepalen van product is het uitgangspunt ‘wat de klant er voor moet doen om het product af te nemen’ en welke set van afspraken daar aan gekoppeld is. Bij product wordt uitgegaan van de klant."/>
+  <properties
+      key="extern_titel"
+      value="Informatie Architectuur Bedrijfsvoering OCW"/>
+  <properties
+      key="Vertrouwelijkheid"
+      value="Laag"/>
+</archimate:BusinessObject>

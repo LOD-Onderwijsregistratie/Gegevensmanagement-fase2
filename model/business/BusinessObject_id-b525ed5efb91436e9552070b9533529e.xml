@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="regeling"
+    id="id-b525ed5efb91436e9552070b9533529e"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="Een regeling betreft de speciale wetten, algemene wetten, voorschriften, jurisprudentie en condities met betrekking tot de wettelijke taken die DUO uitvoert."/>
+  <properties
+      key="extern_titel"
+      value="Rapport Kennismanagement DUO"/>
+  <properties
+      key="synoniem"
+      value="Wet"/>
+  <properties
+      key="extern_uri"
+      value="https://wiki.prd.duo.nl/download/attachments/183601635/eindrapport%20Kennis%20Management%20v%201.0.pdf"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+</archimate:BusinessObject>

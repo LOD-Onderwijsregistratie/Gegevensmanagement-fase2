@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderwijsorganisatie"
+    id="id-067e929f2ea3480d881aa2bb85c51069"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="https://rosa.wikixl.nl/index.php/Woordenlijst#O"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een onderwijsorganisatie is een door een [Rechtspersoon] aangestuurde groep personen die onderwijs gerelateerde zaken uitvoeren."/>
+  <properties
+      key="extern_titel"
+      value="ROSA / KOI"/>
+</archimate:BusinessObject>

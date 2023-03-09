@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="zaakdossier"
+    id="id-80b0bad9010e4be39542fa6435a85372"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Vitaal belang van de betrokkene"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een zaakdossier betreft de gebundelde (verwijzingen naar) informatie en contracten betreffend een zaak. Een zaak is een samenhangende hoeveelheid werk met gedefinieerde aanleiding en een gedefinieerd eindresultaat waarvan kwaliteit en doorlooptijd bewaakt moeten worden."/>
+</archimate:BusinessObject>

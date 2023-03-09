@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="account"
+    id="id-12d837ea27c04562badad891be9fe520"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een account betreft de opdracht voor onder andere het toetsen van de uitvoerbaarheid van voorgenomen wet en regelgeving en alle relevante informatie met betrekking tot de bewaking van de voortgang van de uitvoering daarvan."/>
+</archimate:BusinessObject>

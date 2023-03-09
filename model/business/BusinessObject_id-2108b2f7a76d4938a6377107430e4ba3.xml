@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verantwoording programma"
+    id="id-2108b2f7a76d4938a6377107430e4ba3"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Verantwoording programma betreft de rapporten en overzichten met betrekking tot verantwoording van programmagelden aan de opdrachtgever."/>
+</archimate:BusinessObject>

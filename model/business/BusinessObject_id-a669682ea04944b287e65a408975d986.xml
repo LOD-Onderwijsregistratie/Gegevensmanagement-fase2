@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gegevensverstrekking"
+    id="id-a669682ea04944b287e65a408975d986"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Distributie, Gegevenslevering"/>
+  <properties
+      key="extern_uri"
+      value="http://www.w3.org/ns/dcat#Distribution"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een gegevensverstrekking is een specifieke weergave van een gegevensverzameling. Een gegevensverzameling kan beschikbaar zijn in meerdere vormen, actualiteiten en resoluties."/>
+  <properties
+      key="extern_titel"
+      value="DCAT 2.0"/>
+</archimate:BusinessObject>

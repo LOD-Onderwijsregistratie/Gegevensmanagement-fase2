@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="cijferlijst"
+    id="id-38cfea48b3134bbe9d39d526a2280d43"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="De cijferlijst is de lijst die na het examen wordt uitgereikt en waarop onder andere zijn vermeld: de cijfers voor het schoolexamen, de cijfers voor het centraal examen en de eindcijfers, de vakken en het onderwerp of de titel van het profielwerkstuk en/of sectorwerkstuk, alsmede het cijfer voor c.q. de beoordeling van het profielwerkstuk en de beoordeling van het sectorwerkstuk, de beoordeling van de vakken culturele en kunstzinnige vorming (1) en lichamelijke opvoeding (1), en de uitslag van het eindexamen, namelijk geslaagd of afgewezen"/>
+  <properties
+      key="extern_titel"
+      value="Eindexamenbesluit VO artikel 52 lid 1 en 53 lid 1)."/>
+</archimate:BusinessObject>

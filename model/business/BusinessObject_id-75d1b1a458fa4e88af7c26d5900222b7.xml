@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inkomen"
+    id="id-75d1b1a458fa4e88af7c26d5900222b7"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="extern_uri"
+      value="http://opendata.stelselcatalogus.nl/bri/id/begrip/authentiek_inkomen"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Het authentieke inkomensgegeven is het inkomen zoals dit is vastgesteld binnen de Basisregistratie Inkomen, dit kan bestaan uit het belastbaar jaarloon of uit het verzamelinkomen over het gevraagde belastingjaar."/>
+  <properties
+      key="extern_titel"
+      value="BRI"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="uitvoeringstoets"
+    id="id-81d65bfd751346aa892837fba33c2098"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Uitvoeringsopdracht"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een uitvoeringstoets betreft een resultaat van het onderzoek naar de uitvoerbaarheid van een voorgenomen wet en regelgeving. Nog uitzoeken hoe het met de opdracht zit."/>
+</archimate:BusinessObject>

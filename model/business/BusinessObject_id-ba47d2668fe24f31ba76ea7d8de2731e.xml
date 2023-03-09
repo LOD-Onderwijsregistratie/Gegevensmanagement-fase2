@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="examenbetrokkene"
+    id="id-ba47d2668fe24f31ba76ea7d8de2731e"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Examenfunctionaris"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een examenbetrokkene betreft een natuurlijk persoon die een dienst levert in het kader van examenafname en/of uitslagbepaling."/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="arbeidsverhouding"
+    id="id-feec17093612410aae1ff0992c08fa8a"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Afspraak"/>
+  <properties
+      key="omschrijving"
+      value="Een arbeidsrelatie betreft de relatie tussen medewerker of werknemer van een onderwijsinstelling."/>
+</archimate:BusinessObject>
