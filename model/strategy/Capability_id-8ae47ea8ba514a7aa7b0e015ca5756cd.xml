@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Management"
+    id="id-8ae47ea8ba514a7aa7b0e015ca5756cd"
+    documentation="Security management, of securitybeheer, is het proces van het plannen, implementeren en beheren van maatregelen om de veiligheid van een organisatie te waarborgen. Het omvat het identificeren van bedreigingen en risico's voor de organisatie en het nemen van maatregelen om deze te verminderen of te elimineren.&#xD;&#xA;&#xD;&#xA;Security management kan betrekking hebben op verschillende aspecten van de organisatie, waaronder de fysieke beveiliging van gebouwen en infrastructuur, de beveiliging van informatie en communicatie, en de bescherming van personeel en middelen. Het omvat ook het ontwikkelen van beleid, procedures en plannen voor noodsituaties en het trainen van personeel in beveiligingsmaatregelen.&#xD;&#xA;&#xD;&#xA;Het doel van security management is het waarborgen van de veiligheid van een organisatie en het beschermen van haar activa en middelen tegen schade, verlies of diefstal. Door effectief securitybeheer kunnen organisaties ook hun imago en reputatie beschermen, voldoen aan wettelijke normen en regelgeving, en het vertrouwen van klanten en stakeholders versterken.">
+  <properties
+      key="begrip"
+      value="https://www.begrippenxl.nl/gabi/nl/page/Informatiebeveiliging"/>
+</archimate:Capability>
