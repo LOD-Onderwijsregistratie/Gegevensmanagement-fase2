@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beroep"
+    id="id-81fdbb2f9ca740aaa29c139965a2f640"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een beroep betreft het gebruikmaken van de ingevolge een wettelijk voorschrift bestaande bevoegdheid, voorziening tegen een besluit te vragen bij een ander bestuursorgaan dan het bestuursorgaan dat het besluit heeft genomen."/>
+</archimate:BusinessObject>

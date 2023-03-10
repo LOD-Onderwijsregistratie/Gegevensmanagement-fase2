@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="erkenning"
+    id="id-3d45cadf9dd340ab964605424f17d926"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/erkennen"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een erkenning is een wettelijke toestemming. Bijvoorbeeld: Erkenning van een onderwijsinstelling om onderwijs aan te bieden Erkenning van een buitenlands diploma"/>
+  <properties
+      key="extern_titel"
+      value="van Dale"/>
+</archimate:BusinessObject>

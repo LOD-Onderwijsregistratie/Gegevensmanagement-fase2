@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="in control verklaring"
+    id="id-b10950692a59443c84bcbd127698de17"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="extern_uri"
+      value="http://www.house-of-control.nl"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een in control verklaring is de afgelegde verantwoording over de werking van de beheersingsmaatregelen die gericht zijn op het wegnemen of reduceren van de gevolgen van de risico’s die zich bij de realisatie van de doelstellingen voldoen."/>
+  <properties
+      key="extern_titel"
+      value="House of Control"/>
+</archimate:BusinessObject>

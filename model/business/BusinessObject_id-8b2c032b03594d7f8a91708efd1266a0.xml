@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="journaalpost"
+    id="id-8b2c032b03594d7f8a91708efd1266a0"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een journaalpost is de vastlegging van een financiële gebeurtenis in gestandaardiseerde vorm waarbij wordt aangegeven welke grootboekrekeningen voor welk bedrag debet en welke grootboekrekeningen voor welk bedrag credit geboekt moeten worden."/>
+  <properties
+      key="extern_titel"
+      value="Informatiearchitectuur Bedrijfsvoering OCW"/>
+</archimate:BusinessObject>

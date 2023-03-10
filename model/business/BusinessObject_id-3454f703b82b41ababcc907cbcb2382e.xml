@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toekenning"
+    id="id-3454f703b82b41ababcc907cbcb2382e"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een toekenning is een positieve [Beslissing], meestal op een [Aanvraag], met financiële consequenties."/>
+  <properties
+      key="extern_titel"
+      value="SFS Regelportaal"/>
+</archimate:BusinessObject>

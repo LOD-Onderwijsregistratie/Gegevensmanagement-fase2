@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="autorisatie"
+    id="id-42776c90937b4ae0b232acaef8ea99ca"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Afspraak"/>
+  <properties
+      key="omschrijving"
+      value="Een autorisatie betreft de verleende toegang (aan een (niet-) natuurlijk persoon of systeem) tot een product of dienst."/>
+</archimate:BusinessObject>

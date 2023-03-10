@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vordering"
+    id="id-8ecd74e0908a444b9d88f25861754db6"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een vordering betreft het juridisch afdwingbaar recht op het uitvoeren van een betaling door een betrokken andere partij op grond van een [Beschikking]"/>
+</archimate:BusinessObject>

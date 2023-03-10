@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderwijsaanbieder"
+    id="id-5e73b15a7d0449028c1e6e00015ddb41"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="extern_uri"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0043632&amp;bijlage=2"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een onderwijsaanbieder is een organisatie die door een onderwijsbestuur is ingesteld voor het verzorgen van onderwijs."/>
+  <properties
+      key="extern_titel"
+      value="RRO"/>
+</archimate:BusinessObject>

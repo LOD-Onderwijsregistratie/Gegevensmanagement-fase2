@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="niet natuurlijk persoon"
+    id="id-b928b4b3d83845c78bbdeccf22fb7823"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Rechtspersoon"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="extern_uri"
+      value="https://www.noraonline.nl/wiki/Niet-natuurlijk_persoon"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een niet natuurlijk persoon is een organisatie met rechtspersoonlijkheid of een samenwerkingsverband van Natuurlijk Personen."/>
+  <properties
+      key="extern_titel"
+      value="NORA online"/>
+</archimate:BusinessObject>

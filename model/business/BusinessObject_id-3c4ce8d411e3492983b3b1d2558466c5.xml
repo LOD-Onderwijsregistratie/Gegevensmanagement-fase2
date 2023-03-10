@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="examen"
+    id="id-3c4ce8d411e3492983b3b1d2558466c5"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een examen is een onderzoek naar de kennis of kundigheden van iemand die naar een graad of een betrekking dingt of tot een school of een hogere klas toegelaten wenst te worden, door ondervraging, hetzij mondeling of schriftelijk, of beide. Een examen bestaat uit één of meerdere toetsen."/>
+  <properties
+      key="extern_titel"
+      value="CVTE"/>
+</archimate:BusinessObject>

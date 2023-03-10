@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CDC tooling"
     id="id-444e5f28b91e4fdd9bc8e129c103b6dc"
-    documentation="CDC=?"/>
+    documentation="Change Data Capture, naast data ook aanpassingen via API's (HVR tooling / Kafka)"/>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kwaliteitsattribuut"
+    id="id-9e87d40f36aa4ff381c0cd96cbba4dda"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="extern_uri"
+      value="https://www.noraonline.nl/wiki/Begrippen_Gegevenskwaliteit"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een kwaliteitsattribuut is een concreet meetbaar aspect van kwaliteit waaraan gebruikers van gegevens waarde hechten."/>
+  <properties
+      key="extern_titel"
+      value="NORA"/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="medebetrokkene"
+    id="id-179138900322468fb09fd0b8e027255d"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Eigenschap"/>
+  <properties
+      key="omschrijving"
+      value="Een medebetrokkene is een natuurlijk persoon, van wie de eigenschappen mede bepalend zijn voor het recht op, de hoogte van en de duur van een Particulier Financieringsproduct."/>
+  <properties
+      key="extern_titel"
+      value="artikelen 197 tot en met 232 van Boek 1 van het Burgerlijk Wetboek"/>
+</archimate:BusinessObject>

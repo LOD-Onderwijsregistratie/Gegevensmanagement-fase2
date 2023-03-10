@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Accorderen gegevens- / informatieverzoek"
-    id="id-afa6b75cf7b8474fa7b4180fbeb5800e"/>
+    id="id-afa6b75cf7b8474fa7b4180fbeb5800e"
+    documentation="Alle activiteiten die nodig zijn om te besluiten of het verzoek met de benodigde data uitgevoerd kan en mag worden."/>

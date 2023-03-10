@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wijzigingsverzoek"
+    id="id-ba9913ab80d44d8eb37d43be4a972bbf"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een wijzigingsverzoek is een verzoek om een configuratie-item aan te passen."/>
+  <properties
+      key="extern_titel"
+      value="Informatiearchitectuur Bedrijfsvoering OCW"/>
+</archimate:BusinessObject>

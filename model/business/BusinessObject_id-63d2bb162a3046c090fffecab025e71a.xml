@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bestuur"
+    id="id-63d2bb162a3046c090fffecab025e71a"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Bevoegd gezag, Bestuursorgaan"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een bestuur is het orgaan dat een [Rechtspersoon] vertegenwoordigt en is belast met de dagelijkse gang van zaken. Bij publieksrechtelijke handelingen wordt het Bestuur ook wel een Bevoegd Gezag of Bestuursorgaan genoemd. Bijvoorbeeld bij het afgeven van het vergunningen en het verzorgen van onderwijs (zie ook AWB art 1.1 lid 1)"/>
+  <properties
+      key="extern_titel"
+      value="Afgeleid van NHR"/>
+</archimate:BusinessObject>

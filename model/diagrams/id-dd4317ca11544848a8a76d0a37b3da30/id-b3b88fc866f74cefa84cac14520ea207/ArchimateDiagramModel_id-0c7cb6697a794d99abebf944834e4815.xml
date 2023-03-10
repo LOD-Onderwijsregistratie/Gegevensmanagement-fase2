@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Rechtmatige verwerking persoonsgegevens DataHub - Distributeur Inrichting"
     id="id-0c7cb6697a794d99abebf944834e4815"
+    documentation="Werken aan Compliance architectuur"
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

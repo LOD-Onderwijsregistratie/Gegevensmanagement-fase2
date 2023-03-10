@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="opleidingseenheid"
+    id="id-794b915b4846409e931cce86d2539a32"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Opleiding"/>
+  <properties
+      key="extern_uri"
+      value="https://www.rio-onderwijs.nl/informatiemodel-en-begrippen"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een opleidingseenheid is een geheel van kennis, inzicht en vaardigheden."/>
+  <properties
+      key="extern_titel"
+      value="RIO"/>
+</archimate:BusinessObject>
