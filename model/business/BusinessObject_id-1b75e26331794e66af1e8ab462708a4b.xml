@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="architectuur"
+    id="id-1b75e26331794e66af1e8ab462708a4b"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Afspraak"/>
+  <properties
+      key="omschrijving"
+      value="Een architectuur betreft een verzameling kaders en richtlijnen waarlangs de organisatie, het geheel aan medewerkers, processent, gegevens en/of technologie, ontwikkeld moet worden om ambities en doelstellingen te kunnen bereiken."/>
+</archimate:BusinessObject>

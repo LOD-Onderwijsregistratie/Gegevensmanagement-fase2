@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="persoon (wettelijk)"
+    id="id-26147bda5ae04101b5eed68d3b31131d"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een persoon in wettelijke zin betreft een drager van rechten en plichten. Het betreft hierbij over mensen en organisaties."/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leerplichtige"
+    id="id-a0f92066699e4bc29578abce2f776b7b"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Alle kinderen tussen 5 en 16 jaar die in Nederland wonen zijn leerplichtig, dat wil zeggen dat zijn verplicht wordne ingeschreven op een school. KInderen tussen 16 en 18 en die nog geen startkwalificatie hebben zijn kwalificatieplichtig."/>
+  <properties
+      key="extern_titel"
+      value="leerplichtwet 1969"/>
+</archimate:BusinessObject>

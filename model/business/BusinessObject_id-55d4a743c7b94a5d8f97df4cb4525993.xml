@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verklaring afgelegd examen"
+    id="id-55d4a743c7b94a5d8f97df4cb4525993"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een verklaring van de Dienst UItvoering Onderwijs (DUO) afgegeven bijvoorbeeld bij verlies, diefstal, brand, naamsverandering of andere omstandigheden indien de betrokkene niet meer beschikt over diploma, certificaat of cijferlijst. Dit heeft dezelfde waarde als het origineel."/>
+  <properties
+      key="extern_titel"
+      value="artikel 54 van het Eindexamenbesluit VO"/>
+  <properties
+      key="synoniem"
+      value="VAE"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+</archimate:BusinessObject>

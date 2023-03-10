@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toetsplanning en -rooster"
+    id="id-d6c8c7828d594681b649b61225914c06"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Toetsplanning is een door de verantwoordelijke(n) vastgesteld moment voor een Toets en de organisatie van de daarvoor benodigde voorzieningen."/>
+</archimate:BusinessObject>

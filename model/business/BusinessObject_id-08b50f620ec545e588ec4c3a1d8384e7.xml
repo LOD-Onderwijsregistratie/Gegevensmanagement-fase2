@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="veranderorganisatie"
+    id="id-08b50f620ec545e588ec4c3a1d8384e7"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="Een veranderorganisatie is een vooraf beschreven gezamenlijk te verrichten werkzaamheden leidend tot deliverables. Opm. Projecten kunnen onderling worden gecoördineerd in een Programma"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="extern_titel"
+      value="Informatiearchitectuur Bedrijfsvoering OCW"/>
+</archimate:BusinessObject>

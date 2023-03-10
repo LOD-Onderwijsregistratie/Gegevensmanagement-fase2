@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ouder"
+    id="id-0c678d44225443d697c14e3da4bba377"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="extern_uri"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0002656&amp;boek=1&amp;titeldeel=11"/>
+  <properties
+      key="avg-categorie"
+      value="Bijzonder of strafrechtelijk persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Eigenschap"/>
+  <properties
+      key="extern_titel"
+      value="Atikelen 197 tot en met 232 van Boek 1 van het Burgerlijk Wetboek."/>
+  <properties
+      key="omschrijving"
+      value="Een ouder is de natuurlijke ouder of adoptiefouder van de [Persoon] Stelselcatalogus: In de BRP staat de ouder op de Persoonslijst (PL) van de persoon."/>
+</archimate:BusinessObject>

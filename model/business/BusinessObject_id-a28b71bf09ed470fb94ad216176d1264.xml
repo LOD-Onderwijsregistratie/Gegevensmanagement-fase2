@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderwijsdeelnemer"
+    id="id-a28b71bf09ed470fb94ad216176d1264"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="extern_uri"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0042012&amp;hoofdstuk=1&amp;artikel=1"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een onderwijsdeelnemer is een Leerling, deelnemer, student of extraneus als bedoeld in een onderwijswet van een onderwijsinstelling."/>
+  <properties
+      key="extern_titel"
+      value="WRO en BRO"/>
+</archimate:BusinessObject>

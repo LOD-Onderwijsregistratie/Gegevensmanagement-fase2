@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bekostigingsbeschikking"
+    id="id-27ccdedefd214d20872d664dc8292057"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een bekostigingsbeschikking betreft de documentaire vastlegging van één of meerdere beslissingen."/>
+</archimate:BusinessObject>

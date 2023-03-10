@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="conceptueel model"
+    id="id-c124df1f56a94372a6a360a61ca70cd1"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Begrippenkader"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="extern_uri"
+      value="https://www.noraonline.nl/wiki/MIM_conceptueel_framework"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een conceptueel model is een modellering van de werkelijkheid binnen het beschouwde domein, voor wat betreft informatie daarvan, onafhankelijk van ontwerp van en implementatie in systemen."/>
+  <properties
+      key="extern_titel"
+      value="MIM"/>
+</archimate:BusinessObject>

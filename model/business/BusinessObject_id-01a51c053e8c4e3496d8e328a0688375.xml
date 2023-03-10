@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="leverancier"
+    id="id-01a51c053e8c4e3496d8e328a0688375"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="omschrijving"
+      value="Een leverancier is een organisatie die producten of diensten levert."/>
+  <properties
+      key="extern_titel"
+      value="Informatiearchitectuur Bedrijfsvoering OCW"/>
+</archimate:BusinessObject>

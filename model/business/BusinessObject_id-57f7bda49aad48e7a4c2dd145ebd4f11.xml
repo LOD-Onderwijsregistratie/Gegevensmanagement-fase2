@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="risicoprofiel"
+    id="id-57f7bda49aad48e7a4c2dd145ebd4f11"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een risicoprofiel betreft een beschrijving van risicokenmerken (classificaties) van een klant in relatie tot onrechtmatig gebruik van overheidswege beschikbaar gestelde middelen. Toelichting: Zonder aanzien des persoons en zonder institutioneel racisme."/>
+</archimate:BusinessObject>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NF] Fout tolerantie"
+    id="id-15f07d694aa54641ab205eafe6d371cf"
+    documentation="https://en.wikipedia.org/wiki/Fault_tolerance"/>

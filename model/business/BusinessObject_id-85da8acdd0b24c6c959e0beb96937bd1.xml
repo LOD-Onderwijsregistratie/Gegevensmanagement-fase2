@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beschikking"
+    id="id-85da8acdd0b24c6c959e0beb96937bd1"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een beschikking zijn één of meerdere beslissingen die niet van algemene strekking zijn, met inbegrip van de afwijzing of buitenbehandelingstelling van een aanvraag daarvan. Toelichting: Een beschikking moet voldoen aan de eisen voor bekendmaking. Toelichting: DUO kan ook beschikken zonder aanvraag, bijvoorbeeld bij een boete naar aanleiding van een uitwonendencontrole."/>
+  <properties
+      key="extern_titel"
+      value="AWB"/>
+</archimate:BusinessObject>

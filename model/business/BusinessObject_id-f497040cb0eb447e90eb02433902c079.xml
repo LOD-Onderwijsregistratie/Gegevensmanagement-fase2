@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="diploma"
+    id="id-f497040cb0eb447e90eb02433902c079"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Het diploma is het officiële bewijsstuk dat een persoon voldaan heeft aan de eisen die een eindexamen aan hem gesteld heeft. Het kan zijn dat hij daarvan blijk heeft gegeven door in één examenjaar het centraal examen van al zijn vakken af te leggen. Hij kan het ook verworven hebben door verspreid over meer dan een jaar voor diverse vakken afzonderlijk het examen met goed gevolg af te leggen (zie artikel 3.56 Uitvoeringsbesluit WVO 2020: gespreid examen bij ziekte en artikelen 3.12, 3.36, 3.39 en 3.49 Uitvoeringsbesluit WVO 2020: Centraal examen voorlaatste leerjaar of het direct daaraan voorafgaande leerjaar). De diploma''s van een school voor dagonderwijs, van een vavo-instelling en van het College voor Toetsen en Examens (staatsexamens) zijn gelijkwaardig."/>
+</archimate:BusinessObject>

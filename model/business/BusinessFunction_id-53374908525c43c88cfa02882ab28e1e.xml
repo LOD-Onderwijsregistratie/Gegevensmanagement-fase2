@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Voorbereiding uitvoeren gegevens- / informatieverzoek"
-    id="id-53374908525c43c88cfa02882ab28e1e"/>
+    id="id-53374908525c43c88cfa02882ab28e1e"
+    documentation="Alle voorbereidende activiteiten die nodig zijn voordat het daadwerkelijke onderzoek kan beginnen."/>

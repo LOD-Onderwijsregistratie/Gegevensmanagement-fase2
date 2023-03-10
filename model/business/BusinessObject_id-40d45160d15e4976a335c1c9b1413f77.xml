@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toetslocatie"
+    id="id-40d45160d15e4976a335c1c9b1413f77"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een toetslocatie betreft de locatie waar een toets wordt afgenomen. De toetslocatie hoeft niet dezelfde locatie te zijn als de onderwijslocatie."/>
+</archimate:BusinessObject>

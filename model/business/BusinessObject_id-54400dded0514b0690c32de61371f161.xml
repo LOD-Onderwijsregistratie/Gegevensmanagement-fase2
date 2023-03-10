@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fiscale partner"
+    id="id-54400dded0514b0690c32de61371f161"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="extern_uri"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0018472&amp;hoofdstuk=1&amp;paragraaf=2&amp;artikel=3"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Eigenschap"/>
+  <properties
+      key="omschrijving"
+      value="Een fiscale partner is de levensgezel van een [Persoon] zoals landelijk is gedefinieerd voor inkomensafhankelijke regelingen. Stelselcatalogus: Wie de fiscale partner is, is een ingewikkelde afleiding. Een deel van de puzzel is de (ex-)echtgenoot/geregistreerd partner van de persoon op de Persoonslijst [PL) van de BRP. Echter ook de Belastingdienst en notarissen hebben ook een deel van het geheel."/>
+  <properties
+      key="extern_titel"
+      value="AWIR Artikel 3"/>
+</archimate:BusinessObject>
