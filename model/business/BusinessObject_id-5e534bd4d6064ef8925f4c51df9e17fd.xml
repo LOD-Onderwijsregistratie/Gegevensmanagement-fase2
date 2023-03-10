@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="strategie"
+    id="id-5e534bd4d6064ef8925f4c51df9e17fd"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/strategie"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Afspraak"/>
+  <properties
+      key="omschrijving"
+      value="Een strategie is een plan van handelen om met behulp van de ter beschikking staande middelen een gesteld doel te bereiken."/>
+  <properties
+      key="extern_titel"
+      value="van Dale"/>
+</archimate:BusinessObject>

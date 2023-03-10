@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="kwalificatiebewijs"
+    id="id-00e2ef8c3dc6448f9d9a004d3ee672ae"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Vitaal belang van de betrokkene"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een kwalificatiebewijs betreft een door Nederland erkend bewijsstuk dat aantoont dat een persoon gekwalificeerd is en een relevant geheel van competenties en vaardigheden bezit. Het kwalificatiebewijs kan schriftelijk of digitaal zijn, in beide gevallen met echtheidskenmerken."/>
+</archimate:BusinessObject>

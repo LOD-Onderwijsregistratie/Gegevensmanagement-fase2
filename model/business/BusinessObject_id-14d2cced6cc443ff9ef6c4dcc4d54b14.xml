@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="uitgaande betaling"
+    id="id-14d2cced6cc443ff9ef6c4dcc4d54b14"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Uitgave"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een uitgaande betaling betreft den daadwerkelijk uitbetaald bedrag aan een andere persoon of rechtspersoon."/>
+</archimate:BusinessObject>

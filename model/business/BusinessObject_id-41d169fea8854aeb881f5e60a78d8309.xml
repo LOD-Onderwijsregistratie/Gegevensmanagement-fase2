@@ -1,0 +1,27 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beslissing"
+    id="id-41d169fea8854aeb881f5e60a78d8309"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Besluit"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="extern_uri"
+      value="https://wetten.overheid.nl/jci1.3:c:BWBR0005537&amp;hoofdstuk=1&amp;titeldeel=1.1&amp;artikel=1:3"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een beslissing is een schriftelijke oordeel van een Bestuursorgaan op grond van wet, regelgeving, beleid of jurisprudentie."/>
+  <properties
+      key="extern_titel"
+      value="Beslissing komt overeen met het begrip Besluit in de AWB 1.3."/>
+</archimate:BusinessObject>

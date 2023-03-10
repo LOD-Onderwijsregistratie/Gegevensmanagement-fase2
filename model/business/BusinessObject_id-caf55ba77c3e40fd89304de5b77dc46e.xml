@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="beslissingsregel"
+    id="id-caf55ba77c3e40fd89304de5b77dc46e"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een beslissingsregel betreffen de de formules, algoritmen, normen en waarden die voor het toepassen en uitvoeren van de wet- en regelgeving noodzakelijk zijn. De regels en gegevens worden zodanig gestructureerd vastgelegd dat traceerbaar is op welke wijze deze zijn afgeleid uit wet- en regelgeving."/>
+</archimate:BusinessObject>

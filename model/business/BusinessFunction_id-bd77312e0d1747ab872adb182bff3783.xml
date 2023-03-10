@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontvangen gegevens- / informatieverzoek"
-    id="id-bd77312e0d1747ab872adb182bff3783"/>
+    id="id-bd77312e0d1747ab872adb182bff3783"
+    documentation="Ontvangen, registreren van een verzoek tot leveren van gegevens of informatie en vervolgens uitzetten naar de betreffende afhandelaar van dit verzoek."/>

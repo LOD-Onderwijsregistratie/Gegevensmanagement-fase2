@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="configuratie item"
+    id="id-ec5fc895febd4dcab0f79de1e1e3b60f"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een configuratie item is een component dat deel uitmaakt van de organisatie en die expliciet beheerd dient te worden vanuit service management perspectief."/>
+  <properties
+      key="extern_titel"
+      value="Informatiearchitectuur Bedrijfsvoering OCW"/>
+</archimate:BusinessObject>

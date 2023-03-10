@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="competentie"
+    id="id-6ae52dd60c22455ca7ebe7cde1d44960"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="Een competentie is een geïntegreerd geheel van kennis, vaardigheden, inzicht en houding, dat nodig is om in een beroepscontext beroepsproducten te realiseren die aan de geldende kwaliteitseisen voldoen."/>
+  <properties
+      key="extern_titel"
+      value="Informatiearchitectuur Bedrijfsvoering OCW"/>
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+</archimate:BusinessObject>

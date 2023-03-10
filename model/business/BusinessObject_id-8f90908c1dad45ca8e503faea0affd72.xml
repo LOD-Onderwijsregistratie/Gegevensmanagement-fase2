@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="opleidingsniveau"
+    id="id-8f90908c1dad45ca8e503faea0affd72"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een opleidingsniveau betreft de moeilijkheidsgraad van de opleiding in relatie tot de andere opleidingen in het onderwijsstelsel."/>
+</archimate:BusinessObject>

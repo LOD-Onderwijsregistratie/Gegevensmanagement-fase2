@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inkomende betaling"
+    id="id-faf1ae429021403faac4e985d2d3c62a"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Ontvangst maar niet dezelfde als gedefinieerd bij domein Klantinteractie"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een inkomende betaling betreft een op een bankrekening bijgeschreven bedrag, meestal met een kenmerk waardoor de ontvangst geboekt kan worden tegen een openstaande Vordering."/>
+</archimate:BusinessObject>

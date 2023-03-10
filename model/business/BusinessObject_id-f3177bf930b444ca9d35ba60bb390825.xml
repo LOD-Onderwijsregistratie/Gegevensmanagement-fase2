@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inburgeringsplichtige"
+    id="id-f3177bf930b444ca9d35ba60bb390825"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="inburgeraar"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Inburgeringsplichtig is de Vreemdeling, die Rechtmatig Verblijf verkrijgt in de zin van artikel 8, onderdelen a en c, van de Vreemdelingenwet 2000, die 16 jaar of ouder is en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, en: *) anders dan voor een tijdelijk doel in Nederland verblijft; of *) Geestelijke Bedienaar is. Tenzij de betrokkene die op grond van artikel 3, tweede lid, van de wet, is uitgezonderd van deze plicht."/>
+  <properties
+      key="extern_titel"
+      value="Wet inburgering (2021), artikel 3, of gegevenswoordenboek keten inburgering"/>
+</archimate:BusinessObject>

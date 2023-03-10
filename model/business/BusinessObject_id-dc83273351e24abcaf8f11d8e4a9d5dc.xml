@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="land"
+    id="id-dc83273351e24abcaf8f11d8e4a9d5dc"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een land betreft een door Nederland erkend gebied met een bepaald gezag. Stelselcatalogus: Deze landen zijn opgenomen is de Landentabel van de BRP. De Landentabel is opgebouwd uit landcodes, officiële landnamen, ingangsdata en einddata."/>
+</archimate:BusinessObject>

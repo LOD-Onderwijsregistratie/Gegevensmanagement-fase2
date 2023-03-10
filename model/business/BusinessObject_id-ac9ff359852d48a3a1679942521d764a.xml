@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="vraag en antwoord"
+    id="id-ac9ff359852d48a3a1679942521d764a"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Vitaal belang van de betrokkene"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Vraag en antwoord betreffen de verzameling van frequent gestelde klantvragen en daarbij horende antwoorden."/>
+</archimate:BusinessObject>

@@ -1,0 +1,21 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="certificaat"
+    id="id-97b1063bb69647ff84a1336cacd651ab"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Onbepaald"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Onbepaald"/>
+  <properties
+      key="omschrijving"
+      value="Het certificaat is in feite een soort diploma, maar dan voor een of meer vakken die samen niet voldoende zijn om een diploma te verwerven. Het vermeldt het vak of de vakken waarvoor de kandidaat een eindcijfer van 6 of meer heeft behaald. Op het certificaat zelf staan overigens geen cijfers. De cijfers voor die vakken zijn te vinden op de bijbehorende cijferlijst. Dagscholen voor havo en vwo reiken geen certificaten uit; de cijferlijst heeft deze functie overgenomen. De certificaten van een vavo-instelling en van de staatsexamens zijn gelijkwaardig."/>
+  <properties
+      key="extern_titel"
+      value="Eindexamenbesluit VO artikel 53 lid 2 en 3"/>
+</archimate:BusinessObject>

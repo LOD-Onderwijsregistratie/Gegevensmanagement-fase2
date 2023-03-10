@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="zending"
+    id="id-492b404ba54149c2a74482599b08070f"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Vitaal belang van de betrokkene"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een zending betreft een vastlegging van de daadwerkelijke verzending van een document."/>
+</archimate:BusinessObject>

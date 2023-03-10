@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="onderwijsdeelname"
+    id="id-50c760393fab4a78a11eb5142f316a58"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Inschrijving"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een onderwijsdeelname is het volgen of gevolgd hebben van een [Opleiding] door een [Onderwijsdeelnemer] bij een [Onderwijsaanbieder] Toelichting: Deelnemers worden in Nederland van overheidswege centraal vastgelegd voor het bekostigde en aangewezen onderwijs."/>
+  <properties
+      key="extern_titel"
+      value="WRO"/>
+</archimate:BusinessObject>

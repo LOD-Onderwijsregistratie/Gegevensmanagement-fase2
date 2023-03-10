@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="communicatiekanaal"
+    id="id-069d271ad9ad489a8f474c2db5a2e062"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Vitaal belang van de betrokkene"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een communicatiekanaal betreft de weg die een boodschap aflegt om van zender naar ontvanger te komen."/>
+</archimate:BusinessObject>

@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="klantvertegenwoordiger"
+    id="id-bd896c87a2d64b2e8f3eb6cc115b1285"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Vitaal belang van de betrokkene"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een klantvertegenwoordiger betreft een natuurlijk persoon die namens een klant optreedt. Ingeval van vrijwillige vertegenwoordiging zal de klant deze bevoegdheid middels een machtiging verstrekken. De vertegenwoordiger kan deze machtiging gebruiken als bewijs van zijn handelingsbevoegdheid. We gaan er echter vanuit dat het object Machtiging niet binnen het aandachtsgebied van DUO valt. Door gebruik van object van Klantvertegenwoordiger is object Machtiging overbodig gemaakt. Bij toegang toetsen we de autorisatie. Machtiging wordt verstrekt en beheert buiten DUO."/>
+</archimate:BusinessObject>
