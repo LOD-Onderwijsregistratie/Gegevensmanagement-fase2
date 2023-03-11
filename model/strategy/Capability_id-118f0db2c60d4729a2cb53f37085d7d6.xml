@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operationele gegevens"
     id="id-118f0db2c60d4729a2cb53f37085d7d6"
-    documentation="Registers"/>
+    documentation="Operationele gegevens zijn gegevens die worden gegenereerd en gebruikt in de dagelijkse operationele activiteiten van DUO. Deze gegevens hebben betrekking op de transacties en processen die plaatsvinden binnen DUO zoals de registers.&#xD;&#xA;&#xD;&#xA;Voorbeelden van operationele gegevens zijn onder meer burgergegevens (zoals naam, adres, telefoonnummer, e-mailadres), productinformatie (zoals studiefinanciering of inburgering), transactiegegevens (zoals datum beschikking, maandelijks bedrag studiefinanciering, betalingswijze), leveranciersinformatie (zoals naam, adres, telefoonnummer) en personeelsgegevens (zoals salaris, functie, beoordelingen).&#xD;&#xA;&#xD;&#xA;Operationele gegevens zijn van vitaal belang voor de dagelijkse activiteiten van een organisatie en worden gebruikt om beslissingen te nemen op basis van real-time informatie. Deze gegevens worden vaak opgeslagen in operationele databases en worden gebruikt voor rapportage, analyses en procesverbeteringen."/>

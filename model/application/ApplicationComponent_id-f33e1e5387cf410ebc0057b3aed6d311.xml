@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata logger"
     id="id-f33e1e5387cf410ebc0057b3aed6d311"
-    documentation="Log metadata"/>
+    documentation="Een metadata logger is een applicatiecomponent die de wijzigingen en bewegingen van metadata bijhoudt en registreert. Het wordt gebruikt om informatie te verzamelen over wanneer en hoe metadata wordt aangemaakt, gewijzigd en gebruikt. Het bijhouden van metadataveranderingen is belangrijk voor het beheren van gegevens, omdat het helpt bij het handhaven van de gegevenskwaliteit en de transparantie van de gegevenslevenscyclus. Metadata loggers kunnen automatisch metadataveranderingen detecteren en vastleggen, of handmatig worden aangestuurd om specifieke wijzigingen te registreren."/>
