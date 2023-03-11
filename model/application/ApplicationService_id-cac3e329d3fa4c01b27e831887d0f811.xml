@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Referentiedata Management"
+    name="[ABB] Referentiedata Management"
     id="id-cac3e329d3fa4c01b27e831887d0f811"
-    documentation="&#xA;"/>
+    documentation="Referentiedata management (RDM) verwijst naar het proces van het beheren van referentiedata, dat wil zeggen de gegevens die worden gebruikt om andere gegevens te beschrijven en te categoriseren. Referentiedata kan bijvoorbeeld bestaan uit lijsten met codes, termen, classificaties en standaarden die worden gebruikt om gegevens te structureren en te categoriseren. RDM omvat het beheer van de levenscyclus van referentiedata, waaronder het vaststellen van regels en normen voor de creatie, opslag, distributie, het gebruik en de verwerking van deze gegevens. Het doel van RDM is het creëren van een centrale bron van waarheid voor referentiedata, om de kwaliteit van gegevens te verbeteren, risico's te verminderen en de efficiëntie van bedrijfsprocessen te vergroten."/>

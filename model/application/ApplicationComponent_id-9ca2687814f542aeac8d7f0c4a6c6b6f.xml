@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ETL tooling"
     id="id-9ca2687814f542aeac8d7f0c4a6c6b6f"
-    documentation="ETL-tooling is software die is ontworpen om ETL-processen te ondersteunen: het extraheren van gegevens uit ongelijksoortige bronnen, het opschonen van gegevens voor consistentie en kwaliteit, en het consolideren van deze informatie in datawarehouses."/>
+    documentation="ETL (Extract, Transform, Load) tooling is software die wordt gebruikt om gegevens van verschillende bronnen te extraheren, deze gegevens te transformeren in een formaat dat geschikt is voor analyse en vervolgens te laden in een doelbestemming, zoals een datawarehouse of een database. De tooling automatiseert het proces van gegevensintegratie, waardoor het efficiënter en minder foutgevoelig wordt. ETL-tooling kan bijvoorbeeld worden gebruikt om gegevens van verschillende afdelingen binnen een organisatie te integreren en te analyseren om betere zakelijke beslissingen te nemen."/>
