@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Beheren van begrippen via formulier"
-    id="id-081b49d5c68b4ca1a11dead60fa4a0fc"/>
+    id="id-081b49d5c68b4ca1a11dead60fa4a0fc"
+    documentation="Autorisatie en beveiliging: de toegang tot de glossary moet worden beperkt tot geautoriseerde gebruikers en de gegevens moeten worden beveiligd tegen ongeautoriseerde toegang."/>

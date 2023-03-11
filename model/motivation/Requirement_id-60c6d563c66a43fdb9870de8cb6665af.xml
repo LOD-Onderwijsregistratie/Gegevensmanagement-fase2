@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Het is mogelijk om meerdere glossary's in 1 omgeving te combineren."
-    id="id-60c6d563c66a43fdb9870de8cb6665af"/>
+    id="id-60c6d563c66a43fdb9870de8cb6665af"
+    documentation="Flexibiliteit: de glossary moet kunnen worden aangepast aan de specifieke behoeften van de organisatie en de gebruikers."/>
