@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Preparatie Resultaat naar EDH"
+    id="id-44fa95001e9e4f12be739f476738eb48"
+    documentation="15. Een databestand wat het resultaat is van een data preparatie kan in de EDH voor hergebruik (of architevering?) worden opgeslagen."/>

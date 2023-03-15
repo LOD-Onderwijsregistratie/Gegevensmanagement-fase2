@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gebruik Data Analyse Resultaat uit EDH"
+    id="id-c80e75b999644068bbc813a2c6d5a462"
+    documentation="21. Een in de EDH opgeslagen data analyse resultaat kan hergebruikt worden voor andere analyses."/>
