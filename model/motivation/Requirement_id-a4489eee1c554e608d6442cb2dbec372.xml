@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IDE tbv ondersteuning taal"
+    id="id-a4489eee1c554e608d6442cb2dbec372"
+    documentation="Er zijn Integrated Development Environments beschikbaar voor tools als R, Python, SQL, etc. Denk aan R-Studio, PyCharm of DBeaver"/>
