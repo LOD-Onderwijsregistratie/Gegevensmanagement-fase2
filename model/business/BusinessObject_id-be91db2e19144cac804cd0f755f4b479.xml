@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gebied"
+    id="id-be91db2e19144cac804cd0f755f4b479"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een gebied betreft het geheel van aanwijsbare opdelingen en indelingen van het aardoppervlak met als doel dit geografisch beschrijfbaar te maken. Opm. Het is een begrip op het hoogste hiërarchische niveau. Onderliggende gebieden zijn bijvoorbeeld plaats, onderwijsgebied, postcodegebied, etc."/>
+</archimate:BusinessObject>

@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="incident"
+    id="id-a86d8b53d0af4d318a5edb41ab1686d8"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="extern_uri"
+      value="https://www.vandale.nl/gratis-woordenboek/nederlands/betekenis/incident"/>
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+  <properties
+      key="omschrijving"
+      value="Een incident is een onvoorziene en vaak storende gebeurtenis optredend tijdens de uitvoering van een bedrijfsproces."/>
+  <properties
+      key="extern_titel"
+      value="Van Dale"/>
+</archimate:BusinessObject>

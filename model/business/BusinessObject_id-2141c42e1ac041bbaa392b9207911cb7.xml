@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="toetseenheid"
+    id="id-2141c42e1ac041bbaa392b9207911cb7"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een toetseenheid betreft het geheel van kennis, inzicht en/of vaardigheden (leerlijn) van een bepaald niveau dat getoetst wordt volgens wettelijke eindtermen. Voorbeelden zijn VO examen Nederlands of inburgeringsexamen spreken of WFT hypotheek basismodule."/>
+</archimate:BusinessObject>

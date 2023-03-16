@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verplichting"
+    id="id-e8b0505d4a044874b5951401f42b306c"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Onbepaald"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een verplichting betreft een aan een betrokkene of belanghebbende verschuldigd kapitaal op grond van een [Beschikking]"/>
+</archimate:BusinessObject>

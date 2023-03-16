@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="persoon (natuurlijk)"
+    id="id-76f0373bc3f04ec2a8da6992bfd36b2b"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="synoniem"
+      value="Mens, Natuurlijke Persoon"/>
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een natuurlijk persoon is een personen van vlees en bloed."/>
+  <properties
+      key="extern_titel"
+      value="Basisregister Persoon"/>
+</archimate:BusinessObject>

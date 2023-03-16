@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="portfolio"
+    id="id-5448070934c3445c8f489f6e64c3b4d8"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een portfolio betreft een verzameling van artifacten (software of hardwarecomponenten) welke in gebruik zijn om de doelstellingen van DUO te realiseren (=configuratie item?), of is het een verzameling van opdrachten (=opdracht portfolio?)."/>
+</archimate:BusinessObject>

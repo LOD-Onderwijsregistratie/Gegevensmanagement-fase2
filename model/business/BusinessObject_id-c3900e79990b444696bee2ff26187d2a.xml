@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="verblijfsvergunning"
+    id="id-c3900e79990b444696bee2ff26187d2a"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren taak van algemeen belang"/>
+  <properties
+      key="avg-categorie"
+      value="Bijzonder of strafrechtelijk persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Eigenschap"/>
+  <properties
+      key="omschrijving"
+      value="Een verblijfsvergunning betreft de verblijfsrechtelijk status die natuurlijk persoon nodig heeft om in Nederland te wonen, te werken en studeren waar de betreffende persoon geen staatsburger is. Stelselcatalogus: De enige bron van de waarheid is de IND. Een deel van de info is te achterhalen via Pesoonslijst {PL} van de persoon in de BRP."/>
+</archimate:BusinessObject>

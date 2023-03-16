@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="opdrachtgever"
+    id="id-3242187dd8cc4e73a5fec52b14b3228a"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Actor"/>
+  <properties
+      key="omschrijving"
+      value="Een opdrachtgever betreft een niet natuurlijk persoon die aan de DUO opdracht geeft tot het leveren van een dienst. Voorbeelden van opdrachtgever zijn ministerie OCW, CVE, ministerie SZW, Ministerie van Financiën maar ook provincies, gemeenten en waterschappen."/>
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+</archimate:BusinessObject>

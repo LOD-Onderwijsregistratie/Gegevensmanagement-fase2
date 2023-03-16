@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="gegevensverzameling"
+    id="id-cfb72e0f38fd4888a3f0a1fc54aca77e"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Uitvoeren van een overeenkomst"/>
+  <properties
+      key="extern_uri"
+      value="http://www.w3.org/ns/dcat#Dataset"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="omschrijving"
+      value="Een gegevensverzameling is het resultaat van een systematisch proces voor het inwinnen en verwerken van gegevens door één partij. Toelichting: De gegevensverzamelingen van gegevensverzamelingen."/>
+  <properties
+      key="extern_titel"
+      value="DCAT 2.0"/>
+</archimate:BusinessObject>

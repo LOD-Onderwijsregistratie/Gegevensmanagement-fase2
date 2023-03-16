@@ -1,0 +1,24 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="afnamerespons"
+    id="id-0bd28f2005e44667a4a262b8d0af8cda"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="Een afnamerespons geef inzicht in het verloop van een afname. Omvat de handelingen, inclusief het ingeven van antwoorden, die een kandidaat heeft uitgevoerd."/>
+  <properties
+      key="extern_titel"
+      value="ROSA"/>
+  <properties
+      key="extern_uri"
+      value="https://rosa.wikixl.nl/index.php/Afnamerespons"/>
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Gebeurtenis"/>
+</archimate:BusinessObject>

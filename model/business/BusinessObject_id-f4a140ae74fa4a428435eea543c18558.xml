@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inning"
+    id="id-f4a140ae74fa4a428435eea543c18558"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="grondslag"
+      value="Wettelijke verplichting"/>
+  <properties
+      key="avg-categorie"
+      value="Persoonsgegeven"/>
+  <properties
+      key="kernobject"
+      value="Product"/>
+  <properties
+      key="omschrijving"
+      value="Een inning betreft een beslissing waarbij geld of andere kapitaalgoederen ingevorderd moet worden. Toelichting: dit omvat besluitvorming over aflossingsschema''s en incasso."/>
+</archimate:BusinessObject>
