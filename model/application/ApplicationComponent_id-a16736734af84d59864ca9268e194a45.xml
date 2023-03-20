@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archief store"
-    id="id-a16736734af84d59864ca9268e194a45"/>
+    id="id-a16736734af84d59864ca9268e194a45"
+    documentation="Een archief store is een systeem dat wordt gebruikt om gegevens en documenten voor lange termijn op te slaan en te beheren, vaak met het doel om deze gegevens te archiveren en te bewaren voor toekomstig gebruik. Archief stores zijn ontworpen om op grote schaal gegevens op te slaan en te beheren, en bieden vaak functies zoals replicatie, compressie, versiebeheer en zoekmogelijkheden om het gemakkelijker te maken om gegevens te vinden en te herstellen wanneer dat nodig is."/>

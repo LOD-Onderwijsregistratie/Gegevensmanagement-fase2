@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata harvester"
     id="id-1d908e0fda3f439ca283ffeabc32b517"
-    documentation="Scan naar en extraheer metadata uit de meest populaire databronnen, zoals enterprise datawarehouses, data lakes, operationele databases, bedrijfsapplicaties, clouddatastores en niet-relationele datastores&#xA;"/>
+    documentation="Een metadata harvester is een tool of applicatie die automatisch metadata verzamelt van verschillende bronnen, zoals databases, bestanden en websites. Dit proces wordt metadata harvesting genoemd. Door metadata te oogsten en te indexeren, kunnen gebruikers gemakkelijk zoeken en toegang krijgen tot de informatie die ze nodig hebben. Metadata harvesters worden vaak gebruikt in het kader van digitale bibliotheeksystemen, archiveringsplatforms en zoekmachines om metadata te verzamelen en te integreren in een centrale metadata repository.&#xD;&#xA;&#xD;&#xA;Scan naar en extraheer metadata uit de meest populaire databronnen, zoals enterprise datawarehouses, data lakes, operationele databases, bedrijfsapplicaties, clouddatastores en niet-relationele datastores&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Een begrip kan worden gezocht via een zoekfunctie"
-    id="id-fc7984accc854b0094837fb61a8b366d"/>
+    id="id-fc7984accc854b0094837fb61a8b366d"
+    documentation="Gebruiksvriendelijkheid: de glossary moet eenvoudig en intuïtief te gebruiken zijn voor zowel technische als niet-technische gebruikers.&#xD;&#xA;&#xD;&#xA;Zoek- en filtermogelijkheden: de glossary moet zoek- en filtermogelijkheden bieden, zodat gebruikers snel de informatie kunnen vinden die ze nodig hebben.&#xD;&#xA;&#xD;&#xA;Ondersteuning voor metadata: de glossary moet metadata ondersteunen om de context en betekenis van de gegevens te verduidelijken en de kwaliteit van de gegevens te verbeteren."/>
