@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tool gebruik"
-    id="id-026e7300fd3b43f3b95dc23928aeb212"/>
+    id="id-026e7300fd3b43f3b95dc23928aeb212"
+    documentation="De capability van tool gebruik beschrijft de vermogen om snel nieuwe tools (vaak open source) te kunnen gebruiken en eventueel in te wisselen door nieuwe."/>

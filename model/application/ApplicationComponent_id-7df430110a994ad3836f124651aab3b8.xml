@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enterprise Data Hub (EDH)"
-    id="id-7df430110a994ad3836f124651aab3b8"/>
+    id="id-7df430110a994ad3836f124651aab3b8"
+    documentation="Een Enterprise Data Hub (EDH) is een centrale opslagplaats voor gegevens die wordt gebruikt om data-integratie, gegevensanalyse en business intelligence mogelijk te maken. Het is een architectuurpatroon dat bedrijven helpt bij het bouwen van een flexibele en schaalbare data-infrastructuur die kan omgaan met de grote hoeveelheid gegevens die tegenwoordig worden gegenereerd. De EDH maakt gebruik van geavanceerde technologieën zoals Hadoop, NoSQL-databases en data-integratietools om gegevens uit verschillende bronnen te verzamelen, te verwerken en te analyseren. Het doel is om een gecentraliseerd, uniform en actueel beeld van de bedrijfsgegevens te creëren en deze beschikbaar te stellen aan de verschillende applicaties en gebruikers binnen de organisatie."/>

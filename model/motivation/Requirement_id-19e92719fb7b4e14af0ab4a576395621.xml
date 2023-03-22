@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Er is een portal functionaliteit voor het beheren van glossary's."
-    id="id-19e92719fb7b4e14af0ab4a576395621"/>
+    id="id-19e92719fb7b4e14af0ab4a576395621"
+    documentation="Beheer en governance: de glossary moet worden beheerd en onderhouden door een speciaal daarvoor aangewezen team en er moeten duidelijke richtlijnen zijn voor het beheer van de inhoud en de gebruikers."/>

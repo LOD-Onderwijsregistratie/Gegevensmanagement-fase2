@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Privacy Management"
+    id="id-920383a8d3d445ad9b875f66f26f6424"
+    documentation="Privacy management, of privacybeheer, is het proces van het implementeren en onderhouden van privacyregels en -beleid binnen een organisatie. Het omvat het waarborgen van de privacy van persoonlijke gegevens die door de organisatie worden verzameld, verwerkt en opgeslagen, en het voldoen aan wet- en regelgeving op het gebied van gegevensbescherming en privacy.&#xD;&#xA;&#xD;&#xA;Privacy management richt zich op het beheren van de levenscyclus van persoonlijke gegevens, vanaf het moment van verzameling tot vernietiging, en het beschermen van de privacyrechten van individuen wiens persoonlijke gegevens worden verwerkt. Dit omvat het opstellen van privacybeleid en -procedures, het waarborgen van de juiste beveiligingsmaatregelen om de privacy van gegevens te beschermen, en het onderhouden van de juiste toestemmings- en gegevensverwerkingsvereisten.&#xD;&#xA;&#xD;&#xA;Het doel van privacy management is om de privacyrisico's te beperken en de naleving van wet- en regelgeving op het gebied van gegevensbescherming en privacy te waarborgen. Door effectief privacybeheer kunnen organisaties ook het vertrouwen van hun klanten en stakeholders versterken en voldoen aan ethische en wettelijke normen met betrekking tot gegevensbescherming.">
+  <properties
+      key="begrip"
+      value="https://www.begrippenxl.nl/gabi/nl/page/Privacy"/>
+</archimate:Capability>
