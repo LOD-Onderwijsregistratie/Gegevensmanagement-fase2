@@ -219,11 +219,11 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-e5e8a49d57bf499daa41e03d56e09d20"
       textAlignment="1"
-      content="Wachten op ontwikkeling aanvraagproces vanuit Compliance / IP / BICC / SEG">
+      content="Afhandelen Gegevens- / Informatieverzoek&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 22-3-2023">
     <bounds
         x="48"
         y="12"
-        width="185"
+        width="257"
         height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
