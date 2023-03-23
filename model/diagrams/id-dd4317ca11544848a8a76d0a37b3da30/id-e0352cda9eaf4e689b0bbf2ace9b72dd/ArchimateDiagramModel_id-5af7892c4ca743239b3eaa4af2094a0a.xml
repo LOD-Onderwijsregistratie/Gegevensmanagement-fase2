@@ -1714,28 +1714,4 @@
         width="373"
         height="85"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-15fb3edc13a346a7a4d5979c7295dd5f">
-    <bounds
-        x="1710"
-        y="589"
-        width="119"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-faac5778c41945daaadbfc5ec23e7885.xml#id-faac5778c41945daaadbfc5ec23e7885"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a146ebc61bef4edcaa1f0a669d210ef8">
-    <bounds
-        x="1710"
-        y="494"
-        width="119"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-436c924825d448e1a8b0d6f396c6245f.xml#id-436c924825d448e1a8b0d6f396c6245f"/>
-  </children>
 </archimate:ArchimateDiagramModel>
