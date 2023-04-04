@@ -1,0 +1,7 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DCAT"
+    id="id-1502a178350d461d8cf7a82759629296"
+    documentation="MIM (Metamodel voor Informatiemodellering) dient als gemeenschappelijk vertrekpunt voor het opstellen van informatiemodellen, zodat informatiemodellen en de daarop gebaseerde standaarden voor gegevensuitwisseling meer compatibel worden. MIM voorziet enerzijds in duidelijke afspraken over het vastleggen van gegevensspecificaties en biedt anderzijds ruimte aan de verschillende niveaus van modellering.&#xD;&#xA;&#xD;&#xA;https://www.forumstandaardisatie.nl/open-standaarden/mim">
+  <properties/>
+</archimate:Constraint>
