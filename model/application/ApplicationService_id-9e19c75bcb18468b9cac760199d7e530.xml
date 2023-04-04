@@ -2,8 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] API management"
     id="id-9e19c75bcb18468b9cac760199d7e530"
-    documentation="API management verwijst naar het proces van het ontwerpen, publiceren, beveiligen en beheren van Application Programming Interfaces (API's) die worden gebruikt om de communicatie tussen verschillende softwareapplicaties mogelijk te maken. Het omvat het definiëren van API-specifieke regels en beleidslijnen, zoals authenticatie, autorisatie, limieten voor het aantal aanvragen, en het monitoren en analyseren van API-gebruik en -prestaties. Het doel van API management is om de API-gebruikerservaring te verbeteren, de veiligheid te waarborgen, en de operationele efficiëntie te optimaliseren.&#xD;&#xA;&#xD;&#xA;API Management functies : https://www.gemmaonline.nl/index.php/GGI/id-b15d6d09-23ba-41ee-ac51-892ceda90be9&#xD;&#xA;&#xD;&#xA;">
-  <properties
-      key="ORIG"
-      value="id-f33eb21f13f04b0e83925b7b36327972"/>
-</archimate:ApplicationService>
+    documentation="API Management functies : https://www.gemmaonline.nl/index.php/GGI/id-b15d6d09-23ba-41ee-ac51-892ceda90be9&#xD;&#xA;&#xD;&#xA;"/>
