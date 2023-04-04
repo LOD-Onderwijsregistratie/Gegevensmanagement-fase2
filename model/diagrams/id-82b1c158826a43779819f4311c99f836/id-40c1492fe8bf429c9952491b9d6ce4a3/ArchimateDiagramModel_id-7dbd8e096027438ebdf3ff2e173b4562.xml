@@ -652,6 +652,21 @@
         id="id-117ff94810fd40f692d465365ad0dfbc"
         source="id-365a120be0a24ab9be5f9b03067100ba"
         target="id-c5803d17937f41698d481bbb77806a7c">
+      <bendpoints
+          startX="1"
+          startY="-183"
+          endX="-862"
+          endY="156"/>
+      <bendpoints
+          startX="397"
+          startY="-183"
+          endX="-466"
+          endY="156"/>
+      <bendpoints
+          startX="889"
+          startY="-183"
+          endX="26"
+          endY="156"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-758720bbf92e425fa8f4088731f8053b.xml#id-758720bbf92e425fa8f4088731f8053b"/>
