@@ -11,8 +11,8 @@
       textAlignment="1"
       content="Data Hub 2023 - ADR casus&#xA;auteur: René Berken&#xA;project: GABI&#xA;scope: 2023 implementatie tbv ADR&#xA;Veilige, transparante en reproduceerbare gegevensproducten ter ondersteuning van Informatiemanagement.&#xA;Services uit de pilot Data Hub vervangen door funbcties uit o.a. Baseline DWH view.">
     <bounds
-        x="1356"
-        y="241"
+        x="1716"
+        y="216"
         width="240"
         height="240"/>
   </children>
@@ -941,5 +941,17 @@
         y="840"
         width="216"
         height="194"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-2233c2a286d84afeb873713207320f67">
+    <bounds
+        x="1500"
+        y="237"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessService"
+        href="BusinessService_id-4e4c62f80fe54f49b95fcf00c6fbc62c.xml#id-4e4c62f80fe54f49b95fcf00c6fbc62c"/>
   </children>
 </archimate:ArchimateDiagramModel>
