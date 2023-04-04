@@ -931,4 +931,15 @@
         width="217"
         height="73"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-32f2546b15b1493886a9e8383168a982"
+      textAlignment="1"
+      content="werkplek DUO met Lateg en R Markdown nog toevoegen.">
+    <bounds
+        x="1632"
+        y="840"
+        width="216"
+        height="194"/>
+  </children>
 </archimate:ArchimateDiagramModel>
