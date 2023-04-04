@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Hub 2023 - ADR casus"
     id="id-6c4c2689a85b4aaa865c1e89975ab11f"
+    documentation="Data Hub 2023 - ADR casus&#xA;auteur: René Berken&#xA;project: GABI&#xA;scope: 2023 implementatie tbv ADR&#xA;Veilige, transparante en reproduceerbare gegevensproducten ter ondersteuning van Informatie(management).&#xA;Services uit de pilot Data Hub vervangen door funbcties uit o.a. Baseline DWH view."
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -10,8 +11,8 @@
       textAlignment="1"
       content="Data Hub 2023 - ADR casus&#xA;auteur: René Berken&#xA;project: GABI&#xA;scope: 2023 implementatie tbv ADR&#xA;Veilige, transparante en reproduceerbare gegevensproducten ter ondersteuning van Informatiemanagement.&#xA;Services uit de pilot Data Hub vervangen door funbcties uit o.a. Baseline DWH view.">
     <bounds
-        x="1459"
-        y="237"
+        x="1356"
+        y="241"
         width="240"
         height="240"/>
   </children>
