@@ -7,20 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-039714d98f3a4347be56f07900a58c1c"
-      targetConnections="id-d138cb659ce44624a7cbbc6b295f9b57 id-d5c1f04485694f4085777811e88d56d9 id-1343df0c7eed4d91aad0814b71118291">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3d7ea6e704344164a48cab9c23131d9e"
-        source="id-039714d98f3a4347be56f07900a58c1c"
-        target="id-17efbc73f1494acc9f8c6b65e2b2fa33">
-      <bendpoints
-          startY="-67"
-          endX="-342"
-          endY="9"/>
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-47d242f380cc4d9485b07861c3c6a496.xml#id-47d242f380cc4d9485b07861c3c6a496"/>
-    </sourceConnections>
+      targetConnections="id-d138cb659ce44624a7cbbc6b295f9b57 id-d5c1f04485694f4085777811e88d56d9 id-1343df0c7eed4d91aad0814b71118291 id-1d07ad046043403b9fa05c35f5380cd7">
     <bounds
         x="380"
         y="171"
@@ -162,10 +149,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-17efbc73f1494acc9f8c6b65e2b2fa33"
-      targetConnections="id-3d7ea6e704344164a48cab9c23131d9e">
+      targetConnections="id-1b9e4cccbf374bf687aaaedca5c751ef">
     <bounds
         x="722"
-        y="95"
+        y="76"
         width="115"
         height="58"/>
     <archimateElement
@@ -176,11 +163,41 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-1f12effeb6ee4756b9a75facff94bd0f"
       textAlignment="1"
-      content="Titel: SANE Applicatie Functionaliteit Tinker vs Blind&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 27-3-2023">
+      content="Titel: SANE Applicatie Functionaliteit Tinker vs Blind&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 27-3-2023&#xD;&#xA;Laatste wijziging: 7-4-2023">
     <bounds
         x="19"
         y="19"
         width="286"
+        height="76"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-83e6080f1e5e4354bc8c54b20a90f52f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1d07ad046043403b9fa05c35f5380cd7"
+        source="id-83e6080f1e5e4354bc8c54b20a90f52f"
+        target="id-039714d98f3a4347be56f07900a58c1c">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-ef8c63af66d7416c9b5d4e8e59953847.xml#id-ef8c63af66d7416c9b5d4e8e59953847"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1b9e4cccbf374bf687aaaedca5c751ef"
+        source="id-83e6080f1e5e4354bc8c54b20a90f52f"
+        target="id-17efbc73f1494acc9f8c6b65e2b2fa33">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-47d242f380cc4d9485b07861c3c6a496.xml#id-47d242f380cc4d9485b07861c3c6a496"/>
+    </sourceConnections>
+    <bounds
+        x="551"
+        y="76"
+        width="115"
         height="58"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-28f2db6a69324b74aeb619ba7dd0a8dd.xml#id-28f2db6a69324b74aeb619ba7dd0a8dd"/>
   </children>
 </archimate:ArchimateDiagramModel>
