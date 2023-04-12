@@ -153,7 +153,7 @@
             endX="161"
             endY="-124"/>
         <bendpoints
-            startX="-285"
+            startX="-152"
             startY="66"
             endX="9"
             endY="-124"/>
@@ -169,11 +169,6 @@
         <bendpoints
             startY="65"
             endX="-11"
-            endY="-124"/>
-        <bendpoints
-            startX="-133"
-            startY="66"
-            endX="9"
             endY="-124"/>
         <archimateRelationship
             xsi:type="archimate:RealizationRelationship"

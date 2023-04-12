@@ -1,5 +1,5 @@
-<archimate:Assessment
+<archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontvangen gegevens en informatieverzoek"
-    id="id-c06484f0d10549adb6b6ebb526db766b"
+    id="id-f9353cd2ec5347fab5484a353d4f2e1a"
     documentation="Volgens de DUO architectuur is het ontvangen van enig verzoek tot het uitvoeren van een dienst of produceren van product ingedeeld in het domein van de klantinteractie. Het ontvangen en routeren van gegevens- en informatieverzoeken zou primair bij SEK horen."/>
