@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang"
+    id="id-9ce7d659f1164dbc9396e980f049570d"
+    documentation="Dienst met betrekking tot toegang tot de diensten. Denk aan identificatie, authenticatie, machtiging en autorisatie."/>

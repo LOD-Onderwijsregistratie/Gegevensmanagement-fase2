@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High Compute"
+    id="id-df8fe25861864878a4d52db46f673dc1"
+    documentation="Het uitvoeren van grootschalige, high-perfomance rekenkundige operaties."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transactie"
+    id="id-82c46d48f9ce488b9f6bda92f87e1230"
+    documentation="Diensten met betrekking tot uitvoeren van transacties. Denk aan aanvragen, wijzigen, intrekken, gegevens- en informatieverstrekking, etc."/>
