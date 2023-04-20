@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collaboratie"
+    id="id-28994abca1084d4a8e42e1f37b581abd"
+    documentation="Diensten die samenwerking mogelijk maakt. Denk aan het gebruik van GitLab, samenwerken aan (tussen)resultaten van analyses en onderzoeken."/>

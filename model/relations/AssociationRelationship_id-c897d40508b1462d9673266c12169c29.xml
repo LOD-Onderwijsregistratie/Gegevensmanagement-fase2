@@ -6,6 +6,6 @@
       xsi:type="archimate:Stakeholder"
       href="Stakeholder_id-200f546a21a6451b8e0502c1344344d2.xml#id-200f546a21a6451b8e0502c1344344d2"/>
   <target
-      xsi:type="archimate:Assessment"
-      href="Assessment_id-7aaea6b4fd9845f79c188695158aef87.xml#id-7aaea6b4fd9845f79c188695158aef87"/>
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-501e00b7390c43178ea157218d40bd66.xml#id-501e00b7390c43178ea157218d40bd66"/>
 </archimate:AssociationRelationship>
