@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="leverancier"
     id="id-01a51c053e8c4e3496d8e328a0688375"
-    documentation="Eigenschappen gestructureerd als tags.">
+    documentation="Eigenschappen gestructureerd als tags.&#xA;">
   <properties
       key="kernobject"
       value="Actor"/>
