@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SANE Afhandelen Gegevens- / Informatieverzoek plus bedrijfsobjecten"
     id="id-10b75d20b9d0444c9f077666d5def361"
-    documentation="Bedrijfsfuncties en hun volgorde met betrekking tot het afhandelen van een gegvens- of informatieverzoek"
+    documentation="Bedrijfsfuncties en hun volgorde met betrekking tot het afhandelen van een gegvens- of informatieverzoek, met daaraan gekoppeld de betrokken bedrijfsobjecten."
     viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelNote"

@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Overzichtsplaat SANE"
-    id="id-048f86fd7dd34cbbb0ad7ef3ae63dcb0">
+    id="id-048f86fd7dd34cbbb0ad7ef3ae63dcb0"
+    documentation="Overzichtsplaat van SANE">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5bbcb5f84e034509a903f015da756b06"
