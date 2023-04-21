@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SANE Bedrijfsobjecten"
-    id="id-5af7892c4ca743239b3eaa4af2094a0a">
+    id="id-5af7892c4ca743239b3eaa4af2094a0a"
+    documentation="Obv DUO Bedrijfsobjecten model een selectie van de bij SANE betrokken bedrijfsobjecten.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fe726612081c4d97aaeec6422b4aec37"

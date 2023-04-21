@@ -300,7 +300,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fad3b06686ae48c7a052928dc8480455">
+      id="id-fad3b06686ae48c7a052928dc8480455"
+      targetConnections="id-c49ff7924c6b42bb92b0673d2a166808 id-7e6a4a8c675d45e2957ff25ac6895fa5">
     <bounds
         x="342"
         y="114"
@@ -315,7 +316,7 @@
       id="id-c5344155d88b43e2a0cd9dc072d88d51">
     <bounds
         x="342"
-        y="209"
+        y="399"
         width="115"
         height="58"/>
     <archimateElement
@@ -377,9 +378,51 @@
       textAlignment="1"
       content="Titel: DUO Data Science Tooling&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 20-4-2023&#xD;&#xA;Laatste wijziging: 20-4-2023">
     <bounds
-        x="63"
-        y="68"
+        x="38"
+        y="19"
         width="185"
         height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c63899d919a046f7a14ea85d08b0f7bd">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c49ff7924c6b42bb92b0673d2a166808"
+        source="id-c63899d919a046f7a14ea85d08b0f7bd"
+        target="id-fad3b06686ae48c7a052928dc8480455">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-5d7d94f9090c43c9b28c0dd2d0548192.xml#id-5d7d94f9090c43c9b28c0dd2d0548192"/>
+    </sourceConnections>
+    <bounds
+        x="342"
+        y="209"
+        width="115"
+        height="58"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-56a276d1c77f41d4b6fc52fa4d0f5198.xml#id-56a276d1c77f41d4b6fc52fa4d0f5198"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6b7bf3df048c41e8aa1321027af4cf21">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7e6a4a8c675d45e2957ff25ac6895fa5"
+        source="id-6b7bf3df048c41e8aa1321027af4cf21"
+        target="id-fad3b06686ae48c7a052928dc8480455">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-4bd78aceef25417cbadc38c821c63aba.xml#id-4bd78aceef25417cbadc38c821c63aba"/>
+    </sourceConnections>
+    <bounds
+        x="190"
+        y="209"
+        width="115"
+        height="58"/>
+    <archimateElement
+        xsi:type="archimate:SystemSoftware"
+        href="SystemSoftware_id-1baadc9ca2394146acb57988ae24443f.xml#id-1baadc9ca2394146acb57988ae24443f"/>
   </children>
 </archimate:ArchimateDiagramModel>
