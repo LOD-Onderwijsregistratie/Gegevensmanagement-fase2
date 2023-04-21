@@ -45,6 +45,33 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-f321e236c15e4d60b4e025ba44710ba8.xml#id-f321e236c15e4d60b4e025ba44710ba8"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-19afc30011ad4581a8470d26ca42205b"
+        source="id-7683d8d956614559a7f333710be2098a"
+        target="id-c5803d17937f41698d481bbb77806a7c">
+      <bendpoints
+          startY="-132"
+          endX="-754"
+          endY="-132"/>
+      <bendpoints
+          startX="756"
+          startY="-132"
+          endX="2"
+          endY="-132"/>
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-9de1749d1e0d42a29485fc3f1c0e9929.xml#id-9de1749d1e0d42a29485fc3f1c0e9929"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-03dd555b01da4a79aad79a4b3d73cda2"
+        source="id-7683d8d956614559a7f333710be2098a"
+        target="id-927052daf1e1495baa6b91a8b63f5b79">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-ecc3a11df93a402fa7971c2ef3a2fc2a.xml#id-ecc3a11df93a402fa7971c2ef3a2fc2a"/>
+    </sourceConnections>
     <bounds
         x="120"
         y="24"
@@ -109,7 +136,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-927052daf1e1495baa6b91a8b63f5b79"
-      targetConnections="id-93e789f825f644a4b967613f811a6095">
+      targetConnections="id-93e789f825f644a4b967613f811a6095 id-03dd555b01da4a79aad79a4b3d73cda2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b27c28a2ae064e579c376e92cf467574"
@@ -288,7 +315,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c5803d17937f41698d481bbb77806a7c"
-      targetConnections="id-27acf7b839304f139e05da7aea49c840 id-117ff94810fd40f692d465365ad0dfbc">
+      targetConnections="id-27acf7b839304f139e05da7aea49c840 id-117ff94810fd40f692d465365ad0dfbc id-19afc30011ad4581a8470d26ca42205b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-669e4d65fd454e898fa3b85432453c19"
@@ -780,6 +807,15 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-be142b35e50f46d49757f0e78671e1a2.xml#id-be142b35e50f46d49757f0e78671e1a2"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e2bc907f4dd0448ba5c5026555ac8247"
+        source="id-0d6dcbd80814443daa4859504dc144de"
+        target="id-c83bba203f974df4af0dee4829c0c417">
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-455e148d0aaa400c9f03fd953aa652c5.xml#id-455e148d0aaa400c9f03fd953aa652c5"/>
+    </sourceConnections>
     <bounds
         x="599"
         y="876"
@@ -878,8 +914,8 @@
       name="Niet gebruikt tov pilot Data Hub"
       textAlignment="1">
     <bounds
-        x="1320"
-        y="480"
+        x="1416"
+        y="557"
         width="325"
         height="361"/>
     <children
@@ -1018,9 +1054,22 @@
       textAlignment="1"
       content="gegevensobject aanvraag / contract&#xA; service vertalen naar functie">
     <bounds
-        x="1092"
-        y="552"
+        x="1068"
+        y="612"
         width="120"
         height="132"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c83bba203f974df4af0dee4829c0c417"
+      targetConnections="id-e2bc907f4dd0448ba5c5026555ac8247">
+    <bounds
+        x="1212"
+        y="743"
+        width="97"
+        height="157"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-7bd43a371b324679a135832177e205d5.xml#id-7bd43a371b324679a135832177e205d5"/>
   </children>
 </archimate:ArchimateDiagramModel>
