@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ABAC"
+    id="id-f6daa9d145e540f5ae45ff136e2689fa"
+    documentation="Attribute Based Access. Toegang op basis van kenmerken van verzamelingen gegevens en/of informatie. Zoals dataclassificatie en doelbinding."/>

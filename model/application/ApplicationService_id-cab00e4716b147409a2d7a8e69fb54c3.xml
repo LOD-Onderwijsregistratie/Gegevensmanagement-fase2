@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-cab00e4716b147409a2d7a8e69fb54c3"
+    documentation="Services die enderzijds mede door input van de gestelde beheersmaatregelen uit een compliance oordeel van het gegevens-/informatieverzoek de juiste beveiligingsmaatregelen binnen een SANE uitrolt en anderzijds de toegang tot een SANE facilitieert (intern/extern).&#xD;&#xA;"/>
