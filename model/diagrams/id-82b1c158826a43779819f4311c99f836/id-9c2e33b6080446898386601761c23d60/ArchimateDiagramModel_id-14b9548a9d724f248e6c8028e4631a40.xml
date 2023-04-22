@@ -1269,9 +1269,13 @@
       textAlignment="1"
       content="view : &#x9;Enterprise Data Hub view&#xD;&#xA;auteurs : &#x9;René Berken, Jan Willem van Veen&#xD;&#xA;doel:&#x9;programma GABI&#xD;&#xA;scope: &#x9;to be 2025-2030">
     <bounds
-        x="60"
-        y="24"
+        x="72"
+        y="12"
         width="424"
         height="80"/>
   </children>
+  <properties
+      key="Status"
+      value="Gereviewed"/>
+  <properties/>
 </archimate:ArchimateDiagramModel>

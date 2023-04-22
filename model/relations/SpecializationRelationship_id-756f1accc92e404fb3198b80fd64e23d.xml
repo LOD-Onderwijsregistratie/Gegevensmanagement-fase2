@@ -1,7 +1,8 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-756f1accc92e404fb3198b80fd64e23d">
+    id="id-756f1accc92e404fb3198b80fd64e23d"
+    documentation="&#xA;&#xA;">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-5ed0df61fb8b4e1eb221ed110e37a133.xml#id-5ed0df61fb8b4e1eb221ed110e37a133"/>
