@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SQL Server Management Studio"
+    id="id-56a276d1c77f41d4b6fc52fa4d0f5198"
+    documentation="SQL Server Management Studio (SSMS) is een geïntegreerde omgeving voor het beheer van elke SQL-infrastructuur, van SQL Server tot Azure SQL Database. SSMS biedt hulpmiddelen voor het configureren, bewaken en beheren van exemplaren van SQL Server en databases. Gebruik SSMS om de gegevenslaagcomponenten die door uw toepassingen worden gebruikt, te implementeren, te bewaken en te upgraden en om query's en scripts te bouwen.&#xD;&#xA;&#xD;&#xA;Gebruik SSMS om uw databases en datawarehouses op te vragen, te ontwerpen en te beheren, waar ze zich ook bevinden - op uw lokale computer of in de cloud."/>

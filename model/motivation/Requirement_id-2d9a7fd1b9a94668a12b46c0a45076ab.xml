@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Export Beveiliging"
+    id="id-2d9a7fd1b9a94668a12b46c0a45076ab"
+    documentation="1: Uit SANE kunnen niet zomaar databestanden worden geexporteerd. Bij het gebruik van data van dataclassificatie 2 of 3 (?) wordt het onderzoeksresultaat door een derde uit SANE geexporeerd en nadat het beoordeeld is of het onderzoeksresultaat voldoet aan de van te voren afgesproken dataclassificatie."/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistisch analyse resultaat naar EDH"
+    id="id-2e0c5f2354534048a1d3b3e8a2606707"
+    documentation="18. Een databestand wat het resultaat is van een statistische analyse kan in de EDH voor hergebruik (of architevering?) worden opgeslagen."/>

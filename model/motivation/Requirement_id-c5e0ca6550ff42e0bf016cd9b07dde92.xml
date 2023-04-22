@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verwerkingscapaciteit"
+    id="id-c5e0ca6550ff42e0bf016cd9b07dde92"
+    documentation="23. Er is voldoende capaciteit (CPU, Memory) beschikbaar om de doorlloptijd van het doorrekenen van modellen tot een minimum te beperken.&#xD;&#xA;"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Public Libraries zijn gecontroleerd"
+    id="id-a4f072af3cd84c1bacfbfcc57a3f9a8b"
+    documentation="Voor tools als R en Python zijn public libraries beschikbaar die handige functionaliteiten biedt. Het gebruik van deze public libraries zijn toegestaan, mits ze van te voren door DUO zijn gecontroleerd en goedgekeurd op het gebied van (informatie)beveiling.&#xD;&#xA;"/>

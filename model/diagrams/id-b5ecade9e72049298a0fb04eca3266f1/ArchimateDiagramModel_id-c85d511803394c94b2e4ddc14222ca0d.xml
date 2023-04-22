@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SANE PSA Werkpakketten"
     id="id-c85d511803394c94b2e4ddc14222ca0d"
+    documentation="SANE overzicht views naar indeling naar hoofdstukken van template PSA."
     viewpoint="project">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -454,18 +455,6 @@
           y="32"
           width="158"
           height="97"/>
-      <children
-          xsi:type="archimate:DiagramModelReference"
-          id="id-f76acedf17e84125a96fcae230114a09">
-        <bounds
-            x="16"
-            y="48"
-            width="120"
-            height="37"/>
-        <referencedModel
-            xsi:type="archimate:ArchimateDiagramModel"
-            href="ArchimateDiagramModel_id-44ca667c135f46a8bf26e922c4477dbe.xml#id-44ca667c135f46a8bf26e922c4477dbe"/>
-      </children>
       <archimateElement
           xsi:type="archimate:WorkPackage"
           href="WorkPackage_id-37d94e0168aa4fb0be2464b05cd2765d.xml#id-37d94e0168aa4fb0be2464b05cd2765d"/>
