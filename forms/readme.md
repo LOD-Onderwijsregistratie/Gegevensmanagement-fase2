@@ -1,6 +1,6 @@
 # Het installeren van een formulier
 
-De form plugin is een community bijdrage (contribution) bij Archi om een formulier te maken voor een invoerscherm bij views en architectuurelementen. 
+De form plugin is een community bijdrage (contribution) bij Archi om een formulier te maken voor een invoerscherm bij views en architectuurelementen. Info: https://github.com/archi-contribs/form-plugin.
 
 1.	Download de formulier plugin voor Archi: 
 https://github.com/archi-contribs/form-plugin/blob/master/org.archicontribs.form_1.9.2.archiplugin
