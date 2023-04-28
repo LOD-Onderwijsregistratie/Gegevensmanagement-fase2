@@ -20,8 +20,4 @@ jArchi is in tegenstelling tot (co)Archi geen freeware, ook al kost het geen dro
 
 3.	De eerste keer dat jArchi is geïnstalleerd moeten de “Scripts Manager” en de “Scripts Console”  zichtbaar worden gemaakt. Doe dit met de “Reset Window Layout” van het “Window” menu.  Op “Scripts Manager” klik op de "Restore Example Scripts" button. De voorbeeld jArchi worden in de "examples" folder gezet.
 
-4.	Kopieer het volgende script:
-https://github.com/onderwijsarchitectuur/Gegevensmanagement/blob/master/scripts/Add%20identynote%20on%20view.ajs
-naar een gebruikersfolder (voorstel C:\Users\....\Documents\Archi\scripts)
-
-5.	Het identitynote script kan worden afgespeeld in de “Scripts Manager” als er een view is geselecteerd.
+4. De scripts in deze map activeren kun je naar naar je systeem kopieren (voorstel C:\Users\xxx\Documents\Archi\scripts). Die kun je dan afspelen in de “Scripts Manager” als er een view is geselecteerd.
