@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens Analyse"
+    id="id-9ad259683ab8465286fc0005101d0338"
+    documentation="Service die het analyseren en verwerken van gegevens tot gegevens- en informatieproducten mogelijk maakt. Denk aan statistiek, data / text mining, machine learning, rapportage, maar ook aan high-performance computing en analytics-to-the-data."/>

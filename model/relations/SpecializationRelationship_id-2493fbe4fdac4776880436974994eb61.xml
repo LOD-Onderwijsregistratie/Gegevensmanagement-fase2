@@ -1,7 +1,8 @@
 <archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-2493fbe4fdac4776880436974994eb61">
+    id="id-2493fbe4fdac4776880436974994eb61"
+    documentation="&#xA;">
   <source
       xsi:type="archimate:BusinessFunction"
       href="BusinessFunction_id-e0246cbc2e7b46d8913827cbedec70e2.xml#id-e0246cbc2e7b46d8913827cbedec70e2"/>

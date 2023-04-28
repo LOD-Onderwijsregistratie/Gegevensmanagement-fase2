@@ -1,7 +1,8 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-ebdcfcc1e3074c4e8da1b1287cb221ef">
+    id="id-ebdcfcc1e3074c4e8da1b1287cb221ef"
+    documentation="&#xA;">
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_id-8b66ddb8d575499c886682a0d9c36cbc.xml#id-8b66ddb8d575499c886682a0d9c36cbc"/>
