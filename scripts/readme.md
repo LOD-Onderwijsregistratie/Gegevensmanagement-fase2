@@ -10,7 +10,7 @@ De plugin wordt geleverd met voorbeeld-scripts.  Andere plekken om scripts te vi
 * https://github.com/nasjonal-arkitektur/kode-archiscripts
 * https://gitlab.com/vng-realisatie/architectuur/tools/archi-scripts (na autorisatie).
 
-Ook is er aan actieve community met veel experts die hulp kunnen bieden: https://forum.archimatetool.com
+Ook is er aan actieve community met veel experts die hulp kunnen bieden: https://forum.archimatetool.com.
 
 jArchi is in tegenstelling tot (co)Archi geen freeware, ook al kost het geen drol. Het is beschikbaar voor iedereen die maandelijks minimaal 3 euro bijdraagt via Patreon.  
 
@@ -20,4 +20,4 @@ jArchi is in tegenstelling tot (co)Archi geen freeware, ook al kost het geen dro
 
 3.	De eerste keer dat jArchi is geïnstalleerd moeten de “Scripts Manager” en de “Scripts Console”  zichtbaar worden gemaakt. Doe dit met de “Reset Window Layout” van het “Window” menu.  Op “Scripts Manager” klik op de "Restore Example Scripts" button. De voorbeeld jArchi worden in de "examples" folder gezet.
 
-4. De scripts in deze map kun je naar je systeem kopieren (voorstel C:\Users\xxx\Documents\Archi\scripts). Die kun je dan afspelen in de “Scripts Manager”. Bij sommige moeten er een of meer views of architectuurelementen geselecteerd. Zie de documentatie in het scripts.
+4. De scripts in deze map vormen een gecureerde set, die  je naar je systeem kunt kopieren (voorstel C:\Users\xxx\Documents\Archi\scripts). Die kun je dan afspelen in de “Scripts Manager”. Bij sommige moeten er een of meer views of architectuurelementen geselecteerd. Zie de documentatie in het scripts.
