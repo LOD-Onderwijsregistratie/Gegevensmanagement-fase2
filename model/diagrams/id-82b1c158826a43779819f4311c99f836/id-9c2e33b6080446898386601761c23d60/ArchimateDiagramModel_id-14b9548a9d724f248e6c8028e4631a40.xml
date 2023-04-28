@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Distributie platformen SOLL"
     id="id-14b9548a9d724f248e6c8028e4631a40"
+    documentation="Zie properties."
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1265,17 +1266,43 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-a769887d78f549179055f5d592757539"
+      id="id-10bb32d803764de4a733f38879808aff"
       textAlignment="1"
-      content="view : &#x9;Enterprise Data Hub view&#xD;&#xA;auteurs : &#x9;René Berken, Jan Willem van Veen&#xD;&#xA;doel:&#x9;programma GABI&#xD;&#xA;scope: &#x9;to be 2025-2030">
+      content="titel:&#x9;&#x9;Distributie platformen SOLL&#xA;geldig:&#x9;&#x9;2025-01-01&#x9;&#x9;tot:&#x9;&#x9;2030-12-31&#xA;publicatiedatum:&#x9;2023-04-28&#xA;activiteit:&#x9;programma GABI&#x9;&#x9;status:&#x9;&#x9;Gereviewed&#xA;bijdragen:&#x9;RB, JWVV">
     <bounds
-        x="72"
-        y="12"
-        width="424"
-        height="80"/>
+        x="10"
+        y="10"
+        width="500"
+        height="90"/>
   </children>
   <properties
-      key="Status"
+      key="omschrijving"
+      value="Dit is de applicatieview voor de Enterprise Data Hub&#xD;&#xA;&#xD;&#xA;EditNote: servicenrelaties niet conform Archimate"/>
+  <properties
+      key="trefwoorden"
+      value="datahub"/>
+  <properties
+      key="geldigheid_einde"
+      value="2030-12-31"/>
+  <properties
+      key="activiteit"
+      value="programma GABI"/>
+  <properties
+      key="status"
       value="Gereviewed"/>
-  <properties/>
+  <properties
+      key="bijdragen"
+      value="RB, JWVV"/>
+  <properties
+      key="geldigheid_begin"
+      value="2025-01-01"/>
+  <properties
+      key="contactpunt_email"
+      value="gegevensmanagement@duo.nl"/>
+  <properties
+      key="contactpunt_naam"
+      value="gegevensmanagement"/>
+  <properties
+      key="publicatiedatum"
+      value="2023-04-28"/>
 </archimate:ArchimateDiagramModel>
