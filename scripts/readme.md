@@ -12,7 +12,7 @@ De plugin wordt geleverd met voorbeeld-scripts.  Andere plekken om scripts te vi
 
 Ook is er aan actieve community met veel experts die hulp kunnen bieden: https://forum.archimatetool.com
 
-jArchi is in tegenstelling tot (co)Archi geen freeware, ook al kost het geen drol. Het is beschikbaar voor iedereen die maandelijks 3 euro bijdraagt via Patreon.  
+jArchi is in tegenstelling tot (co)Archi geen freeware, ook al kost het geen drol. Het is beschikbaar voor iedereen die maandelijks minimaal 3 euro bijdraagt via Patreon.  
 
 1.	Bemachtig de jArchi-script plugin via Patreon: https://www.patreon.com/architool/posts?filters[tag]=jArchi en plaats deze in de plugin folder van Archi (doorgaans: C:\Program Files\Archi\plugins).
 
