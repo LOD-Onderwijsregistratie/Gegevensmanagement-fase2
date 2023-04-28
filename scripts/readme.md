@@ -1,5 +1,5 @@
 
-# Het installeren van het script Identitynote in Archi
+# Het installeren van scripts in Archi
 
 De jArchi plugin is een extensie van javascript bij Archi om scripts te runnen. Deze scripts hebben toegang tot de archimate modellen en kunnen die manipuleren. De verzameling scripts vormt een geschikte toolset voor gebruik door ‘architectuurbeheer’.   Uitleg van jArchi is hier te vinden: https://github.com/archimatetool/archi-scripting-plugin/wiki
 
