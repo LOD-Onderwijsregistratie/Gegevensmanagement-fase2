@@ -1,0 +1,206 @@
+﻿/*
+ * Join active models with selected model.
+ * 
+ * Add  all concepts and views of all active models to the selected model
+ * 
+ * (c) 2018 Jean-Baptiste Sarrodie, Phillip Beauvoir, (c) 2022 Gerald Groot Roessink
+ *
+ * This work is licensed under the HUMANS Licence described below.
+ * 
+ * The HUMANS (Help Us Make Archi Noteworthy & Sustainable) licence goal is to bring happiness
+ * to both Archi users and developers. 
+ *
+ * The only restrictions that apply are:
+ *  - You can't redistribute this script.
+ *  - You can't use this script for commercial purposes 
+ * 
+ */
+ 
+// Show output in the console
+console.show();
+console.clear();
+console.log("> Starting Join");
+
+// array for collection
+const  allelements = [] ;
+const  allrelations = [] ;
+const  allviews = [] ;
+
+//Selected model is the core model?
+var core = model.copy();
+var confirm_text= "Are you sure you want to join active models with this model: \n\n\t\t\t"+core+ "\n\n\t\t\t\t?";
+var confirm = window.confirm(confirm_text);
+if(confirm == 0) {
+    exit();;
+} 
+
+console.log("Target model:  ", core);
+console.log("-----");
+
+//loop all active non-core models and look for content
+var loadedModelsList = $.model.getLoadedModels();
+
+for(var i = 0; i < loadedModelsList.length; i++) {
+
+	if (loadedModelsList[i].id != core.id) {
+		console.log("Joined models", loadedModelsList[i]);
+	
+		loadedModelsList[i].setAsCurrent();	
+
+
+		//get all elements
+		var elements = $('element') ; 
+		elements.each(function(e) {	
+			allelements.push(e)
+		});
+		console.log("   number of elements", elements.length);
+
+		//get all relations
+		var relations = $('relationship');
+		relations.each(function(r) {	
+			allrelations.push(r)
+		});
+		console.log("   number of relations", relations.length);
+
+		//get all views
+		var views =	$('view');
+		views.each(function(v) {	
+			allviews.push(v)
+		});
+		console.log("   number of views", views.length);	
+	};
+};
+
+// add to core model
+core.setAsCurrent();	
+
+
+for(var ie = 0; ie < allelements.length; ie++) {
+	var element = allelements[ie] ;
+
+		elementcopy = model.createElement(element.type, element.name);
+
+	elementcopy.documentation = element.documentation;
+
+	// Copy properties belonging to element to new model.
+	for(var j = 0; j < $(element).prop().length; j++) {
+		var key = $(element).prop()[j];
+		var val = $(element).prop($(element).prop()[j]); 			
+		elementcopy.prop(key, val );
+	};
+	// Add a temporary property with the id of the original (to find copy in new model)
+	elementcopy.prop("ORIG", element.id );
+
+};
+
+// Copy relationships to new model
+for(var ir = 0; ir < allrelations.length; ir++) {
+	var relation = allrelations[ir];
+	
+	src=find_copy_concept("ORIG", relation.source.id); // find source-copy in new model
+	tar=find_copy_concept("ORIG", relation.target.id); // find target-copy in new model
+	var relationcopy = model.createRelationship(relation.type, relation.name,src,tar);
+	relationcopy.documentation = relation.documentation;
+	relationcopy.accessType = relation.accessType;
+	//if need be: associationDirected (association-relations) and influenceStrength (influence-relation)
+//	console.log("Added - ", relation.type, relation.name, relation.documentation);	
+//	console.log("        ", "src=",src.name, "tar=", tar.name);	
+
+	// Copy properties belonging to element to new model.
+	for(var j = 0; j < $(relation).prop().length; j++) {
+		var key = $(relation).prop()[j];
+		var val = $(relation).prop($(relation).prop()[j]); 			
+		relationcopy.prop(key, val );
+//		console.log("Props - ",  key, "=", val);
+	};
+	// Add a temporary property with the id of the original (to find copy in new model)
+	relationcopy.prop("ORIG", relation.id );
+};
+
+
+// Copy views to new model
+for(var iv = 0; iv < allviews.length; iv++) {
+
+	var view = allviews[iv] ;
+	var view_copy = model.createArchimateView(view.name);
+	view_copy.documentation = view.documentation;
+	view_copy.viewpoint = "layered";
+	
+	// Copy properties belonging to element to new model.
+	for(var j = 0; j < $(view).prop().length; j++) {
+		var key = $(view).prop()[j];
+		var val = $(view).prop($(view).prop()[j]); 			
+		view_copy.prop(key, val );
+	//console.log("Props - ",  key, "=", val);	
+	};
+
+
+	//copy the visual concepts on the view
+	
+	// add visual elements
+	var  obj_copy = {} ;
+	$(view).find('element').each(function(ve) {
+		var obj=find_copy_concept("ORIG", ve.concept.id); // find object-copy in new model
+		var bounds = ve.bounds;
+		
+		//calculate the absolute xy coordinates of nested elements.
+		var x=bounds.x;
+		var y=bounds.y;
+		$(ve).parents().not('folder').not('archimate-diagram-model').each(function(mum){
+			x=x+mum.bounds.x;
+			y=y+mum.bounds.y;
+		});
+		
+		//declare copy of visual as an object and use the id of the source visual object as key
+		obj_copy[ve.id]=view_copy.add(obj, x, y, bounds.width, bounds.height, "true"); //autoNest=true
+		
+		// if need be: add other attributes 
+		obj.imagePosition = element.imagePosition;
+
+	});
+ 
+   
+	// add visual relationships
+	$(view).find('relationship').each(function(vr) {
+		var rel =  find_copy_concept("ORIG",vr.concept.id); // find relation-copy in new model
+ 
+		var connection=view_copy.add(rel, obj_copy[vr.source.id], obj_copy[vr.target.id]);
+
+		// bending of relation.
+		var bendpoints = vr.getRelativeBendpoints();
+		for(var k = 0; k < bendpoints.length; k++) {
+			connection.addRelativeBendpoint(bendpoints[k],k)
+		};	
+
+		// if need be: add other attributes 
+		// may be later: relationship to relationship
+
+	});
+		
+};
+
+// remove temporary ORIG properties
+$('concept').removeProp("ORIG");
+
+console.log ("--------------");
+console.log ("Join completed");
+console.setTextColor(20, 100, 200);
+console.log ("You can use undo (control-z) when result is unwanted ");
+
+// Open in UI
+//console.log("Opening model in tree...");
+//model.openInUI();
+
+// Function to find concept (element+relation) with unique propertyvalue for propertykey
+function find_copy_concept(propertyKey, propertyValue) {
+	var found;
+    // Iterate through all concepts in the model
+    $("concept").forEach(function(c) {
+        // Find the property value at the given propertyKey
+        var value = c.prop(propertyKey);
+        if(value && value == propertyValue) {
+			found= c; 
+		}
+    });
+	return found;
+}

@@ -1,0 +1,70 @@
+﻿/*
+ * Add identitynote on view
+ * 
+ * Add identitynote on view based on documentation and properties
+ * Note: remove old one by hand
+ *
+ * (c) 2022 Gerald Groot Roessink,  2022-12-16
+ * 
+ * This work is licensed under the HUMANS Licence described below.
+ * 
+ * The HUMANS (Help Us Make Archi Noteworthy & Sustainable) licence goal is to bring happiness
+ * to both Archi users and developers. 
+ *
+ * The only restrictions that apply are:
+ *  - You can't redistribute this script.
+ *  - You can't use this script for commercial purposes 
+ * 
+ */
+ 
+ 
+// Show output in the console
+console.show();
+console.clear();
+
+var vw_selection = selection.filter("view");
+
+if(vw_selection.size() < 1 ) {
+  window.alert("Nothing to be done. Please select one or more views");
+  exit();
+}
+
+
+vw_selection.each(function(view) {
+
+	// remove the old one by hand. next line would remove all notes
+	//$(view).find('diagram-model-note').each(function(i) {i.delete()});
+	
+	identitytext="titel:\t\t"+view.name;
+	identitytext=identitytext+"\ngeldig vanaf:\t"+view.prop("geldigheid_begin");	
+	identitytext=identitytext+"\t\t\ttot:\t\t"+view.prop("geldigheid_einde");	
+	identitytext=identitytext+"\nactiviteit:\t"+view.prop("activiteit");	
+	identitytext=identitytext+"\t\t\tstatus:\t\t"+view.prop("status");	
+	if(view.prop("status")=="Productie") {
+		if(!view.prop("publicatiedatum")) {
+			const today= new Date();
+			view.prop("publicatiedatum", today.toLocaleDateString()); 
+			identitytext=identitytext+"\npublicatiedatum:\t"+view.prop("publicatiedatum");  
+		}
+		else
+		{
+			identitytext=identitytext+"\npublicatiedatum:\t"+view.prop("publicatiedatum");  
+			const today= new Date();
+			view.prop("wijzigingsdatum", today.toLocaleDateString()); 
+			identitytext=identitytext+"\t\t\twijzigingsdatum:\t"+view.prop("wijzigingsdatum");  
+		};
+	};
+	identitytext=identitytext+"\nbijdragen:\t"+view.prop("bijdragen");
+	
+
+
+
+//	console.log(identitytext);	
+
+	var identitynote = view.createObject("diagram-model-note", 10, 10, 500, 90);
+	identitynote.setText(identitytext) ;
+
+	console.log ("identitynote added on view:", view.name);	
+
+});
+

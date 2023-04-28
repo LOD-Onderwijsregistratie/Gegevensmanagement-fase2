@@ -1,0 +1,132 @@
+﻿/*
+ * Validate a model and export result 
+ * 
+ * Find all relations in the model that do not comply with Archimate-conventions an report in Excel
+ *
+ * (c) 2018 Jean-Baptiste Sarrodie, Phillip Beauvoir, (c) 2022 Gerald Groot Roessink
+ * 
+ * Uses MyExcel https://github.com/jsegarra1971/MyExcel
+
+ * This work is licensed under the HUMANS Licence described below.
+ * 
+ * The HUMANS (Help Us Make Archi Noteworthy & Sustainable) licence goal is to bring happiness
+ * to both Archi users and developers. 
+ *
+ * The only restrictions that apply are:
+ *  - You can't redistribute this script.
+ *  - You can't use this script for commercial purposes 
+ * 
+ */
+
+ 
+// Load MyExcel and JSZip JS file
+load(__DIR__ + "lib/jszip-101.js");
+load(__DIR__ + "lib/myexcel.js");
+
+// Show output in the console
+console.show();
+console.clear()
+console.log("> Starting validation");
+
+// Create a new Excel file with a default font and colour
+var excel = $JExcel.new("Calibri 12 #333333");
+
+// Add a new sheet with a name
+excel.set( { sheet:0, value:"Archimate errors" } );
+
+// Set up some headers including unique tags 
+const  headers = ["Model/visual","Path", "Relation-type","Relation-ID", "Source-type", "Source-naam", "Target-type","Target-naam"] ;
+
+
+// Format the header with a style
+var formatHeader = excel.addStyle ({
+    fill: "#dddddd",
+	border: "thin, thin, thin, thin #555555",
+	font: "Calibri 12 #000000 B",
+});
+
+// Set the headers
+for(var i = 0; i < headers.length; i++) {
+    excel.set(0, i, 0, headers[i], formatHeader);
+    excel.set(0, i, undefined, "auto"); // column width is auto
+}
+
+
+//  Find the issues for relationships
+// model relations
+var current_row = 1;
+$('relationship').each(function(r) {
+  if (! $.model.isAllowedRelationship(r.type, r.source.type, r.target.type)) {
+    // One way to solve the issue is to delete it by hand:
+	console.log("Model relation",r.type, " with id=", r.id, " from ", r.source.type, " '", r.source.name, "' to ", r.target.type, " '", r.target.name, "' is not valid");
+	excel.set(0, 0, current_row, "model relation");
+	excel.set(0, 1, current_row, find_path(r));
+	excel.set(0, 2, current_row, r.type);
+	excel.set(0, 3, current_row, r.id);
+	excel.set(0, 4, current_row, r.source.type);
+	excel.set(0, 5, current_row, r.source.name);
+	excel.set(0, 6, current_row, r.target.type);
+	excel.set(0, 6, current_row, r.target.name);
+    // One way to solve the issue is to delete it automatic:
+    // r.delete();
+	current_row++;
+  }
+});
+
+// visual relations
+$('view').find('relationship').each(function(connection) {
+  var relation = connection.concept;
+  var relationSource = relation.source;
+  var relationTarget = relation.target;
+
+  var connectionSource = connection.source.concept;
+  var connectionTarget = connection.target.concept;
+  
+  if (connectionSource.id != relationSource.id || connectionTarget.id != relationTarget.id) {
+    // Another approach could be to create another model relationship and to add it to the view instead of the unvalid one (more complicated to implement)
+    console.log("Visual connection", relation.type, " with id=", relation.id, " from ", connectionSource.type, " '", connectionSource.name, "' to ", connectionTarget.type, " '", connectionTarget.name, "' does not match underlying model relationship");
+	excel.set(0, 0, current_row, "visual relation");
+	excel.set(0, 1, current_row, find_path(relation));
+	excel.set(0, 2, current_row, relation.type);
+	excel.set(0, 3, current_row, relation.id);
+	excel.set(0, 4, current_row, connectionSource.type);
+	excel.set(0, 5, current_row, connectionSource.name);
+	excel.set(0, 6, current_row, connectionTarget.type);
+	excel.set(0, 7, current_row, connectionTarget.name);
+    // One way to solve the issue is to delete it automatic:
+    // r.delete();
+	current_row++;
+ 
+ // One way to solve the issue is to delete the visual connection:
+    // connection.delete();
+  }
+});
+
+if (current_row == 1) {
+	console.log("> Validationresult: No error found");
+}
+else {
+	// Open a dialog to let the user choose where to save the generated file
+	var defaultFileName = model.name ? model.name + "_validation.xlsx" : "Exported Model.xlsx"; // Default file name
+	var exportFile = window.promptSaveFile({ title: "Export to Excel", filterExtensions: [ "*.xlsx" ], fileName: defaultFileName } );
+
+	if(exportFile != null) {
+		excel.generate(exportFile);
+		console.log("> Validationresult exported");
+	}
+	else {
+		console.log("> Export validationresult cancelled");
+	}
+};
+
+// Function to find the path of a element
+function find_path(element) {
+	var path = "";
+	var parents = $(element).parents();
+	for(i = parents.length - 1; i >= 0; i--) {
+		path += "\\" + parents[i].name;
+	}
+	path += "\\" + $(element).first().name;
+//		console.log(path);
+    return path;
+};

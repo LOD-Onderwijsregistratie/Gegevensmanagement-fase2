@@ -1,0 +1,74 @@
+﻿/*
+ * Merge relations
+ * 
+ * Select two relations and merge them 
+ *
+ * (c) 2018 Jean-Baptiste Sarrodie, Phillip Beauvoir, (c) 2023 Gerald Groot Roessink.
+ * 
+ * This work is licensed under the HUMANS Licence described below.
+ * 
+ * The HUMANS (Help Us Make Archi Noteworthy & Sustainable) licence goal is to bring happiness
+ * to both Archi users and developers. 
+ *
+ * The only restrictions that apply are:
+ *  - You can't redistribute this script.
+ *  - You can't use this script for commercial purposes 
+ */ 
+
+
+console.show();
+console.clear();
+
+
+var input  = window.prompt("Please enter ID first relation", "");
+
+var rel1= $('relationship').filter("#"+input);
+if(rel1.length != 1) {
+  window.alert("Please  enter the internal ID of an existing relation.");
+  exit();
+};
+
+console.log( "1: ", rel1[0].source.name, " >", rel1[0].type, " > ", rel1[0].target.name ) ;
+
+var input  = window.prompt("Please enter ID second relation", "");
+var rel2= $('relationship').filter("#"+input);
+if(rel2.length != 1) {
+  window.alert("Please  enter the internal ID of an existing relation.");
+  exit();
+};
+
+
+console.log( "2: ", rel2[0].source.name, " >", rel2[0].type, " > ", rel2[0].target.name );
+
+if(  rel1[0].id == rel2[0].id )
+{
+  window.alert("Please enter different relation-ID's");
+  exit();
+}
+
+if( rel1[0].type != rel2[0].type ||
+	rel1[0].source.id != rel2[0].source.id ||
+	rel1[0].target.id != rel2[0].target.id  )
+{	
+  window.alert("Please enter different relations of same type. source and target.");
+
+  exit();
+};
+
+var response = window.confirm("Are you sure to merge two relations?");
+
+
+if (response) {
+    console.log('Merging "', rel2[0].id, '" into "', rel1[0].id, '"');
+	console.setTextColor(20, 100, 200);
+	console.log ("You can use undo (control-z) when result is unwanted ");
+
+}
+else console.log('Dialog cancelled.');
+
+
+rel1[0].merge(rel2[0]);
+rel2[0].delete();
+
+
+

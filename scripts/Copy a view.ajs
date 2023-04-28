@@ -1,0 +1,104 @@
+﻿/*
+ * Copy a View
+ * 
+ * Copy visual elements and relations from the original view to a newly created view
+ *
+ * (c) 2022  Archi community
+ * 
+ * This work is licensed under the HUMANS Licence described below.
+ * 
+ * The HUMANS (Help Us Make Archi Noteworthy & Sustainable) licence goal is to bring happiness
+ * to both Archi users and developers. 
+ *
+ * The only restrictions that apply are:
+ *  - You can't redistribute this script.
+ *  - You can't use this script for commercial purposes 
+ * 
+ */
+
+ 
+// Show output in the console
+console.show();
+console.clear();
+
+var select=false; 
+selection.filter("view").each(function(view) {
+
+    var view_copy = model.createArchimateView(view.name+"_copy");
+	view_copy.documentation = view.documentation;
+	view_copy.viewpoint = "layered";
+	console.log("Copied view - ", view.name, "  --> ", view_copy.name);	
+
+	// Copy properties belonging to view.
+	for(var j = 0; j < $(view).prop().length; j++) {
+		var key = $(view).prop()[j];
+		var val = $(view).prop($(view).prop()[j]); 			
+		view_copy.prop(key, val );
+	};
+
+    // add objects like grouping
+	// note: it should also apply to notes but that isn't working
+    var  obj_copy = {} ;
+    $(view).find('object').each(function(vo) {
+        var obj=vo.concept;
+        var bounds = vo.bounds;
+		
+		//calculate the absolute xy coordinates of nested elements.
+		var x=bounds.x;
+		var y=bounds.y;
+		$(vo).parents().not('folder').not('archimate-diagram-model').each(function(mum){
+			x=x+mum.bounds.x;
+			y=y+mum.bounds.y;
+		});
+		
+		//declare copy of visual as an object and use the id of the source visual object as key
+        obj_copy[vo.id]=view_copy.createObject(obj, x, y, bounds.width, bounds.height, "true"); //autoNest=true
+
+		// if need be: add other attributes 
+		
+    });
+	
+    // add visual elements
+    var  obj_copy = {} ;
+    $(view).find('element').each(function(ve) {
+        var obj=ve.concept;
+        var bounds = ve.bounds;
+		
+		//calculate the absolute xy coordinates of nested elements.
+		var x=bounds.x;
+		var y=bounds.y;
+		$(ve).parents().not('folder').not('archimate-diagram-model').each(function(mum){
+			x=x+mum.bounds.x;
+			y=y+mum.bounds.y;
+		});
+		
+		//declare copy of visual as an object and use the id of the source visual object as key
+        obj_copy[ve.id]=view_copy.add(obj, x, y, bounds.width, bounds.height, "true"); //autoNest=true
+		// if need be: add other attributes 
+
+    });
+ 
+   
+    // add visual relationships
+    $(view).find('relationship').each(function(vr) {
+        var rel = vr.concept;
+        var connection=view_copy.add(rel, obj_copy[vr.source.id], obj_copy[vr.target.id]);
+	
+		// bending of relations.
+		var bendpoints = vr.getRelativeBendpoints();
+		for(var k = 0; k < bendpoints.length; k++) {
+			connection.addRelativeBendpoint(bendpoints[k],k)
+		};	
+
+		// if need be: add other attributes 
+		// may be later: relationship to relationship
+
+    });
+	select=true; 
+});
+
+
+
+if(!select) {
+	console.log("Nothing to be copied. Please select a view"); 
+}
