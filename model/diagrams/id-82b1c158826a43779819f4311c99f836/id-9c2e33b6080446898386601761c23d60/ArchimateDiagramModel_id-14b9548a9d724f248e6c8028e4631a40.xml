@@ -4,7 +4,7 @@
     name="Distributie platformen SOLL"
     id="id-14b9548a9d724f248e6c8028e4631a40"
     documentation="Zie properties."
-    viewpoint="layered">
+    viewpoint="implementation_deployment">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f8fcddc75d9a41baa551dfc97b42e55c"
