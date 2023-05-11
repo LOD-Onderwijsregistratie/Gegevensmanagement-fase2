@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enterprise Data Hub v0.7"
     id="id-7dbd8e096027438ebdf3ff2e173b4562"
-    documentation="uitwerken naar een 2023 versie en SOLL versie."
+    documentation="uitwerken naar een 2023 versie en SOLL versie. "
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
