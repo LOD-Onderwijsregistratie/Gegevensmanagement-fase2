@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Enterprise Data Hub v0.8"
     id="id-289f7b9b87d843b19fd64d04579e24be"
-    documentation="Zie properties.  "
+    documentation="Zie properties.   "
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
