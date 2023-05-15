@@ -232,7 +232,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-eb8eb72817094deca9c259b1fdbd0a5c"
-      targetConnections="id-71e89dbaceb047b3843115b12a117061 id-9a4ac48f183543a4ba13dbd758af4c86">
+      targetConnections="id-71e89dbaceb047b3843115b12a117061 id-9a4ac48f183543a4ba13dbd758af4c86"
+      type="1">
     <bounds
         x="293"
         y="426"
@@ -245,7 +246,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-52ed64631d3d4c4680156e0282dea932"
-      targetConnections="id-24f59eb35a084afaaf453ffe87c62e0e">
+      targetConnections="id-24f59eb35a084afaaf453ffe87c62e0e"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b201374e13a047bcb6dd2ace3b24b665"
@@ -263,7 +265,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2907ae5c7e8e48c1aa3d5a21488663c0"
-        targetConnections="id-fdbe5099464b462ebf3ed2609408dc35 id-b201374e13a047bcb6dd2ace3b24b665">
+        targetConnections="id-fdbe5099464b462ebf3ed2609408dc35 id-b201374e13a047bcb6dd2ace3b24b665"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-637ad101764743529578b53a9baab49f"
@@ -281,7 +284,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-73cc8917dabd42eb9bfe91d780432434"
-          targetConnections="id-637ad101764743529578b53a9baab49f id-cb4888c8b59e4da8b465dc3dc7fe070c">
+          targetConnections="id-637ad101764743529578b53a9baab49f id-cb4888c8b59e4da8b465dc3dc7fe070c"
+          type="1">
         <bounds
             x="12"
             y="48"
@@ -675,7 +679,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-58465735f4e547bfac39174f176cd3f4"
-      targetConnections="id-3abfc95c8f944c089c49b3f3d0e69b19 id-7fd252560b1242cea37401f4184cec99">
+      targetConnections="id-3abfc95c8f944c089c49b3f3d0e69b19 id-7fd252560b1242cea37401f4184cec99"
+      type="1">
     <bounds
         x="696"
         y="426"
