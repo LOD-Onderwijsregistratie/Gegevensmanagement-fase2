@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[XL] Data virtualisatie"
+    id="id-87dd209f3d8141cd9f4d58941112eccb"
+    documentation="Data virtualisatie is een benadering van data management waarbij een applicatie data kan ophalen en wijzigen zonder daarbij kennis te hebben van de technische details, zoals welke format of de plek waarop de data is opgeslagen. "/>
