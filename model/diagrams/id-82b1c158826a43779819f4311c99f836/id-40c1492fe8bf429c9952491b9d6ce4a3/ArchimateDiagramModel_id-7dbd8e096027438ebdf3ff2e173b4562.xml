@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Enterprise Data Hub"
+    name="Enterprise Data Hub v0.7"
     id="id-7dbd8e096027438ebdf3ff2e173b4562"
-    documentation="uitwerken naar een 2023 versie en SOLL versie."
+    documentation="uitwerken naar een 2023 versie en SOLL versie. "
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -401,7 +401,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-c13b3e9f91934ce3ad08164e8b8a0241"
       textAlignment="1"
-      content="capabilities EDH&#xA;auteur: René Berken&#xA;project: GABI&#xA;scope: SOLL&#xA;Veilige, transparante en reproduceerbare gegevensproducten ter ondersteuning van Informatiemanagement.&#xA;Services uit de pilot Data Hub vervangen door funbcties uit o.a. Baseline DWH view.">
+      content="capabilities EDH v0.7&#xD;&#xA;auteur: René Berken&#xD;&#xA;project: GABI&#xD;&#xA;scope: SOLL&#xD;&#xA;Veilige, transparante en reproduceerbare gegevensproducten ter ondersteuning van Informatiemanagement.&#xD;&#xA;Services uit de pilot Data Hub vervangen door funbcties uit o.a. Baseline DWH view.">
     <bounds
         x="1128"
         y="24"
@@ -411,7 +411,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-eda7951fccda4db7b03926f8a690fbb8"
-      targetConnections="id-87e12dff99104ff6b06d3e25595a6f7e">
+      targetConnections="id-87e12dff99104ff6b06d3e25595a6f7e"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3270dedc6a0c476b85068e5511f83708"
@@ -692,7 +693,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2721ba717b1b46d3bf49f7ac11a7abca"
-      targetConnections="id-3270dedc6a0c476b85068e5511f83708">
+      targetConnections="id-3270dedc6a0c476b85068e5511f83708"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-454790bda3544abca1c018882644290f"
@@ -771,8 +773,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6a96cbb9b48047208cec1259ff873007"
-      targetConnections="id-d4de827c6aa64d799ee4662a42e94f5c">
+      id="id-6a96cbb9b48047208cec1259ff873007">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a11b2b48daf2430e9a2528cc7f5b2ac1"
@@ -781,6 +782,15 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-47d2fc35fe764fa3b8e71ecc1594f8eb.xml#id-47d2fc35fe764fa3b8e71ecc1594f8eb"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d4de827c6aa64d799ee4662a42e94f5c"
+        source="id-6a96cbb9b48047208cec1259ff873007"
+        target="id-0d6dcbd80814443daa4859504dc144de">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-215602baca8141739d1b60fa178b3584.xml#id-215602baca8141739d1b60fa178b3584"/>
     </sourceConnections>
     <bounds
         x="671"
@@ -794,7 +804,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d6dcbd80814443daa4859504dc144de"
-      targetConnections="id-ad2cc479976741a7b172838b288f7e90 id-c6290a56d84d4759a28668204ba256e1">
+      targetConnections="id-ad2cc479976741a7b172838b288f7e90 id-c6290a56d84d4759a28668204ba256e1 id-d4de827c6aa64d799ee4662a42e94f5c"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-53f312c13b64464880980933ed972536"
@@ -803,15 +814,6 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-3334ebf68b0c41bb91fd6e68569591f6.xml#id-3334ebf68b0c41bb91fd6e68569591f6"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d4de827c6aa64d799ee4662a42e94f5c"
-        source="id-0d6dcbd80814443daa4859504dc144de"
-        target="id-6a96cbb9b48047208cec1259ff873007">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-be142b35e50f46d49757f0e78671e1a2.xml#id-be142b35e50f46d49757f0e78671e1a2"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
