@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata Platform"
     id="id-ced97033f74345c09ee027bc29fe3359"
+    documentation="Zie properties."
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1614,4 +1615,10 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-6fdbf5ee72ed4459bc98e77d91e9b5cd.xml#id-6fdbf5ee72ed4459bc98e77d91e9b5cd"/>
   </children>
+  <properties
+      key="omschrijving"
+      value="Zie properties."/>
+  <properties
+      key="status"
+      value="Initieel"/>
 </archimate:ArchimateDiagramModel>
