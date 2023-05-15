@@ -5,7 +5,8 @@
     id="id-73d6fd8e24a741b5a21362de83f6d0f1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-41cf944562f24b98b42e3ea5fdf461e8">
+      id="id-41cf944562f24b98b42e3ea5fdf461e8"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6ed36668a4e2427684b05db9655afa48"
