@@ -1485,8 +1485,17 @@
   </children>
   <properties
       key="omschrijving"
-      value="Extra model voor metagegevens vanuit gegevensperspectief"/>
+      value="Model voor het metagegevens platform vanuit perspectief dat metagegevens worden ontwikkeld, beheerd en gepublieerd op het semantisch web. "/>
   <properties
       key="status"
       value="Initieel"/>
+  <properties
+      key="trefwoorden"
+      value="metagegeven, metadata, stelselcatalogus"/>
+  <properties
+      key="activiteit"
+      value="GABI"/>
+  <properties
+      key="bijdragen"
+      value="GGR, JW"/>
 </archimate:ArchimateDiagramModel>

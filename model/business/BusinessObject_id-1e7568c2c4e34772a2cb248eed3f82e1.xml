@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business metadata"
-    id="id-1e7568c2c4e34772a2cb248eed3f82e1"/>
+    id="id-1e7568c2c4e34772a2cb248eed3f82e1"
+    documentation="Business metadata focust grotendeels op inhoud en conditie van data. Zie DMBOK voor voorbeelden. Business metadata is gescheiden van operational and rechnical metadata"/>
