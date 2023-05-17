@@ -1,7 +1,8 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-5f29561fb8524fee9b2fe91d13e5a15d">
+    id="id-5f29561fb8524fee9b2fe91d13e5a15d"
+    documentation="&#xA;">
   <source
       xsi:type="archimate:ApplicationFunction"
       href="ApplicationFunction_id-82350fb12ddc49978264e45f6ae0bc3c.xml#id-82350fb12ddc49978264e45f6ae0bc3c"/>

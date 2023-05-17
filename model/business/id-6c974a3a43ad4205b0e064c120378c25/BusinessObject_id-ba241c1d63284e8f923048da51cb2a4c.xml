@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="adres"
     id="id-ba241c1d63284e8f923048da51cb2a4c"
-    documentation="Eigenschappen gestructureerd als tags.">
+    documentation="Zie properties">
   <properties
       key="grondslag"
       value="Uitvoeren taak van algemeen belang"/>
@@ -17,7 +17,7 @@
       value="Eigenschap"/>
   <properties
       key="omschrijving"
-      value="Een adres is door het bevoegde gemeentelijke orgaan aan een verblijfsobject, een standplaats of een ligplaats toegekende benaming, bestaande uit een combinatie van de naam van een openbare ruimte, een nummeraanduiding en de naam van een woonplaats. Toelichting 1: Het betreffen de eigenschappen van het adres waarin iets of iemand zich fysiek ophoudt. De rol van het adres in relatie tot die persoon of organisaties (woon-, vestigings-, correspondentie-) wordt hier niet gespecificeerd. Toelichting 2: Andere soorten ''contactadressen'' zoals postbussen en emailadressen worden geacht eigenschappen te zijn van persoon of organisatie."/>
+      value="Een adres is door het bevoegde gemeentelijke orgaan aan een verblijfsobject, een standplaats of een ligplaats toegekende benaming, bestaande uit een combinatie van de naam van een openbare ruimte, een nummeraanduiding en de naam van een woonplaats. &#xD;&#xA;Toelichting 1: Het betreffen de eigenschappen van het adres waarin iets of iemand zich fysiek ophoudt. De rol van het adres in relatie tot die persoon of organisaties (woon-, vestigings-, correspondentie-) wordt hier niet gespecificeerd. &#xD;&#xA;Toelichting 2: Andere soorten ''contactadressen'' zoals postbussen en emailadressen worden geacht eigenschappen te zijn van persoon of organisatie."/>
   <properties
       key="extern_titel"
       value="Wet BAG Artikel 1"/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] ETL"
+    id="id-c295f4e85dc74c58a439eaaafdd04c29"
+    documentation="Het extraheren, laden en transformeren van gegevens uit gegevensverzamelingen typisch in de vorm van periodieke batches."/>
