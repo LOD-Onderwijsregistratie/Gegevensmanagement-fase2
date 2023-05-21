@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SPARQL endpoint"
-    id="id-6837d8db827a4a33a72dc1c5c63e58a9"/>
+    id="id-6837d8db827a4a33a72dc1c5c63e58a9"
+    documentation="Een SPARQL endpoint is interface om een query te schrijven en af te vuren op de database. SPARQL is een krachtige door W3C gedefinieerde vraagtaal voor het semantisch web die wel wat weg heeft van SQL voor relationele databases."/>

@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="data configuratie item"
-    id="id-8e805ead0acc4dd3a499089b9e576044"/>
+    id="id-8e805ead0acc4dd3a499089b9e576044"
+    documentation="Een data configuratie item is de beschrijving van een gegevens die door de organisatie worden beheerd en/of met enige regelmaat ter beschikking worden gesteld intern en extern.&#xD;&#xA;&#xD;&#xA;Een data-configuratie-item is verwant aan een gegevensartefact (zie Kaderdocument Gegevensontwikkeling en Beheer)."/>

@@ -11,7 +11,7 @@
       value="Informatiemodel"/>
   <properties
       key="grondslag"
-      value="Uitvoeren van een overeenkomst"/>
+      value="Gerechtvaardig belang van de organisatie"/>
   <properties
       key="extern_uri"
       value="https://www.noraonline.nl/wiki/MIM_conceptueel_framework"/>
@@ -23,5 +23,5 @@
       value="Middel"/>
   <properties
       key="omschrijving"
-      value="Een logisch model is een implementatie-onafhankelijke representatie van gegevens over de werkelijkheid in digitale registraties en in de uitwisseling daartussen. In dit model zijn de gegevens gerelateerde bedrijfsregels opgenomen."/>
+      value="Een logisch model is een implementatie-onafhankelijke representatie van gegevens over de werkelijkheid in digitale registraties en in de uitwisseling daartussen."/>
 </archimate:BusinessObject>

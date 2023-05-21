@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modeleeromgeving"
-    id="id-c85d3ecbf40541fc9a960a5803c4ff32"/>
+    id="id-c85d3ecbf40541fc9a960a5803c4ff32"
+    documentation="De modelleeromgeving is een tool waarmee (vaak grafische) modellen gemaakt en beheerd worden.  De modelleuromgving wordt centraal aangeboden . Dit bevordert het leggen van onderliggende verbanden, het hergebruik van elementen en continïteit van kennis."/>
