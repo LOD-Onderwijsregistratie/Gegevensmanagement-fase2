@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Integratie"
-    id="id-933e9b92571a446cbcf2c8935e64a71a"/>
+    id="id-933e9b92571a446cbcf2c8935e64a71a"
+    documentation="Integratie is het uit verschillende bronnen te verzamelen, transformeren en te laden van gegevens in een gemeenschappelijke doelomgeving, zoals een datawarehouse of een dataplatform. Het stelt organisaties in staat om gegevens uit verschillende bronnen, zoals databases, bestanden en applicaties, samen te voegen en te integreren in een enkele, consistente en betrouwbare weergave van de gegevens. Data integratiecomponenten maken vaak gebruik van extractie-transformatie-lading (ETL) processen om gegevens te verzamelen, te transformeren en te laden."/>

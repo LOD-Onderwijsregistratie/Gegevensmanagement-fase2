@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Replica"
-    id="id-0bc0165c5dba4d56a00b9d899af8fb2a"/>
+    id="id-0bc0165c5dba4d56a00b9d899af8fb2a"
+    documentation="Betreft zowel relationele data uit de registers als ongestructureerde gegevens zoals documenten (NoSQL)."/>
