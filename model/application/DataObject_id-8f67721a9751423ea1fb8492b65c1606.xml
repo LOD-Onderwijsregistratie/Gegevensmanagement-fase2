@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="technisch model"
-    id="id-8f67721a9751423ea1fb8492b65c1606"/>
+    id="id-8f67721a9751423ea1fb8492b65c1606"
+    documentation="Dit zijn de gegevens die systematisch worden bijgehouden over het formaat waarin gegevens worden opgeslagen of uitgewisseld.  De gegevens worden doorgaans gebruikt om de specificatie op te stellen die past bij de gemaakte implementatiekeuzen, bijvoorbeeld in de vorm van een schema om een database te genereren of een bericht te valideren."/>

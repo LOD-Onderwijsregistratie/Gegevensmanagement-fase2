@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensontwikkeling"
-    id="id-b10dc2a2fa9547ddbb0ff6e9edf4c3c9"/>
+    id="id-b10dc2a2fa9547ddbb0ff6e9edf4c3c9"
+    documentation="Dit is het proces waarin gegevens tot stand worden gebracht.  In principe gebeurt dit bij DUO op een modelmatige manier. Dat begint al in de gegevensgerelateerde (passieve) kant van architectuur. Daarna worden de  betekenis, structuur en de fysieke verschijning van gegevens in detail uitgewerkt en formeel goedgekeurd. &#xD;&#xA;&#xD;&#xA;Gegevensontwikkeling is nauw verweven met ontwikkeling van processen en systeemen.  Maar die verwevenheid is  hier buiten beschouwing gelaten."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Goedkeuring"
-    id="id-9aaee147a1234750aee27c658a0982ba"/>
+    name="Decharge veranderopdracht"
+    id="id-9aaee147a1234750aee27c658a0982ba"
+    documentation="Betreft de formele uitspraak van een bevoegd organisatieonderdeel dat een ontwikkeld systeem in voldoende mate voldoet aan de opgestelde acceptatiecriteria. Goedkeuring houdt in dat de ontwikkelaars decharge hebben ontvangen voor het uitvoeren van de veranderopdracht."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="URI endpoint"
-    id="id-7af105b59d6248268ef4629a101a08de"/>
+    id="id-7af105b59d6248268ef4629a101a08de"
+    documentation="Het URI endpoint maakt een webresource 'resolvable'. Door de URI, de identiteit van de resource,  op te voeren in de adresbalk van een browser worden de eigenschappen van de resource getoond.  Dat resultaat kan ook URI's bevatten, zelfs externe URI's. Dit vormt het mechanisme om door de materie 'te  surfen'."/>

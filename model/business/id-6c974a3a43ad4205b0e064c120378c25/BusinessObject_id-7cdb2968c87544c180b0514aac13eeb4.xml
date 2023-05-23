@@ -2,10 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="technisch model"
     id="id-7cdb2968c87544c180b0514aac13eeb4"
-    documentation="Eigenschappen gestructureerd als tags.">
+    documentation="Zie properties">
   <properties
       key="grondslag"
-      value="Uitvoeren van een overeenkomst"/>
+      value="Gerechtvaardig belang van de organisatie"/>
   <properties
       key="extern_uri"
       value="https://www.noraonline.nl/wiki/MIM_conceptueel_framework"/>

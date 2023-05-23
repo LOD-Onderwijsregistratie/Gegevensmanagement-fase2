@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Register API"
+    id="id-47d123f28d274cef95c0bc161b6bf8ff"
+    documentation="De register API is een interface voor het opvragen van registergegevens om die in een applicatie. Ga uit van een 'fair-use&quot; policy.  Iedereen heeft evenveel recht om de gegevens te gebruiken. Het gebruik van de API om dagelijks een heel register te actualiseren is geen wenselijke vorm van gebruik.&#xD;&#xA;&#xD;&#xA;Deze API is voorzien van een (gratis) API-key om daarop te kunnen sturen."/>

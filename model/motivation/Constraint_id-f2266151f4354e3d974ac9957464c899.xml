@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OAS3"
-    id="id-f2266151f4354e3d974ac9957464c899"/>
+    id="id-f2266151f4354e3d974ac9957464c899"
+    documentation="OAS3 staat over open api specification. Dit is binnen de NL overheid de pas-toe-of-leg-uit standaard voor RESTful application programm interfaces (REST-API). &#xD;&#xA;https://www.forumstandaardisatie.nl/open-standaarden/openapi-specification&#xD;&#xA;"/>

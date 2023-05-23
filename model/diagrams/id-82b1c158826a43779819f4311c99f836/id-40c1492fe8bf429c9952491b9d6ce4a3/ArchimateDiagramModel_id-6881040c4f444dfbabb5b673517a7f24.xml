@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Layered View Pilot Data Hub"
     id="id-6881040c4f444dfbabb5b673517a7f24"
+    documentation="   "
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -197,7 +197,7 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-6af52f4268a8465a82d72eb8039f1cde.xml#id-6af52f4268a8465a82d72eb8039f1cde"/>
+        href="BusinessActor_id-143344b080364ad28eca90021293411e.xml#id-143344b080364ad28eca90021293411e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -244,7 +244,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
-          href="BusinessFunction_id-eadda80859f3459c9fd36846c65c57b6.xml#id-eadda80859f3459c9fd36846c65c57b6"/>
+          href="BusinessFunction_id-4f149a19c7fa45718604a052e3f41522.xml#id-4f149a19c7fa45718604a052e3f41522"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
