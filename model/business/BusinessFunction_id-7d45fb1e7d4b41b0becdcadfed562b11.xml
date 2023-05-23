@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Virtualiseren"
+    id="id-7d45fb1e7d4b41b0becdcadfed562b11"
+    documentation="Virtualiseren  (Axians)&#xD;&#xA;Met datavirtualisatie worden gegevensbronnen ontsloten, getransformeerd en geïntegreerd. Het resultaat is een virtuele data hub die uniforme data services levert aan bedrijfsapplicaties en gebruikers zonder dat die de technische details, zoals locatie en formaat hoeven te kennen. Datavirtualisatie zorgt voor snelle toegang tot (nieuwe) gegevensbronnen. Door data te virtualiseren uit geconsolideerde databronnen zoals data warehouses, neemt de behoefte aan fysieke consolidatie en replicatie van data af.&#xD;&#xA;bron: Ketenarchitectuur veranderopgave onderwijsgegevensplatform (nov '21)"/>

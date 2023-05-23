@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Selecteren "
-    id="id-efd3c45af9b9493cbf6d200446f8a6c1"/>
+    id="id-efd3c45af9b9493cbf6d200446f8a6c1"
+    documentation="het bepalen welke gegevens het best bruikbaar zijn (ook: algoritme opstellen)&#xD;&#xA;bron: Ketenarchitectuur veranderopgave onderwijsgegevensplatform (nov '21)&#xD;&#xA;&#xD;&#xA;Selecteren (Jaap)&#xD;&#xA;Het zoeken, vinden, begrijpen, vergelijken en kiezen van gegevens voor gebruik.&#xD;&#xA;"/>

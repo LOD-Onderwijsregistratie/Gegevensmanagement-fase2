@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Classificeren"
+    id="id-fada1e9206e844cf8e4f03a24b03f5ae"
+    documentation="het beveiligingsniveau wordt vastgesteld;&#xD;&#xA;bron: Ketenarchitectuur veranderopgave onderwijsgegevensplatform (nov '21)&#xD;&#xA;&#xD;&#xA;Classificeren (NORA)&#xD;&#xA;Classificeren betreft het labelen van informatie om er een bepaalde waarde aan toe te kennen en daarmee te kunnen bepalen welk niveau van bescherming deze informatie nodig heeft.&#xD;&#xA;Binnen de ISO 27002 2017 is gesteld dat een organisatie haar informatie moet classificeren om ervoor te zorgen dat informatie een passend beschermingsniveau krijgt. Hiervoor moet de organisatie een classificatieschema opstellen en dit schema communiceren binnen de organisatie. Een classificatieschema geeft beveiligingsrichtlijnen voor zowel algemene informatiemiddelen als voor informatie in het ontwikkeltraject.&#xD;&#xA;"/>
