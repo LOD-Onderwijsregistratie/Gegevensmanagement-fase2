@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proprietary Standaarden"
-    id="id-fa0d16462d4e4501a84038c31a1667bd"/>
+    id="id-fa0d16462d4e4501a84038c31a1667bd"
+    documentation="Technische normen, specificaties of protocollen die eigendom zijn van een specifiek bedrijf of organisatie"/>
