@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevens uitwisselen"
-    id="id-e131901a5fda436ca059c31bc19daaa4"/>
+    name="Gegevensuitwisseling"
+    id="id-e131901a5fda436ca059c31bc19daaa4"
+    documentation="DUO heeft het vermogenom gegevens effectief en efficiënt te delen tussen verschillende systemen, applicaties, organisaties of entiteiten. Het omvat het proces van het overdragen, uitwisselen of delen van gegevens met het doel informatie te delen, samenwerking te vergemakkelijken, besluitvorming te ondersteunen of naadloze interoperabiliteit mogelijk te maken."/>

@@ -17,8 +17,8 @@
           href="RealizationRelationship_id-bfa610a7f4d142239d31ee7cc39b37d2.xml#id-bfa610a7f4d142239d31ee7cc39b37d2"/>
     </sourceConnections>
     <bounds
-        x="627"
-        y="152"
+        x="589"
+        y="304"
         width="153"
         height="58"/>
     <archimateElement
@@ -48,8 +48,8 @@
           href="RealizationRelationship_id-0001ccc3466349af8b96ee7d68d906d2.xml#id-0001ccc3466349af8b96ee7d68d906d2"/>
     </sourceConnections>
     <bounds
-        x="437"
-        y="152"
+        x="399"
+        y="304"
         width="153"
         height="58"/>
     <archimateElement
@@ -69,8 +69,8 @@
           href="RealizationRelationship_id-3f1a23a0cc0c4854958caec450309112.xml#id-3f1a23a0cc0c4854958caec450309112"/>
     </sourceConnections>
     <bounds
-        x="247"
-        y="152"
+        x="209"
+        y="304"
         width="152"
         height="58"/>
     <archimateElement
@@ -90,8 +90,8 @@
           href="RealizationRelationship_id-31983c66c29d42c5855335e24a320310.xml#id-31983c66c29d42c5855335e24a320310"/>
     </sourceConnections>
     <bounds
-        x="57"
-        y="152"
+        x="19"
+        y="304"
         width="152"
         height="58"/>
     <archimateElement
@@ -111,8 +111,8 @@
           href="SpecializationRelationship_id-1984234c68254d8b9472a5433498612b.xml#id-1984234c68254d8b9472a5433498612b"/>
     </sourceConnections>
     <bounds
-        x="323"
-        y="38"
+        x="305"
+        y="418"
         width="152"
         height="57"/>
     <archimateElement
@@ -132,8 +132,8 @@
           href="SpecializationRelationship_id-148fb684d6dd450782045445a9a2364c.xml#id-148fb684d6dd450782045445a9a2364c"/>
     </sourceConnections>
     <bounds
-        x="532"
-        y="38"
+        x="494"
+        y="418"
         width="153"
         height="57"/>
     <archimateElement
@@ -145,8 +145,8 @@
       id="id-d59e067cb3114bce8128556138177481"
       targetConnections="id-08dede89fc914734b22604943eeddfbc id-c9307db7a8734248a758f14b6801e7c8">
     <bounds
-        x="152"
-        y="266"
+        x="114"
+        y="190"
         width="153"
         height="58"/>
     <archimateElement
@@ -158,8 +158,8 @@
       id="id-8a44aed44cf54bfa9233c43c179dbe3f"
       targetConnections="id-ecd04ef447ef4e8eb25ae94a115c9350 id-6cbce96eaee8450eb1bbc23ab6c5af54">
     <bounds
-        x="342"
-        y="266"
+        x="304"
+        y="190"
         width="153"
         height="58"/>
     <archimateElement
@@ -171,8 +171,8 @@
       id="id-b177497d21c949f6ac18b559caedcec6"
       targetConnections="id-4e3ce0620713427790df834d772d899c">
     <bounds
-        x="532"
-        y="266"
+        x="494"
+        y="190"
         width="153"
         height="58"/>
     <archimateElement
@@ -185,9 +185,9 @@
       textAlignment="1"
       content="Titel: EA Capabilities Gegevensdiensten&#xD;&#xA;Omschrijving: Eenvoudig overzicht van de in de EA genoemde Capabilities, Producten en Diensten voor domein Gegevensdiensten&#xD;&#xA;Auteur: AR&#xD;&#xA;Datum: 24-5-2023">
     <bounds
-        x="33"
+        x="19"
         y="27"
-        width="215"
-        height="88"/>
+        width="305"
+        height="107"/>
   </children>
 </archimate:ArchimateDiagramModel>
