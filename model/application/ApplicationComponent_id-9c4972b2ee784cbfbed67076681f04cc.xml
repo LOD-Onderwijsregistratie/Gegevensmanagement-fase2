@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Technisch modellenboek"
-    id="id-9c4972b2ee784cbfbed67076681f04cc"/>
+    id="id-9c4972b2ee784cbfbed67076681f04cc"
+    documentation="Het technisch modellenboek is een module in de modelleeromgeving waarin gegevens over de technische of fysieke implementatie worden ontwikkeld en beheerd. Er is een expliciete verwantschap tussen logisch en technisch modellenboek."/>

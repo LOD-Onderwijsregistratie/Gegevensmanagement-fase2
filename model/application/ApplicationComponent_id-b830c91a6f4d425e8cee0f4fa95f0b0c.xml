@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logisch modellenboek"
-    id="id-b830c91a6f4d425e8cee0f4fa95f0b0c"/>
+    id="id-b830c91a6f4d425e8cee0f4fa95f0b0c"
+    documentation="Het logisch modellenboek is een module in de modelleeromgeving waarin logische modellen worden ontwikkeld en beheerd.  &#xD;&#xA;Er is een expliciete verwantschap tussen logisch modellenboek en conceptenboek.&#xD;&#xA;Het gegevenswoordenboek is een verbijzondering van het logische modellenboek met de enkelvoudige gegevenstypen (en waardenlijsten) &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

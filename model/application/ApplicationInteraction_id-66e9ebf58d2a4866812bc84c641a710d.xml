@@ -1,4 +1,5 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Run begrippen pijplijn"
-    id="id-66e9ebf58d2a4866812bc84c641a710d"/>
+    id="id-66e9ebf58d2a4866812bc84c641a710d"
+    documentation="Dit is de geautomatiseerde interactie voor het toegankelijk maken en hergebruiken van begrippen."/>

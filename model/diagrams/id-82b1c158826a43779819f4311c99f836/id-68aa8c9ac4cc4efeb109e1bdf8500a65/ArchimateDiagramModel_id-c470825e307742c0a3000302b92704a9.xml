@@ -6,8 +6,7 @@
     documentation="Hoogover plaat van Portaalarchitectuur uit PrSA PDI, programma dienstverlening instellingen medio 2016.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-4bf39d6279d74eb79fd3e7e00a6ae280"
-      type="1">
+      id="id-4bf39d6279d74eb79fd3e7e00a6ae280">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-4bc4e2f06ab04531b5c9bc6e247a6419"

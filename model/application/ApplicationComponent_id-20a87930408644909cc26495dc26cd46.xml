@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Conceptenboek"
-    id="id-20a87930408644909cc26495dc26cd46"/>
+    id="id-20a87930408644909cc26495dc26cd46"
+    documentation="Het conceptenboek is een module binnen de modelleeromgeving waarin concepten (a.k.a. begrippen) worden beheerd. Concepten bestaan uit een term plus betekenis. De context(en) waarin de concepten worden gebruikt wordt expliciet gemaakt.."/>

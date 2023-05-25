@@ -1,11 +1,11 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business metadata"
+    name="business metadata"
     id="id-1e7568c2c4e34772a2cb248eed3f82e1"
     documentation="Zie properties">
   <properties
       key="omschrijving"
-      value="Business metadata focust grotendeels op inhoud en conditie van data. Zie DMBOK voor voorbeelden. Business metadata is gescheiden van operational and technical metadata"/>
+      value="Business metadata focust grotendeels op inhoud en conditie van data. Zie DMBOK voor voorbeelden. Business metadata is gescheiden van operational and technical metadata en ontstaat in belangrijke mate tijdens de modelmatiege ontwikkeling van gegevens."/>
   <properties
       key="extern_titel"
       value="DMBOK"/>
