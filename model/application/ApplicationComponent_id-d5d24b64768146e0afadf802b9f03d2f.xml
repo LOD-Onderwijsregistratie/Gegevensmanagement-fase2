@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Archimate tool"
-    id="id-d5d24b64768146e0afadf802b9f03d2f"/>
+    id="id-d5d24b64768146e0afadf802b9f03d2f"
+    documentation="Een archimate tool is een tekentool voor Bedrijfs-, informatie en tecnologische architectuur. De gezamenlijke CIO's  van de NL overheid hebben Archimate (OMG) als standaard tekentaal geadopteerd."/>

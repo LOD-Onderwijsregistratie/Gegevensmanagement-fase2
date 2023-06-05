@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[XL] Databeheer en -exploitatie"
-    id="id-99493f2946a4455a970ede5ed2cce7e0"/>
+    name="Databeheer en -exploitatie"
+    id="id-99493f2946a4455a970ede5ed2cce7e0"
+    documentation="Databeheer verwijst naar het proces van het organiseren, opslaan en beheren van gegevens binnen een organisatie. Het omvat de strategieën, methoden en technologieën die worden gebruikt om ervoor te zorgen dat gegevens betrouwbaar, toegankelijk en veilig zijn gedurende hun levenscyclus. Databeheer omvat verschillende aspecten, zoals gegevenskwaliteit, gegevensintegratie, databeveiliging, gegevensarchivering en gegevensbewaring.&#xD;&#xA;&#xD;&#xA;Dataexploitatie heeft betrekking op het gebruik en de analyse van gegevens om waarde en inzichten te genereren. Het is het proces van het extraheren, transformeren en analyseren van gegevens om bruikbare informatie te verkrijgen en te benutten voor zakelijke beslissingen, procesoptimalisatie, trends en patronen, voorspellende modellen, enzovoort. Dataexploitatie omvat vaak technieken zoals datamining, gegevensvisualisatie, geavanceerde analysemethoden en machine learning-algoritmen om waardevolle inzichten uit gegevens te halen."/>

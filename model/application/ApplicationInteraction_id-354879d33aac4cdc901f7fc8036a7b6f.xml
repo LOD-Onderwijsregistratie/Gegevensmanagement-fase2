@@ -1,4 +1,5 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Run architectuur pijplijn"
-    id="id-354879d33aac4cdc901f7fc8036a7b6f"/>
+    id="id-354879d33aac4cdc901f7fc8036a7b6f"
+    documentation="Dit is de geautomatiseerde interactie voor het toegankelijk maken en hergebruiken van architectuur."/>

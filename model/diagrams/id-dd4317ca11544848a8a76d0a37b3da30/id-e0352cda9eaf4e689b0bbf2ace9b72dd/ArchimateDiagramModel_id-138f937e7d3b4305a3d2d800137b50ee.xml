@@ -119,8 +119,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5e5652110dc6492892caeb9ef1607799"
-      textAlignment="1"
-      type="1">
+      textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-3d3a88407e514efdbb341187e5d427cc"

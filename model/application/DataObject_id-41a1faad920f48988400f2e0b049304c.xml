@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="begrippenkader"
-    id="id-41a1faad920f48988400f2e0b049304c"/>
+    id="id-41a1faad920f48988400f2e0b049304c"
+    documentation="De gegevens die systematisch worden bijgehouden over de taal waarin over het beschouwde domein wordt gecommuniceerd.  De eigenschappen worden gespecificeerd door de werkgroep begrippenkader. Informatie: https://github.com/pldn/nederlands-profiel-voor-stelselcatalogi"/>

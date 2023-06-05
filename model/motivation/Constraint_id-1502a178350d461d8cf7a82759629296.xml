@@ -2,6 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DCAT"
     id="id-1502a178350d461d8cf7a82759629296"
-    documentation="MIM (Metamodel voor Informatiemodellering) dient als gemeenschappelijk vertrekpunt voor het opstellen van informatiemodellen, zodat informatiemodellen en de daarop gebaseerde standaarden voor gegevensuitwisseling meer compatibel worden. MIM voorziet enerzijds in duidelijke afspraken over het vastleggen van gegevensspecificaties en biedt anderzijds ruimte aan de verschillende niveaus van modellering.&#xD;&#xA;&#xD;&#xA;https://www.forumstandaardisatie.nl/open-standaarden/mim">
-  <properties/>
-</archimate:Constraint>
+    documentation="Data Catalog Vocabulary (DCAT) is een metadatastandaard en is ontworpen om interoperabiliteit tussen gegevenscatalogi, gepubliceerd op het internet, te vergemakkelijken. DCAT maakt decentrale publicaties en ontsluiting van catalogi mogelijk (federated search van datasets over meerdere catalogi). Door datasets te beschrijven volgens DCAT, oftewel met metadata, zijn datasets overzichtelijker te presenteren en is er gerichter te zoeken naar datasets. Door de beschrijving volgens DCAT zijn datasets toegankelijker en wordt het tot open data gemaakt. DCAT wordt gebruikt in CKAN (Open source software voor datacatalogi) dat in veel dataportalen wordt gebruikt, zoals data.overheid.nl. DCAT is op RDF gebaseerd."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens distributie"
-    id="id-58e27a8582ba4fa0b142fd15509d4b70"/>
+    id="id-58e27a8582ba4fa0b142fd15509d4b70"
+    documentation="Gegevensdistributie is de functie die zich richt op het effectief en efficiënt ontsluiten van gegevens ten behoeven van 'gegevensverwerking'. Dit omvat ook de ontsluiting van metagegevens. "/>

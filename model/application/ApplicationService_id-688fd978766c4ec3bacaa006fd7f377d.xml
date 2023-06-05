@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generieke ontsluiting registers"
+    id="id-688fd978766c4ec3bacaa006fd7f377d"
+    documentation="Generieke ontsluiting van registers is de ontsluiting van registersgegevens volgens de principes van het semantisch web.   Dit geldt voor registers met een openbaar karakter (RIO, LRK) maar vermoedelijk ook voor persoonsgegevens in de vorm van Verifiable Credentials (eWallet)."/>

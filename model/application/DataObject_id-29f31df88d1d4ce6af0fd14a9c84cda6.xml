@@ -1,4 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="informatiemodel"
-    id="id-29f31df88d1d4ce6af0fd14a9c84cda6"/>
+    id="id-29f31df88d1d4ce6af0fd14a9c84cda6"
+    documentation="De gegevens die systematisch worden bijgehouden over de logische structuur en geldigheidsregels van gegevens (gegevens over gegevens dus). Het informatiemodel is geschreven in een standaard modeleertaal (UML) en bestaat uit diverse onderdelen (klasse, attribuut, gegevenstype, waardenlijst, associaties e.d)."/>

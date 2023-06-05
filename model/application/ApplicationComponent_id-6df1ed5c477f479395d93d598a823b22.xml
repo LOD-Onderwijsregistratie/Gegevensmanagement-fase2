@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Modellen browser"
-    id="id-6df1ed5c477f479395d93d598a823b22"/>
+    id="id-6df1ed5c477f479395d93d598a823b22"
+    documentation="Een modellenbrowser is een applicatiecomponent die wordt gebruikt om de structuur en gegevensregels binnen een organisatie of industrie ter beschikking te stellen. Het kan ook worden gebruikt om de aanwezige gegevenswaarden te valideren op inhoudelijke gegevenskwaliteit. "/>

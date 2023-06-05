@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Catalogus API"
-    id="id-ea36de308d384c558be59d017a1bcf7c"/>
+    id="id-ea36de308d384c558be59d017a1bcf7c"
+    documentation="De catalogus API is een interface voor het opvragen van (meta)gegevens uit de federatieve stelselcatalogus om die te gebruiken in een applicatie.  Welke metagegevens is nog niet uitgekristalliseerd, maar er is in elk geval een vastgestelde behoefte om gegevenswaarden te valideren op basis van gedefinieerde gegevenstypen (w.o. waardenlijsten).&#xD;&#xA;&#xD;&#xA;"/>

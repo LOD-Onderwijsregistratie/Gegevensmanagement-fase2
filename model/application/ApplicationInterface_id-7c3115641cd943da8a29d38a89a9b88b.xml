@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Event streams"
-    id="id-7c3115641cd943da8a29d38a89a9b88b"/>
+    id="id-7c3115641cd943da8a29d38a89a9b88b"
+    documentation="Een event stream is een interface waarbij gebruik wordt gemaakt van websockets tussen client en server. Die kunnen elkaar daardoor langerdurend vertrouwen, zonder dat er elke keer een beveiligingshandshake doorlopen moet worden.  Als er sprake is van regelmatig verkeer, bijvoorbeeld update-events om een kopie van een register actueel te houden, is dat veel sneller. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessEvent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Veranderopdracht"
-    id="id-4b34d28f5f48474eafd55d45c06d7ac4"/>
+    id="id-4b34d28f5f48474eafd55d45c06d7ac4"
+    documentation="Een veranderopdracht is het het formele begin om een activiteit dat er op is gericht een deel van de organisatie te veranderen. Zo'n opdracht is door het management gegeven. De voortgang van het werk wordt doorgangs één of meerdere keren besproken door management voordat het compleet is."/>

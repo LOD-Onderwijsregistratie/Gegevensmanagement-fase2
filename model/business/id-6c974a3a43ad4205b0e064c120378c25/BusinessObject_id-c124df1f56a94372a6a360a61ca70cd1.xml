@@ -2,13 +2,10 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="conceptueel model"
     id="id-c124df1f56a94372a6a360a61ca70cd1"
-    documentation="Eigenschappen gestructureerd als tags.">
-  <properties
-      key="synoniem"
-      value="Begrippenkader"/>
+    documentation="Zie properties">
   <properties
       key="grondslag"
-      value="Uitvoeren van een overeenkomst"/>
+      value="Gerechtvaardig belang van de organisatie"/>
   <properties
       key="extern_uri"
       value="https://www.noraonline.nl/wiki/MIM_conceptueel_framework"/>
@@ -20,7 +17,7 @@
       value="Middel"/>
   <properties
       key="omschrijving"
-      value="Een conceptueel model is een modellering van de werkelijkheid binnen het beschouwde domein, voor wat betreft informatie daarvan, onafhankelijk van ontwerp van en implementatie in systemen."/>
+      value="Een conceptueel model is een modellering van de werkelijkheid binnen het beschouwde domein, voor wat betreft informatie en communicatie. Het is onafhankelijk van ontwerp van en implementatie in systemen."/>
   <properties
       key="extern_titel"
       value="MIM"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ontsluiten metadata"
-    id="id-7714e57fe8b84d5b976d3aac6bc95bd7"/>
+    id="id-7714e57fe8b84d5b976d3aac6bc95bd7"
+    documentation="Dit is een interactie tussen de modelleeromgeving en de stelselcatalogus.  Vermoedelijk gaat het in eerste instantie om éénrichtingsverkeer om de onwikkelde modellen ter beschikking te stellen. De frequente van de interactie hangt af van het onderwerp en varieert van adhoc (nieuwe versie model), tot dagelijks (nieuwe begrippen) of nog vaker (nieuwe waarden in een waardenlijst).&#xD;&#xA;&#xD;&#xA;Verkeer de andere kant op, kan relevant worden als resultaten van ketenpartners (basisregisters, Edustandaard) herbruikbaar worden gemaakt voor processen binnen DUO.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

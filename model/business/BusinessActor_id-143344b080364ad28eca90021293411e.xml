@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CMDA"
-    id="id-143344b080364ad28eca90021293411e"/>
+    id="id-143344b080364ad28eca90021293411e"
+    documentation="Dit is de afdeling verantwoordelijk voor het functioneel beheren van metagegevens waaronder gegevenswoordenboek en  gegevensmodellen. Het CMDA was voorheen het Schakelpunt OCW en daarmee tevens verantwoordelijk voor het toepassen van overheids- en onderwijsstandaarden binnen DUO."/>
