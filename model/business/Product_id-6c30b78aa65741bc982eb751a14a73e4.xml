@@ -1,4 +1,5 @@
 <archimate:Product
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SANE"
-    id="id-6c30b78aa65741bc982eb751a14a73e4"/>
+    id="id-6c30b78aa65741bc982eb751a14a73e4"
+    documentation="Een Secure Analysis Environment, een omgeving waar alleen met Laag geclassificeerde gegevens gewerkt kan worden. Geschikt voor data discovery."/>
