@@ -3,7 +3,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SANE Applicatie Functionaliteit Tinker vs Blind"
     id="id-672841e09509440396a681e996429594"
-    documentation="View welke het verschil tussen een Tinker en Blind SANE weergeeft">
+    documentation="Zie properties."
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-039714d98f3a4347be56f07900a58c1c"
@@ -163,7 +164,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-1f12effeb6ee4756b9a75facff94bd0f"
       textAlignment="1"
-      content="Titel: SANE Applicatie Functionaliteit Tinker vs Blind&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 27-3-2023&#xD;&#xA;Laatste wijziging: 7-4-2023">
+      content="Titel: SANE Applicatie Functionaliteit Tinker vs Blind&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 27-3-2023&#xD;&#xA;Laatste wijziging: 7-6-2023">
     <bounds
         x="19"
         y="19"
@@ -200,4 +201,19 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-28f2db6a69324b74aeb619ba7dd0a8dd.xml#id-28f2db6a69324b74aeb619ba7dd0a8dd"/>
   </children>
+  <properties
+      key="omschrijving"
+      value="View welke het verschil tussen een Tinker en Blind SANE weergeeft"/>
+  <properties
+      key="trefwoorden"
+      value="Open SANE, Tinker SANE, Blind Sane, Dataclassificatie"/>
+  <properties
+      key="activiteit"
+      value="GABI SANE"/>
+  <properties
+      key="status"
+      value="Initieel"/>
+  <properties
+      key="bijdragen"
+      value="A.R."/>
 </archimate:ArchimateDiagramModel>

@@ -302,7 +302,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-96f3a53964a14d4c883865393d5029a5"
       textAlignment="1"
-      content="Titel: SANE overzicht producten en diensten&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 27-3-2023&#xD;&#xA;Laatste wijziging: 12-4-2023">
+      content="Titel: SANE overzicht producten en diensten&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 27-3-2023&#xD;&#xA;Laatste wijziging: 5-6-2023">
     <bounds
         x="19"
         y="19"
@@ -822,10 +822,10 @@
       textAlignment="1"
       content="To Do, VRE, SANE4BI, SANE4OI">
     <bounds
-        x="436"
+        x="437"
         y="18"
-        width="185"
-        height="80"/>
+        width="191"
+        height="78"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
