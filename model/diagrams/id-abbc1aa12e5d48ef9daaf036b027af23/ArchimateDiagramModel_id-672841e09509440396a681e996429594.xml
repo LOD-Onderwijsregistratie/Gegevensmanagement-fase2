@@ -10,9 +10,9 @@
       id="id-039714d98f3a4347be56f07900a58c1c"
       targetConnections="id-d138cb659ce44624a7cbbc6b295f9b57 id-d5c1f04485694f4085777811e88d56d9 id-1343df0c7eed4d91aad0814b71118291 id-1d07ad046043403b9fa05c35f5380cd7">
     <bounds
-        x="380"
+        x="361"
         y="209"
-        width="115"
+        width="134"
         height="58"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -118,10 +118,10 @@
           href="ServingRelationship_id-e934cc16e2b741ebac6b3e4e53a3f43e.xml#id-e934cc16e2b741ebac6b3e4e53a3f43e"/>
     </sourceConnections>
     <bounds
-        x="209"
+        x="190"
         y="209"
         width="115"
-        height="57"/>
+        height="58"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-7bd43a371b324679a135832177e205d5.xml#id-7bd43a371b324679a135832177e205d5"/>
