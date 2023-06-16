@@ -23,7 +23,7 @@
       targetConnections="id-199299bb3442466fbd0059d0631c62f0">
     <bounds
         x="284"
-        y="323"
+        y="381"
         width="173"
         height="38"/>
     <archimateElement
@@ -185,7 +185,7 @@
       targetConnections="id-ea06d6452ee741cf8ea28acfbec0e836">
     <bounds
         x="285"
-        y="267"
+        y="325"
         width="173"
         height="38"/>
     <archimateElement
@@ -211,7 +211,7 @@
       targetConnections="id-0988dbdc9d554a42b868510dbc02e7f8">
     <bounds
         x="285"
-        y="553"
+        y="611"
         width="173"
         height="38"/>
     <archimateElement
@@ -237,7 +237,7 @@
       targetConnections="id-98553afc7012491abf9f907d03848eb1">
     <bounds
         x="285"
-        y="497"
+        y="555"
         width="173"
         height="38"/>
     <archimateElement
@@ -250,7 +250,7 @@
       targetConnections="id-2224d6d957d24af5b716f08717e58212">
     <bounds
         x="77"
-        y="439"
+        y="497"
         width="173"
         height="38"/>
     <archimateElement
@@ -281,7 +281,7 @@
     </sourceConnections>
     <bounds
         x="285"
-        y="440"
+        y="498"
         width="173"
         height="38"/>
     <archimateElement
@@ -294,7 +294,7 @@
       targetConnections="id-127e3133dc86476da5c9a86a2a0dda72">
     <bounds
         x="76"
-        y="497"
+        y="555"
         width="173"
         height="38"/>
     <archimateElement
@@ -328,7 +328,7 @@
     </sourceConnections>
     <bounds
         x="77"
-        y="380"
+        y="438"
         width="173"
         height="38"/>
     <archimateElement
@@ -477,7 +477,7 @@
       targetConnections="id-dcac9cf6231c431981e07445e650e363">
     <bounds
         x="283"
-        y="210"
+        y="268"
         width="173"
         height="38"/>
     <archimateElement
@@ -564,7 +564,7 @@
     </sourceConnections>
     <bounds
         x="284"
-        y="154"
+        y="212"
         width="172"
         height="38"/>
     <archimateElement
@@ -577,8 +577,8 @@
       textAlignment="1"
       content="Naam: Requirements SANE4BI&#xD;&#xA;Omschrijving: Overzicht van Requirements voor een SANE voor Business Intelligence&#xD;&#xA;Auteur: AR&#xD;&#xA;Datum: 22-05-2023&#xD;&#xA;Laatste wijziging: 22-05-2023">
     <bounds
-        x="57"
-        y="19"
+        x="76"
+        y="57"
         width="318"
         height="115"/>
   </children>
@@ -761,7 +761,7 @@
     </sourceConnections>
     <bounds
         x="77"
-        y="323"
+        y="381"
         width="172"
         height="38"/>
     <archimateElement
@@ -774,7 +774,7 @@
       targetConnections="id-89c595da7f3e436780b896fd084f4808 id-d04f224e638943e9a578814d9536f7b5 id-aac51445b4ff4c8ab38eee720cc48f24">
     <bounds
         x="284"
-        y="380"
+        y="438"
         width="175"
         height="38"/>
     <archimateElement
@@ -787,7 +787,7 @@
       targetConnections="id-b8866c65559245c7b0b92740f6e2823c">
     <bounds
         x="77"
-        y="154"
+        y="212"
         width="172"
         height="38"/>
     <archimateElement
