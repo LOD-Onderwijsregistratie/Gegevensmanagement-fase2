@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditlog"
+    id="id-69b00407a465473ebab0719f7ca4f790"
+    documentation="Een chronologische registratie van gebeurtenissen, activiteiten of wijzigingen die plaatsvinden in een systeem, applicatie, netwerk of organisatie. Het doel van een auditlog is om een betrouwbare en controleerbare bron van informatie te bieden, zodat beheerders en auditors kunnen nagaan wat er in een systeem gebeurt en eventuele ongeautoriseerde activiteiten of beveiligingsinbreuken kunnen opsporen."/>
