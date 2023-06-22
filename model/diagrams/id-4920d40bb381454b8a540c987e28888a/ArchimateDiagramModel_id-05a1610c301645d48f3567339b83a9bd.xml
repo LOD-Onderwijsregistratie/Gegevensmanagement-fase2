@@ -79,8 +79,8 @@
           href="RealizationRelationship_id-daf8df28368843a79f876fa8f9d822c1.xml#id-daf8df28368843a79f876fa8f9d822c1"/>
     </sourceConnections>
     <bounds
-        x="513"
-        y="266"
+        x="285"
+        y="192"
         width="172"
         height="77"/>
     <archimateElement
@@ -92,8 +92,8 @@
       id="id-029823323e01427793919a3000adc30c"
       targetConnections="id-f1bdb17863314c1d8f68f65a3c359101">
     <bounds
-        x="247"
-        y="248"
+        x="19"
+        y="174"
         width="114"
         height="38"/>
     <archimateElement
@@ -105,8 +105,8 @@
       id="id-990b6cbad684411fb4f1e9b4f71a69e4"
       targetConnections="id-2cf68fab549e4147b031306e98bdbbe6">
     <bounds
-        x="247"
-        y="304"
+        x="19"
+        y="230"
         width="114"
         height="38"/>
     <archimateElement
@@ -154,8 +154,8 @@
           href="CompositionRelationship_id-3cfa19ac034841209c1e33b08580999f.xml#id-3cfa19ac034841209c1e33b08580999f"/>
     </sourceConnections>
     <bounds
-        x="760"
-        y="266"
+        x="532"
+        y="192"
         width="115"
         height="39"/>
     <archimateElement
@@ -167,8 +167,8 @@
       id="id-e6120ab2229e433c9601d8179ab5f2c9"
       targetConnections="id-7077a571994a4e69ace7a9526812537f">
     <bounds
-        x="949"
-        y="210"
+        x="721"
+        y="136"
         width="115"
         height="39"/>
     <archimateElement
@@ -180,8 +180,8 @@
       id="id-07dda4ddc2a140d0aee1dfb846c82846"
       targetConnections="id-5b5e2657369d48858b8755b7053f3c95">
     <bounds
-        x="949"
-        y="265"
+        x="721"
+        y="191"
         width="115"
         height="42"/>
     <archimateElement
@@ -193,8 +193,8 @@
       id="id-07457d050ced42b2870b23eae927e71f"
       targetConnections="id-95c225b9e79b48a681634d81c8fb14e9">
     <bounds
-        x="950"
-        y="322"
+        x="722"
+        y="248"
         width="114"
         height="39"/>
     <archimateElement
@@ -215,8 +215,8 @@
           href="AggregationRelationship_id-6f27d0f7b27f4df5bc018f2fc78660d9.xml#id-6f27d0f7b27f4df5bc018f2fc78660d9"/>
     </sourceConnections>
     <bounds
-        x="760"
-        y="379"
+        x="532"
+        y="305"
         width="115"
         height="39"/>
     <archimateElement
@@ -228,8 +228,8 @@
       id="id-5970655c247e477cbf067abaaf5ad624"
       targetConnections="id-1c9a3b4e310c4554b84ef0719819b5e3">
     <bounds
-        x="950"
-        y="380"
+        x="722"
+        y="306"
         width="114"
         height="38"/>
     <archimateElement
@@ -241,8 +241,8 @@
       id="id-1fb1a43c971b4671a8a542035750bcc9"
       targetConnections="id-0d333e00af4341129677f742fb27369f id-32ba8c4c38e34748a0414ae14f11028e">
     <bounds
-        x="513"
-        y="437"
+        x="285"
+        y="363"
         width="172"
         height="39"/>
     <archimateElement
@@ -254,8 +254,8 @@
       id="id-b3e0882c400c4281abb77234443945ec"
       targetConnections="id-37cb218f949b47b6af7a7c6c45f7a486">
     <bounds
-        x="247"
-        y="360"
+        x="19"
+        y="286"
         width="114"
         height="38"/>
     <archimateElement
@@ -267,8 +267,8 @@
       id="id-4a79effb1ad247cbb995b87d0869fe71"
       targetConnections="id-320b961bddb3470786b029b1b1b0e52e">
     <bounds
-        x="949"
-        y="152"
+        x="721"
+        y="78"
         width="115"
         height="39"/>
     <archimateElement
@@ -280,8 +280,8 @@
       id="id-1526afb3092749efb1b7f1ef5cc574bb"
       targetConnections="id-d4e1cfb3a90441cfbba10b5955b69d03">
     <bounds
-        x="247"
-        y="417"
+        x="19"
+        y="343"
         width="114"
         height="38"/>
     <archimateElement
@@ -310,10 +310,10 @@
           href="InfluenceRelationship_id-6c6791edb61649eabb2312fc65970ee0.xml#id-6c6791edb61649eabb2312fc65970ee0"/>
     </sourceConnections>
     <bounds
-        x="418"
-        y="532"
-        width="95"
-        height="38"/>
+        x="171"
+        y="458"
+        width="114"
+        height="56"/>
     <archimateElement
         xsi:type="archimate:Requirement"
         href="Requirement_id-01829db9d7ef4a8ea62f9a0476cbe8d4.xml#id-01829db9d7ef4a8ea62f9a0476cbe8d4"/>
@@ -332,8 +332,8 @@
           href="AggregationRelationship_id-82e95899e3384b8a8485572476592a55.xml#id-82e95899e3384b8a8485572476592a55"/>
     </sourceConnections>
     <bounds
-        x="665"
-        y="532"
+        x="437"
+        y="458"
         width="95"
         height="38"/>
     <archimateElement
@@ -345,12 +345,23 @@
       id="id-28c6ec292b564ebfbc1ed2785ce4c585"
       targetConnections="id-7d6d9163da3d45caa5e3123e5af25ad4">
     <bounds
-        x="665"
-        y="627"
+        x="589"
+        y="458"
         width="95"
         height="38"/>
     <archimateElement
         xsi:type="archimate:Constraint"
         href="Constraint_id-86abebaab0a04ac09bf89a516f75a81e.xml#id-86abebaab0a04ac09bf89a516f75a81e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-089f40246f434fe6a03ea92aced851f2"
+      textAlignment="1"
+      content="Naam: Requirements SANE4OI&#xD;&#xA;Omschrijving: Overzicht van Requirements voor een SANE voor Operational Intelligence&#xD;&#xA;Auteur: AR&#xD;&#xA;Datum: 22-05-2023&#xD;&#xA;Laatste wijziging: 15-06-2023">
+    <bounds
+        x="19"
+        y="19"
+        width="267"
+        height="118"/>
   </children>
 </archimate:ArchimateDiagramModel>
