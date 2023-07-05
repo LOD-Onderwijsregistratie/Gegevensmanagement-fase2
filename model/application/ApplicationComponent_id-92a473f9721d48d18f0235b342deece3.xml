@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API user interface"
+    name="Berichtenportaal"
     id="id-92a473f9721d48d18f0235b342deece3"
-    documentation="De API user interface is een applicatiecomponent die de gespecificeerde API endpoints beschrijft voor het bevragen van gegevens evenals de queryparameters te gebruiken bij het aanroepen er van. Zie API strategie van de NL overheid voor meer details."/>
+    documentation="Een component die het mogelijk maakt om een berichtspecificaties te bekijken, in te laden en eventueel direct af te vuren. Zie API strategie van de NL overheid voor meer details."/>

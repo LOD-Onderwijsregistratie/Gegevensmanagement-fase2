@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensadministratie"
+    name="Gegevens administratie"
     id="id-21dc0da64efc4d56982130a41c18075d"
-    documentation="De vastleggging van de als technisch model ontwikkelde gegevensverzamelingen en -uitwisselingen. Dit is vergelijkbaar met de index van de bibliotheek (welke boeken zijn er en aan wie uitgeleend?) en is vraagbaak voor life cycle management.  &#xD;&#xA; "/>
+    documentation="De vastlegging van de ontwikkelde  gegevensverzamelingen en -uitwisselingen. Dit is vergelijkbaar met de index van de bibliotheek (welke boeken zijn aan wie uitgeleend?) en is vraagbaak voor life cycle management.  &#xD;&#xA; "/>
