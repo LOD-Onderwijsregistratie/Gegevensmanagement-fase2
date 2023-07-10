@@ -1,4 +1,5 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Run modellen pijplijn"
-    id="id-632ec7f481314740baa580db4caa53a4"/>
+    id="id-632ec7f481314740baa580db4caa53a4"
+    documentation="Dit is de geautomatiseerde interactie voor het toegankelijk maken en hergebruiken van logische modellen."/>

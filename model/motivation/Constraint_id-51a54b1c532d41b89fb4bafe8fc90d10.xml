@@ -2,6 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="AMEFF"
     id="id-51a54b1c532d41b89fb4bafe8fc90d10"
-    documentation="AMEFF staat voor ‘Archimate Model Exchange File Format’. Een AMEFF-bestand wordt gebruikt om Archimate modellen van en naar andere tools te importeren en exporteren.&#xD;&#xA;&#xD;&#xA;https://www.opengroup.org/open-group-archimate-model-exchange-file-format">
-  <properties/>
-</archimate:Constraint>
+    documentation="AMEFF staat voor ‘Archimate Model Exchange File Format’. Een AMEFF-bestand wordt gebruikt om Archimate modellen van en naar andere tools te importeren en exporteren.&#xD;&#xA;&#xD;&#xA;https://www.opengroup.org/open-group-archimate-model-exchange-file-format"/>

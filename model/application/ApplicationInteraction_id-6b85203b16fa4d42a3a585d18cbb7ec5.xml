@@ -1,4 +1,5 @@
 <archimate:ApplicationInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Run specificatie pijplijn"
-    id="id-6b85203b16fa4d42a3a585d18cbb7ec5"/>
+    id="id-6b85203b16fa4d42a3a585d18cbb7ec5"
+    documentation="Dit is de geautomatiseerde interactie voor het toegankelijk maken en hergebruiken van technische specificaties."/>

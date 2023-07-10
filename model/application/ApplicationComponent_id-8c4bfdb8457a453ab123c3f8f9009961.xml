@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Register browser"
+    name="Gegevensportaal"
     id="id-8c4bfdb8457a453ab123c3f8f9009961"
     documentation="Dit is een user interface voor het kunnen raadplegen van de gegevens in een register, bijvoorbeeld op een zoekterm, een categorie,  op locatie of zoals in RIO:  alle scholen die een bepaalde opleiding aanbieden of andersom,  alle opleidingen van een school."/>
