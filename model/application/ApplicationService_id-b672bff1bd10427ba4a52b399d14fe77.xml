@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Semantic web publlicatie"
-    id="id-b672bff1bd10427ba4a52b399d14fe77"
-    documentation="Dit is de dienst die er voor zorgt dat de metadata ter beschikkings wordt gesteld, conform daarover geaakte afspraken, voor zover het niet plaats vindt binnen dezelfde modelleeromgeving.  De gepubliceerde resources zijn geïdentificeerd met URI's en deze kunnen in principe worden gerefereerd in 'den vreemde'. Het URI-beheer, eigenlijk hoe voorkom ik dode links, maakt een belangrijk deel uit van deze dienst.  "/>

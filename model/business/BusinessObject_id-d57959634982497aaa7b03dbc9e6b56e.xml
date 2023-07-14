@@ -1,0 +1,18 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens resource"
+    id="id-d57959634982497aaa7b03dbc9e6b56e"
+    documentation="Zie properties">
+  <properties
+      key="omschrijving"
+      value="Een gegevensresource  is een gerealiseerde gegevensverzameling, of distributiewijze &#xD;&#xA;&#xD;&#xA;Een resource wordt een gegevensartefact als er vanuit de architectuur op gestuurd wordt (zie Kader gegevensontwikkeling en beheer).&#xD;&#xA;"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="grondslag"
+      value="Gerechtvaardig belang van de organisatie"/>
+</archimate:BusinessObject>
