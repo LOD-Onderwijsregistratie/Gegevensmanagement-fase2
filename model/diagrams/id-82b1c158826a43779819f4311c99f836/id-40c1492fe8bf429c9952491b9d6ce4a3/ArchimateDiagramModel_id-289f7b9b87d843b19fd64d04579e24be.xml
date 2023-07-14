@@ -396,7 +396,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-aedd1e03dd1e4673a88ec75ecb4fdb5a"
       textAlignment="1"
-      content="capabilities EDH v0.8&#xD;&#xA;auteur: René Berken&#xD;&#xA;project: GABI&#xD;&#xA;scope: SOLL, PRSA&#xD;&#xA;Veilige, transparante en reproduceerbare gegevensproducten ter ondersteuning van Informatiemanagement.&#xD;&#xA;Voor de GABI PSA's zijn views uitgewerkt waarin capabilities zijn gekoppeld aan business functies. Dit is de versie voor EDH.&#xD;&#xA;Services uit de pilot Data Hub vervangen door functies uit o.a. Baseline DWH IST view.&#xD;&#xA;tov vorige versie&#xD;&#xA;- blauwe laag als component uitwerken&#xD;&#xA;- groene laag opnemen&#xD;&#xA;">
+      content="capabilities EDH v0.8&#xD;&#xA;auteur: René Berken&#xD;&#xA;project: GABI&#xD;&#xA;scope: SOLL, PRSA&#xD;&#xA;Veilige, transparante en reproduceerbare gegevensproducten ter ondersteuning van Informatiemanagement.&#xD;&#xA;Voor de GABI PSA's zijn views uitgewerkt waarin capabilities zijn gekoppeld aan business functies. Dit is de versie voor EDH.&#xD;&#xA;&#xD;&#xA;">
     <bounds
         x="1255"
         y="107"
@@ -763,14 +763,14 @@
         source="id-a36b979bae664531ab49482abfc4cded"
         target="id-251f23525cbe4a4ba552680eeeaf730d">
       <bendpoints
-          startX="150"
+          startX="162"
           startY="-26"
-          endX="-367"
+          endX="-364"
           endY="72"/>
       <bendpoints
-          startX="150"
+          startX="162"
           startY="-86"
-          endX="-367"
+          endX="-364"
           endY="12"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -845,17 +845,6 @@
         href="BusinessFunction_id-8c937c3c4a1643dba7108eeef2145fc5.xml#id-8c937c3c4a1643dba7108eeef2145fc5"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-160829ddcd6549748a6988b47a692b2a"
-      textAlignment="1"
-      content="gegevensobject aanvraag / contract&#xA; service vertalen naar functie">
-    <bounds
-        x="1212"
-        y="558"
-        width="120"
-        height="132"/>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-46d305536b3d4bf0a344b769ab7638c2"
       targetConnections="id-a825f31ee9f64aabb5109797700d6520 id-b6c928950137425e8f67938142c9432f id-8fffd7c543514baebd6eeceb61795faf id-11a98e7784ef43eb81d6b3288d18d917 id-f1fa354a1bdb4dffb22c6c7c98d85432">
@@ -905,9 +894,9 @@
     </sourceConnections>
     <bounds
         x="930"
-        y="708"
+        y="704"
         width="120"
-        height="55"/>
+        height="77"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-1eb4054a45734253bded7c5b05750abc.xml#id-1eb4054a45734253bded7c5b05750abc"/>
@@ -929,7 +918,7 @@
         x="1073"
         y="704"
         width="121"
-        height="64"/>
+        height="77"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-c0cb0a4d089745369327f89c85c65480.xml#id-c0cb0a4d089745369327f89c85c65480"/>
@@ -1017,7 +1006,7 @@
         x="1249"
         y="996"
         width="120"
-        height="49"/>
+        height="61"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-0abbd9314d684ddebce05dc6a59fe2d4.xml#id-0abbd9314d684ddebce05dc6a59fe2d4"/>
@@ -1072,14 +1061,14 @@
             endX="-450"
             endY="156"/>
         <bendpoints
-            startX="308"
-            startY="-172"
-            endX="-162"
+            startX="330"
+            startY="-173"
+            endX="-172"
             endY="156"/>
         <bendpoints
-            startX="308"
-            startY="-304"
-            endX="-162"
+            startX="330"
+            startY="-305"
+            endX="-172"
             endY="24"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
@@ -1109,10 +1098,10 @@
             endX="-354"
             endY="162"/>
         <bendpoints
-            startX="236"
-            startY="-100"
-            endX="-126"
-            endY="162"/>
+            startX="258"
+            startY="-101"
+            endX="-136"
+            endY="161"/>
         <bendpoints
             startX="236"
             startY="-244"
@@ -1206,10 +1195,10 @@
             endX="-600"
             endY="96"/>
         <bendpoints
-            startX="619"
-            startY="-100"
-            endX="-24"
-            endY="96"/>
+            startX="618"
+            startY="-101"
+            endX="-25"
+            endY="90"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-9f321f30a22b4676967fd8bd4af46fde.xml#id-9f321f30a22b4676967fd8bd4af46fde"/>
@@ -1621,28 +1610,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyService"
         href="TechnologyService_id-2df2baadf1d64bdeaad4202757a22b43.xml#id-2df2baadf1d64bdeaad4202757a22b43"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-4836462d6a79472cbab8e7b484abeab9"
-      textAlignment="1"
-      content="stijlgids:&#xD;&#xA;ABB blauw is functie.&#xD;&#xA;abb groen is service of functie groen.&#xD;&#xA;koppelen met een serve relatie">
-    <bounds
-        x="1740"
-        y="1013"
-        width="120"
-        height="144"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-286fc77d412d4f6e9e9d94a2c156046d"
-      textAlignment="1"
-      content="Data Intergratie service mist een personifiering abb">
-    <bounds
-        x="1722"
-        y="837"
-        width="185"
-        height="80"/>
   </children>
   <properties
       key="status"
