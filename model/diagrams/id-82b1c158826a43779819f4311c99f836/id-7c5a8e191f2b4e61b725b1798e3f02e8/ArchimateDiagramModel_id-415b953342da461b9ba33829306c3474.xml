@@ -1499,7 +1499,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-69abd03b870e4426add90f460f26bb93"
-      targetConnections="id-5098f8f8880a447181cf10713bc80c0b id-858e03d5d3f2464d8daab02f5a965f2e id-040b25d1ae3e453e8a31ea66183b2ef4">
+      targetConnections="id-858e03d5d3f2464d8daab02f5a965f2e id-040b25d1ae3e453e8a31ea66183b2ef4 id-5098f8f8880a447181cf10713bc80c0b">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-406fb7340e6947e0b45147f19266375e"
@@ -1635,17 +1635,6 @@
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_id-0973f3f483c043b093fc98b09a7bd4fe.xml#id-0973f3f483c043b093fc98b09a7bd4fe"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3f2fad15a27e4b4098af90e74fef29ba"
-      textAlignment="1"
-      content="titel:&#x9;&#x9;Metadata Platform Interactie&#xA;geldig vanaf:&#x9;null&#x9;&#x9;&#x9;tot:&#x9;&#x9;null&#xA;activiteit:&#x9;GABI&#x9;&#x9;&#x9;status:&#x9;&#x9;Gereviewed&#xA;bijdragen:&#x9;GGR, JW">
-    <bounds
-        x="-48"
-        y="-360"
-        width="500"
-        height="90"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
