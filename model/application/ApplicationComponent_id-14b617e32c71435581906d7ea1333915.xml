@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Federatieve stelselcatalogus"
+    name="Gegevens catalogus"
     id="id-14b617e32c71435581906d7ea1333915"
-    documentation="De federatieve stelselcatalogus in ene product van de Nederlandse overheid en wordt gebruikt voor alle uit de wet voortvloeiende registers. In principe geldt hier dat het open data is. Qua toepassing is het breder dan de stelselcatalogus die eerder voor de zogenaamde basisregistraties werd opgezet. Het federatieve wil zeggen dat elk register dezelfde standaarden volgt bij het ter beschikking stellen ervan.  "/>
+    documentation="De gegevenscatalogus is de DUO-poot van de federatieve stelselcatalogus van de Nederlandse overheid voor alle uit de wet voortvloeiende registers. In principe geldt dit als  open data."/>
