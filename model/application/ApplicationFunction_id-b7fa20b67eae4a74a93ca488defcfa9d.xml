@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Repliceren"
     id="id-b7fa20b67eae4a74a93ca488defcfa9d"
-    documentation="Het verwerken van specificaties met als doel het inrichten van passieve (Replica artefact) en actieve (Replica pipelines) elementen van de Replica applicatie component."/>
+    documentation="Het verwerken van specificaties met als doel het inrichten van passieve (Replica gegevensobject) en actieve (Replica pipelines) elementen van de Replica applicatie component."/>
