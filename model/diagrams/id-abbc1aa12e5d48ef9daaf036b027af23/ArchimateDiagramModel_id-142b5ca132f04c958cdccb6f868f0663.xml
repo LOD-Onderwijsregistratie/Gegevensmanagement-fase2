@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="EDH Applicatie Functionaliteit Replica"
-    id="id-142b5ca132f04c958cdccb6f868f0663">
+    id="id-142b5ca132f04c958cdccb6f868f0663"
+    documentation="Zie properties.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ecb25d3a28f4481ba9d41273783e0417"
@@ -46,7 +47,7 @@
         targetConnections="id-8a3a5f3ba8e44ae1a02acaa76c9cb136 id-bfb8fd018a724da4a7bfde01cff056cd id-6a3fe00aff3c4c49bafe58052c8d2728">
       <bounds
           x="240"
-          y="48"
+          y="30"
           width="121"
           height="55"/>
       <archimateElement
@@ -56,11 +57,11 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d0523ec2fec64cce946d72e20c26c11b"
-        targetConnections="id-5d4c0c3e3e7c41ec9a6f6f30cdeb66a9 id-9c903a60f3ab4f8dbe973dae46e541b9 id-ee66b0b98a3245a29afb4b7aa1955256 id-f0a228b2089e445db9f8764bd3cc9240"
+        targetConnections="id-5d4c0c3e3e7c41ec9a6f6f30cdeb66a9 id-9c903a60f3ab4f8dbe973dae46e541b9 id-f0a228b2089e445db9f8764bd3cc9240 id-e6bc867a580642a88f2573d29651d212"
         type="1">
       <bounds
           x="420"
-          y="102"
+          y="72"
           width="121"
           height="49"/>
       <archimateElement
@@ -91,7 +92,7 @@
       </sourceConnections>
       <bounds
           x="48"
-          y="84"
+          y="66"
           width="145"
           height="61"/>
       <archimateElement
@@ -191,25 +192,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ee66b0b98a3245a29afb4b7aa1955256"
-        source="id-442257883b4f47d89e80e9bbaf352378"
-        target="id-d0523ec2fec64cce946d72e20c26c11b">
-      <bendpoints
-          startX="35"
-          startY="57"
-          endX="-144"
-          endY="-246"/>
-      <bendpoints
-          startX="167"
-          startY="57"
-          endX="-12"
-          endY="-246"/>
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-fde9aca3bbfb4c94a862d175b6c79bc3.xml#id-fde9aca3bbfb4c94a862d175b6c79bc3"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f0a228b2089e445db9f8764bd3cc9240"
         source="id-442257883b4f47d89e80e9bbaf352378"
         target="id-d0523ec2fec64cce946d72e20c26c11b">
@@ -219,10 +201,10 @@
           endX="-132"
           endY="-258"/>
       <bendpoints
-          startX="215"
-          startY="45"
-          endX="36"
-          endY="-258"/>
+          startX="144"
+          startY="34"
+          endX="-36"
+          endY="-240"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-fde9aca3bbfb4c94a862d175b6c79bc3.xml#id-fde9aca3bbfb4c94a862d175b6c79bc3"/>
@@ -584,6 +566,15 @@
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-45c7389ec3be41d993e43cfc893f7da9.xml#id-45c7389ec3be41d993e43cfc893f7da9"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e6bc867a580642a88f2573d29651d212"
+        source="id-af0157f795fc4ef892a6d7c6ef995ff0"
+        target="id-d0523ec2fec64cce946d72e20c26c11b">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-fbdc9416db274e4b92415c888bc9f70d.xml#id-fbdc9416db274e4b92415c888bc9f70d"/>
+    </sourceConnections>
     <bounds
         x="1129"
         y="528"
@@ -723,4 +714,30 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-d03d8246ed3c467bb05ae7021f3b5759.xml#id-d03d8246ed3c467bb05ae7021f3b5759"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-8e3f9ffdea024b2b90f0e2c273f4148f"
+      textAlignment="1"
+      content="View:  EDH Applicatie Functionaliteit Replica&#xD;&#xA;Auteur: René Berken&#xD;&#xA;Datum: 08-08-2023&#xD;&#xA;Status: Initieel">
+    <bounds
+        x="276"
+        y="360"
+        width="264"
+        height="96"/>
+  </children>
+  <properties
+      key="trefwoorden"
+      value="GABI EDH Replica"/>
+  <properties
+      key="geldigheid_begin"
+      value="04-08-2023&#x9;"/>
+  <properties
+      key="status"
+      value="Initieel"/>
+  <properties
+      key="contactpunt_naam"
+      value="René Berken"/>
+  <properties
+      key="contactpunt_email"
+      value="rene.berken@gmail.com"/>
 </archimate:ArchimateDiagramModel>

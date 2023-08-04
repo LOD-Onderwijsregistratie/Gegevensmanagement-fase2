@@ -1,4 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Replica Consumer Configuration"
-    id="id-f2886d76bcdd4f09949012aa0f69b0d1"/>
+    id="id-f2886d76bcdd4f09949012aa0f69b0d1"
+    documentation="Het inrichten en beheren van actieve (Replica pipelines) elementen waarmee bron gegevens kunnen worden opgevraagd en verwerkt. Dit kan data (ODBC) of event (streaming) driven worden ingericht."/>
