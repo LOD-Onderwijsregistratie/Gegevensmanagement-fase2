@@ -1,4 +1,5 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PostgreSQL"
-    id="id-2c32cfd8efa74acabee028247ee284da"/>
+    id="id-2c32cfd8efa74acabee028247ee284da"
+    documentation="PostgreSQL also known as Postgres, is a free and open-source relational database management system (RDBMS) emphasizing extensibility and SQL compliance."/>
