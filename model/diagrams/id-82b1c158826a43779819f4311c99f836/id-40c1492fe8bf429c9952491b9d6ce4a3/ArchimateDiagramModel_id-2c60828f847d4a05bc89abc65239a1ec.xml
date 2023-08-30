@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Hub SOLL"
     id="id-2c60828f847d4a05bc89abc65239a1ec"
+    documentation="Zie properties."
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -627,4 +628,7 @@
         xsi:type="archimate:Constraint"
         href="Constraint_id-e2540ca0596049ed9fa69b6018e414d6.xml#id-e2540ca0596049ed9fa69b6018e414d6"/>
   </children>
+  <properties
+      key="status"
+      value="Initieel"/>
 </archimate:ArchimateDiagramModel>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="gegevens  resource"
     id="id-8e805ead0acc4dd3a499089b9e576044"
-    documentation="Een gegevensresource  is de beschrijving van gerealiseerde gegevensverzamelingen en -uitwisselingen. &#xD;&#xA;&#xD;&#xA;Een resource wordt een gegevensartefact als er vanuit de architectuur op gestuurd wordt (zie Kader gegevensontwikkeling en beheer).&#xD;&#xA;"/>
+    documentation="DIt zijn de gegevens die worden bijgehouden over gerealiseerde gegevensverzamelingen en -distributiewijzen. &#xD;&#xA;&#xD;&#xA;Elk technisch model realiseert een gegevensresource.&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>

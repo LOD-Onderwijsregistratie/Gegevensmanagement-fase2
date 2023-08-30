@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replica"
+    id="id-fffd6cfa9cc14962b4aefe4ab32909eb"
+    documentation="Ontkoppelde gegevens uit het transactionele domein voor infomatievoorziening. Dit betreft zowel relationele gegevens uit bv de registers als ongestructureerde gegevens zoals documenten (NoSQL)."/>
