@@ -927,6 +927,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6072d51163a14c28a1d32680c2df47f3"
       targetConnections="id-5cc1a293cbab46028666a18a1b8f9cbc id-95c0e4676b5f48d8b4f2937e58097846 id-7e4a6438253640be80d76257ee2eb8ce id-e7607a13bb8f46e796029d28f33d554c id-728d63da8c9f49bf96e8a723cd2eff77 id-178fb31969584f4b94387182e2d1d9c4">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-75d7259da92745d191004df7ed682b71"
+        source="id-6072d51163a14c28a1d32680c2df47f3"
+        target="id-e8f66505a1f54fd0a8962d4085e40dad">
+      <bendpoints
+          startX="-85"
+          endX="-86"
+          endY="-531"/>
+      <bendpoints
+          startX="-85"
+          startY="532"
+          endX="-86"
+          endY="1"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-d51aef42cee14565833179874b572901.xml#id-d51aef42cee14565833179874b572901"/>
+    </sourceConnections>
     <bounds
         x="1121"
         y="209"
@@ -999,7 +1017,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-5a2c5fd469064fecb2131be64c69358d"
       textAlignment="1"
-      content="Titel: SANE Betrokken Organisaties&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 12-4-2023&#xD;&#xA;Laatste wijziging: 5-6-2023">
+      content="Titel: SANE Betrokken Organisaties&#xD;&#xA;Auteur: André Rietveld&#xD;&#xA;Datum: 12-4-2023&#xD;&#xA;Laatste wijziging: 1-9-2023">
     <bounds
         x="19"
         y="19"
@@ -1132,6 +1150,19 @@
     <archimateElement
         xsi:type="archimate:Stakeholder"
         href="Stakeholder_id-af27328580294cb5ae38e3588e0c3c55.xml#id-af27328580294cb5ae38e3588e0c3c55"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-e8f66505a1f54fd0a8962d4085e40dad"
+      targetConnections="id-75d7259da92745d191004df7ed682b71">
+    <bounds
+        x="1121"
+        y="740"
+        width="134"
+        height="39"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_id-6ae7c678eaa2448b95992d843975aca9.xml#id-6ae7c678eaa2448b95992d843975aca9"/>
   </children>
   <properties
       key="omschrijving"
