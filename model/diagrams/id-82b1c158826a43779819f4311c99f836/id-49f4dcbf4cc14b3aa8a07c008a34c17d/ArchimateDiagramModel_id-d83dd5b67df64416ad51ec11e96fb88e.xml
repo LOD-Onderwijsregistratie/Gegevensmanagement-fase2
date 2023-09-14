@@ -6,7 +6,8 @@
     documentation="Bron EA: Het domein Gegevensdiensten is gericht op het leveren en ontsluiten van gegevens aan externe afnemers en tevens aan DUO zelf.">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6cfc5120a144404188e33f2d92ab0993">
+      id="id-6cfc5120a144404188e33f2d92ab0993"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6cbce96eaee8450eb1bbc23ab6c5af54"
@@ -28,7 +29,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8b14dca6758443d8b43b760843315e43"
-      targetConnections="id-e63dbb50333a409ea5c3c8ec9493e49d id-dfa18d770e9c4b939f6bbe5e3eca680e">
+      targetConnections="id-e63dbb50333a409ea5c3c8ec9493e49d id-dfa18d770e9c4b939f6bbe5e3eca680e"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ecd04ef447ef4e8eb25ae94a115c9350"
@@ -100,7 +102,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e41785ab697c4cceb5446a3cc732a716">
+      id="id-e41785ab697c4cceb5446a3cc732a716"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-dfa18d770e9c4b939f6bbe5e3eca680e"
@@ -121,7 +124,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c4b71122b056425a999abf236925bf75">
+      id="id-c4b71122b056425a999abf236925bf75"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e63dbb50333a409ea5c3c8ec9493e49d"
