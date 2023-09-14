@@ -630,9 +630,9 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0a4ca9861d4146f384c6f453b5c8b0ff"
       textAlignment="1"
-      content="Als we bekende data life cycle nemen &quot;Plan&quot;, &quot;Design&quot;, &quot;Use&quot;, &quot;Enhance&quot;, &quot;Enable &amp; Maintain&quot; en &quot;Purge&quot;. Dan  zie ik dat we nu links met name &quot;Use&quot; afdekken. ">
+      content="Als we bekende data life cycle nemen &quot;Plan&quot;, &quot;Design&quot;, &quot;Use&quot;, &quot;Enhance&quot;, &quot;Enable &amp; Maintain&quot; en &quot;Purge&quot;. Dan  zie ik dat we nu links met name &quot;Use&quot; afdekken. Daarnaast is er een life cycle uit het CDO stelsel die hier iets van afwijkt. Dama DM bok is als ondersteunende cap ingezet.&#xD;&#xA;">
     <bounds
-        x="384"
+        x="579"
         y="50"
         width="277"
         height="106"/>
