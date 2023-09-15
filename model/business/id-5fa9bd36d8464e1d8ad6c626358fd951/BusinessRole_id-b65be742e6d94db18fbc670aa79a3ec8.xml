@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[CMA] CISO"
-    id="id-b65be742e6d94db18fbc670aa79a3ec8"/>
+    id="id-b65be742e6d94db18fbc670aa79a3ec8"
+    documentation="Central Information &amp; Security Officer verantwoordelijk voor het compliance aspect informatiebeveiliging."/>

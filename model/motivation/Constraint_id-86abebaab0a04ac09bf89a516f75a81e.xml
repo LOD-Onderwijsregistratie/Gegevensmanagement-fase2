@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RBAC"
+    id="id-86abebaab0a04ac09bf89a516f75a81e"
+    documentation="Role Based Access"/>

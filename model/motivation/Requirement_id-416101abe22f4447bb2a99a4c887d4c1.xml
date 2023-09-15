@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OTAP EDH"
+    id="id-416101abe22f4447bb2a99a4c887d4c1"
+    documentation="In de Enterprise Data Hub is een OTAP straat aanwezig welke ondersteunend is aan het ontwikkelproces van BI-rapporten en dashboards."/>

@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[CMA] CPO"
-    id="id-0070da7f497b4115b2c4f79b17f962c2"/>
+    id="id-0070da7f497b4115b2c4f79b17f962c2"
+    documentation="Centrale Privacy Officer verantwoordelijke voor het compliance aspect privacy"/>
