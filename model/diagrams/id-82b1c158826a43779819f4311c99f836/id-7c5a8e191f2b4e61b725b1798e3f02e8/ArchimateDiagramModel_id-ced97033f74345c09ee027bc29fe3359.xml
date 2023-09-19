@@ -254,6 +254,16 @@
           id="id-a2d4918618b0412ba960bdd64e83015d"
           source="id-c174c73a53cc4753807f874d6f49e123"
           target="id-3e02081a85da4702b96b80a7225a8ec5">
+        <bendpoints
+            startX="13"
+            startY="-120"
+            endX="-217"
+            endY="81"/>
+        <bendpoints
+            startX="229"
+            startY="-120"
+            endX="-1"
+            endY="81"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-a17376b7ba5442adaa84b4325baa72b8.xml#id-a17376b7ba5442adaa84b4325baa72b8"/>
@@ -263,6 +273,16 @@
           id="id-74a509c93e9d45cebe473141ace2a7cf"
           source="id-c174c73a53cc4753807f874d6f49e123"
           target="id-95e66c2aecc8402593b24a01355cb600">
+        <bendpoints
+            startX="1"
+            startY="-120"
+            endX="216"
+            endY="81"/>
+        <bendpoints
+            startX="-191"
+            startY="-120"
+            endX="24"
+            endY="81"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-ecfb611a3aab401b940ca02bd725cadc.xml#id-ecfb611a3aab401b940ca02bd725cadc"/>
@@ -284,6 +304,11 @@
           id="id-fce25e5b7abf4d77bdcc2f69cda4c037"
           source="id-cdc7c5961dc94d548f57049efca10e30"
           target="id-947ac8f100344c2eae79c3a153c73da7">
+        <bendpoints
+            startX="-5"
+            startY="-120"
+            endX="180"
+            endY="-3"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-6f869c88ca854da2870606be1ffbcc4d.xml#id-6f869c88ca854da2870606be1ffbcc4d"/>
@@ -293,6 +318,21 @@
           id="id-aba1ff739f4e459ea607a2ddd2ded781"
           source="id-cdc7c5961dc94d548f57049efca10e30"
           target="id-95e66c2aecc8402593b24a01355cb600">
+        <bendpoints
+            startX="7"
+            startY="-72"
+            endX="-204"
+            endY="129"/>
+        <bendpoints
+            startX="7"
+            startY="-120"
+            endX="-204"
+            endY="81"/>
+        <bendpoints
+            startX="187"
+            startY="-120"
+            endX="-24"
+            endY="81"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-b05af8edbd8d4f319e6311a9b29d69c3.xml#id-b05af8edbd8d4f319e6311a9b29d69c3"/>
@@ -430,6 +470,10 @@
         id="id-ab6a86c31d494f24894e5c4899f481f8"
         source="id-95e66c2aecc8402593b24a01355cb600"
         target="id-bf03418948724ecc8f3c55edf7b02dbd">
+      <bendpoints
+          startX="180"
+          startY="9"
+          endY="117"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-9af7e16e159b42eda96f5f031150ac8d.xml#id-9af7e16e159b42eda96f5f031150ac8d"/>
@@ -439,6 +483,16 @@
         id="id-af0eee6bca964ac99cf0e28ba265db9c"
         source="id-95e66c2aecc8402593b24a01355cb600"
         target="id-c21b393dd2054eb2bfe9d8ed18bc716c">
+      <bendpoints
+          startX="-48"
+          startY="-63"
+          endX="168"
+          endY="45"/>
+      <bendpoints
+          startX="-204"
+          startY="-63"
+          endX="12"
+          endY="45"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-1ff14d27fc0142cc9698d28151cb208a.xml#id-1ff14d27fc0142cc9698d28151cb208a"/>
@@ -457,6 +511,11 @@
         id="id-acaea72edeec41aeb077efe768b127a1"
         source="id-95e66c2aecc8402593b24a01355cb600"
         target="id-2a9495650207495d8e78d00e82d3c4a8">
+      <bendpoints
+          startX="-36"
+          startY="-51"
+          endX="48"
+          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-e35ff04a48d5470c9bc337d00e2877fc.xml#id-e35ff04a48d5470c9bc337d00e2877fc"/>
