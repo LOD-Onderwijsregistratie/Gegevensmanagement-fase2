@@ -1261,4 +1261,15 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-8e669641f9c84c8ea6462d933c728195.xml#id-8e669641f9c84c8ea6462d933c728195"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-376dd380fa4e49289ca07d4ec7a32212"
+      textAlignment="1"
+      content="titel:&#x9;&#x9;Distributie platformen SOLL&#xA;geldig vanaf:&#x9;2025-01-01 tot 2030-12-31&#xA;activiteit:&#x9;&#x9;programma GABI &#xD;&#xA;status:&#x9;&#x9;Gereviewed&#xA;bijdragen:&#x9;RB, JWVV">
+    <bounds
+        x="12"
+        y="12"
+        width="241"
+        height="90"/>
+  </children>
 </archimate:ArchimateDiagramModel>
