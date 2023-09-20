@@ -1,5 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Primaire taak uitvoeren"
+    name="DUO  taak uitvoering"
     id="id-d7de7d825547487580d90193ce589ccc"
-    documentation="De organisatie van mensen en middelen waarmee een waardeketen de opgedragen primaire (wettelijke) taak kan uitvoeren."/>
+    documentation="DUO is een uitvoeringsorganisatie en geeft uitvoering aan (wetteljike) taken voor verschillende ministeries (OCW, FIN, SZW)&#xD;&#xA;Deze taken worden uitgevoerd dmv kerncapabilties en ondersteunende capabilites (capability is het vermogen om een opdracht uit te voeren). Voor het succesvol inrichten en uitvoeren van deze capabilites wordt het model van Leavitt gebruikt en geeft het invulling aan de organisatiestructuur , mensen, taak(processen), technologie. (Zie https://cio-wiki.org/wiki/Leavitt%27s_Alignment_Model)&#xD;&#xA;Om hier anno nu verder invulling aan te geven wordt het data domein steeds belangrijker en kiezen organisaties ervoor data als asset en kern capability toe te voegen aan het P/T/T model (zie: https://journal.jabian.com/people-process-technology-and-data-a-heretics-view/) "/>
