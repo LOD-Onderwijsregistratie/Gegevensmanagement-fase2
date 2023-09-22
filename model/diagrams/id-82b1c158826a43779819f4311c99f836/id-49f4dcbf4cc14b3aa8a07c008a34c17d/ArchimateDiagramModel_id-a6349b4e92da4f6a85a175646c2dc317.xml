@@ -816,4 +816,15 @@
         width="185"
         height="80"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-717b34b380ec4c86b48cb7f73779102e"
+      textAlignment="1"
+      content="Uitgangspunten:&#xD;&#xA;-&#x9;Level 1 = het niveau voor de EA plaat.&#xD;&#xA;">
+    <bounds
+        x="636"
+        y="300"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
