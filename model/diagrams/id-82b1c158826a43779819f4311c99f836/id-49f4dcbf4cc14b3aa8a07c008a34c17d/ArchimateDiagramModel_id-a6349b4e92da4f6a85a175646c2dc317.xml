@@ -764,12 +764,56 @@
       id="id-ee49fb6223e5469cb64203a22abcee12"
       targetConnections="id-08b5e63b455040ac98b5a05a20df95d0">
     <bounds
-        x="672"
-        y="216"
+        x="456"
+        y="204"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-d7de7d825547487580d90193ce589ccc.xml#id-d7de7d825547487580d90193ce589ccc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-32a28e55afe2408490f20fb06a6e97e5"
+      textAlignment="1"
+      content="Doelen:&#xD;&#xA;1&#x9;Uitgangspunten benoemen voor input centrale gegevens capability model&#xD;&#xA;2&#x9;Overeenstemming: gebruik kenniswiel data governance&#xD;&#xA;3&#x9;Gegevenscapabilities ophangen aan EA. Zodat we komen tot versie 1 van capabilities die we MOETEN (lees centrale) hergebruiken.&#xD;&#xA;4&#x9;JW (vervolg is: aan de slag met definities).&#xD;&#xA;5&#x9;Plek voor centrale capabilities die geharmoniseerd worden over de actieve PSA vies op gebied van gegevens.&#xD;&#xA;">
+    <bounds
+        x="1112"
+        y="66"
+        width="485"
+        height="186"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a587a84586f64480b4519d4196bd14cc"
+      textAlignment="1"
+      content="Discussiepunt: Data governance kenniswiel capabilities toevoegen aan ondersteunende kant?">
+    <bounds
+        x="1476"
+        y="732"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-20c9f67378184bc8a3481a04afbd521d"
+      textAlignment="1"
+      content="Deze keuzes zijn niet echt cpabilities. Zaak is wel om de lijn van kern naar ondersteuning goed te kunnen maken.">
+    <bounds
+        x="36"
+        y="708"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a944ab3396dc4bbfa06e587ec67a20c7"
+      textAlignment="1"
+      content="Bij versie 1.0 de capabilities eens plotten op een echte value streams als StudieFinanciering">
+    <bounds
+        x="61"
+        y="822"
+        width="185"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
