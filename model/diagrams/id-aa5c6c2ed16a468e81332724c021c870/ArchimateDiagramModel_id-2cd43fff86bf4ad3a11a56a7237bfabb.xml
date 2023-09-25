@@ -415,20 +415,6 @@
       id="id-26ec6ce7eef446c39fa23b6342488993">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a18104aa1b9a4410b0027e79d1ecfd54"
-        source="id-26ec6ce7eef446c39fa23b6342488993"
-        target="id-c326509edc334e66a1a03fb47ed328d4">
-      <bendpoints
-          startX="-173"
-          startY="-2"
-          endX="7"
-          endY="596"/>
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_id-2e8a93f3f4ea482bbaffae488f4baf5c.xml#id-2e8a93f3f4ea482bbaffae488f4baf5c"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6bc8739316db45069fbfeaa847fdbc9f"
         source="id-26ec6ce7eef446c39fa23b6342488993"
         target="id-19afa0e281b44de497dcfacbae0b6a79">
@@ -465,6 +451,20 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-964918c5a2bf4cf5af599e9e082e151b.xml#id-964918c5a2bf4cf5af599e9e082e151b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a18104aa1b9a4410b0027e79d1ecfd54"
+        source="id-26ec6ce7eef446c39fa23b6342488993"
+        target="id-c326509edc334e66a1a03fb47ed328d4">
+      <bendpoints
+          startX="-173"
+          startY="-2"
+          endX="7"
+          endY="596"/>
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_id-2e8a93f3f4ea482bbaffae488f4baf5c.xml#id-2e8a93f3f4ea482bbaffae488f4baf5c"/>
     </sourceConnections>
     <bounds
         x="204"
@@ -887,7 +887,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c326509edc334e66a1a03fb47ed328d4"
-      targetConnections="id-fc34f4adf06c4706aaa7c447df9166a4 id-3afade4b50854a6683f0da1ac65a8de5 id-b42a4c813d25477dbb7f9e5d2239f9d0 id-46c8e7105ee84c9b958d95addd8a051d id-e0730b95623f4a15b3e64d718644262a id-1f66a697b5f6456f811e516780b78d35 id-0eb27f4c661e411caf9747e4935acde5 id-a18104aa1b9a4410b0027e79d1ecfd54 id-e5a623222f7145ba8651b31002ec415a">
+      targetConnections="id-fc34f4adf06c4706aaa7c447df9166a4 id-3afade4b50854a6683f0da1ac65a8de5 id-b42a4c813d25477dbb7f9e5d2239f9d0 id-46c8e7105ee84c9b958d95addd8a051d id-e0730b95623f4a15b3e64d718644262a id-1f66a697b5f6456f811e516780b78d35 id-0eb27f4c661e411caf9747e4935acde5 id-e5a623222f7145ba8651b31002ec415a id-a18104aa1b9a4410b0027e79d1ecfd54">
     <bounds
         x="24"
         y="168"
