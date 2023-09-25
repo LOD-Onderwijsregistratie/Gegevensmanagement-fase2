@@ -93,7 +93,7 @@
     <bounds
         x="588"
         y="168"
-        width="520"
+        width="433"
         height="745"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -296,6 +296,9 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-79ae8ad5b31d4c8d918c09e69e44cc7a"
         targetConnections="id-55b09c588d274db48ffe66d2f775ec81 id-871e6762291c48a7ba715d2033e52429 id-5f73b80750d44581b9df982d2c8f16b4 id-b8de0bade79a4749a4777062aea50ccc id-1a0d81905ec3447f867553b0e6f8265c id-f8cb23c8c65a4939bd7447829808f9d8 id-45990c4822384c5ca2e5304c7f2d83b1 id-b5928d6c597a4d859868c68876ba8a2b id-91205483a7ed4c0bb1ca23eb3c940a78 id-8fb6278275ba48afa0cdf5c83e7fec45 id-e005897fbaa44602b6fb6b663c41cec8">
+      <features
+          name="imageSource"
+          value="1"/>
       <bounds
           x="24"
           y="336"
@@ -713,6 +716,11 @@
           id="id-9244fe99c150478eb16da67947411451"
           source="id-7333a62991f04f58bdb3c05efd7ea774"
           target="id-8fe4ebd504754c7ab6764efaaf84d7c9">
+        <bendpoints
+            startX="6"
+            startY="60"
+            endX="-25"
+            endY="-119"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-252d94f146e942c4b23d4f975e0affd0.xml#id-252d94f146e942c4b23d4f975e0affd0"/>
@@ -827,10 +835,10 @@
           source="id-f52512be7bc5418f862575d6e529b961"
           target="id-7ed54c47e7bc4a8e86114fe31c219cb9">
         <bendpoints
-            startX="42"
-            startY="-328"
-            endX="-44"
-            endY="321"/>
+            startX="30"
+            startY="-316"
+            endX="-12"
+            endY="345"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-e9e1ae18ea644038a874e8f6deb23b74.xml#id-e9e1ae18ea644038a874e8f6deb23b74"/>
@@ -840,6 +848,11 @@
           id="id-d5ad45cc8d0948a0924a17945ebc9fb8"
           source="id-f52512be7bc5418f862575d6e529b961"
           target="id-8fe4ebd504754c7ab6764efaaf84d7c9">
+        <bendpoints
+            startX="-6"
+            startY="-52"
+            endX="-25"
+            endY="121"/>
         <archimateRelationship
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-c097cb9dea8d42489b66193f2b2d0d67.xml#id-c097cb9dea8d42489b66193f2b2d0d67"/>
@@ -937,6 +950,20 @@
             xsi:type="archimate:SpecializationRelationship"
             href="SpecializationRelationship_id-5da67199a2704da48ca58c6b3174aff8.xml#id-5da67199a2704da48ca58c6b3174aff8"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-d87900547a0d4b98aca56b066e0767ef"
+          source="id-8fe4ebd504754c7ab6764efaaf84d7c9"
+          target="id-7ed54c47e7bc4a8e86114fe31c219cb9">
+        <bendpoints
+            startX="11"
+            startY="-275"
+            endX="-56"
+            endY="213"/>
+        <archimateRelationship
+            xsi:type="archimate:SpecializationRelationship"
+            href="SpecializationRelationship_id-4b69a189d26b48069e2518b6f9951731.xml#id-4b69a189d26b48069e2518b6f9951731"/>
+      </sourceConnections>
       <bounds
           x="409"
           y="337"
@@ -953,11 +980,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7ed54c47e7bc4a8e86114fe31c219cb9"
-      targetConnections="id-878999f3958d4c189700619ce24f023d id-6eeb55017d294463b9ab2e2444213799 id-cc52cce687bf4de08a7b8f3f55d2f140 id-2b3fe78bb0774de2af19b2293324e2b1 id-7d5c268a388e4046b362d09d0a664610 id-13ebaa6f3f9c4e69acb736308a3363a3 id-053d301f083c448ebf66f57f3066dbb9 id-c1d0890c93914589870d270e94f85c71 id-d325c042caef45e08f9548d3a616ad80">
+      targetConnections="id-878999f3958d4c189700619ce24f023d id-6eeb55017d294463b9ab2e2444213799 id-cc52cce687bf4de08a7b8f3f55d2f140 id-2b3fe78bb0774de2af19b2293324e2b1 id-7d5c268a388e4046b362d09d0a664610 id-13ebaa6f3f9c4e69acb736308a3363a3 id-053d301f083c448ebf66f57f3066dbb9 id-c1d0890c93914589870d270e94f85c71 id-d325c042caef45e08f9548d3a616ad80 id-d87900547a0d4b98aca56b066e0767ef">
     <bounds
         x="36"
         y="84"
-        width="1072"
+        width="985"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Capability"

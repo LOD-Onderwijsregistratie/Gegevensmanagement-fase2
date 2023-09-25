@@ -202,30 +202,12 @@
       id="id-6ed5c824a12f4a8195383a24ce2cff36">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a53c5214fcc043ff9587d599f9572749"
-        source="id-6ed5c824a12f4a8195383a24ce2cff36"
-        target="id-dcafc72c1d6649a3b9676bf6a2989dbb">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-a42ea09142ef46d4ac42860b03a88bc2.xml#id-a42ea09142ef46d4ac42860b03a88bc2"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-42abe64116f04be7827a0de117e03f19"
         source="id-6ed5c824a12f4a8195383a24ce2cff36"
         target="id-32350521255541508fbbb45da2879fb5">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-06cb39262e3641b299ceca1149310908.xml#id-06cb39262e3641b299ceca1149310908"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-45506040dbe9459cb69a411be6e5bf7a"
-        source="id-6ed5c824a12f4a8195383a24ce2cff36"
-        target="id-279c38d5677b4be1b02aebbf6f98c9b5">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-771b393d3631484db32dfeac6fcc5720.xml#id-771b393d3631484db32dfeac6fcc5720"/>
     </sourceConnections>
     <bounds
         x="756"
@@ -234,8 +216,7 @@
         height="241"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-279c38d5677b4be1b02aebbf6f98c9b5"
-        targetConnections="id-45506040dbe9459cb69a411be6e5bf7a">
+        id="id-279c38d5677b4be1b02aebbf6f98c9b5">
       <bounds
           x="12"
           y="48"
@@ -260,8 +241,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-dcafc72c1d6649a3b9676bf6a2989dbb"
-        targetConnections="id-a53c5214fcc043ff9587d599f9572749">
+        id="id-dcafc72c1d6649a3b9676bf6a2989dbb">
       <bounds
           x="12"
           y="168"
