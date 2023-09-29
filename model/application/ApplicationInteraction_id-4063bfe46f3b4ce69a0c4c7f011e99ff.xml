@@ -1,5 +1,0 @@
-<archimate:ApplicationInteraction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Genereer Replica en pipelines"
-    id="id-4063bfe46f3b4ce69a0c4c7f011e99ff"
-    documentation="Dit is de geautomatiseerde interactie voor het verwerken van technische specificaties met als doel het genereren van specificaties voor het inrichten van passieve (Replica gegevensobject) en actieve (Replica pipelines) elementen van de Replica applicatie component."/>

@@ -1285,7 +1285,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-a5a03b55b99d43389b256277de3d83ea"
       textAlignment="1"
-      content="titel:&#x9;&#x9;Distributie platformen SOLL&#xA;geldig vanaf:&#x9;2025-01-01&#x9;&#x9;&#x9;tot:&#x9;&#x9;2030-12-31&#xA;activiteit:&#x9;programma GABI&#x9;&#x9;&#x9;status:&#x9;&#x9;Gereviewed&#xA;bijdragen:&#x9;RB, JWVV">
+      content="titel:&#x9;&#x9;Distributie platformen SOLL&#xA;geldig vanaf:&#x9;2025-01-01 tot 2030-12-31&#xA;activiteit:&#x9;&#x9;programma GABI &#xD;&#xA;status:&#x9;&#x9;Gereviewed&#xA;bijdragen:&#x9;RB, JWVV">
     <bounds
         x="10"
         y="10"

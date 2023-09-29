@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Replica genereer service"
+    id="id-a164817f2e194bddb463ac4dfd61a268"
+    documentation="Dit is de geautomatiseerde service voor het verwerken van technische specificaties met als doel het genereren van specificaties voor het inrichten van passieve (Replica gegevensobject) en actieve (Replica pipelines) elementen van de Replica applicatie component."/>
