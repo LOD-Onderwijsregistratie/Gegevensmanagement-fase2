@@ -6,7 +6,8 @@
     documentation="Overzicht Requirements van een VRE">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-0723d0f7d0be4f48b3a3ee8d3396863f">
+      id="id-0723d0f7d0be4f48b3a3ee8d3396863f"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-f8186856774a4e93899ced802043fe44"

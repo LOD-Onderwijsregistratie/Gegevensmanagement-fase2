@@ -7,8 +7,7 @@
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-17371480bc8645f8adecdfe196e87434"
-      type="1">
+      id="id-17371480bc8645f8adecdfe196e87434">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-388ba5182cbb4bf682534b8e4f3b1be1"
@@ -44,8 +43,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-2fdb008d228f423c8fe001273565313d"
-        targetConnections="id-388ba5182cbb4bf682534b8e4f3b1be1 id-26d1aac105a3432cae20dedb93418fdf id-be3517452d004d0ab3be789fbd7a09c4"
-        type="1">
+        targetConnections="id-388ba5182cbb4bf682534b8e4f3b1be1 id-26d1aac105a3432cae20dedb93418fdf id-be3517452d004d0ab3be789fbd7a09c4">
       <bounds
           x="299"
           y="85"
