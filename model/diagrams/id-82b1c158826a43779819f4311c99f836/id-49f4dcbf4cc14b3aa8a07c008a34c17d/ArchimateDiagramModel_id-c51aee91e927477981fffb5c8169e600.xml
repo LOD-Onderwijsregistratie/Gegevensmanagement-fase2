@@ -400,6 +400,15 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-a1854b9b2174473d85975a38ae440f7c.xml#id-a1854b9b2174473d85975a38ae440f7c"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-98fbe067d91a4fb2b004a6158bdc802e"
+          source="id-55eb3123ac2c474d8dcfacb834822d28"
+          target="id-adf8561cce24415fbf2bef42e8bf8648">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-7226ddc58ff1412393356132a8417a09.xml#id-7226ddc58ff1412393356132a8417a09"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="24"
@@ -453,7 +462,7 @@
     <bounds
         x="960"
         y="612"
-        width="1764"
+        width="1765"
         height="145"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -919,20 +928,6 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-24c1a316cbe749c6b212a6059e6078bc.xml#id-24c1a316cbe749c6b212a6059e6078bc"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d0c850b867794c39b39bf3da816b3fed"
-        source="id-a796d38bf2e04abda1d7035eb9b189ff"
-        target="id-7760fda4e3044a689213a47302e566af">
-      <bendpoints
-          startX="-1188"
-          startY="4"
-          endX="-24"
-          endY="-314"/>
-      <archimateRelationship
-          xsi:type="archimate:AssignmentRelationship"
-          href="AssignmentRelationship_id-901918ea0ef14ab2b00f19a33fec4857.xml#id-901918ea0ef14ab2b00f19a33fec4857"/>
-    </sourceConnections>
     <bounds
         x="1572"
         y="174"
@@ -968,16 +963,16 @@
         height="156"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-7760fda4e3044a689213a47302e566af"
-        targetConnections="id-d0c850b867794c39b39bf3da816b3fed">
+        id="id-adf8561cce24415fbf2bef42e8bf8648"
+        targetConnections="id-98fbe067d91a4fb2b004a6158bdc802e">
       <bounds
-          x="12"
-          y="60"
-          width="840"
-          height="55"/>
+          x="24"
+          y="36"
+          width="816"
+          height="96"/>
       <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_id-36907a04e31449439daf0629088785e8.xml#id-36907a04e31449439daf0629088785e8"/>
+          xsi:type="archimate:ValueStream"
+          href="ValueStream_id-2aa15d4acfd24fdab36fa69fc0757d2d.xml#id-2aa15d4acfd24fdab36fa69fc0757d2d"/>
     </children>
   </children>
   <children
@@ -991,6 +986,18 @@
         y="612"
         width="888"
         height="144"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-2bb3b2f868194f03a1aa993c7105dedb">
+      <bounds
+          x="732"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Capability"
+          href="Capability_id-004f3bd0701e4e39893d6c26209303b7.xml#id-004f3bd0701e4e39893d6c26209303b7"/>
+    </children>
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -1645,5 +1652,16 @@
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-8bbdb107950242faa9c3b71291ae29d2.xml#id-8bbdb107950242faa9c3b71291ae29d2"/>
     </children>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c90ace63120e4eb3800427fae0f6e00c"
+      textAlignment="1"
+      content="TODO 6/10/23&#xD;&#xA;de gegevensmanegement capability is volledig ondersteunend aan de value stream gegevensdiensten&#xD;&#xA;dit moet worden uitgebreidt met overige capabilties &#xD;&#xA;check onder welke capability DLM moet vallen (DAMA)&#xD;&#xA;levenscyclus vervangen door functies (GEEL)&#xD;&#xA;gegevendiensten value stream level 2 verkennen">
+    <bounds
+        x="984"
+        y="11"
+        width="209"
+        height="120"/>
   </children>
 </archimate:ArchimateDiagramModel>
