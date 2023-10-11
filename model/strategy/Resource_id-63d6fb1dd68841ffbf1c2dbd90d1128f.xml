@@ -1,4 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevens"
-    id="id-63d6fb1dd68841ffbf1c2dbd90d1128f"/>
+    id="id-63d6fb1dd68841ffbf1c2dbd90d1128f"
+    documentation="DUO Gegevensprincipe: Data is een Asset&#xD;&#xA;&#xD;&#xA;DAMA DMBOK2: &#xD;&#xA;Data is valuable:&#xD;&#xA;- Data is an asset with unique properties&#xD;&#xA;- The value of data can and should be expressed in economic terms"/>

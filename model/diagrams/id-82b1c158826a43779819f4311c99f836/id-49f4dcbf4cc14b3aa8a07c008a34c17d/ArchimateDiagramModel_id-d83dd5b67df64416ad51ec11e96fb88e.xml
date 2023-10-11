@@ -1,7 +1,6 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="EA Capabilities Gegevensdiensten"
     id="id-d83dd5b67df64416ad51ec11e96fb88e"
     documentation="Bron EA: Het domein Gegevensdiensten is gericht op het leveren en ontsluiten van gegevens aan externe afnemers en tevens aan DUO zelf.">
   <children
