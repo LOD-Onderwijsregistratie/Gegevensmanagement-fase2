@@ -693,8 +693,8 @@
       content="TODO 6/10/23&#xD;&#xA;de gegevensmanegement capability is volledig ondersteunend aan de value stream gegevensdiensten&#xD;&#xA;dit moet worden uitgebreidt met overige capabilties &#xD;&#xA;check onder welke capability DLM moet vallen (DAMA)&#xD;&#xA;levenscyclus vervangen door functies (GEEL)&#xD;&#xA;gegevendiensten value stream level 2 verkennen">
     <bounds
         x="384"
-        y="24"
+        y="12"
         width="337"
-        height="264"/>
+        height="120"/>
   </children>
 </archimate:ArchimateDiagramModel>
