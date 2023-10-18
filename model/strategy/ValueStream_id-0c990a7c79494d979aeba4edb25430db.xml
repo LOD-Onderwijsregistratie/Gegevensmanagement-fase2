@@ -1,4 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensbeheer"
-    id="id-0c990a7c79494d979aeba4edb25430db"/>
+    id="id-0c990a7c79494d979aeba4edb25430db"
+    documentation="DAMA DMBOK2 levenscyclus: Store /Maintain"/>

@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevensplan (copy)"
+    id="id-3cbf9877ddbb4551ae94e987d32816d7"
+    documentation="DAMA DMBOK2 levenscyclus: Plan&#xD;&#xA;&#xD;&#xA;It takes planning to manage data; Data is created in many places and is moved between places for use. To coordinate work and keep the end results aligned requires planning from an architectural and proces perspective.&#xD;&#xA;"/>
