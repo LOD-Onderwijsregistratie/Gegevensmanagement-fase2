@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Natural Language Processing (NLP)"
+    id="id-49fabb4f786d43019906f8547a71e915"
+    documentation="Machine learning omvat het gebruik van algoritmen en statistische modellen om computersystemen te laten leren van gegevens en voorspellingen te doen zonder expliciete programmering. Dit omvat supervised learning (toezicht), unsupervised learning (ongecontroleerd), en reinforcement learning (versterkt leren)."/>
