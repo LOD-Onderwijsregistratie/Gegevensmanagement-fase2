@@ -1,5 +1,15 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevenskwaliteit"
+    name="Gegevens kwaliteit"
     id="id-3e844bf4360141cf871d223a0942e73f"
-    documentation="DAMA DMBOK2: Datakwaliteit is het definiëren, monitoren en onderhouden van gegevensintegriteit en het verbeteren van gegevenskwaliteit.&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="Datakwaliteit is het definiëren, monitoren en onderhouden van gegevensintegriteit en het verbeteren van gegevenskwaliteit.&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="omschrijving"
+      value="Bron: DAMA DMBOK2"/>
+</archimate:Capability>

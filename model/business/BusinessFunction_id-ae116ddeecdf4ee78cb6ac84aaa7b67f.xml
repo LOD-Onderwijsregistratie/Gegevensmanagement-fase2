@@ -1,5 +1,5 @@
 <archimate:BusinessFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Samenstellen (combineren, transformeren)"
+    name="Samenstellen"
     id="id-ae116ddeecdf4ee78cb6ac84aaa7b67f"
-    documentation="bron: Ketenarchitectuur veranderopgave onderwijsgegevensplatform (nov '21)&#xD;&#xA;Samenstellen (Encyclo)&#xD;&#xA;Uit verschillende delen een nieuw geheel maken&#xD;&#xA;"/>
+    documentation="bron: Ketenarchitectuur veranderopgave onderwijsgegevensplatform (nov '21)&#xD;&#xA;Samenstellen (Encyclo)&#xD;&#xA;Uit verschillende delen een nieuw geheel maken. bijvoorbeeld:  combineren, transformeren&#xD;&#xA;"/>

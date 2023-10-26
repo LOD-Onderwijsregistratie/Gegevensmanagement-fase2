@@ -1,5 +1,5 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gegevensdiensten"
+    name="Gegevens-diensten"
     id="id-2aa15d4acfd24fdab36fa69fc0757d2d"
-    documentation="Waarde toevoegend aan gegevensmanagement capability&#xD;&#xA;business: verantwoorden, &#xD;&#xA;&#xD;&#xA;- Rapporteren&#xD;&#xA;- Analyseren&#xD;&#xA;- Onderzoeken&#xD;&#xA;- Leveren&#xD;&#xA;"/>
+    documentation="Gegevensdiensten is gericht op het leveren en ontsluiten van gegevens aan externe afnemers en tevens aan DUO zelf.&#xD;&#xA;&#xD;&#xA;Waarde toevoegend aan gegevensmanagement capability&#xD;&#xA;business: verantwoorden, &#xD;&#xA;&#xD;&#xA;- Rapporteren&#xD;&#xA;- Analyseren&#xD;&#xA;- Onderzoeken&#xD;&#xA;- Leveren&#xD;&#xA;"/>
