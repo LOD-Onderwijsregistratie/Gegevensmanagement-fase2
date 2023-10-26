@@ -20,8 +20,8 @@
       name="Capability gegevens level1"
       textAlignment="1">
     <bounds
-        x="673"
-        y="756"
+        x="397"
+        y="612"
         width="1992"
         height="157"/>
     <children
@@ -163,6 +163,15 @@
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-64e09b71ea474a49ac1453379e3ebbed.xml#id-64e09b71ea474a49ac1453379e3ebbed"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-0448d7c2101e43acbfcd68930f9511fc"
+          source="id-679af42fc3b34bc5915716fe3b7a55a3"
+          target="id-a254e6cd8179414381e0646d4276b753">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-10d80655b775425599756b9d5597eebb.xml#id-10d80655b775425599756b9d5597eebb"/>
+      </sourceConnections>
       <bounds
           x="1560"
           y="24"
@@ -179,8 +188,8 @@
       name="Capability gegevens level2"
       textAlignment="1">
     <bounds
-        x="672"
-        y="947"
+        x="396"
+        y="803"
         width="1993"
         height="326"/>
     <children
@@ -591,8 +600,8 @@
       id="id-4490c4fbb0ba43e4ab55d2055b269727"
       targetConnections="id-4089505dd7be4b1daeab2c407542ff9e id-9faea20fb04540c4bfb19819cf69c4df">
     <bounds
-        x="336"
-        y="840"
+        x="60"
+        y="696"
         width="204"
         height="60"/>
     <archimateElement
@@ -612,8 +621,8 @@
           href="AggregationRelationship_id-d77c47ddf37649a699b476280f895f89.xml#id-d77c47ddf37649a699b476280f895f89"/>
     </sourceConnections>
     <bounds
-        x="384"
-        y="756"
+        x="108"
+        y="612"
         width="120"
         height="55"/>
     <archimateElement
@@ -621,73 +630,13 @@
         href="CourseOfAction_id-a5dc7fc984d040738ac6dc4643d1fb4f.xml#id-a5dc7fc984d040738ac6dc4643d1fb4f"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelGroup"
-      id="id-e65b39058c0a4190aa71ee1062eec37d"
-      name="Studiefinanciering"
-      textAlignment="1"
-      documentation="Bron: EA">
-    <bounds
-        x="3024"
-        y="1056"
-        width="582"
-        height="144"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-7e0945058d91433b86e5b88c12eaf92e">
-      <bounds
-          x="288"
-          y="60"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ValueStream"
-          href="ValueStream_id-03cfb4fe4e174c8685cb0fecbe7656fc.xml#id-03cfb4fe4e174c8685cb0fecbe7656fc"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-8d6dd4900b6d4c77a3a7ac763cd245bb">
-      <bounds
-          x="156"
-          y="60"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ValueStream"
-          href="ValueStream_id-ffdca167261a4445a04a5e2f850d33ee.xml#id-ffdca167261a4445a04a5e2f850d33ee"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-749f16857c694a83aa85c22477648e5d">
-      <bounds
-          x="420"
-          y="60"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ValueStream"
-          href="ValueStream_id-09023bc1eccf4cee8967e3249453a186.xml#id-09023bc1eccf4cee8967e3249453a186"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-a207aa3edc0e44e6b34d34519a508f8a">
-      <bounds
-          x="24"
-          y="60"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:ValueStream"
-          href="ValueStream_id-692b52658b3f47bc98c6911ca0a94f8c.xml#id-692b52658b3f47bc98c6911ca0a94f8c"/>
-    </children>
-  </children>
-  <children
       xsi:type="archimate:DiagramModelNote"
       id="id-c90ace63120e4eb3800427fae0f6e00c"
       textAlignment="1"
       content="TODO 6/10/23&#xD;&#xA;de gegevensmanegement capability is volledig ondersteunend aan de value stream gegevensdiensten&#xD;&#xA;dit moet worden uitgebreidt met overige capabilties &#xD;&#xA;check onder welke capability DLM moet vallen (DAMA)&#xD;&#xA;levenscyclus vervangen door functies (GEEL)&#xD;&#xA;gegevendiensten value stream level 2 verkennen">
     <bounds
-        x="396"
-        y="12"
+        x="3017"
+        y="60"
         width="337"
         height="120"/>
   </children>
@@ -697,8 +646,8 @@
       textAlignment="1"
       content="- gegevensdiensten op level 2 vertalen in gegevensfuncties (gele laag)&#xD;&#xA;- levenscyclus gele laag toevoegen">
     <bounds
-        x="775"
-        y="12"
+        x="3396"
+        y="60"
         width="222"
         height="120"/>
   </children>
@@ -708,8 +657,8 @@
       textAlignment="1"
       content="check op het toevopegen van een capability voor OPEN/PUBLIEKE producten (vorm van intelligence?&#xD;&#xA;waar komen vragen vanuit ministerie terecht zowel ad/hoc als repeterend&#xD;&#xA;26/10: &#xD;&#xA;- ad hoc/structureel vormen onderdeel van 2 specifieke processen die invulling geven aan opgenomen gegevensfuncties waarbij het ad-hoc bepaalde functies over zal slaan. &#xD;&#xA;- Open of gesloten producten opnemen in uitwerkingen van gegevensfunctie verstrekken/publiceren">
     <bounds
-        x="420"
-        y="1392"
+        x="2795"
+        y="1560"
         width="241"
         height="120"/>
   </children>
@@ -802,8 +751,8 @@
       name="Kern capabilities (gegevens) level 3"
       textAlignment="1">
     <bounds
-        x="-144"
-        y="1043"
+        x="2964"
+        y="720"
         width="553"
         height="193"/>
     <children
@@ -885,8 +834,8 @@
       textAlignment="1"
       content="kunnne we de analytical functies (gartner) opnemen in de gegevensfuncties?&#xD;&#xA;&#xD;&#xA;26/10: functies opgenomen of in bestaande functies opgenomen">
     <bounds
-        x="-108"
-        y="1212"
+        x="3000"
+        y="889"
         width="216"
         height="108"/>
   </children>
@@ -896,8 +845,8 @@
       textAlignment="1"
       content="generieke DUO capabilities (ZIE EA boekje)">
     <bounds
-        x="2124"
-        y="209"
+        x="1848"
+        y="65"
         width="144"
         height="92"/>
   </children>
@@ -907,8 +856,8 @@
       textAlignment="1"
       content="Generieke Gegevensfuncties zie: ketenarchitectuur onderwijsplatform en architectuur TO_BE">
     <bounds
-        x="492"
-        y="1296"
+        x="2808"
+        y="1428"
         width="168"
         height="84"/>
   </children>
@@ -918,8 +867,8 @@
       textAlignment="1"
       content="CIO-126&#xD;&#xA;CIO-229&#xD;&#xA;CIO-230">
     <bounds
-        x="1308"
-        y="12"
+        x="2724"
+        y="72"
         width="216"
         height="120"/>
   </children>
@@ -992,8 +941,8 @@
           href="CompositionRelationship_id-7b986e42a3e1454a961cae240d7fa73b.xml#id-7b986e42a3e1454a961cae240d7fa73b"/>
     </sourceConnections>
     <bounds
-        x="924"
-        y="276"
+        x="648"
+        y="132"
         width="1448"
         height="408"/>
     <children
@@ -1262,7 +1211,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a254e6cd8179414381e0646d4276b753"
-        targetConnections="id-aeb94dc7bca14b8286e8d8b9a9c1bfdf">
+        targetConnections="id-aeb94dc7bca14b8286e8d8b9a9c1bfdf id-0448d7c2101e43acbfcd68930f9511fc">
       <bounds
           x="1224"
           y="115"
@@ -1282,8 +1231,8 @@
       name="DUO Assets"
       textAlignment="1">
     <bounds
-        x="324"
-        y="343"
+        x="48"
+        y="199"
         width="504"
         height="336"/>
     <children
@@ -1478,8 +1427,8 @@
           href="AssignmentRelationship_id-bb3206037e23453ea6fc40870191bede.xml#id-bb3206037e23453ea6fc40870191bede"/>
     </sourceConnections>
     <bounds
-        x="672"
-        y="1284"
+        x="396"
+        y="1140"
         width="1992"
         height="401"/>
     <children

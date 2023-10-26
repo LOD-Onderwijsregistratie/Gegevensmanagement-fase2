@@ -12,4 +12,7 @@
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
+  <properties
+      key="kaders"
+      value="Gegevensontwikkeling &amp; Beheer v1.0"/>
 </archimate:Capability>
