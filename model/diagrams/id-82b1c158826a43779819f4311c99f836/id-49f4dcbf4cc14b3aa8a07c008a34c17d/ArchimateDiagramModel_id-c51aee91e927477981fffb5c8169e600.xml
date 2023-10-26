@@ -30,30 +30,6 @@
         targetConnections="id-247d01cb19994bb4b2eebada7e5c6e9e id-90c8391382c64681bb745a33aa7eef22 id-ca0d53a76ce04144beea7bad1222dab0 id-0f1dd4ab847d4ad0aaeb0d34d2000a89 id-4be0b61528f74f238a2728bce009cf33 id-49de40340272435dad4658f199a63d89 id-ce251b44ad2f487d86a8522807637817 id-e80e5b83158d48d78e65ca41d9de18f0 id-1909479192e24fa6888dcdbe2e3766d4 id-948a24c14dd740bdaf532837182bd1f3 id-9020807d219349d79eeca572e0f35334">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2e691015e67b4121bc79817dbd5d737d"
-          source="id-55eb3123ac2c474d8dcfacb834822d28"
-          target="id-4490c4fbb0ba43e4ab55d2055b269727">
-        <bendpoints
-            startX="-810"
-            startY="-48"
-            endX="115"
-            endY="283"/>
-        <bendpoints
-            startX="-810"
-            startY="-264"
-            endX="115"
-            endY="67"/>
-        <bendpoints
-            startX="-906"
-            startY="-264"
-            endX="19"
-            endY="67"/>
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-b651b939b6c3475e9674e244447a81a5.xml#id-b651b939b6c3475e9674e244447a81a5"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-d930fc45aaf74df1a0e1db643e2b1e49"
           source="id-55eb3123ac2c474d8dcfacb834822d28"
           target="id-111e44cf9fc34465a892b58a6ca810a6">
@@ -87,6 +63,15 @@
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-d0c75c4b00064df8996958538f1f057c.xml#id-d0c75c4b00064df8996958538f1f057c"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-9faea20fb04540c4bfb19819cf69c4df"
+          source="id-55eb3123ac2c474d8dcfacb834822d28"
+          target="id-4490c4fbb0ba43e4ab55d2055b269727">
+        <archimateRelationship
+            xsi:type="archimate:RealizationRelationship"
+            href="RealizationRelationship_id-31dd44e20c4547318d416a09015d983a.xml#id-31dd44e20c4547318d416a09015d983a"/>
       </sourceConnections>
       <bounds
           x="24"
@@ -156,19 +141,24 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-68f76893a9ad49eb97b80820e2ec9d46"
+          id="id-7023db9da6c146759f886c472b3412b7"
           source="id-679af42fc3b34bc5915716fe3b7a55a3"
           target="id-131cc3815feb494bbe3285a15539d088">
         <bendpoints
-            startX="-180"
-            startY="-420"
-            endX="918"
-            endY="-40"/>
+            startX="-168"
+            startY="-84"
+            endX="678"
+            endY="339"/>
         <bendpoints
-            startX="-552"
+            startX="-300"
+            startY="-84"
+            endX="546"
+            endY="339"/>
+        <bendpoints
+            startX="-300"
             startY="-420"
             endX="546"
-            endY="-40"/>
+            endY="3"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-64e09b71ea474a49ac1453379e3ebbed.xml#id-64e09b71ea474a49ac1453379e3ebbed"/>
@@ -599,10 +589,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4490c4fbb0ba43e4ab55d2055b269727"
-      targetConnections="id-2e691015e67b4121bc79817dbd5d737d id-4089505dd7be4b1daeab2c407542ff9e">
+      targetConnections="id-4089505dd7be4b1daeab2c407542ff9e id-9faea20fb04540c4bfb19819cf69c4df">
     <bounds
-        x="420"
-        y="480"
+        x="336"
+        y="840"
         width="204"
         height="60"/>
     <archimateElement
@@ -622,8 +612,8 @@
           href="AggregationRelationship_id-d77c47ddf37649a699b476280f895f89.xml#id-d77c47ddf37649a699b476280f895f89"/>
     </sourceConnections>
     <bounds
-        x="468"
-        y="396"
+        x="384"
+        y="756"
         width="120"
         height="55"/>
     <archimateElement
@@ -729,8 +719,8 @@
       name="Business capabilities DUO level 2"
       textAlignment="1">
     <bounds
-        x="2436"
-        y="319"
+        x="2712"
+        y="343"
         width="408"
         height="246"/>
     <children
@@ -906,8 +896,8 @@
       textAlignment="1"
       content="generieke DUO capabilities (ZIE EA boekje)">
     <bounds
-        x="1872"
-        y="252"
+        x="2124"
+        y="209"
         width="144"
         height="92"/>
   </children>
@@ -1002,8 +992,8 @@
           href="CompositionRelationship_id-7b986e42a3e1454a961cae240d7fa73b.xml#id-7b986e42a3e1454a961cae240d7fa73b"/>
     </sourceConnections>
     <bounds
-        x="672"
-        y="319"
+        x="924"
+        y="276"
         width="1448"
         height="408"/>
     <children
@@ -1048,7 +1038,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-131cc3815feb494bbe3285a15539d088"
-        targetConnections="id-05582fc3d371431aa3c66c65044a8d0e id-68f76893a9ad49eb97b80820e2ec9d46">
+        targetConnections="id-05582fc3d371431aa3c66c65044a8d0e id-7023db9da6c146759f886c472b3412b7">
       <bounds
           x="132"
           y="115"
@@ -1292,8 +1282,8 @@
       name="DUO Assets"
       textAlignment="1">
     <bounds
-        x="120"
-        y="588"
+        x="324"
+        y="343"
         width="504"
         height="336"/>
     <children
@@ -1438,6 +1428,11 @@
           id="id-9020807d219349d79eeca572e0f35334"
           source="id-8cdf9de7807a4ed89f85db41558d48e9"
           target="id-55eb3123ac2c474d8dcfacb834822d28">
+        <bendpoints
+            startX="216"
+            startY="10"
+            endX="-582"
+            endY="-276"/>
         <archimateRelationship
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-94a24b01f9f644449defb8b368d306ac.xml#id-94a24b01f9f644449defb8b368d306ac"/>
@@ -2480,8 +2475,8 @@
       textAlignment="1"
       content="business capabilities zoals hier genoemd zijn onderdeel van de value streams in DUO domeinen ">
     <bounds
-        x="2748"
-        y="300"
+        x="3024"
+        y="324"
         width="157"
         height="109"/>
   </children>
