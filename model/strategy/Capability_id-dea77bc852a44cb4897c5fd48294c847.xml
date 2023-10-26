@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Document &amp; Content"
     id="id-dea77bc852a44cb4897c5fd48294c847"
-    documentation="DAMA DMBOK2: Document en contentmanagement betreft het archiveren, opslaan en toegankelijk maken van gegevens om terug te vinden in ongestructureerde en gestructureerde gegevensopslag."/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="Document en contentmanagement betreft het archiveren, opslaan en toegankelijk maken van gegevens om terug te vinden in ongestructureerde en gestructureerde gegevensopslag."/>
+  <properties
+      key="omschrijving"
+      value="Bron: DAMA DMBOK2"/>
+</archimate:Capability>

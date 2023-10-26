@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Metadata"
     id="id-b8985cde5b734830a8f837e5b8376b59"
-    documentation="DAMA DMBOK2: Metadata betreft het verzamelen, categoriseren, onderhouden, integreren en beheren van metadata (beschrijvende gegevens over de daadwerkelijke gegevens).&#xD;&#xA;"/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="Metadata betreft het verzamelen, categoriseren, onderhouden, integreren en beheren van metadata (beschrijvende gegevens over de daadwerkelijke gegevens)&#xD;&#xA;"/>
+  <properties
+      key="omschrijving"
+      value="Bron: DAMA DMBOK2"/>
+</archimate:Capability>

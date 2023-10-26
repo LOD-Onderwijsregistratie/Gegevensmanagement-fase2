@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operational Intelligence"
     id="id-1b7043d652e14b3fae33c8af02e43b54"
-    documentation="DUO heeft het vermogen om op real-time basis gegevens en informatie te verzamelen, analyseren en daarop actie te ondernemen zodat anomalien tijdens de operatie van diensten, hardware en software componenten direct gedetecteerd worden waardoor de kwaliteit van DUO geleverde diensten op het gewenste niveau blijft.&#xA;"/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="Het vermogen om op real-time basis gegevens en informatie te verzamelen, analyseren en daarop actie te ondernemen zodat anomalien tijdens de operatie van diensten, hardware en software componenten direct gedetecteerd worden waardoor de kwaliteit van DUO geleverde diensten op het gewenste niveau blijft.&#xA;"/>
+  <properties
+      key="omschrijving"
+      value="de continue bedrijfsanalyse die inzicht biedt in gegevens, lopende gebeurtenissen en de werking van de organisatie.&#xD;&#xA;Bron: Operational Intelligence DUO v1.0"/>
+</archimate:Capability>

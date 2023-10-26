@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Modelling &amp; Design"
     id="id-2d81161d265c4f4a8159360b7a130dcf"
-    documentation="DAMA DMBOK2: Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen."/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen."/>
+  <properties
+      key="omschrijving"
+      value="Bron: DAMA DMBOK2: "/>
+</archimate:Capability>

@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Master &amp; Reference data"
     id="id-e4e84eec39354c24aeadaba62e761b5c"
-    documentation="DAMA DMBOK2: Referentie -en materdata betreft het breed beschikbaar maken van de kerngegevens en het onderscheiden van bijvoorbeeld referentiegegevens van een organisatie."/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="Referentie -en materdata betreft het breed beschikbaar maken van de kerngegevens en het onderscheiden van bijvoorbeeld referentiegegevens van een organisatie."/>
+  <properties
+      key="omschrijving"
+      value="Bron: DAMA DMBOK2"/>
+</archimate:Capability>

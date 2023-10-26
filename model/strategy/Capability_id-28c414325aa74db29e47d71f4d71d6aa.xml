@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Architecture"
     id="id-28c414325aa74db29e47d71f4d71d6aa"
-    documentation="DAMA BMBOK2: Data architectuur is onderdeel van de enterprise (algehele)-architectuur. Binnen de architectuur vindt de vertaling plaats van ambitie naar realisatie.&#xD;&#xA;"/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value=" Data architectuur is onderdeel van de enterprise (algehele)-architectuur. Binnen de architectuur vindt de vertaling plaats van ambitie naar realisatie."/>
+  <properties
+      key="omschrijving"
+      value="DAMA BMBOK2:"/>
+</archimate:Capability>

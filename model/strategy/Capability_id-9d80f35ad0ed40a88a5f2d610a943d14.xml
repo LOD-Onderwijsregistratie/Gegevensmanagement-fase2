@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Intelligence"
     id="id-9d80f35ad0ed40a88a5f2d610a943d14"
-    documentation="Definitie&#xD;&#xA;DUO heeft het vermogen om .. (Alle vormen van Intelligence waarbij gegevens worden gebruikt om tot intelligence producten te komen waaronder OI &amp; BI met als doel om tot ondersteunde besluiten te komen.)&#xD;&#xA;&#xD;&#xA;"/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="De verzamelnaam wat het vermogen beschrijft om gegevens te gebruiken om tot de benodigde inzichten te komen waarmee de organisatie kan worden bestuurd, en worden verbeterd.&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="omschrijving"
+      value="Bron: Gegevensbeleid DUO v1.0, Operational Intelligence V1.0"/>
+</archimate:Capability>

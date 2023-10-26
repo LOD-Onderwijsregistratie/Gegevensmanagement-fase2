@@ -2,4 +2,14 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gegevensmanagement"
     id="id-57954ca8a4014723ac7f9d332fca490a"
-    documentation="Gegevensmanagement betreft het geheel aan activiteiten dat DUO uitvoert om gegevens te verzamelen, vast te leggen, te beheren en ter beschikking te stellen. De functie staat voor het garanderen van de juistheid, tijdigheid en volledigheid en transparantie van alle gegevensleveringen aan alle klanten van DUO, ze vormt de grondslag voor de processen waarmee DUO haar klanten van informatie voorziet.&#xD;&#xA;bron: Gegevensmanagement inrichtingsvoorstel eindrapport v1.0&#xD;&#xA;&#xD;&#xA;Data management is the development, execution, and supervision of plans, policies, programs, and practices that delievr, control, protect, and enhance the value of data and information assets throughout their lifecycles.&#xD;&#xA;bron: DAMA DMBOK2"/>
+    documentation="Zie properties.">
+  <properties
+      key="domein"
+      value="Gegevensmanagement"/>
+  <properties
+      key="definitie"
+      value="Gegevensmanagement betreft het geheel aan activiteiten dat DUO uitvoert om gegevens te verzamelen, vast te leggen, te beheren en ter beschikking te stellen. De functie staat voor het garanderen van de juistheid, tijdigheid en volledigheid en transparantie van alle gegevensleveringen aan alle klanten van DUO, ze vormt de grondslag voor de processen waarmee DUO haar klanten van informatie voorziet.&#xD;&#xA;bron: Gegevensmanagement inrichtingsvoorstel eindrapport v1.0&#xD;&#xA;&#xD;&#xA;Data management is the development, execution, and supervision of plans, policies, programs, and practices that delievr, control, protect, and enhance the value of data and information assets throughout their lifecycles.&#xD;&#xA;bron: DAMA DMBOK2"/>
+  <properties
+      key="omschrijving"
+      value="Bron: eindrapport Gegevensmanagement 1.0"/>
+</archimate:Capability>
