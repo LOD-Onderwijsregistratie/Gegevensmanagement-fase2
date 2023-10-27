@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kennis Management"
     id="id-98939402bf1a44efbdfb94480f452737"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="domein"
       value="Departmentele diensten"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Artificial Intelligence"
     id="id-284e954fbc5e4d55bcfe1b88d4b5d4a7"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="domein"
       value="Gegevensmanagement"/>
