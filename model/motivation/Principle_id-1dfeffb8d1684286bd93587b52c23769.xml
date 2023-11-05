@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GG02] Gegevens  modelmatig ontwikkeld"
+    id="id-1dfeffb8d1684286bd93587b52c23769"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="Dit principe gaat over het expliciet en machineleesbaar maken van kennis over gegevens. Het beste gebeurt dat niet achteraf als documentatie van iets wat al is gemaakt, maar op een natuurlijk ontstaansmoment tijdens het modelleren van gegevens. En dit gebeurt in alle stappen van de gegevenslifecycle (inwinnen, beheer, gebruik, ter beschikking stellen en archiveren/verwijderen). Deze modelkennis wordt openbaar gemaakt voor alle partijen in de keten."/>
+  <properties
+      key="rationale"
+      value="Modellen bevatten kennis over de betekenis, logica en technische implementatie van een gegevensverzameling. Bij een nieuwe gegevensverzameling wordt die kennis stapsgewijs opgebouwd (verticale gegevenslineage). &#xD;&#xA;&#xD;&#xA;Van een primaire gegevensverzameling stromen gegevens doorgaans naar andere afdelingen en organisaties. Ondertussen gebeuren daar dingen mee. Er worden bijvoorbeeld nieuwe gegevens afgeleid, of ze worden technisch anders geïmplementeerd. Ook dat wordt modelmatig ontwikkeld met hergebruik van de vorige stap (horizontale gegevenslineage). Behalve transparantie biedt dit een waardevol middel bij het bepalen van impactanalyses."/>
+  <properties
+      key="implicaties"
+      value="De klassieke werkwijze om gegevensmodellen te ontwikkelen is drievoudig met conceptuele (voor gebruikers), logische (voor bouwers) en technische (fysieke vorm) gegevensmodellen . Dit resulteert in onderdelen van de catalogus van het federatieve gegevensstelsel. Deze werkwijze wordt als een projectdeliverable opgenomen in de relevante architectuurbescheiden.&#xD;&#xA;&#xD;&#xA;DUO stelt aan ontwikkelaars een standaard ontwikkelstraat ter beschikking voor de verschillende modellen en hun onderlinge samenhang. Hierbij hoort een procedure, handboek en support teneinde nieuwe toepassingen met de ontwikkelstraat te laten werken. Dat maakt onderdeel uit van de way-of-working (WOW). Bestaande toepassingen worden achteraf zoveel mogelijk in het reine gebracht met de straat.&#xD;&#xA;&#xD;&#xA;Bijzondere aandacht is nodig bij de overgang van gegevens uit primaire systemen in een analytische werkomgeving zoals het gegevenswarehouse."/>
+  <properties
+      key="verwantschap"
+      value="NORA , AP17 Informatie-objecten zijn uniek geïdentificeerd en in een informatiemodel beschreven&#xD;&#xA;FAIR (findable, accessible, interoperable en re-usable).&#xD;&#xA;DUO Kaderdocument gegevensontwikkeling en beheer."/>
+</archimate:Principle>
