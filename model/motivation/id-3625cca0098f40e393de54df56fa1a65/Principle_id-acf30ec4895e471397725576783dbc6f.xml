@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[BP01] De klant centraal"
     id="id-acf30ec4895e471397725576783dbc6f"
-    documentation="DUO ontwikkelt haar dienstverlening, vanuit het perspectief en de beleving van de klant. Ook bij bediening in ketens en netwerken. DUO zorgt daarbij voor toegankelijkheid voor alle klanten. Klanten zijn de particuliere en de zakelijke klanten die diensten van DUO afnemen.&#xD;&#xA;&#xD;&#xA;Rationale&#xD;&#xA;DUO dient zich, als uitvoeringsorgaan, steeds op het klantbelang te richten. Daarbij wil DUO klanten op een voor hen begrijpelijke wijze in hun rechten bedienen. Niemand wordt uitgesloten voor dienstverlening (inclusie).&#xD;&#xA;"/>
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="DUO ontwikkelt haar dienstverlening, vanuit het perspectief en de beleving van de klant. Ook bij bediening in ketens en netwerken. DUO zorgt daarbij voor toegankelijkheid voor alle klanten. Klanten zijn de particuliere en de zakelijke klanten die diensten van DUO afnemen.&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="rationale"
+      value="DUO dient zich, als uitvoeringsorgaan, steeds op het klantbelang te richten. Daarbij wil DUO klanten op een voor hen begrijpelijke wijze in hun rechten bedienen. Niemand wordt uitgesloten voor dienstverlening (inclusie)."/>
+</archimate:Principle>

@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GG04] Gegevens zijn compliant"
+    id="id-9afaf4f79b93432284242d2186148155"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="Het verwerken van gegevens is onderhevig aan diverse wettelijke eisen en normen. Vaak geformaliseerd in generieke wetgeving, niet direct gelinkt aan een onderwijswet. Compliancy wil zeggen dat DUO aantoonbaar voldoet. In de praktijk gaat het om privacy, gegevensbescherming en archivering."/>
+  <properties
+      key="rationale"
+      value="Dit principe stelt dat compliance-functie geholpen dient te worden met passende gegevensbeschrijvingen om besluiten te kunnen nemen of er doelbinding is, de toegangsbeveiliging voldoende is en wettelijke bewaringstermijnen worden nageleefd. "/>
+  <properties
+      key="implicaties"
+      value="Dit betekent dat gegevens zijn geïnventariseerd en geclassificeerd. De organisatie moet weten wat er aan gegevens beschikbaar (inventariseren) is en van de beschikbare gegevens is het nodig een indicatie bij te houden waar verwerkers aan gehouden zijn (classificeren).&#xD;&#xA;DUO ontwikkelt en onderhoudt een metamodel waarin is gespecificeerd welke ‘compliancy-metagegevens” nodig zijn aan de aanbodkant van gegevens. Dit focust op bescherming tegen ongeoorloofde inzage en wijziging en op bewaring/schoning. &#xD;&#xA;Om te kunnen vaststellen of gebruik “compliant” is, moet aan de vraagkant de context zijn gespecificeerd zoals:&#xD;&#xA;&#xD;&#xA;1.&#x9;Welke wet wordt uitgevoerd of is het open gegevens? &#xD;&#xA;2.&#x9;Wordt het automatisch verwerkt of handmatig?  &#xD;&#xA;3.&#x9;Worden er tussentijdse bewerkingen uitgevoerd of niet?&#xD;&#xA;4.&#x9;Worden gegevens lokaal opgeslagen of niet? &#xD;&#xA;&#xD;&#xA;Om de geformaliseerde vaststelling te maken worden instrumenten gebruikt als een DPIA en een SLA.&#xD;&#xA;Compliancy-eisen gelden extern en intern. Directe toegang tot productiegegevens door medewerkers is alleen mogelijk via geautoriseerde procedures/applicaties. Om te voorkomen dat ontwikkelaars per ongeluk een echte persoon herkennen of dat testevents doorwerken in productie hebben zij nooit toegang tot productiegegevens.&#xD;&#xA;"/>
+  <properties
+      key="verwantschap"
+      value="AVG.&#xD;&#xA;BIV-classificatie (Baseline Informatiebeveiliging Overheid = BIO)&#xD;&#xA;Archiefwet.&#xD;&#xA;"/>
+</archimate:Principle>
