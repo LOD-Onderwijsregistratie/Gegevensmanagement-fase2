@@ -4,12 +4,15 @@
     id="id-e1fb0808fe644363807003c67e46e6e9"
     documentation="Zie properties.">
   <properties
-      key="domein"
-      value="Gegevensmanagement"/>
-  <properties
       key="definitie"
       value="Data Security betreft het totaal van het compliancy vermogen om volgens compliancywetten(AVG, BIO, Archiefwet) met gegevens te handelen"/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
 </archimate:Capability>

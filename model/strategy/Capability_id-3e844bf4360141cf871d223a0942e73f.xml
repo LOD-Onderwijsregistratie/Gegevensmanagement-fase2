@@ -4,12 +4,15 @@
     id="id-3e844bf4360141cf871d223a0942e73f"
     documentation="Zie properties.">
   <properties
-      key="domein"
-      value="Gegevensmanagement"/>
-  <properties
       key="definitie"
       value="Datakwaliteit is het definiëren, monitoren en onderhouden van gegevensintegriteit en het verbeteren van gegevenskwaliteit.&#xD;&#xA;&#xD;&#xA;"/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
 </archimate:Capability>

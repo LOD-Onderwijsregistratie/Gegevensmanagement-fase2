@@ -4,9 +4,6 @@
     id="id-b8985cde5b734830a8f837e5b8376b59"
     documentation="Zie properties.">
   <properties
-      key="domein"
-      value="Gegevensmanagement"/>
-  <properties
       key="definitie"
       value="Metadata betreft het verzamelen, categoriseren, onderhouden, integreren en beheren van metadata (beschrijvende gegevens over de daadwerkelijke gegevens)&#xD;&#xA;"/>
   <properties
@@ -15,4 +12,10 @@
   <properties
       key="kaders"
       value="Gegevensontwikkeling &amp; Beheer v1.0"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
 </archimate:Capability>

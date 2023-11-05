@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Scientist"
-    id="id-d0358710a4d64ecfb96ab18bfd6dee4d"/>
+    id="id-d0358710a4d64ecfb96ab18bfd6dee4d"
+    documentation="NOOT GGR: Dit is geen actor, maar een rol."/>
