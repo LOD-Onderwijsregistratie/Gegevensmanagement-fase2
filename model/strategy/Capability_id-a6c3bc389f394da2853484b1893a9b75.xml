@@ -1,4 +1,12 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sturing gegevenslevenscyclus"
-    id="id-a6c3bc389f394da2853484b1893a9b75"/>
+    id="id-a6c3bc389f394da2853484b1893a9b75"
+    documentation="Zie properties.">
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+</archimate:Capability>

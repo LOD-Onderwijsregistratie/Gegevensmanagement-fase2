@@ -7,7 +7,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-aec35f3a450b4aeda90250974a8c77f8"
       textAlignment="1"
-      content="Titel: EA Gegevenscapabilities&#xD;&#xA;Omschrijving: kladversie/opzet voor uitwerking gegevenscapabilities &#xD;&#xA;Auteur: DVV&#xD;&#xA;Datum: 20-9-2023">
+      content="Titel: EA DUO Gegevenscapabilities&#xD;&#xA;Omschrijving: kladversie/opzet voor uitwerking gegevenscapabilities &#xD;&#xA;Auteur: DVV&#xD;&#xA;Datum: 20-9-2023">
     <bounds
         x="48"
         y="12"
@@ -2219,7 +2219,7 @@
           x="36"
           y="12"
           width="120"
-          height="55"/>
+          height="72"/>
       <archimateElement
           xsi:type="archimate:BusinessFunction"
           href="BusinessFunction_id-40621fed75564f44844bc520c54bc5a2.xml#id-40621fed75564f44844bc520c54bc5a2"/>

@@ -4,8 +4,8 @@
     id="id-b8e927615b2744f4ae64aa9cf4126da7">
   <source
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-b498a20a6ca74093aa60be8e1ec9b8a6.xml#id-b498a20a6ca74093aa60be8e1ec9b8a6"/>
+      href="BusinessFunction_id-828ed3d0cdc445a48d52a05fd4e9b45b.xml#id-828ed3d0cdc445a48d52a05fd4e9b45b"/>
   <target
       xsi:type="archimate:BusinessFunction"
-      href="BusinessFunction_id-db0f2853ebc24b2498ba8253c3e8639f.xml#id-db0f2853ebc24b2498ba8253c3e8639f"/>
+      href="BusinessFunction_id-80d25bc7022344388e7b82bea83ddd65.xml#id-80d25bc7022344388e7b82bea83ddd65"/>
 </archimate:CompositionRelationship>
