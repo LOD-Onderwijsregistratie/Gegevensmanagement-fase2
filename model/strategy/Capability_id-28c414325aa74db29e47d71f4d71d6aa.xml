@@ -4,12 +4,15 @@
     id="id-28c414325aa74db29e47d71f4d71d6aa"
     documentation="Zie properties.">
   <properties
-      key="domein"
-      value="Gegevensmanagement"/>
-  <properties
       key="definitie"
-      value=" Data architectuur is onderdeel van de enterprise (algehele)-architectuur. Binnen de architectuur vindt de vertaling plaats van ambitie naar realisatie."/>
+      value="Data architectuur is onderdeel van de enterprise (algehele)-architectuur. Binnen de architectuur vindt de vertaling plaats van ambitie naar realisatie."/>
   <properties
       key="omschrijving"
       value="Bron: DAMA BMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
 </archimate:Capability>
