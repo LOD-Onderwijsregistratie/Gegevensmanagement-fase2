@@ -4,12 +4,15 @@
     id="id-e4e84eec39354c24aeadaba62e761b5c"
     documentation="Zie properties.">
   <properties
-      key="domein"
-      value="Gegevensmanagement"/>
-  <properties
       key="definitie"
       value="Referentie -en materdata betreft het breed beschikbaar maken van de kerngegevens en het onderscheiden van bijvoorbeeld referentiegegevens van een organisatie."/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
 </archimate:Capability>

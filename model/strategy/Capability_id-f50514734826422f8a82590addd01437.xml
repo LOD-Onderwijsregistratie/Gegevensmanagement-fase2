@@ -4,12 +4,15 @@
     id="id-f50514734826422f8a82590addd01437"
     documentation="Zie properties.">
   <properties
-      key="domein"
-      value="Gegevensmanagement"/>
-  <properties
       key="definitie"
       value="Databeveiliging betreft het verzorgen van de privacy, vertrouwelijkheid en rechtmatige toegang tot gegevens."/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
 </archimate:Capability>
