@@ -5,7 +5,7 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Databeveiliging betreft het verzorgen van de privacy, vertrouwelijkheid en rechtmatige toegang tot gegevens."/>
+      value="DUO heeft het vermogen op gegevensopslag te ontwerpen, implementeren en beheren zodat de waarde van gegevens gemaximaliseerd wordt. Zo kan DUO:&#xD;&#xA;•&#x9;De beschikbaarheid van gegevens gedurende de gegevenslevenscyclus beheren&#xD;&#xA;•&#x9;Zorgen voor de integriteit van de data assets&#xD;&#xA;•&#x9;Beheren van de prestaties van gegevenstransacties.&#xD;&#xA;"/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
