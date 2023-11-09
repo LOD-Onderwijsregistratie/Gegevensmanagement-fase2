@@ -5,7 +5,7 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen."/>
+      value="Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen.&#xD;&#xA;&#xD;&#xA;AR:&#xD;&#xA;DUO heeft het vermogen het proces uit te voeren waarbij datavereisten ontdekt, geanalyseerd en in kaart gebracht wordt en vervolgens te representeren en communiceren in een precieze vorm die het gegevensmodel wordt genoemd.&#xD;&#xA;Gegevensmodellen zijn van cruciaal belang voor effectief gegevensbeheer. Met een gegevensmodel kan DUO:&#xD;&#xA;• Zorgen voor een gemeenschappelijk vocabulaire rond gegevens.&#xD;&#xA;• Expliciete kennis vastleggen en documenteren over de gegevens en systemen van een organisatie.&#xD;&#xA;• Laten fungeren als primair communicatiemiddel tijdens projecten.&#xD;&#xA;• Bieden van het startpunt voor maatwerk, integratie of zelfs vervanging van een applicatie.&#xD;&#xA;"/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2: "/>
