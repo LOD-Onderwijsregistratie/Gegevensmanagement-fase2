@@ -543,4 +543,15 @@
         xsi:type="archimate:Capability"
         href="Capability_id-59d3dd43d5e64a1896c61598fb276e99.xml#id-59d3dd43d5e64a1896c61598fb276e99"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-56c5be8648a94b989efa486bcd0d0d48"
+      textAlignment="1"
+      content="&#xD;&#xA;10/11/23 &#xD;&#xA;kan deze plaat weg? als het goed is staan deze capabilities nu in de EA DUO Gegevenscapabilties view">
+    <bounds
+        x="84"
+        y="36"
+        width="205"
+        height="97"/>
+  </children>
 </archimate:ArchimateDiagramModel>

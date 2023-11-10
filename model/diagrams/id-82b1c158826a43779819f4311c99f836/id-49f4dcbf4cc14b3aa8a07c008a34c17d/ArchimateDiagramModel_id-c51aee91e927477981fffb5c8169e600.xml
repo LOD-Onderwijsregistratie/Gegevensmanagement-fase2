@@ -531,7 +531,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-669a689e3dab454cbb25a906fa4bd097"
-        targetConnections="id-21b080de35404c20a93737fe882b6251 id-d25a6169888348c2a2c1e6f640ab5e18 id-a6e37df2a48743ada78147c08570eea3 id-48652208526e437c81c72ecdf1a41fda id-c0dab5f1d85a44a2bcbae3b5302f12b5">
+        targetConnections="id-21b080de35404c20a93737fe882b6251 id-a6e37df2a48743ada78147c08570eea3 id-48652208526e437c81c72ecdf1a41fda id-c0dab5f1d85a44a2bcbae3b5302f12b5">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2d9e95499c55476b9f3bc8fcf06ea916"
@@ -627,27 +627,6 @@
       <archimateElement
           xsi:type="archimate:Capability"
           href="Capability_id-de89a3547fd84a609bacc1c8e513c964.xml#id-de89a3547fd84a609bacc1c8e513c964"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-e54f92d9fc774d22a52fb4426a64bded">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-d25a6169888348c2a2c1e6f640ab5e18"
-          source="id-e54f92d9fc774d22a52fb4426a64bded"
-          target="id-669a689e3dab454cbb25a906fa4bd097">
-        <archimateRelationship
-            xsi:type="archimate:ServingRelationship"
-            href="ServingRelationship_id-149bb57ba7544dfb96aada9f0f70ba84.xml#id-149bb57ba7544dfb96aada9f0f70ba84"/>
-      </sourceConnections>
-      <bounds
-          x="1212"
-          y="228"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Capability"
-          href="Capability_id-284e954fbc5e4d55bcfe1b88d4b5d4a7.xml#id-284e954fbc5e4d55bcfe1b88d4b5d4a7"/>
     </children>
   </children>
   <children
@@ -2445,5 +2424,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-8f294d69c22748638bac8b5aa29294ca.xml#id-8f294d69c22748638bac8b5aa29294ca"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2568b103758c40b7bfc990594081901a"
+      textAlignment="1"
+      content="kan informatie management uit dezelfde 'Uitvoering LCM'en Sturing 'LCM' bestaan en zijn we het eens dat de verdeiping in een andere view moet komen?">
+    <bounds
+        x="2424"
+        y="648"
+        width="192"
+        height="120"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -5,7 +5,7 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Analytics verwijst naar het proces van het verzamelen, analyseren, interpreteren (en presenteren) van gegevens om inzichten te verkrijgen ter ondersteuning van analytics. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;tekst herzien:&#xD;&#xA;Focus: Analytics richt zich meer op het begrijpen van het verleden en het heden op basis van historische gegevens. Het omvat een breed scala aan technieken, waaronder beschrijvende statistieken, rapportage, data visualisatie en dashboards.&#xD;&#xA;Doelstelling: Het belangrijkste doel van Analytics is het identificeren van trends, het meten van prestaties en het ondersteunen van datagestuurde besluitvorming. Het is gericht op het beantwoorden van vragen als &quot;Wat is er gebeurd?&quot; en &quot;Waarom is het gebeurd?&quot;&#xD;&#xA;Benadering: Analytics maakt gebruik van tools en technieken die meer gericht zijn op het samenvatten en presenteren van gegevens in begrijpelijke vorm. Het vereist nog steeds enige kennis van statistiek, maar niet noodzakelijkerwijs op het niveau van Data Science."/>
+      value="Analytics verwijst naar het proces van het verzamelen, analyseren, interpreteren (en presenteren) van gegevens om inzichten te verkrijgen ter ondersteuning van intelligence. &#xD;&#xA;&#xD;&#xA;Analytics kan op verschillende manieren worden onderverdeeld op basis van benodigd inzicht op bv operationeel, tactisch en/of strategisch niveau.&#xD;&#xA;&#xD;&#xA;Om analytics uit te kunnen voeren worden Data Science technieken gebruikt. Data science een bredere term voor de technieken die betrokken zijn bij het ophalen van inzichten en informatie uit de data met o.a. statistiek, machine learning en artificial intelligence. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;tekst herzien:&#xD;&#xA;Focus: Analytics richt zich meer op het begrijpen van het verleden en het heden op basis van historische gegevens. Het omvat een breed scala aan technieken, waaronder beschrijvende statistieken, rapportage, data visualisatie en dashboards.&#xD;&#xA;Doelstelling: Het belangrijkste doel van Analytics is het identificeren van trends, het meten van prestaties en het ondersteunen van datagestuurde besluitvorming. Het is gericht op het beantwoorden van vragen als &quot;Wat is er gebeurd?&quot; en &quot;Waarom is het gebeurd?&quot;&#xD;&#xA;Benadering: Analytics maakt gebruik van tools en technieken die meer gericht zijn op het samenvatten en presenteren van gegevens in begrijpelijke vorm. Het vereist nog steeds enige kennis van statistiek, maar niet noodzakelijkerwijs op het niveau van Data Science."/>
   <properties
       key="omschrijving"
       value="Analytics kent een volwassenheidsmodel van gartner met bijbehorende aanpak &#xD;&#xA;BRON: Gartner.com"/>
@@ -15,4 +15,7 @@
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>
+  <properties
+      key="domein"
+      value="Algemeen"/>
 </archimate:Capability>
