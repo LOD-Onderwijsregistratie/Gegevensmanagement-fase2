@@ -5,7 +5,7 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Data architectuur is onderdeel van de enterprise (algehele)-architectuur. Binnen de architectuur vindt de vertaling plaats van ambitie naar realisatie."/>
+      value="Data architectuur is onderdeel van de enterprise (algehele)-architectuur. Binnen de architectuur vindt de vertaling plaats van ambitie naar realisatie.&#xD;&#xA;&#xD;&#xA;AR: Geinsprireerd op de definitie van architectuur genoemd op de architectuurwiki.&#xD;&#xA;DUO heeft het vermogen om een consistent geheel van principes en modellen op te stellen dat richting geeft aan ontwerp en realisatie van de processen, organisatorische inrichting, informatievoorziening en technische infrastructuur van het gegevensmanagement van DUO.&#xD;&#xA;Data architectuur is aspect binnen DUO's Enterprise Architectuur"/>
   <properties
       key="omschrijving"
       value="Bron: DAMA BMBOK2"/>
