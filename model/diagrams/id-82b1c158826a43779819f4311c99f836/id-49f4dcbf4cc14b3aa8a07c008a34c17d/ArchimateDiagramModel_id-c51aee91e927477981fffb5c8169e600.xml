@@ -2446,4 +2446,15 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-8f294d69c22748638bac8b5aa29294ca.xml#id-8f294d69c22748638bac8b5aa29294ca"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-b4fe9788cae04fb0bbae78c005b67a78"
+      textAlignment="1"
+      content="Wanneer delen we capabilities op?">
+    <bounds
+        x="2498"
+        y="944"
+        width="185"
+        height="80"/>
+  </children>
 </archimate:ArchimateDiagramModel>
