@@ -3,6 +3,10 @@
     name="Data Architecture"
     id="id-28c414325aa74db29e47d71f4d71d6aa"
     documentation="Zie properties.">
+  <properties/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
   <properties
       key="definitie"
       value="Data architectuur is onderdeel van de enterprise (algehele)-architectuur. Binnen de architectuur vindt de vertaling plaats van ambitie naar realisatie.&#xD;&#xA;&#xD;&#xA;AR: Geinsprireerd op de definitie van architectuur genoemd op de architectuurwiki.&#xD;&#xA;DUO heeft het vermogen om een consistent geheel van principes en modellen op te stellen dat richting geeft aan ontwerp en realisatie van de processen, organisatorische inrichting, informatievoorziening en technische infrastructuur van het gegevensmanagement van DUO.&#xD;&#xA;Data architectuur is aspect binnen DUO's Enterprise Architectuur"/>
@@ -12,7 +16,4 @@
   <properties
       key="volwassenheidsniveau"
       value="01 Initial"/>
-  <properties
-      key="datum_volwassenheid"
-      value="2023-01-01"/>
 </archimate:Capability>
