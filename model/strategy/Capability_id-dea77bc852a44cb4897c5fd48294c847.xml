@@ -5,7 +5,7 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Document en contentmanagement betreft het archiveren, opslaan en toegankelijk maken van gegevens om terug te vinden in ongestructureerde en gestructureerde gegevensopslag.&#xD;&#xA;&#xD;&#xA;AR:&#xD;&#xA;DUO heeft het vermogen documenten en andere content te archiveren, op te slaan en toegankelijk te maken in ongestructureerde en gestructureerde gegevensopslag. Zo kan DUO:&#xD;&#xA;•&#x9;Ongestructureerde gegevens eenvoudig vinden en gebruiken&#xD;&#xA;•&#x9;Integratie tussen gestructureerde en ongestructureerde gegevens bevorderen&#xD;&#xA;•&#x9;Voldoen aan wettelijke verplichtingen en verwachtingen van de klant.&#xD;&#xA;"/>
+      value="Document en contentmanagement betreft het archiveren, opslaan en toegankelijk maken van gegevens om terug te vinden in ongestructureerde en gestructureerde gegevensopslag."/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
@@ -15,4 +15,7 @@
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>
+  <properties
+      key="issues"
+      value="AR:&#xD;&#xA;DUO heeft het vermogen documenten en andere content te archiveren, op te slaan en toegankelijk te maken in ongestructureerde en gestructureerde gegevensopslag. Zo kan DUO:&#xD;&#xA;•&#x9;Ongestructureerde gegevens eenvoudig vinden en gebruiken&#xD;&#xA;•&#x9;Integratie tussen gestructureerde en ongestructureerde gegevens bevorderen&#xD;&#xA;•&#x9;Voldoen aan wettelijke verplichtingen en verwachtingen van de klant."/>
 </archimate:Capability>

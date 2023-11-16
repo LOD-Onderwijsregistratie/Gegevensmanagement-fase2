@@ -9,4 +9,7 @@
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>
+  <properties
+      key="definitie"
+      value="nntb"/>
 </archimate:Capability>
