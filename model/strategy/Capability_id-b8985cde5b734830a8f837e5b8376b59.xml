@@ -5,7 +5,7 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Metadata betreft het verzamelen, categoriseren, onderhouden, integreren en beheren van metadata (beschrijvende gegevens over de daadwerkelijke gegevens)&#xD;&#xA;&#xD;&#xA;AR:&#xD;&#xA;DUO heeft het vermogen beschrijvende gegevens over de daadwerkelijke gegevens (metadata) te verzamelen, categoriseren, onderhouden, integreren en beheren. Met goed beheerde metadata kan DUO:&#xD;&#xA;• Door context te bieden het vertrouwen geven in de gegevens&#xD;&#xA;• Het meten van datakwaliteit mogelijk te maken&#xD;&#xA;• De waarde van strategische informatie (bijvoorbeeld Master Data) door meerdere toepassingen mogelijk te maken&#xD;&#xA;• De operationele efficiëntie verbeteren door redundante gegevens en processen te identificeren&#xD;&#xA;• Voorkomen van het gebruik van verouderde of onjuiste gegevens&#xD;&#xA;• Verkorten van gegevensgerichte onderzoekstijd&#xD;&#xA;• Verbeteren van de communicatie tussen gegevensconsumenten en IT-professionals&#xD;&#xA;• Nauwkeurigere impactanalyses maken en zo verkleinen van het risico op projectmislukking&#xD;&#xA;• Verbeteren van de time-to-market door de levenscyclustijd van systeemontwikkeling te verkorten&#xD;&#xA;• Verlagen van de trainingskosten en verminderen van de impact van personeelsverloop door grondige documentatie van de gegevenscontext, -geschiedenis en -oorsprong&#xD;&#xA;• Ondersteuning bieden van naleving van regelgeving&#xD;&#xA;"/>
+      value="Metadata betreft het verzamelen, categoriseren, onderhouden, integreren en beheren van metadata (beschrijvende gegevens over de daadwerkelijke gegevens)&#xD;&#xA;&#xD;&#xA;"/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
@@ -18,4 +18,7 @@
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>
+  <properties
+      key="issues"
+      value="AR:&#xD;&#xA;DUO heeft het vermogen beschrijvende gegevens over de daadwerkelijke gegevens (metadata) te verzamelen, categoriseren, onderhouden, integreren en beheren. Met goed beheerde metadata kan DUO:&#xD;&#xA;• Door context te bieden het vertrouwen geven in de gegevens&#xD;&#xA;• Het meten van datakwaliteit mogelijk te maken&#xD;&#xA;• De waarde van strategische informatie (bijvoorbeeld Master Data) door meerdere toepassingen mogelijk te maken&#xD;&#xA;• De operationele efficiëntie verbeteren door redundante gegevens en processen te identificeren&#xD;&#xA;• Voorkomen van het gebruik van verouderde of onjuiste gegevens&#xD;&#xA;• Verkorten van gegevensgerichte onderzoekstijd&#xD;&#xA;• Verbeteren van de communicatie tussen gegevensconsumenten en IT-professionals&#xD;&#xA;• Nauwkeurigere impactanalyses maken en zo verkleinen van het risico op projectmislukking&#xD;&#xA;• Verbeteren van de time-to-market door de levenscyclustijd van systeemontwikkeling te verkorten&#xD;&#xA;• Verlagen van de trainingskosten en verminderen van de impact van personeelsverloop door grondige documentatie van de gegevenscontext, -geschiedenis en -oorsprong&#xD;&#xA;• Ondersteuning bieden van naleving van regelgeving&#xD;&#xA;"/>
 </archimate:Capability>
