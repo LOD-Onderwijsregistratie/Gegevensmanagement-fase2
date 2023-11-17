@@ -101,7 +101,7 @@
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-763c9a9eb8684d139380b46ef8e80ca3"
           source="id-55eb3123ac2c474d8dcfacb834822d28"
-          target="id-d034e5e1d7514119b8fb229aa6eb272d">
+          target="id-05bdd76659ff4e8ca56ffab41b202f43">
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_id-c65da8d580444b3399ce1efecf1deee4.xml#id-c65da8d580444b3399ce1efecf1deee4"/>
@@ -744,7 +744,7 @@
           x="12"
           y="115"
           width="108"
-          height="270"/>
+          height="271"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
           href="ValueStream_id-d43393bd19dc4460a230d16309d20d76.xml#id-d43393bd19dc4460a230d16309d20d76"/>
@@ -765,7 +765,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-05bdd76659ff4e8ca56ffab41b202f43"
-        targetConnections="id-b70ae98b9db6448fa5fef890203ca109">
+        targetConnections="id-b70ae98b9db6448fa5fef890203ca109 id-763c9a9eb8684d139380b46ef8e80ca3">
       <bounds
           x="132"
           y="331"
@@ -791,7 +791,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d034e5e1d7514119b8fb229aa6eb272d"
-        targetConnections="id-47b67bbb8af94e9b9f82df2fc88049d9 id-57225f69ea9f442eb3d65078e6d2a65e id-763c9a9eb8684d139380b46ef8e80ca3">
+        targetConnections="id-47b67bbb8af94e9b9f82df2fc88049d9 id-57225f69ea9f442eb3d65078e6d2a65e">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c3671fe965e442269567fbf3d92aa205"
@@ -2435,5 +2435,16 @@
         y="648"
         width="192"
         height="120"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-09889b6d861a4e328c694193a9d5599b"
+      textAlignment="1"
+      content="informatiemnagement is een toepassing van gegevens wat hier niet op hetzelfde niveau als capability op niveau 1 hoort">
+    <bounds
+        x="2244"
+        y="569"
+        width="264"
+        height="80"/>
   </children>
 </archimate:ArchimateDiagramModel>
