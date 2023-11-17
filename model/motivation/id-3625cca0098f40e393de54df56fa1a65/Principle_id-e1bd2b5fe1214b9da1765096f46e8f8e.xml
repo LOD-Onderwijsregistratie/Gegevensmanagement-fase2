@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[BP07] DUO is transparant"
     id="id-e1bd2b5fe1214b9da1765096f46e8f8e"
-    documentation="DUO geeft stakeholders vooraf, tijdens en achteraf inzage in voor hen relevante informatie. DUO informeert hen (ook vooraf) over het procesverloop, de regels, de gebruikte gegevens en het (mogelijk) resultaat van de gevraagde dienst.&#xD;&#xA;&#xD;&#xA;Rationale&#xD;&#xA;Stakeholders willen graag inzicht hebben in de dienstverlening, het verloop en de uitkomst van het proces."/>
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="DUO geeft stakeholders vooraf, tijdens en achteraf inzage in voor hen relevante informatie. DUO informeert hen (ook vooraf) over het procesverloop, de regels, de gebruikte gegevens en het (mogelijk) resultaat van de gevraagde dienst."/>
+  <properties
+      key="rationale"
+      value="Stakeholders willen graag inzicht hebben in de dienstverlening, het verloop en de uitkomst van het proces.&#xD;&#xA;"/>
+</archimate:Principle>

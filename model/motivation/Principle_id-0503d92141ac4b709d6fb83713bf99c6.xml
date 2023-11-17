@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GG01] Gegevens bij de bron"
+    id="id-0503d92141ac4b709d6fb83713bf99c6"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="Dit is een principe om de gegevens zo goed mogelijk in overeenstemming te brengen en te houden met de werkelijkheid. "/>
+  <properties
+      key="rationale"
+      value="Het is een kwaliteitsmaatregel. Hiermee beschikt de organisatie over volledige, consistente, actuele en gezaghebbende gegevens en profiteert niet alleen een eventuele kopiehouder, maar profiteren alle gebruikers."/>
+  <properties
+      key="implicaties"
+      value="Wanneer de situatie aan de gebruikerskant er zich toe leent worden de gegevens realtime opgevraagd (bijvoorbeeld met een API), niet allen binnen DUO, maar ook naar buiten. Dit is een vorm van dataminimalisatie met hoge, gegarandeerde prestatie-eisen. DUO verwacht dit ook andersom van zijn gegevensleveranciers. Dit wordt versterkt met het object georiënteerde uitgangspunt ‘encapsulation’ en role-based-access.&#xD;&#xA;Dit principe vraagt om een ingerichte feedbackloop, wat een positieve invloed heeft op de volledigheid, juistheid en actualiteit van een gegevensverzameling. &#xD;&#xA;&#xD;&#xA;Aan het gebruik van gegevens, zelfs als het open gegevens is, zijn expliciete gebruiksvoorwaarden verbonden. Eén van die voorwaarden is, als de gebruiker onverhoopt vaststelt dat een gegeven niet klopt, dan meldt hij dit bij de bronhouder. Wijzigingen aanbrengen op een kopie van verstrekte gegevens wordt alleen uitgevoerd als uitzondering en na melding aan de bronhouder. Deze lokale wijzigingen moeten als zodanig herkenbaar zijn.&#xD;&#xA;Nu kan het een tijdje duren voordat langs deze route een wijziging is doorgevoerd, en misschien lukt het wel nooit. Dus in zulke gevallen kan, hopelijk tijdelijk, een wijziging in de kopie worden aangebracht, met een verklarende statusvermelding. De kopiehouder mag echter nooit pretenderen dat dat het origineel is&#xD;&#xA;.&#xD;&#xA;De originele bron richt een publish-subscribe constructie in, bijvoorbeeld adreswijzigingen of overlijdens gemeld door de BRP of het behalen of intrekken van een diploma gemeld door DUO.&#xD;&#xA;&#xD;&#xA;Verantwoord vertrouwen is het fenomeen waarbij SFS een bewering van de student onder condities hoger acht dan een wettelijk register. In die gevallen wordt een terugmelding gedaan en wordt na een termijn opnieuw een afweging gemaakt op basis van het origineel. Dit gebeurt bijvoorbeeld richting BRP."/>
+  <properties
+      key="verwantschap"
+      value="12 eisen van het federatieve datastelsel&#xD;&#xA;DMBOK Master- en referentiegegevens"/>
+</archimate:Principle>
