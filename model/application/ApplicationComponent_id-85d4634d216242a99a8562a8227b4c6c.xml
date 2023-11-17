@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Blind SANE"
-    id="id-85d4634d216242a99a8562a8227b4c6c"/>
+    id="id-85d4634d216242a99a8562a8227b4c6c"
+    documentation="In een Blind SANE wordt een algoritme of rapportdefinitie op een gegevensverzameling toegepast zonder de betreffende gegevensverzameling te kunnen inzien. Denk hierbij aan het gebruik van BI-rapporten, dashboards en andere self-service activiteiten."/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tinker SANE"
-    id="id-602cd94850b7477392d87a9a21b4ecb2"/>
+    id="id-602cd94850b7477392d87a9a21b4ecb2"
+    documentation="Een SANE is een omgevinge uitgerust met tooling en toegang tot services waarmee de beschikbaar gestelde gegevens worden ingezien en verwerkt tot informatie. Denk bijvoorbeeld aan het ontwikkelen van BI-rapporten, dashboards, uitvoeren van onderzoeken en ad hoc vragen."/>

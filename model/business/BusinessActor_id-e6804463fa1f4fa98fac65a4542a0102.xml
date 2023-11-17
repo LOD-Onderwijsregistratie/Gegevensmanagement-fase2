@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DUO"
-    id="id-e6804463fa1f4fa98fac65a4542a0102"/>
+    id="id-e6804463fa1f4fa98fac65a4542a0102"
+    documentation="Dienst Uitvoering Onderwijs"/>

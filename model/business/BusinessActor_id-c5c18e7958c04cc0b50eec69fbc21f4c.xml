@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DUO/ICT/Services"
-    id="id-c5c18e7958c04cc0b50eec69fbc21f4c"/>
+    id="id-c5c18e7958c04cc0b50eec69fbc21f4c"
+    documentation="Afdeling Services van ICT"/>

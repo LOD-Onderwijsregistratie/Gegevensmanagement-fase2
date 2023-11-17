@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Algoritme Register"
-    id="id-0215137777e041e1b96ac26509aaa5db"/>
+    id="id-0215137777e041e1b96ac26509aaa5db"
+    documentation="Een ABB welke het registreren van een algoritme in een intern algoritmeregister mogelijk maakt."/>

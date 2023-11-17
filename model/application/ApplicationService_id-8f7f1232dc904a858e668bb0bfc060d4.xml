@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(tussen)resultaat beheer"
-    id="id-8f7f1232dc904a858e668bb0bfc060d4"/>
+    id="id-8f7f1232dc904a858e668bb0bfc060d4"
+    documentation="Een ABB welke opslag en beheer van (tussen)resultaten in een SANE mogelijk maakt. (naast data ook modellen, algoritmen, rapportdefinities of visualisaties)."/>

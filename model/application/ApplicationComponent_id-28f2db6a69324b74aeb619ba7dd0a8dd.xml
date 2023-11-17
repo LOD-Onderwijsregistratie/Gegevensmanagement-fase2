@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Open SANE"
-    id="id-28f2db6a69324b74aeb619ba7dd0a8dd"/>
+    id="id-28f2db6a69324b74aeb619ba7dd0a8dd"
+    documentation="Een SANE omgeving welke toegang heeft tot enkel en alleen laag geclassificeerde (open) data."/>

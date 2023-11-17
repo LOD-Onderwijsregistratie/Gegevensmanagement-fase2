@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resultaat transport"
-    id="id-cf1cc9bf65df466cab821450e9c74ae5"/>
+    id="id-cf1cc9bf65df466cab821450e9c74ae5"
+    documentation="Een ABB welke het mogelijk maakt een analyse resultaat uit een SANE of naar een Resultaatborgingsysteem of naar een andere (externe) locatie te transporteren."/>

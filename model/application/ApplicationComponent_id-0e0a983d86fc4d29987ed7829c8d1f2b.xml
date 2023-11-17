@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Resultaatborging systeem"
-    id="id-0e0a983d86fc4d29987ed7829c8d1f2b"/>
+    id="id-0e0a983d86fc4d29987ed7829c8d1f2b"
+    documentation="Een werkomgeving een vastgesteld en vastgelegd analyseresultaat gebruikt wordt voor verslaglegging,  rapportages of archivering.&#xD;&#xA;Denk hierbij aan bijvoorbeeld een externe onderzoeker die een analyseresultaat, onder voorwaarde, tot zijn beschikking heeft binnen zijn eigen omgeving. Of dat een analyseresultaat gebruikt wordt in een onderzoeksrapport, dashboard of infographic. Of dat een resultaat / product wordt gearchiveerd of geregistreerd in het algoritme register.&#xD;&#xA;"/>

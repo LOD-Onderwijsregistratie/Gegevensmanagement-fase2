@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logging"
     id="id-67a2df62cab84830912de916ad02e3ee"
-    documentation="Service die het vastleggen wie welke handelingen met welke gegevens uitvoert faciliteert."/>
+    documentation="Service die het vastleggen wie welke handelingen met welke gegevens uitvoert faciliteert.&#xD;&#xA;&#xD;&#xA;Deze geldt voor de context van informatiebeveiliging, privacy, data lineage en onderbouwing productontwikkeling.&#xD;&#xA;SANE, Resultaatborging systeem en Gegevens / Informatie Publicatie Systeem maken hiervan gebruik.&#xD;&#xA;&#xD;&#xA;Wat betreft de onderbouwing van productontwikkeling kan ook gebruikt gemaakt worden van de collaboratie implementatie zoals GitLab en opgeslagen tussenresultaten.&#xD;&#xA;"/>

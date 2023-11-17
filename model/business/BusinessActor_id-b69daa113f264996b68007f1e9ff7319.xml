@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DUO/BV/BIC"
-    id="id-b69daa113f264996b68007f1e9ff7319"/>
+    id="id-b69daa113f264996b68007f1e9ff7319"
+    documentation="Afdeling BIC van Bedrijfsvoeringen"/>
