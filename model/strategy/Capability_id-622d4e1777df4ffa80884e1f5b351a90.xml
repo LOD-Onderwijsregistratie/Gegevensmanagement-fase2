@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Informatie verstrekking"
     id="id-622d4e1777df4ffa80884e1f5b351a90"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="definitie"
       value="Het vermogen om gegevens en/of informatieproducten te verstrekken. "/>
