@@ -1565,7 +1565,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-98007e0922124bef92cff8096345aab8">
         <bounds
-            x="170"
+            x="168"
             y="48"
             width="120"
             height="55"/>
@@ -1575,15 +1575,15 @@
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
-          id="id-de8fa6c79e3342579d15d0956c68ae10">
+          id="id-e78353af03a149c0a2e2df2653e5f325">
         <bounds
-            x="302"
+            x="300"
             y="48"
             width="120"
             height="55"/>
         <archimateElement
             xsi:type="archimate:BusinessFunction"
-            href="BusinessFunction_id-eadda80859f3459c9fd36846c65c57b6.xml#id-eadda80859f3459c9fd36846c65c57b6"/>
+            href="BusinessFunction_id-3f2c32fe0c3049f0b1485f0be213d109.xml#id-3f2c32fe0c3049f0b1485f0be213d109"/>
       </children>
       <archimateElement
           xsi:type="archimate:BusinessService"
