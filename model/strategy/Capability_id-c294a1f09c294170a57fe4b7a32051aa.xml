@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie management"
+    id="id-c294a1f09c294170a57fe4b7a32051aa"
+    documentation="Zie properties.&#xA;">
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="definitie"
+      value="DUO heeft het vermogen om de informatiebehoefte die ontstaan uit verschillende werk- en bedrijfsprocessen binnen DUO en haar ketenpartners te vertalen in een informatievoorziening waardoor DUO en haar ketenpartners goed geinformeerd de werkzaamheden kunnen uitvoeren."/>
+</archimate:Capability>
