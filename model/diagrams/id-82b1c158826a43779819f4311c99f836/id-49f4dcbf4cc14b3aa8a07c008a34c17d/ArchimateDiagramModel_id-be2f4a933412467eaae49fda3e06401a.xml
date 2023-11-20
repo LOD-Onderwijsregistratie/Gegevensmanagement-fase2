@@ -248,7 +248,7 @@
     </children>
     <archimateElement
         xsi:type="archimate:Capability"
-        href="Capability_id-ed0242659607457f812cbfbf782bf337.xml#id-ed0242659607457f812cbfbf782bf337"/>
+        href="Capability_id-c294a1f09c294170a57fe4b7a32051aa.xml#id-c294a1f09c294170a57fe4b7a32051aa"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -718,5 +718,27 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-4a6b33f81e104d0ead337b1a191aa14b.xml#id-4a6b33f81e104d0ead337b1a191aa14b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-759a1a74313d42ff9561069a0351806d"
+      textAlignment="1"
+      content="zie opmerking 'verstrekken informatie'">
+    <bounds
+        x="480"
+        y="84"
+        width="169"
+        height="73"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-6e3e3a6568b74e9fba1c167895eb71e0"
+      textAlignment="1"
+      content="doel en verhaal&#xD;&#xA;&#xD;&#xA;onderdelen van de DUO IV keten wordt gevormd door, hoe kan dit worden bestuurd (c-rollen)&#xD;&#xA;- gegevensmanagement&#xD;&#xA;- informatiemanagement&#xD;&#xA;- kennismanagement&#xD;&#xA;- compliancy management?">
+    <bounds
+        x="1020"
+        y="132"
+        width="313"
+        height="205"/>
   </children>
 </archimate:ArchimateDiagramModel>

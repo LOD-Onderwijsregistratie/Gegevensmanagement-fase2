@@ -1,11 +1,11 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dataware-housing &amp; (Business) Intelligence"
+    name="Intelligence &amp; Analytics"
     id="id-c401cc133b774cb2bce80e8ad776e774"
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Het ontwerpen, ontwikkelen en beheren van de analyse- en besluitvormingsprocessen, om op deze wijze rapportages, analyses en bijvoorbeeld datascience te kunnen realiseren. Bij DUO is dit onderdeel in verschillende afdelingen terug te vinden (o.a. BIC, IP,&#xD;&#xA;DWH)."/>
+      value="betreft kennisgebied DAMA DMBok2: Dataware-housing &amp; Business Intelligence&#xD;&#xA;&#xD;&#xA;Het ontwerpen, ontwikkelen en beheren van de analyse- en besluitvormingsprocessen, om op deze wijze rapportages, analyses en bijvoorbeeld datascience te kunnen realiseren. Bij DUO is dit onderdeel in verschillende afdelingen terug te vinden (o.a. BIC, IP,&#xD;&#xA;DWH)."/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
@@ -15,4 +15,7 @@
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>
+  <properties
+      key="domein"
+      value="Algemeen"/>
 </archimate:Capability>

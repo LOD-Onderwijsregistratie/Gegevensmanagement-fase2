@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GG05]  Gegevens zijn  herleidbaar"
+    id="id-2b4326c8f806495f93c1034709b0bfb9"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="DUO wil achteraf het spoor kunnen laten zien hoe gegevens van een natuurlijk of niet-natuurlijk persoon door de organisatie zijn gestroomd en naar buiten, inclusief vragen als wanneer, aan wie en waarom."/>
+  <properties
+      key="rationale"
+      value="Dit heet ook wel “fysieke gegevenslineage’. Op basis van dit principe kan de persoon de regie pakken op zijn/haar eigen gegevens. Die kan zien wat DUO van hem/haar weet en kan corrigerend optreden bij inhoudelijke fouten of bij oneigenlijk gebruik. "/>
+  <properties
+      key="implicaties"
+      value="Het moet mogelijk zijn om per persoon te kunnen uitvragen welke systeem zijn / haar gegevens heeft, waarom en aan wie verstrekt en wanneer. Per verstrekking wordt deze operationele metadata bijgehouden in een logfile. &#xD;&#xA;Ook de geleverde gegevens zelf moeten gereproduceerd kunnen worden, zodat achteraf nagegaan kan worden waarom een bepaalde beslissing is genomen. Voor de data betekent dit tijdreizen. Om precies te zijn langs twee onafhankelijke assen: materieel=historie van de werkelijkheid en formeel=historie van de database.&#xD;&#xA;&#xD;&#xA;Bijzondere aandacht is nodig bij de overgang van gegevens uit primaire systemen in een analytische werkomgeving zoals het datawarehouse. Het principe blijft overeind zolang er identificerende gegevens in het spel zijn. &#xD;&#xA;"/>
+</archimate:Principle>
