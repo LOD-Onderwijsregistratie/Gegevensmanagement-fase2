@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] NOSQL"
+    id="id-7e7c51dfb0804310ae0943cb7e949863"
+    documentation="Systemen voor het beheren van NOSQL databases. NoSQL is een breed gamma aan databasemanagementsystemen die op aanmerkelijke wijze verschillen van het klassieke relationele databasemanagementsysteem (RDBMS). De datasystemen behoeven niet altijd vaste databaseschema's, ze vermijden gewoonlijk de JOIN-operaties en sommige schalen horizontaal. "/>

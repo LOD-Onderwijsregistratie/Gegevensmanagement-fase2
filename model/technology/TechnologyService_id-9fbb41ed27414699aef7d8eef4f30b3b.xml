@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] RDBMS"
+    id="id-9fbb41ed27414699aef7d8eef4f30b3b"
+    documentation="Systemen voor het beheren van gegevens die zijn opgebouwd volgens een relationeel model en veelal bevraagbaar en aanpasbaar zijn via SQL (Stuctured Query Language). "/>

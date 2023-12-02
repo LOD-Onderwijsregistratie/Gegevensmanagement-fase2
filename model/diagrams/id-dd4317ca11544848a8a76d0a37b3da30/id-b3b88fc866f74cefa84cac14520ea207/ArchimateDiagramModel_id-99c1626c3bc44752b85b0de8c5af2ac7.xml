@@ -309,7 +309,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8bbe1a2927ff4e17bf9c42b44002519e">
+      id="id-8bbe1a2927ff4e17bf9c42b44002519e"
+      targetConnections="id-8e5b63eb814c4eb0a67332805bbcac5c">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b7a94aefd8854636b3ea06c0cba1f974"
@@ -530,12 +531,33 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-70021ab040cc4bff8323bd249cb6222e"
       textAlignment="1"
-      content="View: EDH Capabilities en Bedrijfsfuncties&#xD;&#xA;Auteur:  René Berken&#xD;&#xA;Status: Concept&#xD;&#xA;Datum: 28-7-2023">
+      content="View: EDH Capabilities en Bedrijfsfuncties&#xD;&#xA;Auteur:  René Berken&#xD;&#xA;Status: Definitief&#xD;&#xA;Datum: 02-12-2023">
     <bounds
         x="1056"
         y="36"
         width="193"
         height="133"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-094c376681ff47efbeec749974d346bd">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8e5b63eb814c4eb0a67332805bbcac5c"
+        source="id-094c376681ff47efbeec749974d346bd"
+        target="id-8bbe1a2927ff4e17bf9c42b44002519e">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-0b928b51983d4752b60d84b146971278.xml#id-0b928b51983d4752b60d84b146971278"/>
+    </sourceConnections>
+    <bounds
+        x="192"
+        y="600"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-b10dc2a2fa9547ddbb0ff6e9edf4c3c9.xml#id-b10dc2a2fa9547ddbb0ff6e9edf4c3c9"/>
   </children>
   <properties
       key="omschrijving"

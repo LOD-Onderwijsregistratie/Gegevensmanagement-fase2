@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bron gegevens gateway"
     id="id-698b52838f5749b29fd5a5217bd0fe2f"
-    documentation="Een Bron Gegevens Gateway is een interface die fungeert als een toegangspoort tot gegevensbronnen en deze gegevens beveiligt, integreert en beheert. Het stelt het distributie platform in staat om toegang te krijgen tot gegevens vanuit verschillende bronnen, zoals databases, bestanden en web services (API's), en biedt functionaliteiten zoals authenticatie, autorisatie, encryptie, caching en audit logging. "/>
+    documentation="Een dron gegevens gateway is een interface die fungeert als een toegangspoort tot gegevensbronnen en deze gegevens beveiligt, integreert en beheert. Het stelt het distributie platform in staat om toegang te krijgen tot gegevens vanuit verschillende bronnen, zoals databases, bestanden en web services (API's), en biedt functionaliteiten zoals authenticatie, autorisatie, encryptie, caching en audit logging. "/>
