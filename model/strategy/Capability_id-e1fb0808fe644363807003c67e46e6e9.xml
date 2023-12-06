@@ -5,7 +5,7 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="Data Security betreft het vermogen om op een veilige manier met gegevens om te gaan conform wettelijke kaders en richtlijnen."/>
+      value="Data Security betreft het vermogen om op een veilige manier met gegevens om te gaan conform wettelijke kaders en richtlijnen.&#xD;&#xA;Compliancy omvat de volgende onderdelen:&#xD;&#xA;- Privacy betreft het vermogen om op een veilige manier met persoonsgegevens om te gaan conform wettelijke kaders en richtlijnen.&#xD;&#xA;- Informatiebeveiliging het vermogen..&#xD;&#xA;- Archivering het vermogen..&#xD;&#xA;"/>
   <properties
       key="omschrijving"
       value="Bron: DAMA DMBOK2"/>
