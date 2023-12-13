@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie management"
+    id="id-c294a1f09c294170a57fe4b7a32051aa"
+    documentation="Zie properties.">
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="definitie"
+      value="DUO heeft het vermogen om de informatiebehoefte die ontstaan uit verschillende werk- en bedrijfsprocessen binnen DUO en haar ketenpartners te vertalen in een informatievoorziening waardoor DUO en haar ketenpartners goed geinformeerd de werkzaamheden kunnen uitvoeren."/>
+  <properties
+      key="omschrijving"
+      value="Voorstel AR:&#xD;&#xA;DUO heeft het vermogen om informatie effectief te beheren en te sturen zodat operationele bedrijfsprocessen optimaal ondersteund worden door technologische oplossingen, ongeacht of deze geautomatiseerd of niet-geautomatiseerd zijn. Traditioneel is betreft het ICT oplossingen die direct bedrijfsprocessen ondersteunen, maar daarnaast betreft het ook processen die op basis van (her)gebruik van gegevens besluitvorming ondersteunen."/>
+</archimate:Capability>

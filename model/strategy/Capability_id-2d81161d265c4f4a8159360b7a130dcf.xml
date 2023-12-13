@@ -5,29 +5,35 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="DUO heeft het vermogen het proces uit te voeren waarbij datavereisten ontdekt, geanalyseerd en in kaart gebracht wordt en vervolgens te representeren en communiceren in een precieze vorm die het gegevensmodel wordt genoemd. Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen.&#xD;&#xA;Bron: DAMA DMBOK2: "/>
+      value="Init: Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen&#xD;&#xA;&#xD;&#xA;AR:&#xD;&#xA;DUO heeft het vermogen het proces uit te voeren waarbij datavereisten ontdekt, geanalyseerd en in kaart gebracht wordt en vervolgens te representeren en communiceren in een precieze vorm die het gegevensmodel wordt genoemd."/>
   <properties
       key="omschrijving"
-      value="Gegevensmodellen zijn van cruciaal belang voor effectief gegevensbeheer. Met een gegevensmodel kan DUO:&#xD;&#xA;• Zorgen voor een gemeenschappelijk vocabulaire rond gegevens.&#xD;&#xA;• Expliciete kennis vastleggen en documenteren over de gegevens en systemen van een organisatie.&#xD;&#xA;• Laten fungeren als primair communicatiemiddel tijdens projecten.&#xD;&#xA;• Bieden van het startpunt voor maatwerk, integratie of zelfs vervanging van een applicatie.&#xD;&#xA;Bron: DAMA DMBOK2: &#xD;&#xA;"/>
+      value="AR: &#xD;&#xA;Gegevensmodellen zijn van cruciaal belang voor effectief gegevensbeheer. Met een gegevensmodel kan DUO:&#xD;&#xA;• Zorgen voor een gemeenschappelijk vocabulaire rond gegevens.&#xD;&#xA;• Expliciete kennis vastleggen en documenteren over de gegevens en systemen van een organisatie.&#xD;&#xA;• Laten fungeren als primair communicatiemiddel tijdens projecten.&#xD;&#xA;• Bieden van het startpunt voor maatwerk, integratie of zelfs vervanging van een applicatie.&#xD;&#xA;&#xD;&#xA;GGR: Modellen bevatten metagegevens ( betekenis, de structuur, de compliancy op het gebied van archivering,  BIV, , eigenaar, locatie e.d). Daarom is er een forse overlap met de capbility Metadata&#xD;&#xA;"/>
   <properties
       key="volwassenheidsniveau"
-      value="02 Repeatable "/>
+      value="01 Initial"/>
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>
   <properties
       key="issues"
-      value="&#xD;&#xA;"/>
+      value="zie definitie en omschrijving"/>
   <properties
       key="kaders"
       value="Gegevensontwikkeling &amp; Beheer v1.0"/>
   <properties
       key="rollen"
-      value="CMDA&#xD;&#xA;BAT Modelleren&#xD;&#xA;Serviceteam modelleren"/>
+      value="* architect&#xD;&#xA;* batdevops&#xD;&#xA;* modelautoriteit"/>
+  <properties
+      key="bdrijfsprocessen"
+      value="* gegevensontwikkeling&#xD;&#xA;* modellenbeheer&#xD;&#xA;"/>
+  <properties
+      key="bedrijfsregels"
+      value="* standaarden FDS&#xD;&#xA;* metamodel&#xD;&#xA;* stijlgids&#xD;&#xA;"/>
   <properties
       key="bedrijfsobjecten"
-      value="Bedrijfsobjectenmodel"/>
+      value="* Architectuur&#xD;&#xA;* Begrippenkader&#xD;&#xA;* Logisch model&#xD;&#xA;* Technisch model"/>
   <properties
       key="voorzieningen"
-      value="Magicdraw"/>
+      value="* modelleeromgeving&#xD;&#xA;* piublicatieplatform"/>
 </archimate:Capability>

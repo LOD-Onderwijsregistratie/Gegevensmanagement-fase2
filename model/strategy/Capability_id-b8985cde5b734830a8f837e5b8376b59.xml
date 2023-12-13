@@ -5,10 +5,10 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="DUO heeft het vermogen beschrijvende gegevens over de daadwerkelijke gegevens (metadata) te verzamelen, categoriseren, onderhouden, integreren en beheren&#xD;&#xA;Bron: DAMA DMBOK2&#xD;&#xA;&#xD;&#xA;"/>
+      value="init: De capabilitty Metadata betreft het verzamelen, categoriseren, onderhouden, integreren en beheren van metadata (beschrijvende gegevens over de daadwerkelijke gegevens).&#xD;&#xA;&#xD;&#xA;AR:  DUO heeft het vermogen beschrijvende gegevens over de daadwerkelijke gegevens (metadata) te verzamelen, categoriseren, onderhouden, integreren en beheren.&#xD;&#xA;&#xD;&#xA;GGR: DUO heeft het vermogen om gegevens systematisch te beschrijven (door middel van metadata) wanneer ze worden gemodelleerd of conform een model worden gecreëerd."/>
   <properties
       key="omschrijving"
-      value="Met goed beheerde metadata kan DUO:&#xD;&#xA;• Door context te bieden het vertrouwen geven in de gegevens&#xD;&#xA;• Het meten van datakwaliteit mogelijk te maken&#xD;&#xA;• De waarde van strategische informatie (bijvoorbeeld Master Data) door meerdere toepassingen mogelijk te maken&#xD;&#xA;• De operationele efficiëntie verbeteren door redundante gegevens en processen te identificeren&#xD;&#xA;• Voorkomen van het gebruik van verouderde of onjuiste gegevens&#xD;&#xA;• Verkorten van gegevensgerichte onderzoekstijd&#xD;&#xA;• Verbeteren van de communicatie tussen gegevensconsumenten en IT-professionals&#xD;&#xA;• Nauwkeurigere impactanalyses maken en zo verkleinen van het risico op projectmislukking&#xD;&#xA;• Verbeteren van de time-to-market door de levenscyclustijd van systeemontwikkeling te verkorten&#xD;&#xA;• Verlagen van de trainingskosten en verminderen van de impact van personeelsverloop door grondige documentatie van de gegevenscontext, -geschiedenis en -oorsprong&#xD;&#xA;• Ondersteuning bieden van naleving van regelgeving&#xD;&#xA;Bron: DAMA DMBOK2"/>
+      value="AR:  Met goed beheerde metadata kan DUO:&#xD;&#xA;• Door context te bieden het vertrouwen geven in de gegevens&#xD;&#xA;• Het meten van datakwaliteit mogelijk te maken&#xD;&#xA;• De waarde van strategische informatie (bijvoorbeeld Master Data) door meerdere toepassingen mogelijk te maken&#xD;&#xA;• De operationele efficiëntie verbeteren door redundante gegevens en processen te identificeren&#xD;&#xA;• Voorkomen van het gebruik van verouderde of onjuiste gegevens&#xD;&#xA;• Verkorten van gegevensgerichte onderzoekstijd&#xD;&#xA;• Verbeteren van de communicatie tussen gegevensconsumenten en IT-professionals&#xD;&#xA;• Nauwkeurigere impactanalyses maken en zo verkleinen van het risico op projectmislukking&#xD;&#xA;• Verbeteren van de time-to-market door de levenscyclustijd van systeemontwikkeling te verkorten&#xD;&#xA;• Verlagen van de trainingskosten en verminderen van de impact van personeelsverloop door grondige documentatie van de gegevenscontext, -geschiedenis en -oorsprong&#xD;&#xA;• Ondersteuning bieden van naleving van regelgeving&#xD;&#xA;&#xD;&#xA;GGR: Metagegevens bevinden zich in modellen ( betekenis, de structuur, de compliancy, eigenaar, locatie e.d) of als standaard attributen in de database (herkomst, datum ontvangst, logging e.d.). Met name metadata in modellen kan geprofessionaliseerd worden.  Daardoor is er een sterke overlap met de Capability Gegevensmodellering (Data Modelling &amp; Design)"/>
   <properties
       key="kaders"
       value="Gegevensontwikkeling &amp; Beheer v1.0"/>
@@ -20,5 +20,20 @@
       value="2023-01-01"/>
   <properties
       key="issues"
-      value="&#xD;&#xA;"/>
+      value="ZIe definitie en omschrijving."/>
+  <properties
+      key="rollen"
+      value="* architecten&#xD;&#xA;* batdevops&#xD;&#xA;* metadatabeheerder"/>
+  <properties
+      key="bdrijfsprocessen"
+      value="* verzamelen&#xD;&#xA;* categoriseren&#xD;&#xA;* onderhouden&#xD;&#xA;* integreren &#xD;&#xA;* beheren&#xD;&#xA;* beschikbaar stellen"/>
+  <properties
+      key="bedrijfsregels"
+      value="* metamodel&#xD;&#xA;* stijlgids&#xD;&#xA;* compliancyregels&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="bedrijfsobjecten"
+      value="* Architectuur&#xD;&#xA;* Model&#xD;&#xA;* Dataresource&#xD;&#xA;"/>
+  <properties
+      key="voorzieningen"
+      value="* metadata&#xD;&#xA;* publicatieplatform"/>
 </archimate:Capability>
