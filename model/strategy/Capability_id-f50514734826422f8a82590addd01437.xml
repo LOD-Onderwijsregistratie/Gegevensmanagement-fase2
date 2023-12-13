@@ -5,13 +5,13 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="DUO heeft het vermogen op gegevensopslag te ontwerpen, implementeren en beheren zodat de waarde van gegevens gemaximaliseerd wordt. Zo kan DUO:&#xD;&#xA;•&#x9;De beschikbaarheid van gegevens gedurende de gegevenslevenscyclus beheren&#xD;&#xA;•&#x9;Zorgen voor de integriteit van de data assets&#xD;&#xA;•&#x9;Beheren van de prestaties van gegevenstransacties.&#xD;&#xA;"/>
+      value="DUO heeft het vermogen op gegevensopslag te ontwerpen, implementeren en beheren zodat de waarde van gegevens gemaximaliseerd wordt. &#xD;&#xA;Bron: DAMA DMBOK2"/>
   <properties
       key="omschrijving"
-      value="Bron: DAMA DMBOK2"/>
+      value="Zo kan DUO:&#xD;&#xA;•&#x9;De beschikbaarheid van gegevens gedurende de gegevenslevenscyclus beheren&#xD;&#xA;•&#x9;Zorgen voor de integriteit van de data assets&#xD;&#xA;•&#x9;Beheren van de prestaties van gegevenstransacties."/>
   <properties
       key="volwassenheidsniveau"
-      value="01 Initial"/>
+      value="02 Repeatable "/>
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>

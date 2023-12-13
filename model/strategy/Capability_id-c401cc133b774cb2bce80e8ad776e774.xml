@@ -5,13 +5,13 @@
     documentation="Zie properties.">
   <properties
       key="definitie"
-      value="betreft kennisgebied DAMA DMBok2: Dataware-housing &amp; Business Intelligence&#xD;&#xA;&#xD;&#xA;Het ontwerpen, ontwikkelen en beheren van de analyse- en besluitvormingsprocessen, om op deze wijze rapportages, analyses en bijvoorbeeld datascience te kunnen realiseren. Bij DUO is dit onderdeel in verschillende afdelingen terug te vinden (o.a. BIC, IP,&#xD;&#xA;DWH)."/>
+      value="DUO heeft het vermogen om het ontwerpen, ontwikkelen en beheren van de analyse- en besluitvormingsprocessen, om op deze wijze rapportages, analyses en bijvoorbeeld datascience te kunnen realiseren. &#xD;&#xA;&#xD;&#xA;Dit betreft kennisgebied DAMA DMBok2: Dataware-housing &amp; Business Intelligence&#xD;&#xA;&#xD;&#xA;Bron: DAMA DMBOK2"/>
   <properties
       key="omschrijving"
-      value="Bron: DAMA DMBOK2"/>
+      value="Bij DUO is dit onderdeel in verschillende afdelingen terug te vinden (o.a. BIC, IP,DWH)."/>
   <properties
       key="volwassenheidsniveau"
-      value="01 Initial"/>
+      value="02 Repeatable "/>
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>

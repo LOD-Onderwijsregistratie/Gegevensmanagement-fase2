@@ -11,7 +11,7 @@
       value="Gegevensmodellen zijn van cruciaal belang voor effectief gegevensbeheer. Met een gegevensmodel kan DUO:&#xD;&#xA;• Zorgen voor een gemeenschappelijk vocabulaire rond gegevens.&#xD;&#xA;• Expliciete kennis vastleggen en documenteren over de gegevens en systemen van een organisatie.&#xD;&#xA;• Laten fungeren als primair communicatiemiddel tijdens projecten.&#xD;&#xA;• Bieden van het startpunt voor maatwerk, integratie of zelfs vervanging van een applicatie.&#xD;&#xA;Bron: DAMA DMBOK2: &#xD;&#xA;"/>
   <properties
       key="volwassenheidsniveau"
-      value="01 Initial"/>
+      value="02 Repeatable "/>
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>

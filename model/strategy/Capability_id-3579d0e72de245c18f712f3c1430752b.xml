@@ -11,7 +11,7 @@
       value="Bron: DAMA DMBOK2"/>
   <properties
       key="volwassenheidsniveau"
-      value="01 Initial"/>
+      value="02 Repeatable "/>
   <properties
       key="datum_volwassenheid"
       value="2023-01-01"/>
