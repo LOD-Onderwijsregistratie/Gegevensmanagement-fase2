@@ -24,7 +24,7 @@
         height="58"/>
     <archimateElement
         xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-20b8ceff380845e7b5f1d9ebe4e039e2.xml#id-20b8ceff380845e7b5f1d9ebe4e039e2"/>
+        href="BusinessObject_id-edf5a0bae63e43f9a62f98624d1e1cb7.xml#id-edf5a0bae63e43f9a62f98624d1e1cb7"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -76,7 +76,7 @@
         height="58"/>
     <archimateElement
         xsi:type="archimate:BusinessService"
-        href="BusinessService_id-6d4181cfe9564a159525cc10059c169f.xml#id-6d4181cfe9564a159525cc10059c169f"/>
+        href="BusinessService_id-343bd812d247418b96255c2449af7245.xml#id-343bd812d247418b96255c2449af7245"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -118,7 +118,7 @@
         height="57"/>
     <archimateElement
         xsi:type="archimate:Product"
-        href="Product_id-b418694a6e634801a0083b79b381cd32.xml#id-b418694a6e634801a0083b79b381cd32"/>
+        href="Product_id-88474679dafd445caac71e0c484ae18d.xml#id-88474679dafd445caac71e0c484ae18d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -139,7 +139,7 @@
         height="57"/>
     <archimateElement
         xsi:type="archimate:Product"
-        href="Product_id-ffac2bd6243f4fa5af63042eb609c0fd.xml#id-ffac2bd6243f4fa5af63042eb609c0fd"/>
+        href="Product_id-1c2f4aca05b94521960e51f2ca3ba5fc.xml#id-1c2f4aca05b94521960e51f2ca3ba5fc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Beheer toegang"
-    id="id-210d7418ad974843a313f6ae9ccabef5"
-    documentation="Het doel van toegangsbeheer (Identity &amp; Access Management (IAM)) is het identificeren, authoriseren en toegang verlenen van DUO medewerkers. &#xD;&#xA;&#xD;&#xA;Toegang wordt verleend door het toekennen en intrekken van autorisaties van DUO medewerkers volgens het RBAC model. Dit betekent dat autorisaties worden toegekend op basis van functies gekoppeld aan autorisatieprofielen. Daarbij worden functiescheidingsregels gehanteerd. Dit doel wordt bereikt dmv: &#xD;&#xA;1. Toekennen autorisaties aan bestaande rol&#xD;&#xA;2. Intrekken autorisaties bestaande rol&#xD;&#xA;3. Toekennen rol aan medewerker &#xD;&#xA;4. Intrekken rol bij medewerker&#xD;&#xA;5. (Periodiek) controleren (en zo nodig intrekken) toegekende rollen"/>

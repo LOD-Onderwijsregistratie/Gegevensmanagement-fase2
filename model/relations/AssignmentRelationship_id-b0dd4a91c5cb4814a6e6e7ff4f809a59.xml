@@ -4,8 +4,8 @@
     id="id-b0dd4a91c5cb4814a6e6e7ff4f809a59">
   <source
       xsi:type="archimate:BusinessRole"
-      href="BusinessRole_id-89f301d300f848aa8123511fa6c7198d.xml#id-89f301d300f848aa8123511fa6c7198d"/>
+      href="BusinessRole_id-042bfd90a6c245408eede8887f585d4e.xml#id-042bfd90a6c245408eede8887f585d4e"/>
   <target
       xsi:type="archimate:BusinessService"
-      href="BusinessService_id-fc09aba384084b1ba17a534b580a12fa.xml#id-fc09aba384084b1ba17a534b580a12fa"/>
+      href="BusinessService_id-ef307a120b5641c3bc2189888a5cd855.xml#id-ef307a120b5641c3bc2189888a5cd855"/>
 </archimate:AssignmentRelationship>

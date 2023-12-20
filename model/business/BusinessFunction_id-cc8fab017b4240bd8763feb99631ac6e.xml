@@ -1,5 +1,0 @@
-<archimate:BusinessFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Verstrekken"
-    id="id-cc8fab017b4240bd8763feb99631ac6e"
-    documentation="het binnen de omgeving ter beschikking stellen van de gegevens voor gebruik;&#xD;&#xA;bron: Ketenarchitectuur veranderopgave onderwijsgegevensplatform (nov '21)&#xD;&#xA;&#xD;&#xA;Scope: de functie verstrekken is benodigd voor de capabilities: data integratie &amp; interoperabiliteit, Document &amp; content management, Master &amp; reference data en alle vormen van intelligence. De overige capabilities worden veronderstelt als input op gegevens maar betreft niet een specifieke verstrekking.&#xD;&#xA;&#xD;&#xA;Verstrekken (Jaap)&#xD;&#xA;Het mogelijk maken dat gegevens uitgewisseld worden tussen omgevingen zonder dat deze gekopieerd en overgezet worden.&#xD;&#xA;De gebruiker wordt in staat gesteld de gegevens te gebruiken voor evaluatie, onderzoek of ondersteuning direct vanuit de bron. &#xD;&#xA;"/>
