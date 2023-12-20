@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Linked Data store"
-    id="id-64272b23ac8b4947bbf952c4a06f3111"
-    documentation="Een Linked Data Store is een type database die specifiek is ontworpen om Linked Data op te slaan en te beheren. Linked Data is een manier om gestructureerde gegevens te modelleren, waarbij relaties tussen gegevens op een gestandaardiseerde manier worden beschreven en geïdentificeerd via URI's. Dit maakt het mogelijk om gegevens op een semantisch rijke manier te delen en te koppelen met andere gegevensbronnen op het web. Een Linked Data Store maakt gebruik van speciale querytalen zoals SPARQL om gegevens te doorzoeken en te integreren, en ondersteunt vaak ook de publicatie van gegevens als Linked Data via API's."/>

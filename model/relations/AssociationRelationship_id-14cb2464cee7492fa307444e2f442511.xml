@@ -5,7 +5,7 @@
     documentation="Het borgen van de continuïteit van de informatie en de informatievoorziening en het beperken van de eventuele gevolgen van beveiligingsincidenten tot een acceptabel, vooraf bepaald niveau.">
   <source
       xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-e4d2de1f8d1543ddb0abb3091f0ade92.xml#id-e4d2de1f8d1543ddb0abb3091f0ade92"/>
+      href="ApplicationService_id-3cb041d06a28423cbdf1d6799e934ff9.xml#id-3cb041d06a28423cbdf1d6799e934ff9"/>
   <target
       xsi:type="archimate:TechnologyService"
       href="TechnologyService_id-113d64dd67314c90abc5f4cae8f47d27.xml#id-113d64dd67314c90abc5f4cae8f47d27"/>

@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] EidAS management"
-    id="id-97f52e05e55c455d93fc484651149cfd"
-    documentation="EidAS = Authenticatie, Identificatie en Ondertekenen &#xA;&#xA;Authenticatie (incl. identificatie) en Autorisatie (incl. machtiging) is de werkwijze om gegevens conform de Wet Bescherming Persoonsgegevens te ontsluiten. Authenticatie en Autorisatie is eveneens een onderdeel van Informatiebeveiliging, dat zich naast het conform de wet ontsluiten ook richt op het conform de wet beheren van gegevens. Strikt genomen houdt Authenticatie en Autorisatie zich bezig met het bepalen of de klant is wie hij zegt dat hij is en dat hij de diensten krijgt aangeboden waar hij recht op heeft.&#xA;&#xA;&#xA;&#xA;"/>

@@ -4,8 +4,8 @@
     id="id-ea554baae4674a10a62b92c78974993a">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-ca11a008abe146368478968a91e2d6ee.xml#id-ca11a008abe146368478968a91e2d6ee"/>
+      href="ApplicationComponent_id-1d496a557b214b54a9fb4c1765c7192a.xml#id-1d496a557b214b54a9fb4c1765c7192a"/>
   <target
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-75dc93a2d0844437a6569eb96d4f1510.xml#id-75dc93a2d0844437a6569eb96d4f1510"/>
+      href="ApplicationInterface_id-4c4f4520b27949af9e76970dfd273c71.xml#id-4c4f4520b27949af9e76970dfd273c71"/>
 </archimate:CompositionRelationship>

@@ -5,7 +5,7 @@
     accessType="1">
   <source
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-b7210d8587734bbf8db17b41349c6b28.xml#id-b7210d8587734bbf8db17b41349c6b28"/>
+      href="ApplicationInterface_id-b2912bd7105f4a089761912e7215b934.xml#id-b2912bd7105f4a089761912e7215b934"/>
   <target
       xsi:type="archimate:DataObject"
       href="DataObject_id-b9563eecf0384685ae63d60c7f4c48c8.xml#id-b9563eecf0384685ae63d60c7f4c48c8"/>

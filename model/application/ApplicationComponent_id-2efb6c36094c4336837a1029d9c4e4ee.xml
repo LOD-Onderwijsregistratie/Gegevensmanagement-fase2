@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operation data store (ODS)"
-    id="id-2efb6c36094c4336837a1029d9c4e4ee"/>
+    id="id-2efb6c36094c4336837a1029d9c4e4ee"
+    documentation="&#xA;"/>

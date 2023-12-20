@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadatabeheerfunctie (*)"
+    name="Metadatabeheerfunctie"
     id="id-10c1a60abcaf43eca30b1176ce429732"
-    documentation="Het beheren van metadata van onderzoeksgegevens.&#xD;&#xA;&#xD;&#xA;(*) Editorial GGR:  Het beheren van metagegevens is mijn inziens een business functie">
+    documentation="Het beheren van metadata van onderzoeksgegevens.">
   <properties
       key="Type"
       value="Applicatiefunctie"/>

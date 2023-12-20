@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Integration"
-    id="id-ce67e8a7c7fe480fb3e0bbddef2522f2"
-    documentation="Services met betrekking tot het integreren en transformeren van gegevens. Denk aan ETL / ELT en data preparatis, maar ook het inrichten van semantische tussenlagen zoals &quot;Universes&quot;  of &quot;Catalogi&quot;"/>

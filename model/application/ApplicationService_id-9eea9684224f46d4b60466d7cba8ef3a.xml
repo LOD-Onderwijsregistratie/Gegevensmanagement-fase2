@@ -1,5 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modeleer omgevings dienst"
+    name="Modelleer omgevingsdienst"
     id="id-9eea9684224f46d4b60466d7cba8ef3a"
     documentation="Dit is de dienst die er voor zorgt dat modelleurs effectief en efficiënt hun modellen (en metagegevens) kunnen ontwikkelen en onderhouden op het juiste moment, dat wil zeggen, op een natuurlijk moment in hun eigen proces en niet als een documentaire handeling achteraf. Dit omvat ook applicatieve ondersteuning over volledigheid en juistheid.  &#xD;&#xA;&#xD;&#xA;De dienst moet flexibel zijn. Het is in beginsel gericht op een standaard oplossing voor 90% van de ontwikkelactiviteiten. Het is echter denkbaar dat een project bijzondere vereisten heeft en dat er 'maatwerk' nodig is. "/>

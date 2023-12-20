@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Signaleren wijzigingen"
     id="id-e7eb196e690c4ed2a3815ceb39373519"
-    documentation="Een signaleren wijzigingen component is een softwarecomponent die veranderingen in een dataset detecteert en signaleert. Dit kan bijvoorbeeld handig zijn bij het bijhouden van wijzigingen in een database of het monitoren van veranderingen in een bepaald bestand. Door het gebruik van een signaleren wijzigingen component kunnen gebruikers snel op de hoogte worden gebracht van belangrijke wijzigingen in hun gegevens, waardoor ze hier snel op kunnen reageren."/>
+    documentation="Een signaleren wijzigingen component is een softwarecomponent die veranderingen in een dataset detecteert en signaleert. Dit kan bijvoorbeeld handig zijn bij het bijhouden van wijzigingen in een database of het monitoren van veranderingen in een bepaald bestand. Door het gebruik van een signaleren wijzigingen component kunnen gebruikers snel op de hoogte worden gebracht van belangrijke wijzigingen in hun gegevens, waardoor ze hier snel op kunnen reageren.&#xA;"/>

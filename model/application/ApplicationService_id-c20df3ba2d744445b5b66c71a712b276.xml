@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Data governance management"
-    id="id-c20df3ba2d744445b5b66c71a712b276"/>
+    id="id-c20df3ba2d744445b5b66c71a712b276"
+    documentation="&#xA;"/>

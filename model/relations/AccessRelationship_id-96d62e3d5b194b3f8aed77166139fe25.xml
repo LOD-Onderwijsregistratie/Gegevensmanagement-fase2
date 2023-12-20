@@ -5,8 +5,8 @@
     accessType="1">
   <source
       xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-b2f3ed88113042b79c0329f1a1cb69e0.xml#id-b2f3ed88113042b79c0329f1a1cb69e0"/>
+      href="ApplicationInterface_id-80f0ebc8521a4e859d8c87f70a75274f.xml#id-80f0ebc8521a4e859d8c87f70a75274f"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_id-b37c2689964946b29bc44f9ceffe132a.xml#id-b37c2689964946b29bc44f9ceffe132a"/>
+      href="DataObject_id-b9563eecf0384685ae63d60c7f4c48c8.xml#id-b9563eecf0384685ae63d60c7f4c48c8"/>
 </archimate:AccessRelationship>

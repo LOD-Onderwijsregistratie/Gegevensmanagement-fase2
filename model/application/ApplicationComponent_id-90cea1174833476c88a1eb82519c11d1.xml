@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Index store"
-    id="id-90cea1174833476c88a1eb82519c11d1"
-    documentation="Een index store is een opslagplaats voor indexen van gegevens die worden gebruikt om snel en efficiënt te zoeken en toegang te krijgen tot gegevens. Het slaat meestal een gestructureerde versie van de gegevens op en kan deze indexen gebruiken om zoekopdrachten te versnellen en resultaten te optimaliseren. Index stores worden vaak gebruikt in zoekmachines, databases en big data-oplossingen om de prestaties te verbeteren en de zoek- en analysefuncties te optimaliseren.&#xD;&#xA;&#xD;&#xA;Voorbeeld hiervan is Elastic. "/>

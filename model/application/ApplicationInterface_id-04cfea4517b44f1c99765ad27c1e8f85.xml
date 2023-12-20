@@ -1,5 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Bron gegevens gateway (copy)"
-    id="id-04cfea4517b44f1c99765ad27c1e8f85"
-    documentation="Een Bron Gegevens Gateway is een interface die fungeert als een toegangspoort tot gegevensbronnen en deze gegevens beveiligt, integreert en beheert. Het stelt het distributie platform in staat om toegang te krijgen tot gegevens vanuit verschillende bronnen, zoals databases, bestanden en web services (API's), en biedt functionaliteiten zoals authenticatie, autorisatie, encryptie, caching en audit logging. "/>

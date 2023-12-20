@@ -1,5 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Access"
-    id="id-fdf8cf236d7049f0857668b8ce30da8f"
-    documentation="Services met betrekking tot het inwinnen, gebruiken van gegevens, beheer van (tussen)resultaten, algoritmen en archivering."/>

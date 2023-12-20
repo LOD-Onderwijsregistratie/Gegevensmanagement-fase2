@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Kibana"
-    id="id-3a63f5979ccf432b9a9eb1f0271b800c"/>
+    id="id-3a63f5979ccf432b9a9eb1f0271b800c"
+    documentation="&#xA;"/>

@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CDC tooling (copy)"
-    id="id-e90aec674f944f678c52fa72db96bc12"
-    documentation="CDC staat voor &quot;Change Data Capture&quot;. CDC tooling is software die wordt gebruikt om wijzigingen in een database of andere gegevensopslagplaats in realtime vast te leggen en te repliceren naar andere systemen. CDC-tooling identificeert, volgt en kopieert automatisch alleen de wijzigingen in de gegevens, wat efficiënter is dan het volledig kopiëren van de gegevensbron. Dit maakt het mogelijk om de gegevens in realtime te repliceren en te synchroniseren tussen verschillende systemen en zo de consistentie van de gegevens te waarborgen. CDC-tooling wordt vaak gebruikt in gegevensintegratieprojecten en bedrijfsapplicaties zoals datawarehouses, data lakes en CRM-systemen.&#xD;&#xA;&#xD;&#xA;Naast data replicatie ook het detecteren van aanpassingen via API's (HVR tooling / Kafka)."/>

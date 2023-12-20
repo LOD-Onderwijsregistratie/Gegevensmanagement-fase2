@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Metadata Publicatie (MDP)"
-    id="id-bed18f44ebb141ac97ef8f84d0204205"
-    documentation="Een Metadata Publicatie applicatie component is een softwaretool die wordt gebruikt om metadata te publiceren en te delen met gebruikers en applicaties binnen een organisatie. Het biedt een gestandaardiseerde manier om metadata te delen en toegankelijk te maken voor verschillende stakeholders. Dit kan helpen bij het verbeteren van de samenwerking en communicatie tussen teams en het verhogen van de kwaliteit en consistentie van de gegevens binnen een organisatie.">
-  <properties
-      key="BegripURI"
-      value="https://www.begrippenxl.nl/gabi/nl/page/MDP"/>
-</archimate:ApplicationComponent>

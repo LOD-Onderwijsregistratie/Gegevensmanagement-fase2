@@ -1133,7 +1133,7 @@
         height="157"/>
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
-        href="ApplicationInterface_id-7bd43a371b324679a135832177e205d5.xml#id-7bd43a371b324679a135832177e205d5"/>
+        href="ApplicationInterface_id-31d70c1d061a47bfb0c43e472d4f00b5.xml#id-31d70c1d061a47bfb0c43e472d4f00b5"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -1209,6 +1209,6 @@
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-e108dad712784e6cbe95b56fca9a900e.xml#id-e108dad712784e6cbe95b56fca9a900e"/>
+        href="ApplicationComponent_id-8dddc4b6dae5427f9a0dac5a2553d3df.xml#id-8dddc4b6dae5427f9a0dac5a2553d3df"/>
   </children>
 </archimate:ArchimateDiagramModel>
