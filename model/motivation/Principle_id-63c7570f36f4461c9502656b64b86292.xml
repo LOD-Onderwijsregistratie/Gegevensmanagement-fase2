@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[BP02] De Medewerker wordt ondersteund"
+    id="id-63c7570f36f4461c9502656b64b86292"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="Iedere medewerker wordt zodanig ondersteund dat hij voldoende is toegerust."/>
+  <properties
+      key="rationale"
+      value="DUO heeft als organisatie de verantwoordelijkheid voor een tevreden en trotse medewerker. De medewerker heeft als individu de verantwoordelijkheid om de eigen capaciteiten te onderhouden en te ontwikkelen (duurzame inzetbaarheid). Organisatie en medewerker brengen dit in verbinding en in balans met elkaar tot stand. De ‘medewerker’ in ‘De medewerker wordt ondersteund’ betreft én de individuele medewerker én de groep medewerkers.&#xD;&#xA;&#xD;&#xA;Het vakmanschap van de medewerkers bepaalt de kwaliteit van de uitvoering. De medewerkers zijn het belangrijkste kapitaal van DUO. Hun samenwerking, dat erop gericht is om elkaar in positie te brengen en te houden, is essentieel. Onderdeel daarvan is een effectief en transparant besluitvormingsproces. Dit principe ondersteunt de strategische doelstelling dat onze medewerkers ons kapitaal zijn. Wij zorgen ervoor dat zij zich kunnen blijven ontwikkelen.&#xD;&#xA;&#xD;&#xA;"/>
+</archimate:Principle>

@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portal integration services"
+    id="id-4ec369d8e9f94f40a8b43e7c05ff5c78"
+    documentation="Technische component die zorgt voor de integratie van de verschillende onderdelen van een DUO webportaal."/>

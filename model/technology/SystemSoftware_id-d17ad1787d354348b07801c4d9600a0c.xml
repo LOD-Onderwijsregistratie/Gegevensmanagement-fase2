@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="GitLab"
+    id="id-d17ad1787d354348b07801c4d9600a0c"
+    documentation="GitLab is een online platform voor softwareontwikkeling en versiebeheer. GitLab is gebouwd rond het versiebeheersysteem Git. Het bevat onder andere een git-repository, wiki, ticketvolgsysteem en softwareontwikkelstraat."/>

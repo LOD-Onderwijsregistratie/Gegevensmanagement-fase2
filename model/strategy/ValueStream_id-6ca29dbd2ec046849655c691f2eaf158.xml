@@ -1,0 +1,5 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens gebruik (copy)"
+    id="id-6ca29dbd2ec046849655c691f2eaf158"
+    documentation="DAMA DMBOK2 levenscyclus: Use&#xD;&#xA;&#xD;&#xA;Gebruik differentieert zich van gegevensdeling doordat er sprake is van een toepassing/functionaliteit op de gegevens binnen de context. Gebruik heeft betrekking op de aansluiting van een toepassing op de gegevens. Dit kan (niet uitputtend) een regel, interactie,  rapportage of analyse zijn op en van gegevens.&#xD;&#xA;Gegevensgebruik omvat zowel gebruik in de primaire (taak)processen van overheid  als het secundaire gebruik van gegevens t.b.v. sturing, effectmeting en verantwoording . &#xD;&#xA;"/>

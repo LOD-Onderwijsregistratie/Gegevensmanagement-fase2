@@ -1,0 +1,12 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[HORA] Gegevenscollectie"
+    id="id-75ce84e34e7a4da68546b29925a93eda"
+    documentation="Het verzamelen van nieuwe en bestaande onderzoeksgegevens.&#xD;&#xA;&#xD;&#xA;https://hora.surf.nl/index.php/Id-da2456f9-8e5d-27e0-1daa-2f464592f660">
+  <properties
+      key="Domein"
+      value="Onderzoek"/>
+  <properties
+      key="Type"
+      value="Deelbedrijfsfunctie"/>
+</archimate:BusinessFunction>

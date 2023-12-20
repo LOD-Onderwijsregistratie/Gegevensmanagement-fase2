@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kennis Management"
+    id="id-48cce2045efa4ef49803200ff48e07d8"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="Kennismanagement betreft het vermogen van DUO om op ieder moment, in iedere situatie, te kunnen verklaren welke kenniselementen (proces, juridische grondslag, gegevens grondslag en interactie) op welke wijze een rol gespeeld hebben in het nemen van een beslissing over rechten en plichten van belanghebbenden.&#xD;&#xA;&#xD;&#xA;De capability van kennismanagement beschrijft de vermogen van een organisatie om kennis efficiënt en effectief te verzamelen, te beheren, te gebruiken en te delen. Dit omvat zowel technologische als organisatorische aspecten."/>
+  <properties
+      key="omschrijving"
+      value="Bron: eindrapport Kennis Management v 0.9.3"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+</archimate:Capability>

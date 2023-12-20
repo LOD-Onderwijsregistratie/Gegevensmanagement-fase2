@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Integration &amp; Interoperability"
+    id="id-431b8e2df59d4b0ba32c99528db57c4b"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="Data integratie en operabiliteit betreft het in de breedste zin van het woord beschikbaar stellen en verwerken van gegevens."/>
+  <properties
+      key="omschrijving"
+      value="Bron: DAMA DMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="02 Repeatable "/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+</archimate:Capability>

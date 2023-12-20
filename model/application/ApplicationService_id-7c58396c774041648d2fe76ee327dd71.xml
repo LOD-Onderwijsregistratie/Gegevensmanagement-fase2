@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Datakwaliteit"
+    id="id-7c58396c774041648d2fe76ee327dd71"
+    documentation="Het verbeteren van de kwaliteit van een gegevensverzameling door duplicaten te detecteren en samen te voegen, ontbrekende gegevens aan te vullen en foutieve records te verwijderen (cleansing).&#xA;"/>

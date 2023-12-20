@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeksresultaattransfer"
+    id="id-179470d512fb4826a75f6995385296dc"
+    documentation="Betreft een service die het overzetten van onderzoeksresultaten naar een andere omgeving faciliteert."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Inwinnen gegevens"
+    id="id-67a7a1f3720a4e8792000863a8fd8777"
+    documentation="Centraal beschikbaar hebben van gegevens in registers, welke worden aangevuld vanuit een primaire bron. Dit gaat via zogenaamde pipelines die via CDC tooling worden geactualiseerd.&#xA;&#xA;&#xA;"/>

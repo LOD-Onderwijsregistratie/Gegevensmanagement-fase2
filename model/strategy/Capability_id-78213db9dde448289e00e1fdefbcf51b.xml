@@ -1,0 +1,15 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Advanced analytics"
+    id="id-78213db9dde448289e00e1fdefbcf51b"
+    documentation="Zie properties.">
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="definitie"
+      value="Deze capability omvat een breed scala aan functies en activiteiten die nodig zijn om geavanceerde analyses en datagedreven modellering uit te voeren. Binnen deze overkoepelende capability bevinden zich verschillende subcapabilities en competenties, waaronder:&#xD;&#xA;&#xD;&#xA;Gegevensverzameling en -opslag: Het verzamelen, opslaan en beheren van grote hoeveelheden gegevens, inclusief gestructureerde en ongestructureerde gegevens, die nodig zijn voor data science-projecten.&#xD;&#xA;&#xD;&#xA;Gegevensvoorbereiding en -opschoning: Het proces van het voorbereiden en opschonen van ruwe gegevens om ze geschikt te maken voor analyse en modellering.&#xD;&#xA;&#xD;&#xA;Gegevensexploratie en -visualisatie: Het verkennen van gegevens en het gebruik van visualisaties om inzichten te krijgen en patronen te identificeren.&#xD;&#xA;&#xD;&#xA;Statistische Analyse: Het uitvoeren van statistische analyses om de gegevens te begrijpen en te karakteriseren.&#xD;&#xA;&#xD;&#xA;Machine Learning en Algoritme-ontwikkeling: Het ontwikkelen van machine learning-modellen en algoritmen om voorspellingen te doen, patronen te ontdekken en besluitvorming te automatiseren.&#xD;&#xA;&#xD;&#xA;Deep Learning en Neurale Netwerken: Het gebruik van diepe leermodellen en neurale netwerken voor complexe taken zoals beeldherkenning en natuurlijke taalverwerking.&#xD;&#xA;&#xD;&#xA;Big Data-technologieën: Het werken met big data-technologieën en -platforms voor de verwerking en analyse van grote hoeveelheden gegevens.&#xD;&#xA;&#xD;&#xA;Experimentontwerp en A/B-testing: Het ontwerpen en uitvoeren van gecontroleerde experimenten om hypotheses te testen en de impact van veranderingen te meten.&#xD;&#xA;&#xD;&#xA;Model Evaluatie en Validatie: Het beoordelen en valideren van de prestaties van modellen en algoritmen om ervoor te zorgen dat ze betrouwbaar zijn.&#xD;&#xA;&#xD;&#xA;Opschaling en Implementatie: Het schalen en implementeren van data science-modellen in productieomgevingen.&#xD;&#xA;&#xD;&#xA;Ethiek en Privacy: Het waarborgen van ethische en wettelijke overwegingen met betrekking tot gegevensgebruik en privacy.&#xD;&#xA;&#xD;&#xA;De overkoepelende capability voor Advanced Analytics and Data Science is cruciaal omdat het de organisatie in staat stelt om geavanceerde technieken en modellen te gebruiken om waardevolle inzichten uit data te halen. Data science maakt gebruik van deze capability om complexe analyses uit te voeren, voorspellingen te doen en besluitvorming te ondersteunen op basis van gegevens. Het speelt een essentiële rol bij het omzetten van gegevens in zakelijke waarde en innovatie."/>
+</archimate:Capability>

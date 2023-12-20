@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Onderzoeks(tussen)resultaat beheer service"
+    id="id-6a7733ed507b4a46ac62ec9fb26f9b18"
+    documentation="Betreft een service die het beheer (crud) onderzoeks(tussen)resultaten mogelijk maakt."/>

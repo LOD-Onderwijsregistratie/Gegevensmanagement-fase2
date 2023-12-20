@@ -1,0 +1,18 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GG07] Gegevens zijn open tenzij…"
+    id="id-efa9f60d77f94437a9fdc9f8d3ac5228"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="In veranderprojecten wordt het grote publiek standaard als stakeholder meegenomen in de projectdefinitie. Een project is niet af zonder open gegevens product."/>
+  <properties
+      key="rationale"
+      value="Het grote publiek heeft wettelijk recht op open gegevens. Helaas is het praktisch niet mogelijk voor het grote publiek om zelf invloed uit te oefenen op de totstandkoming van open gegevensproducten. Daarom is dit expliciet als gegevensprincipe gedefinieerd."/>
+  <properties
+      key="implicaties"
+      value="Open tenzij, betekent het leveren van zo ruw mogelijke, minimaal bewerkte gegevens. Natuurlijk moet wel bewerking plaats vinden om gegevenslekken (privacy, bedrijfsgeheim e.d.) te voorkomen. Elk project volgt de open gegevens beslisboom om tot een veilig open gegevensproduct te komen. &#xD;&#xA;Die beslisboom vormt de basis vormen voor een aangescherping: “maak gegevens zo open als mogelijk”. Dit komt neer op een inrichten van fysieke zonering. Gegevens in een zone met vertrouwelijkheid hoog kunnen door maatregelen als filtering, anonimiseren, pseudonimiseren en aggregatie naar een zone met vertrouwelijkheid middel of laag worden gebracht waardoor steeds meer mensen er van kunnen profiteren. Tot en met open gegevens voor het publiek.&#xD;&#xA;&#xD;&#xA;De vertrouwelijkheid van open gegevens is per definitie laag, maar dat wil niet zeggen dat de beschikbaarheid en integriteit ook laag zijn. Gebruikers van open gegevens mogen een bepaald servicelevel verwachten. DUO maakt dat expliciet.&#xD;&#xA;"/>
+  <properties
+      key="verwantschap"
+      value="NORA beleidskader Visie Open Overheid&#xD;&#xA;Wet Open Overheid (WOO).&#xD;&#xA;"/>
+</archimate:Principle>

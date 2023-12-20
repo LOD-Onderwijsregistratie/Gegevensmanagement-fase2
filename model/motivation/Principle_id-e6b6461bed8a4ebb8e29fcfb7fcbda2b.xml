@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[BP06] DUO Handelt Rechtmatig"
+    id="id-e6b6461bed8a4ebb8e29fcfb7fcbda2b"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="DUO past de juiste regels en de juiste gegevens op een rechtvaardige wijze toe."/>
+  <properties
+      key="rationale"
+      value="De maatschappij moet kunnen vertrouwen in het behoorlijk bestuur van de overheid en haar uitvoering. DUO past regels correct toe en weegt belangen van stakeholders af met het oog op rechtvaardig handelen.&#xD;&#xA;Rechtmatigheid betreft het toepassen van de juiste regels (wetsregels, beleidsregels, overheidsbeleid, uitvoeringsbeleid) en het gebruiken van de juiste gegevens.&#xD;&#xA;Rechtvaardigheid betreft het toepassen van deze regels en gegevens op een wijze die voldoet aan de belangenafweging vanuit proportionaliteit, maatschappelijke verwachting en verantwoord vertrouwen.&#xD;&#xA;&#xD;&#xA;"/>
+</archimate:Principle>

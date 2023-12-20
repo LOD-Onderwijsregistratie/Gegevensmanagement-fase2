@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ontsluiten Onderzoeksgegevens"
+    id="id-0fd209ebc63b4439938227249bbe26e5"
+    documentation="Betreft een service die het ontsluiten van gegevens ten behoeve van een onderzoek mogelijk maakt."/>

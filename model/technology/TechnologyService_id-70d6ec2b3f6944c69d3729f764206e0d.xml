@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Virtualized client"
+    id="id-70d6ec2b3f6944c69d3729f764206e0d"
+    documentation="Het bieden van een virtuele omgeving waarin meerdere client besturingssystemen kunnen draaien op een fysieke machine."/>

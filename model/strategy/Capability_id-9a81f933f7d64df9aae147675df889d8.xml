@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Storage &amp; Operations"
+    id="id-9a81f933f7d64df9aae147675df889d8"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="DUO heeft het vermogen op gegevensopslag te ontwerpen, implementeren en beheren zodat de waarde van gegevens gemaximaliseerd wordt. &#xD;&#xA;Bron: DAMA DMBOK2"/>
+  <properties
+      key="omschrijving"
+      value="Zo kan DUO:&#xD;&#xA;•&#x9;De beschikbaarheid van gegevens gedurende de gegevenslevenscyclus beheren&#xD;&#xA;•&#x9;Zorgen voor de integriteit van de data assets&#xD;&#xA;•&#x9;Beheren van de prestaties van gegevenstransacties."/>
+  <properties
+      key="volwassenheidsniveau"
+      value="02 Repeatable "/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+</archimate:Capability>

@@ -1,0 +1,15 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[GG08] Gegevens beheerd als asset"
+    id="id-e7e39d5ca97243269088d2d13faa03ac"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="Taken, verantwoordelijkheden en bevoegdheden voor gegevens zijn expliciet belegd. Gegevens worden vormen een asset (een bedrijfsmiddel) voor de organisatie. Daarvoor moet adequaat worden gezorgd en verantwoording afgelegd. "/>
+  <properties
+      key="rationale"
+      value="De verantwoordelijke heeft de taak om de zorg voor een gegeven te organiseren en daarover verantwoording af te leggen. Daarbij hoort ook het inschakelen van gespecialiseerde functies als gegevens-integratie en metagegevensbeheer. Door de zorg en verantwoording van gegevens binnen expliciet te maken groeit de professionele organisatie."/>
+  <properties
+      key="implicaties"
+      value="DAMA DMBOK is een hoog over uitwerking van de capability Gegevensmanagement. Dit valt weer uiteen in diverse deelgebieden als metadatering, modellering, gegevenswarehousing en gegevenskwaliteit. Structurele aandacht voor deze gebieden vormt een professioneel gegevensmanagement.&#xD;&#xA;Dit betekent een bepaalde en in de loop der tijd groeiende verzameling taken, verantwoordelijkheden en bevoegdheden voor de gegevensverantwoordelijke. Governance wordt ingericht onder andere met een periodieke schouw. Bijvoorbeeld of de gegevensontwikkelstraat wordt gebruikt.&#xD;&#xA;"/>
+</archimate:Principle>

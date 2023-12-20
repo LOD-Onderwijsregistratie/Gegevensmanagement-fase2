@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informatie verstrekking"
+    id="id-98792bcf551949119781e9337abfc103"
+    documentation="Zie properties.&#xA;">
+  <properties
+      key="definitie"
+      value="Het vermogen om gegevens en/of informatieproducten te verstrekken. "/>
+  <properties
+      key="omschrijving"
+      value="Deze verstrekking kan een onderdeel zijn van een (primaire) wettelijke taak die aan DUO is opgedragen, volgen uit algemene wettelijke verplichtingen of plaatsvinden na erkenning van een legitiem verzoek. Verstrekking van informatie kent verschillende vormen zoals gegevens/informatie levering, open data, analyse resulten etc. Informatieverstrekking wordt verzorgd door verschillende bedrijfsonderdelen binnen DUO; door de bronhouder, door gegevensmanagement (GGL) of door intern (BIC) of extern (IP) georienteerde afdelingen, afhankelijk van de gewenste dienstverlening en daarvoor benodigde kennis.&#xD;&#xA;&#xD;&#xA;update: Waar eerder Business Intelligence(BI) en Operational Intelligence(OI) werden gevat 'onder' Informatie Management worden BI en OI nu als onderdeel van Gegevensmanagement gezien (in lijn met Dama DMBok2) en is de output onderdeel van Informatie Management.&#xD;&#xA;"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="domein"
+      value="Algemeen"/>
+</archimate:Capability>

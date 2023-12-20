@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Governance"
+    id="id-bb4fb24f106442d1a7e37ddc4a459f83"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="Datagovernance betreft de planning, het overzicht en de controle over gegevensmanagement. Bij DUO wordt de term gegevensmanagement gebruikt voor het hele vakgebied, waarbinnen datagovernance over de verschillende onderdelen de regie voert.&#xD;&#xA;&#xD;&#xA;De ontwikkeling kent een fasering en vraagt om een balans tussen:&#xD;&#xA;Strategie en Doelen&#xD;&#xA;Besturing en Organisatie&#xD;&#xA;Leiderschap en Gedrag"/>
+  <properties
+      key="omschrijving"
+      value="Ensuring data is managed&#xD;&#xA;Bron: DAMA DMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+</archimate:Capability>

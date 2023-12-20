@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Operational Intelligence"
+    id="id-60b64a31da12436ba3d2ee36f54a5883"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="Het vermogen om op real-time basis gegevens en informatie te verzamelen, analyseren en daarop actie te ondernemen zodat anomalien tijdens de operatie van diensten, hardware en software componenten direct gedetecteerd worden waardoor de kwaliteit van DUO geleverde diensten op het gewenste niveau blijft.&#xD;&#xA;&#xD;&#xA;Voorstel HG &amp; HB &amp; AR: Definitie&#xD;&#xA;&#xD;&#xA;Operational Intelligence (OBI) verwijst naar de processen en tools die worden gebruikt voor het analyseren van specifieke events of individuele business processen\functies om verbeteringen of mogelijkheden te identificeren vanuit een operationeel oogpunt. &#xD;&#xA;&#xA;"/>
+  <properties
+      key="omschrijving"
+      value="de continue bedrijfsanalyse die inzicht biedt in gegevens, lopende gebeurtenissen en de werking van de organisatie.&#xD;&#xA;Bron: Operational Intelligence DUO v1.0&#xD;&#xA;&#xD;&#xA;Voorstel HG &amp; HB &amp; AR: Toelichting&#xD;&#xA;&#xD;&#xA;OBI hanteert een proactieve activiteit-centrische aanpak waar een constante stroom van (near) real-time operationele data vanuit een bron direct in een analytisch platform wordt geladen zonder te worden opgeslagen in een datawarehouse. OBI pas je toe wanneer je accurate en actuele situationele inzicht wil hebben op een specifiek business proces/functie waar je snel op wilt reageren.&#xD;&#xA;&#xD;&#xA;OBI gebruikt technologie die ook voor traditionele BI worden ingezet, maar voegt daar tooling en technieken aan toe voor snelle data cleansing (detecteren en repareren of verwijderen van (corrupte) data) en het snel kunnen verwerken van data zodat medewerkers die werken binnen een proces beter de voortdurende real-time stroom aan data kunnen analyseren of op kunnen reageren. De dynamische operationele data worden in een analytisch platform geïntegreerd met meer statische data of normen (bijvoorbeeld drempelwaarden) om tot het inzicht te komen.   &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="domein"
+      value="Algemeen"/>
+</archimate:Capability>

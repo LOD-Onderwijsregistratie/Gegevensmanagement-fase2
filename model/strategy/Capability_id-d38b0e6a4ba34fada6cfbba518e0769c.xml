@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master &amp; Reference data"
+    id="id-d38b0e6a4ba34fada6cfbba518e0769c"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="Referentie -en materdata betreft het breed beschikbaar maken van de kerngegevens en het onderscheiden van bijvoorbeeld referentiegegevens van een organisatie.&#xD;&#xA;Bron: DAMA DMBOK2"/>
+  <properties
+      key="omschrijving"
+      value="DUO heeft het vermogen om kerngegevens (masterdata) en referentiegegevens te identificeren en breed beschikbaar te maken. Zo kan DUO:&#xD;&#xA;•&#x9;Vertrouwen geven in de compleetheid, actualiteit en consistentie van gedeelde gegevens&#xD;&#xA;•&#x9;Beter de gegevenskwaliteit van dit soort gegevensverzamelingen beheren&#xD;&#xA;•&#x9;Onnodige en onnodig complexe gegevensintegratie voorkomen&#xD;&#xA;•&#x9;De complexiteit en de daarbij optredende risico’s van het gegevenslandschap verminderen"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="02 Repeatable "/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+</archimate:Capability>

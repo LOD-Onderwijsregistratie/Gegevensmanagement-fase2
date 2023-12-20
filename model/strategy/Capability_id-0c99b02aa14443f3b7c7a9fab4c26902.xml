@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Architecture"
+    id="id-0c99b02aa14443f3b7c7a9fab4c26902"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="DUO heeft het vermogen om een consistent geheel van principes en modellen op te stellen dat richting geeft aan ontwerp en realisatie van de processen, organisatorische inrichting, informatievoorziening en technische infrastructuur van het gegevensmanagement van DUO.&#xD;&#xA;Data architectuur is aspect binnen DUO's Enterprise Architectuur&#xD;&#xA;Bron: DUO Architectuur wiki&#xD;&#xA;&#xD;&#xA;In de data architectuur vindt de vertaling plaats van ambitie naar realisatie."/>
+  <properties
+      key="omschrijving"
+      value="Bron: DAMA BMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="02 Repeatable "/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="kaders"
+      value="Archimate &amp; TOGAF"/>
+</archimate:Capability>

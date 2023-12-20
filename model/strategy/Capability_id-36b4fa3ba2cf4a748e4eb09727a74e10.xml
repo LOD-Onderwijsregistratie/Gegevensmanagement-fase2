@@ -1,0 +1,39 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data Modelling &amp; Design"
+    id="id-36b4fa3ba2cf4a748e4eb09727a74e10"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="DUO heeft het vermogen het proces uit te voeren waarbij datavereisten ontdekt, geanalyseerd en in kaart gebracht wordt en vervolgens te representeren en communiceren in een precieze vorm die het gegevensmodel wordt genoemd. Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen.&#xD;&#xA;&#xD;&#xA;Bron: DAMA DMBOK2:"/>
+  <properties
+      key="omschrijving"
+      value="Gegevensmodellen zijn van cruciaal belang voor effectief gegevensbeheer. Met een gegevensmodel kan DUO:&#xD;&#xA;• Zorgen voor een gemeenschappelijk vocabulaire rond gegevens.&#xD;&#xA;• Expliciete kennis vastleggen en documenteren over de gegevens en systemen van een organisatie.&#xD;&#xA;• Laten fungeren als primair communicatiemiddel tijdens projecten.&#xD;&#xA;• Bieden van het startpunt voor maatwerk, integratie of zelfs vervanging van een applicatie.&#xD;&#xA;&#xD;&#xA;Modellen hebben een relatie met metadata en bevatten metagegevens zoals: betekenis, de structuur, de compliancy op het gebied van archivering,  BIV, , eigenaar, locatie e.d).&#xD;&#xA;"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="02 Repeatable "/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="issues"
+      value="zie definitie en omschrijving"/>
+  <properties
+      key="kaders"
+      value="Gegevensontwikkeling &amp; Beheer v1.0"/>
+  <properties
+      key="rollen"
+      value="CMDA&#xD;&#xA;BAT Modelleren&#xD;&#xA;Serviceteam modelleren"/>
+  <properties
+      key="bdrijfsprocessen"
+      value="&#xD;&#xA;"/>
+  <properties
+      key="bedrijfsregels"
+      value="standaarden FDS&#xD;&#xA;metamodel&#xD;&#xA;"/>
+  <properties
+      key="bedrijfsobjecten"
+      value="Bedrijfsobjectenmodel&#xD;&#xA;Begrippenkader&#xD;&#xA;Logisch model&#xD;&#xA;Technisch model"/>
+  <properties
+      key="voorzieningen"
+      value="* modelleeromgeving&#xD;&#xA;* publicatieplatform"/>
+</archimate:Capability>

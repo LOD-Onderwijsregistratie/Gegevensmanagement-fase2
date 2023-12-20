@@ -1,0 +1,21 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Analytics"
+    id="id-2d700db52d8e4210b7e6c4395d9b6dfc"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="Analytics verwijst naar het proces van het verzamelen, analyseren, interpreteren (en presenteren) van gegevens om inzichten te verkrijgen ter ondersteuning van analytics."/>
+  <properties
+      key="omschrijving"
+      value="Analytics kent een volwassenheidsmodel van gartner met bijbehorende aanpak &#xD;&#xA;BRON: Gartner.com"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="01 Initial"/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="issues"
+      value="&#xD;&#xA;tekst herzien:&#xD;&#xA;Focus: Analytics richt zich meer op het begrijpen van het verleden en het heden op basis van historische gegevens. Het omvat een breed scala aan technieken, waaronder beschrijvende statistieken, rapportage, data visualisatie en dashboards.&#xD;&#xA;Doelstelling: Het belangrijkste doel van Analytics is het identificeren van trends, het meten van prestaties en het ondersteunen van datagestuurde besluitvorming. Het is gericht op het beantwoorden van vragen als &quot;Wat is er gebeurd?&quot; en &quot;Waarom is het gebeurd?&quot;&#xD;&#xA;Benadering: Analytics maakt gebruik van tools en technieken die meer gericht zijn op het samenvatten en presenteren van gegevens in begrijpelijke vorm. Het vereist nog steeds enige kennis van statistiek, maar niet noodzakelijkerwijs op het niveau van Data Science."/>
+</archimate:Capability>

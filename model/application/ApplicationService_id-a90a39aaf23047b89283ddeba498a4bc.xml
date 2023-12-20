@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="HPC service"
+    id="id-a90a39aaf23047b89283ddeba498a4bc"
+    documentation="Applicatie service dat het gebruik van HPC (high performance computing) ondersteunt."/>

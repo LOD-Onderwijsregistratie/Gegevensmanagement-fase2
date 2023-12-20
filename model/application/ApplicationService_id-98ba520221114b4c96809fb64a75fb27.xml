@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Gegevens transformatie"
+    id="id-98ba520221114b4c96809fb64a75fb27"
+    documentation=" Zowel ETL als ELT. De Data Hub maakt gebruik van ELT (Extract, Load, Transform) dat gegevens laadt zoals ze zijn en transformeert zodra deze wordt aangevraagd. Deze aanpak suggereert een snellere manier om gegevens te uploaden en voor te bereiden, in vergelijking met de traditionele ETL die in een datawarehouse wordt gebruikt. Hiervoor wordt nu binnen DUO de Informaticatooling toegepast.&#xA;&#xA;&#xA;&#xA;"/>

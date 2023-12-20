@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toezien"
+    id="id-cb12c1217b8c4d2dbe42b1321f8c1ab4"
+    documentation="Toezien borgt de rechtmatige verwerking van gegevens door de daadwerkelijke verstrekte gegevens (logging) te vergelijken met de rechtmatige (geregistreerde) verwerking.&#xD;&#xA;Bron Aspectarchitectuur compliance"/>

@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[BP07] DUO is transparant"
+    id="id-c35a196ead9b4d77b088e2e524b8719a"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="DUO geeft stakeholders vooraf, tijdens en achteraf inzage in voor hen relevante informatie. DUO informeert hen (ook vooraf) over het procesverloop, de regels, de gebruikte gegevens en het (mogelijk) resultaat van de gevraagde dienst."/>
+  <properties
+      key="rationale"
+      value="Stakeholders willen graag inzicht hebben in de dienstverlening, het verloop en de uitkomst van het proces.&#xD;&#xA;"/>
+</archimate:Principle>

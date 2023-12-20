@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[IP] Tool ondersteunt database connectiviteit"
+    id="id-8825004efa73484daebd6706fc648334"
+    documentation="De tool ondersteunt data(base) connectiviteit van de beschikbaar gestelde databronnen."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Informatiebeveiliging"
+    id="id-e4d2de1f8d1543ddb0abb3091f0ade92"
+    documentation="Het borgen van de continuïteit van de informatie en de informatievoorziening en het beperken van de eventuele gevolgen van beveiligingsincidenten tot een acceptabel, vooraf bepaald niveau.&#xA;&#xA;Het geheel aan maatregelen om de betrouwbaarheid van de informatievoorziening te waarborgen.&#xD;&#xA;&#xD;&#xA;Privacy Enhanchement Technieke (PET), waaronder : anonimiseren, pseudonimiseren, etc. Splunk wordt gebruikt voor auditlogging / monitoring.&#xA;&#xA;"/>

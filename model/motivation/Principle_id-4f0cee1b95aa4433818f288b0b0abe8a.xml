@@ -1,0 +1,12 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[BP03] DUO Standaardiseert"
+    id="id-4f0cee1b95aa4433818f288b0b0abe8a"
+    documentation="Zie properties.">
+  <properties
+      key="omschrijving"
+      value="DUO standaardiseert processen, gegevens en ondersteunende applicaties en IT technologie, gebruikt daarbij open standaarden en sluit aan op referentiearchitecturen van de overheid."/>
+  <properties
+      key="rationale"
+      value="Bij het standaardiseren wordt uitdrukkelijk gekeken naar herbruikbaarheid van ontwerppatronen, procesmodellen, Rijksbrede bouwstenen, sectorale bouwstenen en (standaard-)software.&#xD;&#xA;&#xD;&#xA;Het principe heeft meerdere doelen:&#xD;&#xA;&#xD;&#xA;-          Het leidt tot uniformiteit in dienstverlening en ondersteunende processen;&#xD;&#xA;-          Het draagt bij aan de samenwerking (interoperabiliteit) binnen DUO en binnen en buiten de overheid;&#xD;&#xA;-          Bijdragen aan een kortere time-to-market ;&#xD;&#xA;-          Reductie van ontwikkelkosten en beheerskosten (ook overheidsbreed);&#xD;&#xA;-          Een doelmatige inzet van middelen (door onder meer hergebruik).&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;"/>
+</archimate:Principle>

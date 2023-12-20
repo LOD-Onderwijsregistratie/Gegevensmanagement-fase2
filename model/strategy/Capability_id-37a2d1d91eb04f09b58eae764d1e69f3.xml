@@ -1,0 +1,18 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Intelligence &amp; Analytics"
+    id="id-37a2d1d91eb04f09b58eae764d1e69f3"
+    documentation="Zie properties.">
+  <properties
+      key="definitie"
+      value="DUO heeft het vermogen om het ontwerpen, ontwikkelen en beheren van de intelligence(OI en BI) en analyseprocessen (bv. incl. data science technieken) om zo benodigde informatie op te leveren ter ondersteuning aan besluitvorming. De gegevensverwerkingen die nodig is om uiteindelijk tot de gewenste informatie te komen is onderdeel van de gegevensmanagement functie. &#xD;&#xA;&#xD;&#xA;Het vervolgens ontwerpen, ontwikkelen en beheren van de informatie(bv. rapporten, dashboards) is feitelijk onderdeel van informatiemanagement waaraan gegevensmanagement ondersteunend is.  &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Dit betreft kennisgebied DAMA DMBok2: Dataware-housing &amp; Business Intelligence&#xD;&#xA;&#xD;&#xA;Bron: DAMA DMBOK2"/>
+  <properties
+      key="volwassenheidsniveau"
+      value="02 Repeatable "/>
+  <properties
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
+  <properties
+      key="domein"
+      value="Algemeen"/>
+</archimate:Capability>

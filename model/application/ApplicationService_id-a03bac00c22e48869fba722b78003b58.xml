@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ABB] Rapportage"
+    id="id-a03bac00c22e48869fba722b78003b58"
+    documentation="Applicatie service dat het maken van rapportages met business intelligence- en operational intelligence-achtige technieken."/>

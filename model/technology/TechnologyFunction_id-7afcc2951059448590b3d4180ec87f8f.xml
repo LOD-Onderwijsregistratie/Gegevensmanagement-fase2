@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="R-Shiny"
+    id="id-7afcc2951059448590b3d4180ec87f8f"
+    documentation="Shiny is an R package that makes it easy to build interactive web apps straight from R.&#xD;&#xA;&#xD;&#xA;https://shiny.rstudio.com/"/>
