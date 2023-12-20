@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Horizontale metadata lineage"
+    id="id-b77a143377e1448d9adb228046fde53c"
+    documentation="Horizontale metadata lineage is een term die wordt gebruikt in de context van data lineage management. Het verwijst naar de traceerbaarheid van de datastromen van de ene horizontale laag naar de andere in een IT-systeem.&#xD;&#xA;&#xD;&#xA;In een typische IT-infrastructuur zijn de gegevensstromen horizontaal verdeeld over verschillende lagen van het systeem, bijvoorbeeld van de applicatielaag naar de database-laag. Horizontale metadata lineage geeft inzicht in de beweging van gegevens van de ene laag naar de andere, waardoor de transformaties en eventuele afwijkingen in de datakwaliteit kunnen worden gevolgd en geanalyseerd.&#xD;&#xA;&#xD;&#xA;Door horizontale metadata lineage te gebruiken, kunnen organisaties de kwaliteit van hun gegevens verbeteren, risico's verminderen en nalevingsvereisten ondersteunen. Het helpt bijvoorbeeld bij het detecteren van fouten in de gegevensverwerking en het lokaliseren van de bron van de fout."/>

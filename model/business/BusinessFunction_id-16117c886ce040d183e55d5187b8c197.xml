@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verticale metadata lineage"
+    id="id-16117c886ce040d183e55d5187b8c197"
+    documentation="Verticale metadata lineage verwijst naar de traceerbaarheid van een enkele gegevensbron vanaf de oorsprong tot het eindgebruik. Het omvat de documentatie van de volledige levenscyclus van een gegevensobject, inclusief de oorsprong, de transformaties en bewerkingen die erop zijn toegepast, en de verschillende contexten waarin het is gebruikt. Verticale metadata lineage is essentieel voor effectief datamanagement en het waarborgen van de kwaliteit en betrouwbaarheid van gegevens, en het kan helpen bij het oplossen van problemen en het optimaliseren van prestaties in data-analyse en rapportage."/>

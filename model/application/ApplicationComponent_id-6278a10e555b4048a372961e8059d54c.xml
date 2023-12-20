@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Git tool"
+    id="id-6278a10e555b4048a372961e8059d54c"
+    documentation="Een tool die Git ondersteunt. Git is een defacto standaard protocol voor versiebeheer ontwikkeld door Linus Thorvalds en wereldwijd gebruikt voor systeemontwikkelaars en anderen. "/>

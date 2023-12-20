@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Secure Analysis Environment (SANE)"
+    id="id-cc3fb9c7188f422593a7a5e1d234325f"
+    documentation="Een secure analysis environment (SANE) is een omgeving waarin gevoelige gegevens kunnen worden geanalyseerd zonder dat er een risico is op lekken of misbruik van de gegevens. Dit kan worden bereikt door middel van fysieke, technologische en organisatorische maatregelen om de gegevens te beschermen.&#xD;&#xA;&#xD;&#xA;Een SANE kan bijvoorbeeld bestaan uit een gecontroleerde en beveiligde werkruimte waarin alleen geautoriseerde personen toegang hebben. Deze werkruimte kan zijn uitgerust met technologieën zoals firewalls, encryptie en gegevensbescherming software om te voorkomen dat gegevens worden gestolen of verloren.&#xD;&#xA;&#xD;&#xA;Ook kan een SANE worden gebruikt om te zorgen voor een goede afscherming van de gegevens van de onderzoekers of analyserende partijen zelf. Hierdoor kunnen de gegevens niet worden aangetast of vervormd en kan de integriteit van de gegevens worden gewaarborgd.&#xA;&#xA;&#xA;"/>

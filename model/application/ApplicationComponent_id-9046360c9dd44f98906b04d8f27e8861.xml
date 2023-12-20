@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afnemer platformen"
+    id="id-9046360c9dd44f98906b04d8f27e8861"
+    documentation="Afnemer platformen zijn technologieplatformen die zijn ontworpen om gegevens en diensten te consumeren die worden aangeboden door brongegevensplatformen en distributieplatformen. Ze bieden vaak hulpmiddelen voor gegevensanalyse en -visualisatie, evenals functionaliteit voor gegevensbeheer en -integratie. Voorbeelden van afnemer platformen zijn business intelligence tools, data-analyseplatformen en applicaties die gegevens gebruiken om beslissingen te ondersteunen.&#xD;&#xA;&#xD;&#xA;O.a. in de vorm van data catalogus, maar ook VRE's / dashboards / etc."/>

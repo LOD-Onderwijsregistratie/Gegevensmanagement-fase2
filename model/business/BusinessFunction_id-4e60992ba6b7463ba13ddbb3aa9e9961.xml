@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Toegang krijgen tot gegevens"
+    id="id-4e60992ba6b7463ba13ddbb3aa9e9961"
+    documentation="Toegang krijgen tot gegevens verwijst naar het proces van het verkrijgen van autorisatie om gegevens te bekijken, bewerken, delen of op andere manieren te gebruiken. Dit proces omvat vaak het verifiëren van de identiteit van de gebruiker en het bepalen van de mate van toegang die hij of zij heeft tot de gegevens, afhankelijk van zijn of haar rol, verantwoordelijkheden en bevoegdheden.&#xD;&#xA;&#xD;&#xA;Toegangsbeheer is een belangrijk onderdeel van gegevensbeveiliging en datamanagement. Het is belangrijk om de toegang tot gevoelige gegevens te beperken tot alleen degenen die daartoe bevoegd zijn, om ongeoorloofde toegang of inbreuk op de gegevens te voorkomen.&#xD;&#xA;&#xD;&#xA;Er zijn verschillende methoden en technologieën beschikbaar om toegang tot gegevens te beheren, waaronder gebruikersaccounts en wachtwoorden, tweefactorauthenticatie, role-based access control (RBAC) en attribuutgebaseerde toegangscontrole (ABAC)."/>

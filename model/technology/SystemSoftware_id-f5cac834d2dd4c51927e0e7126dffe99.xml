@@ -1,0 +1,9 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Triple Store"
+    id="id-f5cac834d2dd4c51927e0e7126dffe99"
+    documentation="Een triplestore is een database-technologie die is ontworpen voor het opslaan, beheren en doorzoeken van semantische gegevens in de vorm van RDF-triples. Een RDF-triple bestaat uit drie elementen: een subject, een predicaat en een object. Triplestores worden vaak gebruikt in combinatie met semantische webtechnologieën zoals RDF, OWL en SPARQL, en kunnen worden gebruikt voor het beheren van metadata, het bouwen van kennisgrafieken en het ondersteunen van geavanceerde zoekopdrachten en analyses.">
+  <properties
+      key="BegripURI"
+      value="https://www.begrippenxl.nl/gabi/nl/page/Triplestore"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gegevens magazijn (GGM)"
+    id="id-ac4aaeec1ef24682a6a408f6e24248ff"
+    documentation="Gegeven magazijn levert API's voor toegang tot gegevens uit het primaire domein."/>

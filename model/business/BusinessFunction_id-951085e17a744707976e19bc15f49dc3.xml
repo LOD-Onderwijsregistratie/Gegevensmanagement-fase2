@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Inventariseren gegevens"
+    id="id-951085e17a744707976e19bc15f49dc3"
+    documentation="Het inventariseren van gegevens betekent het identificeren en documenteren van welke gegevens er in een organisatie beschikbaar zijn, waar ze vandaan komen, wie er toegang toe heeft en hoe ze worden gebruikt. Dit is een belangrijke stap in het data management proces, omdat het de basis legt voor verdere activiteiten zoals data cleaning, data governance en data analytics. Het inventariseren van gegevens kan zowel handmatig als geautomatiseerd worden uitgevoerd."/>

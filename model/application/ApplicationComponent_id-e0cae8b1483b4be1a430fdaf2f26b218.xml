@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata collector"
+    id="id-e0cae8b1483b4be1a430fdaf2f26b218"
+    documentation="Een metadata collector is een tool of applicatie die automatisch metadata verzamelt van verschillende bronnen, zoals databases, bestanden en websites. Dit proces wordt metadata harvesting genoemd. Door metadata te oogsten en te indexeren, kunnen gebruikers gemakkelijk zoeken en toegang krijgen tot de informatie die ze nodig hebben. "/>
