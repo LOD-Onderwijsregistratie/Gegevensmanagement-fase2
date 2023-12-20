@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Afnemer"
+    id="id-7c452541a0c84b78bd0eb0c77ee509cc"
+    documentation="Dit kan een individu, afdeling of organisatie zijn die de rol van afnemer heeft.&#xD;&#xA;NOOT GGR:  Dit is geen actor maar een rol"/>

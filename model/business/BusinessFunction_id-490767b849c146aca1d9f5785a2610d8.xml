@@ -1,0 +1,5 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Borgen Gegevens kwaliteit"
+    id="id-490767b849c146aca1d9f5785a2610d8"
+    documentation="Gegevenskwaliteit borgen is monitoren van gegevens in modellen en implementatie langs een aantal dimensies om de kwaliteit, fit-for-purpose, te kennen en zo mogelijk te verbeteren"/>
