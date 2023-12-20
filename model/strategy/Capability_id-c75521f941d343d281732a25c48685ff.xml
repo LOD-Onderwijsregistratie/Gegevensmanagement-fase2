@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Data Modelling &amp; Design"
     id="id-c75521f941d343d281732a25c48685ff"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="definitie"
       value="DUO heeft het vermogen het proces uit te voeren waarbij datavereisten ontdekt, geanalyseerd en in kaart gebracht wordt en vervolgens te representeren en communiceren in een precieze vorm die het gegevensmodel wordt genoemd. Datamodellering en ontwerp betreft het analyseren, ontwerpen, bouwen, testen en onderhouden van (conceptuele, logische en fysieke) gegevensmodellen.&#xD;&#xA;&#xD;&#xA;Bron: DAMA DMBOK2:"/>

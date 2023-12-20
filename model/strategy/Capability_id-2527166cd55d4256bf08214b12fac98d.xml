@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Business Intelligence"
     id="id-2527166cd55d4256bf08214b12fac98d"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="volwassenheidsniveau"
       value="01 Initial"/>

@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoering gegevenslevenscyclus"
     id="id-7d540dd1de9f4bf8bc08572510ef5813"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="volwassenheidsniveau"
       value="01 Initial"/>

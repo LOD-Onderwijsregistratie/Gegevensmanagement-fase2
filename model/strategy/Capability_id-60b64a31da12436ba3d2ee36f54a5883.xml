@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operational Intelligence"
     id="id-60b64a31da12436ba3d2ee36f54a5883"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="definitie"
       value="Het vermogen om op real-time basis gegevens en informatie te verzamelen, analyseren en daarop actie te ondernemen zodat anomalien tijdens de operatie van diensten, hardware en software componenten direct gedetecteerd worden waardoor de kwaliteit van DUO geleverde diensten op het gewenste niveau blijft.&#xD;&#xA;&#xD;&#xA;Voorstel HG &amp; HB &amp; AR: Definitie&#xD;&#xA;&#xD;&#xA;Operational Intelligence (OBI) verwijst naar de processen en tools die worden gebruikt voor het analyseren van specifieke events of individuele business processen\functies om verbeteringen of mogelijkheden te identificeren vanuit een operationeel oogpunt. &#xD;&#xA;&#xA;"/>

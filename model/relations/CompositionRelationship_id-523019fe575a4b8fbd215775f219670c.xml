@@ -5,8 +5,8 @@
     documentation="&#xA;">
   <source
       xsi:type="archimate:Capability"
-      href="Capability_id-5c15b3d3433046d8b110367e9c9a0166.xml#id-5c15b3d3433046d8b110367e9c9a0166"/>
+      href="Capability_id-34d77e54deff4e6d9c8ff140dda1fb15.xml#id-34d77e54deff4e6d9c8ff140dda1fb15"/>
   <target
       xsi:type="archimate:Capability"
-      href="Capability_id-351ed2e5bf614a31a0a05676e79ef622.xml#id-351ed2e5bf614a31a0a05676e79ef622"/>
+      href="Capability_id-920383a8d3d445ad9b875f66f26f6424.xml#id-920383a8d3d445ad9b875f66f26f6424"/>
 </archimate:CompositionRelationship>

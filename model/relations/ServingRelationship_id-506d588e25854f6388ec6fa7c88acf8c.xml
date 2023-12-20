@@ -4,8 +4,8 @@
     id="id-506d588e25854f6388ec6fa7c88acf8c">
   <source
       xsi:type="archimate:Capability"
-      href="Capability_id-2311025e35b44c689aeec90ed349d7dc.xml#id-2311025e35b44c689aeec90ed349d7dc"/>
+      href="Capability_id-796e42033880461682813293f2b81990.xml#id-796e42033880461682813293f2b81990"/>
   <target
       xsi:type="archimate:ValueStream"
-      href="ValueStream_id-3cb4a293b33d48a1a0c0b60edc25b568.xml#id-3cb4a293b33d48a1a0c0b60edc25b568"/>
+      href="ValueStream_id-09d495022ca547d1ba489de265a1936a.xml#id-09d495022ca547d1ba489de265a1936a"/>
 </archimate:ServingRelationship>

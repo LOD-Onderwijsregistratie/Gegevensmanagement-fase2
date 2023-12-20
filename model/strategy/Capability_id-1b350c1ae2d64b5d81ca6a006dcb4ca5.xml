@@ -2,17 +2,17 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Uitvoeren onderzoek"
     id="id-1b350c1ae2d64b5d81ca6a006dcb4ca5"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;&#xA;">
   <properties
-      key="definitie"
-      value="De DUO heeft het vermogen om op een zorgvuldige, verifieerbare en systematische manier een bepaalde kwestie te bestuderen ter beantwoording van onderzoeksvragen.&#xD;&#xA;"/>
-  <properties
-      key="omschrijving"
-      value="Bron: "/>
+      key="datum_volwassenheid"
+      value="2023-01-01"/>
   <properties
       key="volwassenheidsniveau"
       value="01 Initial"/>
   <properties
-      key="datum_volwassenheid"
-      value="2023-01-01"/>
+      key="omschrijving"
+      value="Bron: "/>
+  <properties
+      key="definitie"
+      value="De DUO heeft het vermogen om op een zorgvuldige, verifieerbare en systematische manier een bepaalde kwestie te bestuderen ter beantwoording van onderzoeksvragen.&#xD;&#xA;"/>
 </archimate:Capability>

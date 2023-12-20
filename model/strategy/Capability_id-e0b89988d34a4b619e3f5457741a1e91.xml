@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Machinelearning"
     id="id-e0b89988d34a4b619e3f5457741a1e91"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="volwassenheidsniveau"
       value="01 Initial"/>

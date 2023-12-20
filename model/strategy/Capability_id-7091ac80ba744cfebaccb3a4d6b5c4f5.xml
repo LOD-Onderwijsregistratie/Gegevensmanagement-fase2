@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Informatie management"
+    name="Informatie Management"
     id="id-7091ac80ba744cfebaccb3a4d6b5c4f5"
-    documentation="Zie properties.">
+    documentation="Zie properties.&#xA;">
   <properties
       key="volwassenheidsniveau"
       value="01 Initial"/>

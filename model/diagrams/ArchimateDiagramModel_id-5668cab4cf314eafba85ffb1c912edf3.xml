@@ -81,7 +81,7 @@
           height="84"/>
       <archimateElement
           xsi:type="archimate:Capability"
-          href="Capability_id-40068036c26843648c3d0942847aa4fd.xml#id-40068036c26843648c3d0942847aa4fd"/>
+          href="Capability_id-7d540dd1de9f4bf8bc08572510ef5813.xml#id-7d540dd1de9f4bf8bc08572510ef5813"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -112,11 +112,11 @@
           height="84"/>
       <archimateElement
           xsi:type="archimate:Capability"
-          href="Capability_id-16af72306dc74f60a14eeb9dd040e0d0.xml#id-16af72306dc74f60a14eeb9dd040e0d0"/>
+          href="Capability_id-f92ad5b976034563a6b970fb35007981.xml#id-f92ad5b976034563a6b970fb35007981"/>
     </children>
     <archimateElement
         xsi:type="archimate:Capability"
-        href="Capability_id-2311025e35b44c689aeec90ed349d7dc.xml#id-2311025e35b44c689aeec90ed349d7dc"/>
+        href="Capability_id-796e42033880461682813293f2b81990.xml#id-796e42033880461682813293f2b81990"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -641,7 +641,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-335c624f6c0e4834a1e36771fdb3bc3c.xml#id-335c624f6c0e4834a1e36771fdb3bc3c"/>
+            href="ValueStream_id-81744fee6ccc4ff48fe9d56a71b2eda6.xml#id-81744fee6ccc4ff48fe9d56a71b2eda6"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -654,7 +654,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-ff0d4f972d0b4628b51fd6db8cc7fab7.xml#id-ff0d4f972d0b4628b51fd6db8cc7fab7"/>
+            href="ValueStream_id-c238d8426f414ead8394527ada2c8cbc.xml#id-c238d8426f414ead8394527ada2c8cbc"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -667,7 +667,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-1b8e3f90a38a432ba13d95ddac4fb547.xml#id-1b8e3f90a38a432ba13d95ddac4fb547"/>
+            href="ValueStream_id-f05f9f1f7f504e2285ea640563fc4893.xml#id-f05f9f1f7f504e2285ea640563fc4893"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -680,7 +680,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-7e922d8dd8324ddaaa7b00e4687a7367.xml#id-7e922d8dd8324ddaaa7b00e4687a7367"/>
+            href="ValueStream_id-fa125bdf5c464c7d9fe0bd12915d3bc3.xml#id-fa125bdf5c464c7d9fe0bd12915d3bc3"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -693,7 +693,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-e9fccff8f93048aa83bf172982b9e791.xml#id-e9fccff8f93048aa83bf172982b9e791"/>
+            href="ValueStream_id-d9095a8ae4e444aebd56c0e20012dbb9.xml#id-d9095a8ae4e444aebd56c0e20012dbb9"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -706,7 +706,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-4356528305044df39b5d450f7af19f2c.xml#id-4356528305044df39b5d450f7af19f2c"/>
+            href="ValueStream_id-70c1d51a77a2415396bc8c70694ce1fd.xml#id-70c1d51a77a2415396bc8c70694ce1fd"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -719,7 +719,7 @@
             height="55"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-317532e3b1604a8ab4be35f56d5500be.xml#id-317532e3b1604a8ab4be35f56d5500be"/>
+            href="ValueStream_id-96f5e79b3110436e89ebb74bca0576e7.xml#id-96f5e79b3110436e89ebb74bca0576e7"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -741,7 +741,7 @@
             height="54"/>
         <archimateElement
             xsi:type="archimate:ValueStream"
-            href="ValueStream_id-3cb4a293b33d48a1a0c0b60edc25b568.xml#id-3cb4a293b33d48a1a0c0b60edc25b568"/>
+            href="ValueStream_id-09d495022ca547d1ba489de265a1936a.xml#id-09d495022ca547d1ba489de265a1936a"/>
       </children>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -1957,7 +1957,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
-          href="Capability_id-78baee43cc624a48aa40e7aaeff07caf.xml#id-78baee43cc624a48aa40e7aaeff07caf"/>
+          href="Capability_id-8998eab8b3ff46f59c27c0765e62255c.xml#id-8998eab8b3ff46f59c27c0765e62255c"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -2009,7 +2009,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:Capability"
-          href="Capability_id-8cc984e9b7ae46baa43f6dc77c75dc68.xml#id-8cc984e9b7ae46baa43f6dc77c75dc68"/>
+          href="Capability_id-b3c71cd6032246df959a3d170b0b547c.xml#id-b3c71cd6032246df959a3d170b0b547c"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
