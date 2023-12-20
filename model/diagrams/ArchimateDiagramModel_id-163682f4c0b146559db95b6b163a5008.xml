@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Garbage GABI"
-    id="id-163682f4c0b146559db95b6b163a5008"/>
+    id="id-163682f4c0b146559db95b6b163a5008">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6ddcc065ad394485a24b142632e80cee">
+    <bounds
+        x="100"
+        y="100"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationInterface"
+        href="ApplicationInterface_id-7bd43a371b324679a135832177e205d5.xml#id-7bd43a371b324679a135832177e205d5"/>
+  </children>
+</archimate:ArchimateDiagramModel>
