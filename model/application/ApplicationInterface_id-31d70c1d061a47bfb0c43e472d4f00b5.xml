@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Api-gateway"
+    id="id-31d70c1d061a47bfb0c43e472d4f00b5"
+    documentation="Een Api-gateway is een API-beheertool die zich tussen een client en een verzameling backend-services bevindt. Een Api-gateway &#xD;&#xA;fungeert als een omgekeerde proxy om alle API-aanroepen (Application Programming Interface) te accepteren, de verschillende services die nodig &#xD;&#xA;zijn om eraan te voldoen, samen te voegen en het juiste resultaat te retourneren.&#xD;&#xA;&#xD;&#xA;https://www.gemmaonline.nl/index.php/GGI/id-47641015-19d7-4b54-ae71-7e14482e955a&#xD;&#xA;&#xD;&#xA;Voor de (toegangs)beveiliging van de API’s. Een API-gateway is vaak onderdeel van een product voor ‘full life cycle API Management’.&#xD;&#xA;Een API-gateway bevat ondersteuning voor het design, publiceren, documenteren, beveiligen en analyseren van API’s. &#xD;&#xA;Een API-gateway is een must have voor iedere organisatie die gevoelige API’s aan afnemers aanbiedt."/>

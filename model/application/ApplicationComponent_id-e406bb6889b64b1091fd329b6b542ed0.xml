@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Enterprise Dataware House"
+    id="id-e406bb6889b64b1091fd329b6b542ed0"
+    documentation="Een enterprise data warehouse (EDW) is een centrale opslagplaats voor gegevens die afkomstig zijn van verschillende operationele systemen in een organisatie. Het is een geoptimaliseerde en gestructureerde database die ontworpen is om grote hoeveelheden gegevens op te slaan en te beheren, en om gegevensanalyses en -rapportages te ondersteunen. Het EDW gebruikt doorgaans een speciale ETL (Extract, Transform, Load) -proces om gegevens uit verschillende bronnen te verzamelen, te transformeren en te laden in het data warehouse. Het EDW kan worden gebruikt om de besluitvorming te ondersteunen, trends en patronen te analyseren en bedrijfsprestaties te meten.">
+  <properties
+      key="BegripURI"
+      value="https://www.begrippenxl.nl/gabi/nl/page/EDH"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metadata Profilering"
+    id="id-aabe8131a1734acca127476ce769ff3e"
+    documentation="Een metadata profilering applicatie component is een software component die wordt gebruikt voor het analyseren en identificeren van metadata patronen en eigenschappen in grote datasets om inzicht te krijgen in de kenmerken van de metadata. Het doel van de metadata profilering is om de kwaliteit van de metadata te verbeteren door het identificeren van afwijkingen, het detecteren van trends en het opsporen van inconsistenties in de metadata. Deze applicatie componenten worden vaak gebruikt in datamanagement processen en kunnen ook deel uitmaken van een bredere data-analyse en datakwaliteit infrastructuur."/>
