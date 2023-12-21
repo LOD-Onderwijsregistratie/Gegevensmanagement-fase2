@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Logstash"
-    id="id-f9348d4e68f1443897876b682d14b2c9"
-    documentation="Ontvangen, filteren, indexeren en doorsturen logdata&#xA;&#xA;Logstash is a tool for managing events and logs. You can use it to collect logs, parse them, and store them for later use (like, for searching). If you store them in Elasticsearch, you can view and analyze them with Kibana."/>

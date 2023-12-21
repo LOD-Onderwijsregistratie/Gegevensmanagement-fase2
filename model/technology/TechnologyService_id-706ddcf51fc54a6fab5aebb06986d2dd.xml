@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[ABB] Federated database system"
     id="id-706ddcf51fc54a6fab5aebb06986d2dd"
-    documentation="Het bieden van een integrale view op meerdere databases of directories. (Datavirtualisatie, single pane of glass)&#xA;&#xA;Niet in gebruik bij DUO.&#xA;&#xA;Het gegevensmagazijn is een maatwerkapplicatie (applicatielaag)."/>
+    documentation="Het bieden van een integrale view op meerdere databases of directories. (Datavirtualisatie, single pane of glass)&#xA;&#xA;Niet in gebruik bij DUO.&#xA;Noot GGR: wel in gebruik. linked data is een federated database system&#xD;&#xA;&#xA;Het gegevensmagazijn is een maatwerkapplicatie (applicatielaag).&#xD;&#xA;&#xD;&#xA;"/>

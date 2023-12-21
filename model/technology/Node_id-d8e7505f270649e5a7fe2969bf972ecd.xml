@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="OLTP DB Server"
-    id="id-d8e7505f270649e5a7fe2969bf972ecd"/>
+    id="id-d8e7505f270649e5a7fe2969bf972ecd"
+    documentation="&#xA;"/>

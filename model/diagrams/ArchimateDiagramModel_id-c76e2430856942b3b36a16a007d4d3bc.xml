@@ -603,7 +603,7 @@
           height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
-          href="Node_id-da26a92c390641e380eacdb25f071ee4.xml#id-da26a92c390641e380eacdb25f071ee4"/>
+          href="Node_id-3df9f11353254f5a9db3aceea3ba200d.xml#id-3df9f11353254f5a9db3aceea3ba200d"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -619,7 +619,7 @@
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-70d6ec2b3f6944c69d3729f764206e0d.xml#id-70d6ec2b3f6944c69d3729f764206e0d"/>
+        href="TechnologyService_id-0cd265ba3bbd4001a853a8d68afe22cc.xml#id-0cd265ba3bbd4001a853a8d68afe22cc"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

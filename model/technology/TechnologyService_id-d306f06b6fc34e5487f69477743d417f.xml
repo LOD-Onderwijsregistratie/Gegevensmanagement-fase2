@@ -1,5 +1,0 @@
-<archimate:TechnologyService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[ABB] Data scraping"
-    id="id-d306f06b6fc34e5487f69477743d417f"
-    documentation="Het extraheren van gegevens uit een vorm die eigenlijk bedoeld was voor menselijke interpretatie (screen scraping, web scraping, clipping).&#xA;&#xA;Dit is een service van de applicatie laag, stack bestaat uit:&#xA;- Linked Data Theatre (applicatief obv bootstrap)&#xA;- Orbeon Open Source (is een applicatieve formbuilder)&#xA;- Tomcat Open Source (Application Server)"/>

@@ -343,11 +343,11 @@
           height="49"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-cee176a580ed4b0d901632bce16192f1.xml#id-cee176a580ed4b0d901632bce16192f1"/>
+          href="SystemSoftware_id-7edabebae84d4ee8b766febc73ffda6c.xml#id-7edabebae84d4ee8b766febc73ffda6c"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyService"
-        href="TechnologyService_id-b25c6cf5b794468cb508f2864fe44e82.xml#id-b25c6cf5b794468cb508f2864fe44e82"/>
+        href="TechnologyService_id-557836c88743475b967c924dbb39504d.xml#id-557836c88743475b967c924dbb39504d"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -4,8 +4,8 @@
     id="id-cf954941c0934db8949fb7701edaeddb">
   <source
       xsi:type="archimate:Node"
-      href="Node_id-ef6d91e425334ea88cb92f1591726a8e.xml#id-ef6d91e425334ea88cb92f1591726a8e"/>
+      href="Node_id-02e8fc3d276648d897627eb422236319.xml#id-02e8fc3d276648d897627eb422236319"/>
   <target
       xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_id-d08c5d9993b447a5aed9d10293e9a809.xml#id-d08c5d9993b447a5aed9d10293e9a809"/>
+      href="SystemSoftware_id-5e2eb70b94834486bcd1257e5757b7aa.xml#id-5e2eb70b94834486bcd1257e5757b7aa"/>
 </archimate:CompositionRelationship>

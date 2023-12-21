@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[SBB] Splunk 6.3.x"
-    id="id-5154ae2964894b65808ded002b12bc92"
-    documentation="Splunk: vergaarbak met loggegevens, de mdwrk security dient zelf correlaties te leggen&#xA;&#xA;Dit is de opvolger van Snare. Bezig met overhevelen van alle auditlogs naar Splunk.&#xA;&#xA;Splunk is an American multinational corporation based in San Francisco, California, which produces software for searching, monitoring, and analyzing machine-generated big data, via a web-style interface. Splunk (the product) captures, indexes and correlates real-time data in a searchable repository from which it can generate graphs, reports, alerts, dashboards and visualizations."/>
