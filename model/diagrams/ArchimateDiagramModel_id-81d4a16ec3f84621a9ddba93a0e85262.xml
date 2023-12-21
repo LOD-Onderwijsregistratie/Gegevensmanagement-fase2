@@ -16,7 +16,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5e19c096b3cb49e9b0011efb9b64f256"
-        targetConnections="id-efd902b4b14e489fbb3bae0ff4a97513 id-e3ee331d62a74eada215ad5652ae7402 id-27df0bbba98d4030915c16e90d6dfe39 id-dce22f2c4d7a42e29392c188fb392e4d">
+        targetConnections="id-27df0bbba98d4030915c16e90d6dfe39">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e3fa2288ae2644e680dae6f593c291ab"
@@ -34,15 +34,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-6cd8c3c4be9b4a8b99f90b3de1a8555a">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-efd902b4b14e489fbb3bae0ff4a97513"
-            source="id-6cd8c3c4be9b4a8b99f90b3de1a8555a"
-            target="id-5e19c096b3cb49e9b0011efb9b64f256">
-          <archimateRelationship
-              xsi:type="archimate:SpecializationRelationship"
-              href="SpecializationRelationship_id-5bd98fe2aaeb47e0b017b0dd5bc45b06.xml#id-5bd98fe2aaeb47e0b017b0dd5bc45b06"/>
-        </sourceConnections>
         <bounds
             x="180"
             y="120"
@@ -55,15 +46,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-543fb7b9172d429692b41d8019ceb30a">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-e3ee331d62a74eada215ad5652ae7402"
-            source="id-543fb7b9172d429692b41d8019ceb30a"
-            target="id-5e19c096b3cb49e9b0011efb9b64f256">
-          <archimateRelationship
-              xsi:type="archimate:SpecializationRelationship"
-              href="SpecializationRelationship_id-1766cad0430b445da654a54a8ad9cf14.xml#id-1766cad0430b445da654a54a8ad9cf14"/>
-        </sourceConnections>
         <bounds
             x="12"
             y="120"
@@ -97,15 +79,6 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-58b2bf4108de464ebf65deaaa2d2ca3f">
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="id-dce22f2c4d7a42e29392c188fb392e4d"
-            source="id-58b2bf4108de464ebf65deaaa2d2ca3f"
-            target="id-5e19c096b3cb49e9b0011efb9b64f256">
-          <archimateRelationship
-              xsi:type="archimate:SpecializationRelationship"
-              href="SpecializationRelationship_id-2c263c23299c4639abb13f9777176ce8.xml#id-2c263c23299c4639abb13f9777176ce8"/>
-        </sourceConnections>
         <bounds
             x="180"
             y="36"

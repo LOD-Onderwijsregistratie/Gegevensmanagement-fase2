@@ -2,7 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-5f952641c9ec4877bc5c6c691c3662be"
-    documentation="&#xA;">
+    documentation="&#xA;&#xA;&#xA;">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-60ad139c09ca4fc6821cdf2b3362a88c.xml#id-60ad139c09ca4fc6821cdf2b3362a88c"/>

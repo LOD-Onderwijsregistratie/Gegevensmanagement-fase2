@@ -284,7 +284,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a4e383c99f96428188832db05f16ad5d"
-      targetConnections="id-190737e51c09486d98c82e604dadc612 id-37d6ce77048b4c2cab1b972e62012cd6 id-d87148a9790147888134d3f6093d0241">
+      targetConnections="id-37d6ce77048b4c2cab1b972e62012cd6">
     <bounds
         x="1200"
         y="325"
@@ -365,15 +365,6 @@
       id="id-948de7c318fd4b4ba2683bc0a5934c7d"
       targetConnections="id-b002fb53aa174af7b6ce43fd387b99b1"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d87148a9790147888134d3f6093d0241"
-        source="id-948de7c318fd4b4ba2683bc0a5934c7d"
-        target="id-a4e383c99f96428188832db05f16ad5d">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-3691e2165bb94ff99d1e7cc913677e4f.xml#id-3691e2165bb94ff99d1e7cc913677e4f"/>
-    </sourceConnections>
     <bounds
         x="1032"
         y="326"
@@ -395,7 +386,7 @@
         target="id-a4e383c99f96428188832db05f16ad5d">
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-fc08ea5161bd44f1b9e17acbde895557.xml#id-fc08ea5161bd44f1b9e17acbde895557"/>
+          href="FlowRelationship_id-d121d780dce34e2081496f7026ca4f47.xml#id-d121d780dce34e2081496f7026ca4f47"/>
     </sourceConnections>
     <bounds
         x="1032"
@@ -411,15 +402,6 @@
       id="id-06194ea0cac34fe08fb9ef0d1bfdc24e"
       targetConnections="id-8bb3f9ccf91e4b37a8e038ddf6a5e61f"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-190737e51c09486d98c82e604dadc612"
-        source="id-06194ea0cac34fe08fb9ef0d1bfdc24e"
-        target="id-a4e383c99f96428188832db05f16ad5d">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-61a35ffab5934e32b9b4ef0d512923cc.xml#id-61a35ffab5934e32b9b4ef0d512923cc"/>
-    </sourceConnections>
     <bounds
         x="1032"
         y="480"

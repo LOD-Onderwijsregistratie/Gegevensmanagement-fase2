@@ -1,7 +1,8 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-b0f815160fd1400e9b2963e7c74bec7d">
+    id="id-b0f815160fd1400e9b2963e7c74bec7d"
+    documentation="&#xA;">
   <source
       xsi:type="archimate:Node"
       href="Node_id-15ea62b06451472b9d2f93578b049c0f.xml#id-15ea62b06451472b9d2f93578b049c0f"/>
